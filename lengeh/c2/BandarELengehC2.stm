@@ -1,0 +1,1931 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [21]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 34,
+                    ["static"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["heading"] = 2.4783675378319,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -133109.63893481,
+                                            ["speed"] = 0,
+                                            ["x"] = 45707.122461237,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 372,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 483,
+                                        ["rate"] = 50,
+                                        ["y"] = -133109.63893481,
+                                        ["x"] = 45707.122461237,
+                                        ["name"] = "DictKey_GroupName_652",
+                                        ["heading"] = 2.4783675378319,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -133109.63893481,
+                                ["x"] = 45707.122461237,
+                                ["name"] = "DictKey_GroupName_652",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["heading"] = 5.6025068989018,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -133068.27642621,
+                                            ["speed"] = 0,
+                                            ["x"] = 45736.355491735,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 373,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "GRC_autumn",
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "GSM Rus",
+                                        ["type"] = "FARP Fuel Depot",
+                                        ["unitId"] = 484,
+                                        ["rate"] = 20,
+                                        ["y"] = -133068.27642621,
+                                        ["x"] = 45736.355491735,
+                                        ["name"] = "DictKey_GroupName_655",
+                                        ["heading"] = 5.6025068989018,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -133068.27642621,
+                                ["x"] = 45736.355491735,
+                                ["name"] = "DictKey_GroupName_655",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [2]
+                            [3] = 
+                            {
+                                ["heading"] = 5.6374134839417,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -133139.13868243,
+                                            ["speed"] = 0,
+                                            ["x"] = 45754.18994545,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 374,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["type"] = "outpost",
+                                        ["unitId"] = 485,
+                                        ["rate"] = 5,
+                                        ["y"] = -133139.13868243,
+                                        ["x"] = 45754.18994545,
+                                        ["name"] = "DictKey_GroupName_658",
+                                        ["heading"] = 5.6374134839417,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -133139.13868243,
+                                ["x"] = 45754.18994545,
+                                ["name"] = "DictKey_GroupName_658",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [3]
+                            [4] = 
+                            {
+                                ["heading"] = 2.4783675378319,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -133094.96483627,
+                                            ["speed"] = 0,
+                                            ["x"] = 45718.269132243,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 375,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 486,
+                                        ["rate"] = 50,
+                                        ["y"] = -133094.96483627,
+                                        ["x"] = 45718.269132243,
+                                        ["name"] = "DictKey_GroupName_661",
+                                        ["heading"] = 2.4783675378319,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -133094.96483627,
+                                ["x"] = 45718.269132243,
+                                ["name"] = "DictKey_GroupName_661",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [4]
+                            [5] = 
+                            {
+                                ["heading"] = 5.6199601914217,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -133101.01451264,
+                                            ["speed"] = 0,
+                                            ["x"] = 45767.295128818,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 376,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "hozdomik2",
+                                        ["type"] = "Subsidiary structure 2",
+                                        ["unitId"] = 487,
+                                        ["rate"] = 100,
+                                        ["y"] = -133101.01451264,
+                                        ["x"] = 45767.295128818,
+                                        ["name"] = "DictKey_GroupName_664",
+                                        ["heading"] = 5.6199601914217,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -133101.01451264,
+                                ["x"] = 45767.295128818,
+                                ["name"] = "DictKey_GroupName_664",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [5]
+                            [6] = 
+                            {
+                                ["heading"] = 2.4783675378319,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -133081.27841744,
+                                            ["speed"] = 0,
+                                            ["x"] = 45727.722638032,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 377,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 488,
+                                        ["rate"] = 50,
+                                        ["y"] = -133081.27841744,
+                                        ["x"] = 45727.722638032,
+                                        ["name"] = "DictKey_GroupName_667",
+                                        ["heading"] = 2.4783675378319,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -133081.27841744,
+                                ["x"] = 45727.722638032,
+                                ["name"] = "DictKey_GroupName_667",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [6]
+                            [7] = 
+                            {
+                                ["heading"] = 5.6025068989018,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -133060.63301401,
+                                            ["speed"] = 0,
+                                            ["x"] = 45727.597415248,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 378,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "GRC_autumn",
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "SetkaKP",
+                                        ["type"] = "FARP Ammo Dump Coating",
+                                        ["unitId"] = 489,
+                                        ["rate"] = 50,
+                                        ["y"] = -133060.63301401,
+                                        ["x"] = 45727.597415248,
+                                        ["name"] = "DictKey_GroupName_670",
+                                        ["heading"] = 5.6025068989018,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -133060.63301401,
+                                ["x"] = 45727.597415248,
+                                ["name"] = "DictKey_GroupName_670",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [7]
+                            [8] = 
+                            {
+                                ["heading"] = 5.6199601914217,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -133083.56079115,
+                                            ["speed"] = 0,
+                                            ["x"] = 45780.99600234,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 379,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "hozdomik2",
+                                        ["type"] = "Subsidiary structure 2",
+                                        ["unitId"] = 490,
+                                        ["rate"] = 100,
+                                        ["y"] = -133083.56079115,
+                                        ["x"] = 45780.99600234,
+                                        ["name"] = "DictKey_GroupName_673",
+                                        ["heading"] = 5.6199601914217,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -133083.56079115,
+                                ["x"] = 45780.99600234,
+                                ["name"] = "DictKey_GroupName_673",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [8]
+                            [9] = 
+                            {
+                                ["heading"] = 2.4783675378319,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -133108.55714333,
+                                            ["speed"] = 0,
+                                            ["x"] = 45675.513465305,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 380,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 491,
+                                        ["rate"] = 50,
+                                        ["y"] = -133108.55714333,
+                                        ["x"] = 45675.513465305,
+                                        ["name"] = "DictKey_GroupName_676",
+                                        ["heading"] = 2.4783675378319,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -133108.55714333,
+                                ["x"] = 45675.513465305,
+                                ["name"] = "DictKey_GroupName_676",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [9]
+                            [10] = 
+                            {
+                                ["heading"] = 5.6025068989018,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -133052.51188854,
+                                            ["speed"] = 0,
+                                            ["x"] = 45717.48581785,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 381,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "GRC_autumn",
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "SetkaKP",
+                                        ["type"] = "FARP Ammo Dump Coating",
+                                        ["unitId"] = 492,
+                                        ["rate"] = 50,
+                                        ["y"] = -133052.51188854,
+                                        ["x"] = 45717.48581785,
+                                        ["name"] = "DictKey_GroupName_679",
+                                        ["heading"] = 5.6025068989018,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -133052.51188854,
+                                ["x"] = 45717.48581785,
+                                ["name"] = "DictKey_GroupName_679",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [10]
+                            [11] = 
+                            {
+                                ["heading"] = 4.0666171571468,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -133107.91181478,
+                                            ["speed"] = 0,
+                                            ["x"] = 45742.415219103,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 382,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "tele_bash_m",
+                                        ["type"] = "Comms tower M",
+                                        ["unitId"] = 493,
+                                        ["rate"] = 100,
+                                        ["y"] = -133107.91181478,
+                                        ["x"] = 45742.415219103,
+                                        ["name"] = "DictKey_GroupName_682",
+                                        ["heading"] = 4.0666171571468,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -133107.91181478,
+                                ["x"] = 45742.415219103,
+                                ["name"] = "DictKey_GroupName_682",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [11]
+                            [12] = 
+                            {
+                                ["heading"] = 2.4783675378319,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -133094.09652471,
+                                            ["speed"] = 0,
+                                            ["x"] = 45687.344880543,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 383,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 494,
+                                        ["rate"] = 50,
+                                        ["y"] = -133094.09652471,
+                                        ["x"] = 45687.344880543,
+                                        ["name"] = "DictKey_GroupName_685",
+                                        ["heading"] = 2.4783675378319,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -133094.09652471,
+                                ["x"] = 45687.344880543,
+                                ["name"] = "DictKey_GroupName_685",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [12]
+                            [13] = 
+                            {
+                                ["heading"] = 2.4783675378319,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -133079.44810584,
+                                            ["speed"] = 0,
+                                            ["x"] = 45699.176295781,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 385,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 502,
+                                        ["rate"] = 50,
+                                        ["y"] = -133079.44810584,
+                                        ["x"] = 45699.176295781,
+                                        ["name"] = "DictKey_GroupName_697",
+                                        ["heading"] = 2.4783675378319,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -133079.44810584,
+                                ["x"] = 45699.176295781,
+                                ["name"] = "DictKey_GroupName_697",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [13]
+                            [14] = 
+                            {
+                                ["heading"] = 0.89011791851711,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -133056.52598452,
+                                            ["speed"] = 0,
+                                            ["x"] = 45765.106182169,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 386,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["type"] = "house1arm",
+                                        ["unitId"] = 503,
+                                        ["rate"] = 5,
+                                        ["y"] = -133056.52598452,
+                                        ["x"] = 45765.106182169,
+                                        ["name"] = "DictKey_GroupName_700",
+                                        ["heading"] = 0.89011791851711,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -133056.52598452,
+                                ["x"] = 45765.106182169,
+                                ["name"] = "DictKey_GroupName_700",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [14]
+                            [15] = 
+                            {
+                                ["heading"] = 0.92502450355699,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -133167.00370577,
+                                            ["speed"] = 0,
+                                            ["x"] = 45728.770487345,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 387,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "aviashtab",
+                                        ["type"] = "Military staff",
+                                        ["unitId"] = 504,
+                                        ["rate"] = 100,
+                                        ["y"] = -133167.00370577,
+                                        ["x"] = 45728.770487345,
+                                        ["name"] = "DictKey_GroupName_703",
+                                        ["heading"] = 0.92502450355699,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -133167.00370577,
+                                ["x"] = 45728.770487345,
+                                ["name"] = "DictKey_GroupName_703",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [15]
+                            [16] = 
+                            {
+                                ["heading"] = 2.4783675378319,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -133066.11428867,
+                                            ["speed"] = 0,
+                                            ["x"] = 45709.505309085,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 388,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 505,
+                                        ["rate"] = 50,
+                                        ["y"] = -133066.11428867,
+                                        ["x"] = 45709.505309085,
+                                        ["name"] = "DictKey_GroupName_706",
+                                        ["heading"] = 2.4783675378319,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -133066.11428867,
+                                ["x"] = 45709.505309085,
+                                ["name"] = "DictKey_GroupName_706",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [16]
+                            [17] = 
+                            {
+                                ["heading"] = 4.0666171571468,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -133142.83196138,
+                                            ["speed"] = 0,
+                                            ["x"] = 45743.110108602,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 389,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "ComCenter",
+                                        ["type"] = ".Command Center",
+                                        ["unitId"] = 506,
+                                        ["y"] = -133142.83196138,
+                                        ["x"] = 45743.110108602,
+                                        ["name"] = "DictKey_GroupName_709",
+                                        ["heading"] = 4.0666171571468,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -133142.83196138,
+                                ["x"] = 45743.110108602,
+                                ["name"] = "DictKey_GroupName_709",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [17]
+                            [18] = 
+                            {
+                                ["heading"] = 2.4783675378319,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -133123.46645074,
+                                            ["speed"] = 0,
+                                            ["x"] = 45695.975790232,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 390,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 507,
+                                        ["rate"] = 50,
+                                        ["y"] = -133123.46645074,
+                                        ["x"] = 45695.975790232,
+                                        ["name"] = "DictKey_GroupName_712",
+                                        ["heading"] = 2.4783675378319,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -133123.46645074,
+                                ["x"] = 45695.975790232,
+                                ["name"] = "DictKey_GroupName_712",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [18]
+                            [19] = 
+                            {
+                                ["heading"] = 5.6025068989018,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -133072.81470221,
+                                            ["speed"] = 0,
+                                            ["x"] = 45742.326907521,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 391,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "GRC_autumn",
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "GSM Rus",
+                                        ["type"] = "FARP Fuel Depot",
+                                        ["unitId"] = 508,
+                                        ["rate"] = 20,
+                                        ["y"] = -133072.81470221,
+                                        ["x"] = 45742.326907521,
+                                        ["name"] = "DictKey_GroupName_715",
+                                        ["heading"] = 5.6025068989018,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -133072.81470221,
+                                ["x"] = 45742.326907521,
+                                ["name"] = "DictKey_GroupName_715",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [19]
+                            [20] = 
+                            {
+                                ["heading"] = 5.6199601914217,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -133104.46951552,
+                                            ["speed"] = 0,
+                                            ["x"] = 45788.382560238,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 392,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "hozdomik1",
+                                        ["type"] = "Subsidiary structure 1",
+                                        ["unitId"] = 509,
+                                        ["rate"] = 100,
+                                        ["y"] = -133104.46951552,
+                                        ["x"] = 45788.382560238,
+                                        ["name"] = "DictKey_GroupName_718",
+                                        ["heading"] = 5.6199601914217,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -133104.46951552,
+                                ["x"] = 45788.382560238,
+                                ["name"] = "DictKey_GroupName_718",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [20]
+                        }, -- end of ["group"]
+                    }, -- end of ["static"]
+                    ["name"] = "Iran",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 0,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 7,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -133179.24219201,
+                                            ["x"] = 45750.721530664,
+                                            ["name"] = "DictKey_WptName_696",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 384,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "BTR-80",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 495,
+                                        ["skill"] = "Average",
+                                        ["y"] = -133179.24219201,
+                                        ["x"] = 45750.721530664,
+                                        ["name"] = "DictKey_UnitName_689",
+                                        ["heading"] = 3.6302848441482,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "BTR-80",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 496,
+                                        ["skill"] = "Average",
+                                        ["y"] = -133083.57635916,
+                                        ["x"] = 45804.308003227,
+                                        ["name"] = "DictKey_UnitName_690",
+                                        ["heading"] = 0.5235987755983,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "ZSU-23-4 Shilka",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 497,
+                                        ["skill"] = "Average",
+                                        ["y"] = -133045.94388088,
+                                        ["x"] = 45787.434506434,
+                                        ["name"] = "DictKey_UnitName_691",
+                                        ["heading"] = 0.5235987755983,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "ZSU-23-4 Shilka",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 498,
+                                        ["skill"] = "Average",
+                                        ["y"] = -133099.22568047,
+                                        ["x"] = 45641.755300389,
+                                        ["name"] = "DictKey_UnitName_692",
+                                        ["heading"] = 0.5235987755983,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["type"] = "Strela-10M3",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 499,
+                                        ["skill"] = "Average",
+                                        ["y"] = -133014.6513954,
+                                        ["x"] = 45735.632756824,
+                                        ["name"] = "DictKey_UnitName_693",
+                                        ["heading"] = 0.5235987755983,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["type"] = "Strela-10M3",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 500,
+                                        ["skill"] = "Average",
+                                        ["y"] = -133147.00598113,
+                                        ["x"] = 45708.277287388,
+                                        ["name"] = "DictKey_UnitName_694",
+                                        ["heading"] = 0.5235987755983,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["type"] = "Osa 9A33 ln",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 501,
+                                        ["skill"] = "Average",
+                                        ["y"] = -133021.57969349,
+                                        ["x"] = 45652.633431758,
+                                        ["name"] = "DictKey_UnitName_695",
+                                        ["heading"] = 0.5235987755983,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [7]
+                                }, -- end of ["units"]
+                                ["y"] = -133179.24219201,
+                                ["x"] = 45750.721530664,
+                                ["name"] = "DictKey_GroupName_688",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "Russia",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [11]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "Bandar E Lengeh C2",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_WptName_615"] = "",
+            ["DictKey_WptName_714"] = "",
+            ["DictKey_UnitName_156"] = "New Static Object #003",
+            ["DictKey_UnitName_656"] = "New Static Object #016",
+            ["DictKey_GroupName_655"] = "New Static Object #016",
+            ["DictKey_UnitName_449"] = "Unit #004",
+            ["DictKey_WptName_528"] = "",
+            ["DictKey_UnitName_539"] = "New Static Object #011",
+            ["DictKey_UnitName_73"] = "New Static Object #017",
+            ["DictKey_GroupName_502"] = "New Static Object #016",
+            ["DictKey_GroupName_586"] = "New Static Object #016",
+            ["DictKey_GroupName_137"] = "New Static Object #014",
+            ["DictKey_UnitName_398"] = "Unit #003",
+            ["DictKey_GroupName_592"] = "New Static Object #009",
+            ["DictKey_GroupName_616"] = "New Static Object #012",
+            ["DictKey_WptName_410"] = "",
+            ["DictKey_WptName_708"] = "",
+            ["DictKey_UnitName_192"] = "New Static Object #006",
+            ["DictKey_GroupName_380"] = "New Static Object #005",
+            ["DictKey_GroupName_215"] = "New Static Object #008",
+            ["DictKey_GroupName_469"] = "Secondary Destroyed C2",
+            ["DictKey_WptName_287"] = "",
+            ["DictKey_WptName_124"] = "",
+            ["DictKey_UnitName_90"] = "New Static Object #001",
+            ["DictKey_GroupName_529"] = "New Static Object #010",
+            ["DictKey_UnitName_274"] = "Unit #001",
+            ["DictKey_UnitName_626"] = "Unit #007",
+            ["DictKey_UnitName_683"] = "Secondary Destroyed C2",
+            ["DictKey_UnitName_707"] = "New Static Object #014",
+            ["DictKey_UnitName_590"] = "New Static Object #002",
+            ["DictKey_UnitName_611"] = "New Static Object #018",
+            ["DictKey_UnitName_650"] = "New Static Object #001",
+            ["DictKey_WptName_573"] = "",
+            ["DictKey_GroupName_652"] = "New Static Object #008",
+            ["DictKey_GroupName_426"] = "C2 Defence",
+            ["DictKey_GroupName_526"] = "New Static Object #003",
+            ["DictKey_WptName_157"] = "",
+            ["DictKey_GroupName_709"] = "Primary Destroyed C2",
+            ["DictKey_GroupName_442"] = "New Static Object #005",
+            ["DictKey_UnitName_428"] = "Unit #002",
+            ["DictKey_GroupName_146"] = "New Static Object #017",
+            ["DictKey_UnitName_584"] = "New Static Object #008",
+            ["DictKey_UnitName_548"] = "New Static Object #012",
+            ["DictKey_GroupName_589"] = "New Static Object #002",
+            ["DictKey_UnitName_79"] = "Unit #002",
+            ["DictKey_UnitName_713"] = "New Static Object #007",
+            ["DictKey_WptName_699"] = "",
+            ["DictKey_GroupName_297"] = "New Static Object #016",
+            ["DictKey_UnitName_556"] = "Unit #006",
+            ["DictKey_GroupName_411"] = "New Static Object #005",
+            ["DictKey_WptName_14"] = "",
+            ["DictKey_UnitName_691"] = "Unit #003",
+            ["DictKey_GroupName_685"] = "New Static Object #012",
+            ["DictKey_UnitName_270"] = "Unit #005",
+            ["DictKey_GroupName_386"] = "Primary Destroyed C2",
+            ["DictKey_WptName_103"] = "",
+            ["DictKey_UnitName_175"] = "Unit #003",
+            ["DictKey_GroupName_170"] = "C2 Defence",
+            ["DictKey_WptName_678"] = "",
+            ["DictKey_GroupName_191"] = "New Static Object #006",
+            ["DictKey_GroupName_670"] = "New Static Object #017",
+            ["DictKey_UnitName_644"] = "New Static Object #007",
+            ["DictKey_WptName_244"] = "",
+            ["DictKey_UnitName_114"] = "New Static Object #006",
+            ["DictKey_UnitName_186"] = "New Static Object #003",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_UnitName_719"] = "New Static Object #001",
+            ["DictKey_WptName_720"] = "",
+            ["DictKey_UnitName_201"] = "New Static Object #016",
+            ["DictKey_UnitName_22"] = "New Static Object",
+            ["DictKey_UnitName_553"] = "Unit #003",
+            ["DictKey_GroupName_328"] = "New Static Object #006",
+            ["DictKey_WptName_333"] = "",
+            ["DictKey_UnitName_356"] = "Secondary Destroyed C2",
+            ["DictKey_UnitName_476"] = "New Static Object #007",
+            ["DictKey_WptName_348"] = "",
+            ["DictKey_UnitName_362"] = "New Static Object #002",
+            ["DictKey_WptName_407"] = "",
+            ["DictKey_WptName_570"] = "",
+            ["DictKey_GroupName_484"] = "New Static Object #010",
+            ["DictKey_GroupName_306"] = "New Static Object #005",
+            ["DictKey_UnitName_106"] = "Unit #002",
+            ["DictKey_UnitName_704"] = "New Static Object #006",
+            ["DictKey_GroupName_248"] = "New Static Object #005",
+            ["DictKey_WptName_522"] = "",
+            ["DictKey_UnitName_58"] = "New Static Object #015",
+            ["DictKey_WptName_160"] = "",
+            ["DictKey_WptName_163"] = "",
+            ["DictKey_WptName_480"] = "",
+            ["DictKey_UnitName_690"] = "Unit #002",
+            ["DictKey_UnitName_318"] = "Unit #003",
+            ["DictKey_UnitName_34"] = "New Static Object #007",
+            ["DictKey_UnitName_64"] = "New Static Object #015",
+            ["DictKey_UnitName_566"] = "New Static Object #006",
+            ["DictKey_UnitName_165"] = "New Static Object #009",
+            ["DictKey_UnitName_455"] = "Primary Destroyed C2",
+            ["DictKey_UnitName_368"] = "Unit #004",
+            ["DictKey_GroupName_613"] = "Secondary Destroyed C2",
+            ["DictKey_UnitName_635"] = "New Static Object #006",
+            ["DictKey_GroupName_206"] = "New Static Object #004",
+            ["DictKey_GroupName_490"] = "New Static Object #012",
+            ["DictKey_WptName_413"] = "",
+            ["DictKey_GroupName_134"] = "New Static Object #013",
+            ["DictKey_UnitName_225"] = "Unit #004",
+            ["DictKey_WptName_687"] = "",
+            ["DictKey_GroupName_291"] = "New Static Object #009",
+            ["DictKey_WptName_705"] = "",
+            ["DictKey_GroupName_218"] = "New Static Object #002",
+            ["DictKey_WptName_567"] = "",
+            ["DictKey_WptName_68"] = "",
+            ["DictKey_WptName_290"] = "",
+            ["DictKey_GroupName_303"] = "Secondary Destroyed C2 #003",
+            ["DictKey_WptName_618"] = "",
+            ["DictKey_UnitName_341"] = "Primary Destroyed C2",
+            ["DictKey_UnitName_228"] = "Unit #007",
+            ["DictKey_GroupName_236"] = "New Static Object #006",
+            ["DictKey_GroupName_658"] = "New Static Object #002",
+            ["DictKey_WptName_504"] = "",
+            ["DictKey_GroupName_700"] = "Secondary Destroyed C2 #001",
+            ["DictKey_UnitName_545"] = "Secondary Destroyed C2",
+            ["DictKey_GroupName_649"] = "New Static Object #001",
+            ["DictKey_UnitName_107"] = "Unit #003",
+            ["DictKey_UnitName_384"] = "New Static Object #015",
+            ["DictKey_WptName_669"] = "",
+            ["DictKey_UnitName_129"] = "New Static Object #011",
+            ["DictKey_UnitName_608"] = "New Static Object #011",
+            ["DictKey_GroupName_346"] = "New Static Object #008",
+            ["DictKey_WptName_663"] = "",
+            ["DictKey_GroupName_610"] = "New Static Object #018",
+            ["DictKey_GroupName_63"] = "New Static Object #017",
+            ["DictKey_UnitName_387"] = "Primary Destroyed C2",
+            ["DictKey_GroupName_276"] = "Secondary Destroyed C2",
+            ["DictKey_UnitName_434"] = "New Static Object #017",
+            ["DictKey_GroupName_466"] = "New Static Object #004",
+            ["DictKey_UnitName_415"] = "New Static Object #015",
+            ["DictKey_GroupName_263"] = "New Static Object #008",
+            ["DictKey_UnitName_396"] = "Unit #001",
+            ["DictKey_UnitName_668"] = "New Static Object #010",
+            ["DictKey_UnitName_150"] = "New Static Object #018",
+            ["DictKey_UnitName_313"] = "New Static Object #008",
+            ["DictKey_GroupName_21"] = "Secondary Destroyed C2",
+            ["DictKey_WptName_657"] = "",
+            ["DictKey_WptName_100"] = "",
+            ["DictKey_WptName_112"] = "",
+            ["DictKey_GroupName_230"] = "New Static Object #009",
+            ["DictKey_WptName_495"] = "",
+            ["DictKey_WptName_241"] = "",
+            ["DictKey_UnitName_400"] = "Unit #005",
+            ["DictKey_UnitName_87"] = "Primary Destroyed C2",
+            ["DictKey_WptName_339"] = "",
+            ["DictKey_UnitName_431"] = "Unit #005",
+            ["DictKey_WptName_211"] = "",
+            ["DictKey_UnitName_674"] = "New Static Object #004",
+            ["DictKey_WptName_525"] = "",
+            ["DictKey_WptName_166"] = "",
+            ["DictKey_UnitName_560"] = "New Static Object #013",
+            ["DictKey_UnitName_168"] = "New Static Object #017",
+            ["DictKey_WptName_169"] = "",
+            ["DictKey_WptName_278"] = "",
+            ["DictKey_GroupName_155"] = "New Static Object #004",
+            ["DictKey_UnitName_61"] = "New Static Object #015",
+            ["DictKey_GroupName_439"] = "New Static Object #016",
+            ["DictKey_WptName_284"] = "",
+            ["DictKey_GroupName_254"] = "New Static Object #015",
+            ["DictKey_UnitName_223"] = "Unit #002",
+            ["DictKey_WptName_379"] = "",
+            ["DictKey_WptName_465"] = "",
+            ["DictKey_GroupName_86"] = "Primary Destroyed C2",
+            ["DictKey_WptName_151"] = "",
+            ["DictKey_WptName_299"] = "",
+            ["DictKey_UnitName_31"] = "New Static Object #006",
+            ["DictKey_UnitName_111"] = "Unit #007",
+            ["DictKey_WptName_17"] = "",
+            ["DictKey_UnitName_555"] = "Unit #005",
+            ["DictKey_WptName_330"] = "",
+            ["DictKey_WptName_645"] = "",
+            ["DictKey_GroupName_12"] = "New Static Object #002",
+            ["DictKey_UnitName_240"] = "New Static Object #004",
+            ["DictKey_GroupName_487"] = "New Static Object #011",
+            ["DictKey_UnitName_189"] = "Secondary Destroyed C2",
+            ["DictKey_GroupName_349"] = "New Static Object #015",
+            ["DictKey_UnitName_563"] = "Secondary Destroyed C2 #001",
+            ["DictKey_WptName_130"] = "",
+            ["DictKey_UnitName_515"] = "New Static Object #008",
+            ["DictKey_GroupName_36"] = "New Static Object #009",
+            ["DictKey_UnitName_81"] = "Unit #004",
+            ["DictKey_GroupName_322"] = "New Static Object #002",
+            ["DictKey_GroupName_72"] = "Secondary Destroyed C2 #001",
+            ["DictKey_GroupName_203"] = "New Static Object #017",
+            ["DictKey_GroupName_66"] = "New Static Object #018",
+            ["DictKey_UnitName_494"] = "New Static Object #013",
+            ["DictKey_WptName_357"] = "",
+            ["DictKey_UnitName_84"] = "Unit #007",
+            ["DictKey_GroupName_267"] = "C2 Defence",
+            ["DictKey_UnitName_424"] = "New Static Object #008",
+            ["DictKey_WptName_154"] = "",
+            ["DictKey_GroupName_197"] = "New Static Object #015",
+            ["DictKey_GroupName_42"] = "New Static Object #011",
+            ["DictKey_WptName_94"] = "",
+            ["DictKey_GroupName_312"] = "New Static Object #008",
+            ["DictKey_WptName_97"] = "",
+            ["DictKey_GroupName_57"] = "New Static Object #016",
+            ["DictKey_WptName_360"] = "",
+            ["DictKey_GroupName_131"] = "New Static Object #012",
+            ["DictKey_UnitName_198"] = "New Static Object #015",
+            ["DictKey_GroupName_562"] = "Secondary Destroyed C2 #001",
+            ["DictKey_GroupName_598"] = "New Static Object #010",
+            ["DictKey_GroupName_445"] = "C2 Defence",
+            ["DictKey_WptName_540"] = "",
+            ["DictKey_WptName_630"] = "",
+            ["DictKey_WptName_50"] = "",
+            ["DictKey_WptName_115"] = "",
+            ["DictKey_GroupName_676"] = "New Static Object #011",
+            ["DictKey_UnitName_126"] = "New Static Object #010",
+            ["DictKey_GroupName_371"] = "New Static Object #017",
+            ["DictKey_UnitName_347"] = "New Static Object #008",
+            ["DictKey_GroupName_209"] = "New Static Object #005",
+            ["DictKey_UnitName_28"] = "New Static Object #003",
+            ["DictKey_UnitName_366"] = "Unit #002",
+            ["DictKey_UnitName_429"] = "Unit #003",
+            ["DictKey_UnitName_338"] = "New Static Object #015",
+            ["DictKey_GroupName_188"] = "Secondary Destroyed C2",
+            ["DictKey_UnitName_524"] = "New Static Object #009",
+            ["DictKey_UnitName_255"] = "New Static Object #015",
+            ["DictKey_GroupName_493"] = "New Static Object #013",
+            ["DictKey_GroupName_101"] = "Secondary Destroyed C2",
+            ["DictKey_UnitName_13"] = "New Static Object #001",
+            ["DictKey_GroupName_646"] = "New Static Object #015",
+            ["DictKey_WptName_345"] = "",
+            ["DictKey_WptName_483"] = "",
+            ["DictKey_GroupName_167"] = "New Static Object #008",
+            ["DictKey_WptName_591"] = "",
+            ["DictKey_GroupName_251"] = "New Static Object #001",
+            ["DictKey_UnitName_273"] = "Unit #002",
+            ["DictKey_UnitName_381"] = "New Static Object #005",
+            ["DictKey_WptName_78"] = "",
+            ["DictKey_UnitName_110"] = "Unit #006",
+            ["DictKey_WptName_501"] = "",
+            ["DictKey_WptName_603"] = "",
+            ["DictKey_GroupName_300"] = "New Static Object #017",
+            ["DictKey_UnitName_551"] = "Unit #001",
+            ["DictKey_UnitName_82"] = "Unit #005",
+            ["DictKey_UnitName_375"] = "New Static Object #006",
+            ["DictKey_GroupName_463"] = "New Static Object #003",
+            ["DictKey_GroupName_39"] = "New Static Object #010",
+            ["DictKey_WptName_612"] = "",
+            ["DictKey_GroupName_457"] = "New Static Object #001",
+            ["DictKey_WptName_351"] = "",
+            ["DictKey_UnitName_16"] = "New Static Object #001",
+            ["DictKey_GroupName_517"] = "New Static Object #016",
+            ["DictKey_WptName_133"] = "",
+            ["DictKey_WptName_20"] = "",
+            ["DictKey_UnitName_317"] = "Unit #004",
+            ["DictKey_UnitName_638"] = "New Static Object #014",
+            ["DictKey_WptName_29"] = "",
+            ["DictKey_UnitName_174"] = "Unit #004",
+            ["DictKey_UnitName_177"] = "Unit #001",
+            ["DictKey_WptName_275"] = "",
+            ["DictKey_UnitName_10"] = "New Static Object",
+            ["DictKey_GroupName_128"] = "New Static Object #011",
+            ["DictKey_WptName_44"] = "",
+            ["DictKey_UnitName_266"] = "Unit #005",
+            ["DictKey_GroupName_423"] = "New Static Object #008",
+            ["DictKey_UnitName_403"] = "New Static Object #017",
+            ["DictKey_WptName_56"] = "",
+            ["DictKey_UnitName_326"] = "New Static Object #017",
+            ["DictKey_UnitName_689"] = "Unit #001",
+            ["DictKey_WptName_600"] = "",
+            ["DictKey_WptName_401"] = "",
+            ["DictKey_GroupName_15"] = "New Static Object #003",
+            ["DictKey_UnitName_135"] = "New Static Object #013",
+            ["DictKey_GroupName_420"] = "Secondary Destroyed C2",
+            ["DictKey_UnitName_710"] = "Primary Destroyed C2",
+            ["DictKey_GroupName_402"] = "New Static Object #017",
+            ["DictKey_UnitName_662"] = "New Static Object #009",
+            ["DictKey_WptName_711"] = "",
+            ["DictKey_UnitName_329"] = "New Static Object #006",
+            ["DictKey_GroupName_520"] = "New Static Object #002",
+            ["DictKey_UnitName_25"] = "Unit #001",
+            ["DictKey_GroupName_113"] = "New Static Object #006",
+            ["DictKey_UnitName_378"] = "New Static Object #016",
+            ["DictKey_UnitName_320"] = "Unit #001",
+            ["DictKey_GroupName_212"] = "New Static Object #007",
+            ["DictKey_WptName_453"] = "",
+            ["DictKey_GroupName_200"] = "New Static Object #016",
+            ["DictKey_WptName_416"] = "",
+            ["DictKey_WptName_702"] = "",
+            ["DictKey_UnitName_716"] = "New Static Object #015",
+            ["DictKey_WptName_438"] = "",
+            ["DictKey_WptName_217"] = "",
+            ["DictKey_UnitName_406"] = "New Static Object #006",
+            ["DictKey_GroupName_315"] = "C2 Defence",
+            ["DictKey_UnitName_258"] = "Secondary Destroyed C2",
+            ["DictKey_WptName_181"] = "",
+            ["DictKey_WptName_336"] = "",
+            ["DictKey_UnitName_680"] = "New Static Object #018",
+            ["DictKey_UnitName_653"] = "New Static Object #008",
+            ["DictKey_GroupName_242"] = "New Static Object #016",
+            ["DictKey_UnitName_473"] = "New Static Object #006",
+            ["DictKey_GroupName_460"] = "New Static Object #002",
+            ["DictKey_GroupName_392"] = "New Static Object #008",
+            ["DictKey_WptName_519"] = "",
+            ["DictKey_UnitName_43"] = "New Static Object #007",
+            ["DictKey_WptName_468"] = "",
+            ["DictKey_GroupName_331"] = "New Static Object #016",
+            ["DictKey_WptName_187"] = "",
+            ["DictKey_GroupName_30"] = "New Static Object #007",
+            ["DictKey_WptName_53"] = "",
+            ["DictKey_UnitName_171"] = "Unit #007",
+            ["DictKey_GroupName_352"] = "Primary Destroyed C2",
+            ["DictKey_GroupName_119"] = "New Static Object #008",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_WptName_142"] = "",
+            ["DictKey_GroupName_33"] = "New Static Object #008",
+            ["DictKey_GroupName_358"] = "New Static Object #008",
+            ["DictKey_UnitName_485"] = "New Static Object #010",
+            ["DictKey_GroupName_631"] = "Secondary Destroyed C2 #001",
+            ["DictKey_UnitName_216"] = "New Static Object #008",
+            ["DictKey_GroupName_607"] = "New Static Object #011",
+            ["DictKey_UnitName_686"] = "New Static Object #012",
+            ["DictKey_UnitName_105"] = "Unit #001",
+            ["DictKey_WptName_462"] = "",
+            ["DictKey_UnitName_316"] = "Unit #005",
+            ["DictKey_WptName_651"] = "",
+            ["DictKey_WptName_47"] = "",
+            ["DictKey_UnitName_467"] = "New Static Object #004",
+            ["DictKey_GroupName_179"] = "New Static Object #001",
+            ["DictKey_UnitName_93"] = "New Static Object #002",
+            ["DictKey_UnitName_332"] = "New Static Object #016",
+            ["DictKey_GroupName_454"] = "Primary Destroyed C2",
+            ["DictKey_UnitName_701"] = "Secondary Destroyed C2 #001",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_UnitName_231"] = "New Static Object #009",
+            ["DictKey_UnitName_695"] = "Unit #007",
+            ["DictKey_GroupName_27"] = "New Static Object #006",
+            ["DictKey_WptName_229"] = "",
+            ["DictKey_GroupName_161"] = "New Static Object #005",
+            ["DictKey_WptName_666"] = "",
+            ["DictKey_GroupName_541"] = "New Static Object #018",
+            ["DictKey_UnitName_581"] = "New Static Object #001",
+            ["DictKey_UnitName_243"] = "New Static Object #016",
+            ["DictKey_UnitName_497"] = "New Static Object #014",
+            ["DictKey_WptName_202"] = "",
+            ["DictKey_WptName_588"] = "",
+            ["DictKey_WptName_265"] = "",
+            ["DictKey_WptName_65"] = "",
+            ["DictKey_UnitName_458"] = "New Static Object #001",
+            ["DictKey_GroupName_282"] = "Secondary Destroyed C2 #002",
+            ["DictKey_GroupName_395"] = "C2 Defence",
+            ["DictKey_GroupName_706"] = "New Static Object #014",
+            ["DictKey_GroupName_414"] = "New Static Object #015",
+            ["DictKey_UnitName_430"] = "Unit #004",
+            ["DictKey_UnitName_80"] = "Unit #003",
+            ["DictKey_GroupName_532"] = "New Static Object #017",
+            ["DictKey_WptName_35"] = "",
+            ["DictKey_WptName_293"] = "",
+            ["DictKey_UnitName_698"] = "New Static Object #013",
+            ["DictKey_UnitName_437"] = "New Static Object #006",
+            ["DictKey_WptName_121"] = "",
+            ["DictKey_GroupName_309"] = "New Static Object #007",
+            ["DictKey_WptName_684"] = "",
+            ["DictKey_WptName_253"] = "",
+            ["DictKey_WptName_660"] = "",
+            ["DictKey_UnitName_176"] = "Unit #002",
+            ["DictKey_UnitName_264"] = "New Static Object #008",
+            ["DictKey_UnitName_446"] = "Unit #007",
+            ["DictKey_UnitName_617"] = "New Static Object #012",
+            ["DictKey_UnitName_335"] = "New Static Object #005",
+            ["DictKey_GroupName_637"] = "New Static Object #014",
+            ["DictKey_WptName_311"] = "",
+            ["DictKey_WptName_214"] = "",
+            ["DictKey_WptName_404"] = "",
+            ["DictKey_UnitName_605"] = "New Static Object #004",
+            ["DictKey_WptName_531"] = "",
+            ["DictKey_UnitName_344"] = "Secondary Destroyed C2",
+            ["DictKey_UnitName_393"] = "New Static Object #008",
+            ["DictKey_GroupName_51"] = "New Static Object #014",
+            ["DictKey_UnitName_246"] = "New Static Object #003",
+            ["DictKey_WptName_305"] = "",
+            ["DictKey_GroupName_667"] = "New Static Object #010",
+            ["DictKey_GroupName_340"] = "Primary Destroyed C2",
+            ["DictKey_GroupName_279"] = "New Static Object #002",
+            ["DictKey_GroupName_221"] = "C2 Defence",
+            ["DictKey_WptName_302"] = "",
+            ["DictKey_UnitName_359"] = "New Static Object #008",
+            ["DictKey_WptName_238"] = "",
+            ["DictKey_UnitName_692"] = "Unit #004",
+            ["DictKey_UnitName_596"] = "New Static Object #003",
+            ["DictKey_WptName_208"] = "",
+            ["DictKey_UnitName_7"] = "",
+            ["DictKey_WptName_259"] = "",
+            ["DictKey_WptName_594"] = "",
+            ["DictKey_UnitName_412"] = "New Static Object #005",
+            ["DictKey_UnitName_593"] = "New Static Object #009",
+            ["DictKey_UnitName_210"] = "New Static Object #005",
+            ["DictKey_UnitName_289"] = "New Static Object #006",
+            ["DictKey_UnitName_234"] = "New Static Object #017",
+            ["DictKey_GroupName_104"] = "C2 Defence",
+            ["DictKey_UnitName_353"] = "Primary Destroyed C2",
+            ["DictKey_GroupName_583"] = "New Static Object #008",
+            ["DictKey_GroupName_433"] = "New Static Object #017",
+            ["DictKey_WptName_196"] = "",
+            ["DictKey_WptName_585"] = "",
+            ["DictKey_GroupName_69"] = "New Static Object #017",
+            ["DictKey_WptName_62"] = "",
+            ["DictKey_UnitName_323"] = "New Static Object #002",
+            ["DictKey_WptName_376"] = "",
+            ["DictKey_GroupName_24"] = "C2 Defence",
+            ["DictKey_UnitName_536"] = "New Static Object #004",
+            ["DictKey_WptName_354"] = "",
+            ["DictKey_WptName_385"] = "",
+            ["DictKey_UnitName_252"] = "New Static Object #001",
+            ["DictKey_UnitName_96"] = "New Static Object #003",
+            ["DictKey_UnitName_390"] = "Secondary Destroyed C2",
+            ["DictKey_WptName_391"] = "",
+            ["DictKey_UnitName_269"] = "Unit #006",
+            ["DictKey_WptName_193"] = "",
+            ["DictKey_UnitName_219"] = "New Static Object #002",
+            ["DictKey_GroupName_9"] = "New Static Object #001",
+            ["DictKey_WptName_435"] = "",
+            ["DictKey_WptName_648"] = "",
+            ["DictKey_GroupName_122"] = "New Static Object #009",
+            ["DictKey_WptName_394"] = "",
+            ["DictKey_UnitName_575"] = "New Static Object #007",
+            ["DictKey_UnitName_369"] = "Unit #005",
+            ["DictKey_UnitName_319"] = "Unit #002",
+            ["DictKey_GroupName_383"] = "New Static Object #015",
+            ["DictKey_UnitName_204"] = "New Static Object #017",
+            ["DictKey_GroupName_514"] = "New Static Object #008",
+            ["DictKey_UnitName_310"] = "New Static Object #007",
+            ["DictKey_UnitName_261"] = "New Static Object #007",
+            ["DictKey_UnitName_70"] = "New Static Object #017",
+            ["DictKey_GroupName_405"] = "New Static Object #006",
+            ["DictKey_UnitName_671"] = "New Static Object #017",
+            ["DictKey_GroupName_374"] = "New Static Object #006",
+            ["DictKey_GroupName_377"] = "New Static Object #016",
+            ["DictKey_UnitName_222"] = "Unit #001",
+            ["DictKey_WptName_510"] = "",
+            ["DictKey_GroupName_408"] = "New Static Object #016",
+            ["DictKey_UnitName_180"] = "New Static Object #001",
+            ["DictKey_GroupName_92"] = "New Static Object #002",
+            ["DictKey_UnitName_622"] = "Unit #003",
+            ["DictKey_UnitName_367"] = "Unit #003",
+            ["DictKey_UnitName_665"] = "New Static Object #003",
+            ["DictKey_GroupName_417"] = "Primary Destroyed C2",
+            ["DictKey_UnitName_418"] = "Primary Destroyed C2",
+            ["DictKey_UnitName_144"] = "New Static Object #016",
+            ["DictKey_WptName_74"] = "",
+            ["DictKey_WptName_118"] = "",
+            ["DictKey_GroupName_260"] = "Secondary Destroyed C2",
+            ["DictKey_WptName_363"] = "",
+            ["DictKey_WptName_419"] = "",
+            ["DictKey_GroupName_334"] = "New Static Object #005",
+            ["DictKey_GroupName_718"] = "New Static Object #001",
+            ["DictKey_WptName_370"] = "",
+            ["DictKey_UnitName_55"] = "New Static Object #007",
+            ["DictKey_GroupName_164"] = "New Static Object #007",
+            ["DictKey_UnitName_213"] = "New Static Object #007",
+            ["DictKey_WptName_561"] = "",
+            ["DictKey_GroupName_559"] = "New Static Object #013",
+            ["DictKey_WptName_184"] = "",
+            ["DictKey_GroupName_361"] = "New Static Object #002",
+            ["DictKey_UnitName_195"] = "New Static Object #009",
+            ["DictKey_WptName_247"] = "",
+            ["DictKey_GroupName_643"] = "New Static Object #007",
+            ["DictKey_UnitName_286"] = "Secondary Destroyed C2",
+            ["DictKey_WptName_606"] = "",
+            ["DictKey_UnitName_85"] = "Unit #007",
+            ["DictKey_UnitName_226"] = "Unit #005",
+            ["DictKey_GroupName_436"] = "New Static Object #006",
+            ["DictKey_UnitName_365"] = "Unit #001",
+            ["DictKey_WptName_296"] = "",
+            ["DictKey_UnitName_283"] = "New Static Object #003",
+            ["DictKey_WptName_459"] = "",
+            ["DictKey_GroupName_679"] = "New Static Object #018",
+            ["DictKey_UnitName_632"] = "Secondary Destroyed C2 #001",
+            ["DictKey_WptName_314"] = "",
+            ["DictKey_WptName_681"] = "",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_WptName_41"] = "",
+            ["DictKey_GroupName_475"] = "New Static Object #007",
+            ["DictKey_WptName_127"] = "",
+            ["DictKey_WptName_235"] = "",
+            ["DictKey_UnitName_623"] = "Unit #004",
+            ["DictKey_UnitName_488"] = "New Static Object #011",
+            ["DictKey_UnitName_173"] = "Unit #005",
+            ["DictKey_UnitName_450"] = "Unit #003",
+            ["DictKey_UnitName_443"] = "New Static Object #005",
+            ["DictKey_GroupName_185"] = "New Static Object #003",
+            ["DictKey_WptName_549"] = "",
+            ["DictKey_UnitName_76"] = "Pilot #001",
+            ["DictKey_GroupName_538"] = "New Static Object #011",
+            ["DictKey_WptName_321"] = "",
+            ["DictKey_WptName_145"] = "",
+            ["DictKey_WptName_543"] = "",
+            ["DictKey_UnitName_295"] = "New Static Object #015",
+            ["DictKey_UnitName_224"] = "Unit #003",
+            ["DictKey_WptName_513"] = "",
+            ["DictKey_GroupName_580"] = "New Static Object #001",
+            ["DictKey_UnitName_102"] = "Secondary Destroyed C2",
+            ["DictKey_UnitName_461"] = "New Static Object #002",
+            ["DictKey_GroupName_48"] = "New Static Object #013",
+            ["DictKey_WptName_139"] = "",
+            ["DictKey_GroupName_245"] = "New Static Object #003",
+            ["DictKey_UnitName_108"] = "Unit #004",
+            ["DictKey_WptName_88"] = "",
+            ["DictKey_WptName_558"] = "",
+            ["DictKey_GroupName_60"] = "New Static Object #015",
+            ["DictKey_UnitName_207"] = "New Static Object #004",
+            ["DictKey_GroupName_682"] = "Secondary Destroyed C2",
+            ["DictKey_WptName_199"] = "",
+            ["DictKey_UnitName_123"] = "New Static Object #009",
+            ["DictKey_UnitName_530"] = "New Static Object #010",
+            ["DictKey_GroupName_664"] = "New Static Object #003",
+            ["DictKey_UnitName_527"] = "New Static Object #003",
+            ["DictKey_UnitName_464"] = "New Static Object #003",
+            ["DictKey_WptName_77"] = "",
+            ["DictKey_UnitName_521"] = "New Static Object #002",
+            ["DictKey_WptName_91"] = "",
+            ["DictKey_UnitName_397"] = "Unit #002",
+            ["DictKey_UnitName_138"] = "New Static Object #014",
+            ["DictKey_UnitName_482"] = "New Static Object #009",
+            ["DictKey_WptName_546"] = "",
+            ["DictKey_UnitName_614"] = "Secondary Destroyed C2",
+            ["DictKey_UnitName_621"] = "Unit #002",
+            ["DictKey_WptName_8"] = "",
+            ["DictKey_GroupName_143"] = "New Static Object #016",
+            ["DictKey_UnitName_451"] = "Unit #002",
+            ["DictKey_UnitName_693"] = "Unit #005",
+            ["DictKey_GroupName_95"] = "New Static Object #003",
+            ["DictKey_GroupName_472"] = "New Static Object #006",
+            ["DictKey_WptName_507"] = "",
+            ["DictKey_WptName_11"] = "",
+            ["DictKey_UnitName_227"] = "Unit #006",
+            ["DictKey_UnitName_271"] = "Unit #004",
+            ["DictKey_UnitName_49"] = "New Static Object #007",
+            ["DictKey_GroupName_523"] = "New Static Object #009",
+            ["DictKey_UnitName_409"] = "New Static Object #016",
+            ["DictKey_UnitName_172"] = "Unit #006",
+            ["DictKey_GroupName_158"] = "New Static Object #003",
+            ["DictKey_GroupName_661"] = "New Static Object #009",
+            ["DictKey_UnitName_452"] = "Unit #001",
+            ["DictKey_UnitName_569"] = "New Static Object #014",
+            ["DictKey_GroupName_703"] = "New Static Object #006",
+            ["DictKey_WptName_190"] = "",
+            ["DictKey_WptName_71"] = "",
+            ["DictKey_GroupName_481"] = "New Static Object #009",
+            ["DictKey_WptName_471"] = "",
+            ["DictKey_UnitName_304"] = "New Static Object #004",
+            ["DictKey_WptName_178"] = "",
+            ["DictKey_GroupName_574"] = "New Static Object #007",
+            ["DictKey_WptName_432"] = "",
+            ["DictKey_UnitName_99"] = "New Static Object #004",
+            ["DictKey_UnitName_159"] = "New Static Object #003",
+            ["DictKey_WptName_582"] = "",
+            ["DictKey_UnitName_500"] = "New Static Object #015",
+            ["DictKey_UnitName_162"] = "New Static Object #009",
+            ["DictKey_WptName_444"] = "",
+            ["DictKey_UnitName_518"] = "New Static Object #016",
+            ["DictKey_UnitName_153"] = "Secondary Destroyed C2 #001",
+            ["DictKey_WptName_373"] = "",
+            ["DictKey_UnitName_249"] = "New Static Object #005",
+            ["DictKey_WptName_486"] = "",
+            ["DictKey_WptName_59"] = "",
+            ["DictKey_WptName_498"] = "",
+            ["DictKey_WptName_477"] = "",
+            ["DictKey_GroupName_18"] = "New Static Object #004",
+            ["DictKey_GroupName_619"] = "C2 Defence",
+            ["DictKey_UnitName_117"] = "New Static Object #007",
+            ["DictKey_GroupName_496"] = "New Static Object #014",
+            ["DictKey_WptName_672"] = "",
+            ["DictKey_WptName_324"] = "",
+            ["DictKey_GroupName_116"] = "New Static Object #007",
+            ["DictKey_WptName_627"] = "",
+            ["DictKey_GroupName_547"] = "New Static Object #012",
+            ["DictKey_WptName_425"] = "",
+            ["DictKey_UnitName_292"] = "New Static Object #009",
+            ["DictKey_WptName_136"] = "",
+            ["DictKey_UnitName_479"] = "New Static Object #008",
+            ["DictKey_GroupName_535"] = "New Static Object #004",
+            ["DictKey_GroupName_75"] = "New Airplane Group",
+            ["DictKey_GroupName_337"] = "New Static Object #015",
+            ["DictKey_UnitName_421"] = "Secondary Destroyed C2",
+            ["DictKey_WptName_492"] = "",
+            ["DictKey_WptName_23"] = "",
+            ["DictKey_GroupName_45"] = "New Static Object #012",
+            ["DictKey_WptName_489"] = "",
+            ["DictKey_UnitName_557"] = "Unit #007",
+            ["DictKey_WptName_388"] = "",
+            ["DictKey_GroupName_89"] = "New Static Object #001",
+            ["DictKey_GroupName_505"] = "New Static Object #017",
+            ["DictKey_WptName_148"] = "",
+            ["DictKey_GroupName_499"] = "New Static Object #015",
+            ["DictKey_WptName_205"] = "",
+            ["DictKey_WptName_327"] = "",
+            ["DictKey_WptName_220"] = "",
+            ["DictKey_GroupName_364"] = "C2 Defence",
+            ["DictKey_UnitName_552"] = "Unit #002",
+            ["DictKey_UnitName_19"] = "New Static Object #003",
+            ["DictKey_UnitName_237"] = "New Static Object #006",
+            ["DictKey_GroupName_715"] = "New Static Object #015",
+            ["DictKey_WptName_250"] = "",
+            ["DictKey_GroupName_6"] = "Primary Destroyed C2",
+            ["DictKey_GroupName_508"] = "New Static Object #018",
+            ["DictKey_GroupName_125"] = "New Static Object #010",
+            ["DictKey_UnitName_509"] = "New Static Object #018",
+            ["DictKey_GroupName_389"] = "Secondary Destroyed C2",
+            ["DictKey_UnitName_67"] = "New Static Object #017",
+            ["DictKey_UnitName_427"] = "Unit #001",
+            ["DictKey_WptName_474"] = "",
+            ["DictKey_UnitName_280"] = "New Static Object #002",
+            ["DictKey_UnitName_147"] = "New Static Object #017",
+            ["DictKey_WptName_32"] = "",
+            ["DictKey_WptName_516"] = "",
+            ["DictKey_UnitName_491"] = "New Static Object #012",
+            ["DictKey_UnitName_141"] = "New Static Object #015",
+            ["DictKey_UnitName_512"] = "Secondary Destroyed C2 #001",
+            ["DictKey_WptName_696"] = "",
+            ["DictKey_UnitName_440"] = "New Static Object #016",
+            ["DictKey_WptName_633"] = "",
+            ["DictKey_UnitName_533"] = "New Static Object #017",
+            ["DictKey_WptName_534"] = "",
+            ["DictKey_UnitName_647"] = "New Static Object #015",
+            ["DictKey_WptName_537"] = "",
+            ["DictKey_GroupName_601"] = "New Static Object #017",
+            ["DictKey_GroupName_544"] = "Secondary Destroyed C2",
+            ["DictKey_GroupName_54"] = "New Static Object #015",
+            ["DictKey_WptName_441"] = "",
+            ["DictKey_GroupName_478"] = "New Static Object #008",
+            ["DictKey_GroupName_550"] = "C2 Defence",
+            ["DictKey_UnitName_554"] = "Unit #004",
+            ["DictKey_WptName_654"] = "",
+            ["DictKey_GroupName_568"] = "New Static Object #014",
+            ["DictKey_UnitName_52"] = "New Static Object #007",
+            ["DictKey_GroupName_712"] = "New Static Object #007",
+            ["DictKey_GroupName_325"] = "New Static Object #017",
+            ["DictKey_UnitName_277"] = "New Static Object #001",
+            ["DictKey_UnitName_83"] = "Unit #006",
+            ["DictKey_WptName_639"] = "",
+            ["DictKey_GroupName_257"] = "Primary Destroyed C2",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_WptName_564"] = "",
+            ["DictKey_WptName_308"] = "",
+            ["DictKey_WptName_422"] = "",
+            ["DictKey_GroupName_697"] = "New Static Object #013",
+            ["DictKey_WptName_232"] = "",
+            ["DictKey_UnitName_587"] = "New Static Object #016",
+            ["DictKey_WptName_281"] = "",
+            ["DictKey_UnitName_109"] = "Unit #005",
+            ["DictKey_WptName_256"] = "",
+            ["DictKey_WptName_456"] = "",
+            ["DictKey_GroupName_565"] = "New Static Object #006",
+            ["DictKey_GroupName_640"] = "Primary Destroyed C2",
+            ["DictKey_WptName_642"] = "",
+            ["DictKey_UnitName_272"] = "Unit #003",
+            ["DictKey_WptName_342"] = "",
+            ["DictKey_WptName_38"] = "",
+            ["DictKey_UnitName_183"] = "New Static Object #002",
+            ["DictKey_WptName_597"] = "",
+            ["DictKey_UnitName_506"] = "New Static Object #017",
+            ["DictKey_WptName_382"] = "",
+            ["DictKey_GroupName_634"] = "New Static Object #006",
+            ["DictKey_GroupName_571"] = "Primary Destroyed C2",
+            ["DictKey_UnitName_572"] = "Primary Destroyed C2",
+            ["DictKey_UnitName_599"] = "New Static Object #010",
+            ["DictKey_GroupName_343"] = "Secondary Destroyed C2",
+            ["DictKey_UnitName_46"] = "New Static Object #007",
+            ["DictKey_GroupName_628"] = "New Static Object #013",
+            ["DictKey_UnitName_40"] = "New Static Object #007",
+            ["DictKey_GroupName_294"] = "New Static Object #015",
+            ["DictKey_GroupName_577"] = "New Static Object #015",
+            ["DictKey_UnitName_629"] = "New Static Object #013",
+            ["DictKey_UnitName_301"] = "New Static Object #017",
+            ["DictKey_UnitName_578"] = "New Static Object #015",
+            ["DictKey_UnitName_298"] = "New Static Object #016",
+            ["DictKey_WptName_636"] = "",
+            ["DictKey_GroupName_194"] = "New Static Object #009",
+            ["DictKey_GroupName_288"] = "Secondary Destroyed C2 #001",
+            ["DictKey_GroupName_98"] = "New Static Object #004",
+            ["DictKey_GroupName_140"] = "New Static Object #015",
+            ["DictKey_GroupName_239"] = "New Static Object #004",
+            ["DictKey_UnitName_399"] = "Unit #004",
+            ["DictKey_WptName_26"] = "",
+            ["DictKey_WptName_579"] = "",
+            ["DictKey_UnitName_470"] = "Secondary Destroyed C2",
+            ["DictKey_WptName_576"] = "",
+            ["DictKey_UnitName_447"] = "Unit #006",
+            ["DictKey_GroupName_595"] = "New Static Object #003",
+            ["DictKey_GroupName_285"] = "Primary Destroyed C2",
+            ["DictKey_UnitName_694"] = "Unit #006",
+            ["DictKey_UnitName_624"] = "Unit #005",
+            ["DictKey_UnitName_659"] = "New Static Object #002",
+            ["DictKey_GroupName_673"] = "New Static Object #004",
+            ["DictKey_WptName_675"] = "",
+            ["DictKey_UnitName_350"] = "New Static Object #015",
+            ["DictKey_GroupName_511"] = "Secondary Destroyed C2 #001",
+            ["DictKey_GroupName_604"] = "New Static Object #004",
+            ["DictKey_WptName_609"] = "",
+            ["DictKey_UnitName_448"] = "Unit #005",
+            ["DictKey_UnitName_602"] = "New Static Object #017",
+            ["DictKey_WptName_717"] = "",
+            ["DictKey_GroupName_355"] = "Secondary Destroyed C2",
+            ["DictKey_UnitName_132"] = "New Static Object #012",
+            ["DictKey_UnitName_37"] = "New Static Object #007",
+            ["DictKey_UnitName_120"] = "New Static Object #008",
+            ["DictKey_UnitName_625"] = "Unit #006",
+            ["DictKey_UnitName_372"] = "New Static Object #017",
+            ["DictKey_UnitName_503"] = "New Static Object #016",
+            ["DictKey_GroupName_233"] = "New Static Object #017",
+            ["DictKey_WptName_262"] = "",
+            ["DictKey_UnitName_641"] = "Primary Destroyed C2",
+            ["DictKey_UnitName_542"] = "New Static Object #018",
+            ["DictKey_UnitName_620"] = "Unit #001",
+            ["DictKey_UnitName_677"] = "New Static Object #011",
+            ["DictKey_UnitName_307"] = "New Static Object #005",
+            ["DictKey_GroupName_688"] = "C2 Defence",
+            ["DictKey_UnitName_268"] = "Unit #007",
+            ["DictKey_GroupName_149"] = "New Static Object #018",
+            ["DictKey_GroupName_152"] = "Secondary Destroyed C2 #001",
+            ["DictKey_GroupName_182"] = "New Static Object #002",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "%LOCATIONMETHOD% Iranian C2 facilities within the Bandar-Lengeh AO, %LOCATION%, north east of the airport, within the town.\
+\
+Primary Objectives: Destroy the main bunker with antennae.\
+\
+Secondary Objectives: Destroy the large comms tower, and accompanying T shaped structure.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion",
+} -- end of staticTemplate

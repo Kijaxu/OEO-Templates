@@ -1,0 +1,2013 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [21]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 34,
+                    ["static"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33831.508821241,
+                                            ["speed"] = 0,
+                                            ["x"] = 65009.940678714,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973063,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "IR IRIAF Camo",
+                                        ["category"] = "Planes",
+                                        ["type"] = "F-5E-3",
+                                        ["unitId"] = 3135960,
+                                        ["rate"] = 30,
+                                        ["y"] = -33831.508821241,
+                                        ["x"] = 65009.940678714,
+                                        ["name"] = "DictKey_GroupName_674",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33831.508821241,
+                                ["x"] = 65009.940678714,
+                                ["name"] = "DictKey_GroupName_674",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33778.943843343,
+                                            ["speed"] = 0,
+                                            ["x"] = 65055.628707715,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973099,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "IR IRIAF Camo",
+                                        ["category"] = "Planes",
+                                        ["type"] = "F-5E-3",
+                                        ["unitId"] = 3135996,
+                                        ["rate"] = 30,
+                                        ["y"] = -33778.943843343,
+                                        ["x"] = 65055.628707715,
+                                        ["name"] = "DictKey_GroupName_677",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33778.943843343,
+                                ["x"] = 65055.628707715,
+                                ["name"] = "DictKey_GroupName_677",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [2]
+                            [3] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33724.572004963,
+                                            ["speed"] = 0,
+                                            ["x"] = 65101.0188851,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973100,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "IR IRIAF Camo",
+                                        ["category"] = "Planes",
+                                        ["type"] = "F-5E-3",
+                                        ["unitId"] = 3135997,
+                                        ["rate"] = 30,
+                                        ["y"] = -33724.572004963,
+                                        ["x"] = 65101.0188851,
+                                        ["name"] = "DictKey_GroupName_680",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33724.572004963,
+                                ["x"] = 65101.0188851,
+                                ["name"] = "DictKey_GroupName_680",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [3]
+                            [4] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33670.973558542,
+                                            ["speed"] = 0,
+                                            ["x"] = 65142.725872506,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973101,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "IR IRIAF Camo",
+                                        ["category"] = "Planes",
+                                        ["type"] = "F-5E-3",
+                                        ["unitId"] = 3135998,
+                                        ["rate"] = 30,
+                                        ["y"] = -33670.973558542,
+                                        ["x"] = 65142.725872506,
+                                        ["name"] = "DictKey_GroupName_683",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33670.973558542,
+                                ["x"] = 65142.725872506,
+                                ["name"] = "DictKey_GroupName_683",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [4]
+                        }, -- end of ["group"]
+                    }, -- end of ["static"]
+                    ["name"] = "Iran",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 0,
+                    ["name"] = "Russia",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 7,
+                    ["static"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33821.440340904,
+                                            ["speed"] = 0,
+                                            ["x"] = 65009.397489456,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973078,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 3200,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "iso_container_small_cargo",
+                                        ["type"] = "iso_container_small",
+                                        ["unitId"] = 3135975,
+                                        ["rate"] = 100,
+                                        ["y"] = -33821.440340904,
+                                        ["x"] = 65009.397489456,
+                                        ["name"] = "DictKey_GroupName_686",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33821.440340904,
+                                ["x"] = 65009.397489456,
+                                ["name"] = "DictKey_GroupName_686",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33827.268912333,
+                                            ["speed"] = 0,
+                                            ["x"] = 65015.397489456,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973079,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "IRIAF - Standard",
+                                        ["mass"] = 1500,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "ammo_box_cargo",
+                                        ["type"] = "ammo_cargo",
+                                        ["unitId"] = 3135976,
+                                        ["rate"] = 100,
+                                        ["y"] = -33827.268912333,
+                                        ["x"] = 65015.397489456,
+                                        ["name"] = "DictKey_GroupName_689",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33827.268912333,
+                                ["x"] = 65015.397489456,
+                                ["name"] = "DictKey_GroupName_689",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [2]
+                            [3] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33825.468912333,
+                                            ["speed"] = 0,
+                                            ["x"] = 65013.626060884,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973080,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 2400,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "fueltank_cargo",
+                                        ["type"] = "fueltank_cargo",
+                                        ["unitId"] = 3135977,
+                                        ["rate"] = 100,
+                                        ["y"] = -33825.468912333,
+                                        ["x"] = 65013.626060884,
+                                        ["name"] = "DictKey_GroupName_692",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33825.468912333,
+                                ["x"] = 65013.626060884,
+                                ["name"] = "DictKey_GroupName_692",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [3]
+                            [4] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33823.897483762,
+                                            ["speed"] = 0,
+                                            ["x"] = 65011.340346598,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973081,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 840,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "m117_cargo",
+                                        ["type"] = "m117_cargo",
+                                        ["unitId"] = 3135978,
+                                        ["rate"] = 100,
+                                        ["y"] = -33823.897483762,
+                                        ["x"] = 65011.340346598,
+                                        ["name"] = "DictKey_GroupName_695",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33823.897483762,
+                                ["x"] = 65011.340346598,
+                                ["name"] = "DictKey_GroupName_695",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [4]
+                            [5] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33828.211769476,
+                                            ["speed"] = 0,
+                                            ["x"] = 65016.568918027,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973082,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "IRIAF - Standard",
+                                        ["mass"] = 1500,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "ammo_box_cargo",
+                                        ["type"] = "ammo_cargo",
+                                        ["unitId"] = 3135979,
+                                        ["rate"] = 100,
+                                        ["y"] = -33828.211769476,
+                                        ["x"] = 65016.568918027,
+                                        ["name"] = "DictKey_GroupName_698",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33828.211769476,
+                                ["x"] = 65016.568918027,
+                                ["name"] = "DictKey_GroupName_698",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [5]
+                            [6] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33768.136325878,
+                                            ["speed"] = 0,
+                                            ["x"] = 65054.993781055,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973083,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 3200,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "iso_container_small_cargo",
+                                        ["type"] = "iso_container_small",
+                                        ["unitId"] = 3135980,
+                                        ["rate"] = 100,
+                                        ["y"] = -33768.136325878,
+                                        ["x"] = 65054.993781055,
+                                        ["name"] = "DictKey_GroupName_701",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33768.136325878,
+                                ["x"] = 65054.993781055,
+                                ["name"] = "DictKey_GroupName_701",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [6]
+                            [7] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33773.964897306,
+                                            ["speed"] = 0,
+                                            ["x"] = 65060.993781055,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973084,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "IRIAF - Standard",
+                                        ["mass"] = 1500,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "ammo_box_cargo",
+                                        ["type"] = "ammo_cargo",
+                                        ["unitId"] = 3135981,
+                                        ["rate"] = 100,
+                                        ["y"] = -33773.964897306,
+                                        ["x"] = 65060.993781055,
+                                        ["name"] = "DictKey_GroupName_704",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33773.964897306,
+                                ["x"] = 65060.993781055,
+                                ["name"] = "DictKey_GroupName_704",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [7]
+                            [8] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33772.164897306,
+                                            ["speed"] = 0,
+                                            ["x"] = 65059.222352484,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973085,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 2400,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "fueltank_cargo",
+                                        ["type"] = "fueltank_cargo",
+                                        ["unitId"] = 3135982,
+                                        ["rate"] = 100,
+                                        ["y"] = -33772.164897306,
+                                        ["x"] = 65059.222352484,
+                                        ["name"] = "DictKey_GroupName_707",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33772.164897306,
+                                ["x"] = 65059.222352484,
+                                ["name"] = "DictKey_GroupName_707",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [8]
+                            [9] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33770.593468735,
+                                            ["speed"] = 0,
+                                            ["x"] = 65056.936638198,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973086,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 840,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "m117_cargo",
+                                        ["type"] = "m117_cargo",
+                                        ["unitId"] = 3135983,
+                                        ["rate"] = 100,
+                                        ["y"] = -33770.593468735,
+                                        ["x"] = 65056.936638198,
+                                        ["name"] = "DictKey_GroupName_710",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33770.593468735,
+                                ["x"] = 65056.936638198,
+                                ["name"] = "DictKey_GroupName_710",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [9]
+                            [10] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33774.907754449,
+                                            ["speed"] = 0,
+                                            ["x"] = 65062.165209627,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973087,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "IRIAF - Standard",
+                                        ["mass"] = 1500,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "ammo_box_cargo",
+                                        ["type"] = "ammo_cargo",
+                                        ["unitId"] = 3135984,
+                                        ["rate"] = 100,
+                                        ["y"] = -33774.907754449,
+                                        ["x"] = 65062.165209627,
+                                        ["name"] = "DictKey_GroupName_713",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33774.907754449,
+                                ["x"] = 65062.165209627,
+                                ["name"] = "DictKey_GroupName_713",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [10]
+                            [11] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33714.066287183,
+                                            ["speed"] = 0,
+                                            ["x"] = 65099.961115085,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973088,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 3200,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "iso_container_small_cargo",
+                                        ["type"] = "iso_container_small",
+                                        ["unitId"] = 3135985,
+                                        ["rate"] = 100,
+                                        ["y"] = -33714.066287183,
+                                        ["x"] = 65099.961115085,
+                                        ["name"] = "DictKey_GroupName_716",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33714.066287183,
+                                ["x"] = 65099.961115085,
+                                ["name"] = "DictKey_GroupName_716",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [11]
+                            [12] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33719.894858611,
+                                            ["speed"] = 0,
+                                            ["x"] = 65105.961115085,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973089,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "IRIAF - Standard",
+                                        ["mass"] = 1500,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "ammo_box_cargo",
+                                        ["type"] = "ammo_cargo",
+                                        ["unitId"] = 3135986,
+                                        ["rate"] = 100,
+                                        ["y"] = -33719.894858611,
+                                        ["x"] = 65105.961115085,
+                                        ["name"] = "DictKey_GroupName_719",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33719.894858611,
+                                ["x"] = 65105.961115085,
+                                ["name"] = "DictKey_GroupName_719",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [12]
+                            [13] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33718.094858611,
+                                            ["speed"] = 0,
+                                            ["x"] = 65104.189686513,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973090,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 2400,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "fueltank_cargo",
+                                        ["type"] = "fueltank_cargo",
+                                        ["unitId"] = 3135987,
+                                        ["rate"] = 100,
+                                        ["y"] = -33718.094858611,
+                                        ["x"] = 65104.189686513,
+                                        ["name"] = "DictKey_GroupName_722",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33718.094858611,
+                                ["x"] = 65104.189686513,
+                                ["name"] = "DictKey_GroupName_722",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [13]
+                            [14] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33716.52343004,
+                                            ["speed"] = 0,
+                                            ["x"] = 65101.903972228,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973091,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 840,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "m117_cargo",
+                                        ["type"] = "m117_cargo",
+                                        ["unitId"] = 3135988,
+                                        ["rate"] = 100,
+                                        ["y"] = -33716.52343004,
+                                        ["x"] = 65101.903972228,
+                                        ["name"] = "DictKey_GroupName_725",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33716.52343004,
+                                ["x"] = 65101.903972228,
+                                ["name"] = "DictKey_GroupName_725",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [14]
+                            [15] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33720.837715754,
+                                            ["speed"] = 0,
+                                            ["x"] = 65107.132543656,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973092,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "IRIAF - Standard",
+                                        ["mass"] = 1500,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "ammo_box_cargo",
+                                        ["type"] = "ammo_cargo",
+                                        ["unitId"] = 3135989,
+                                        ["rate"] = 100,
+                                        ["y"] = -33720.837715754,
+                                        ["x"] = 65107.132543656,
+                                        ["name"] = "DictKey_GroupName_728",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33720.837715754,
+                                ["x"] = 65107.132543656,
+                                ["name"] = "DictKey_GroupName_728",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [15]
+                            [16] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33660.581913813,
+                                            ["speed"] = 0,
+                                            ["x"] = 65143.254282337,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973093,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 3200,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "iso_container_small_cargo",
+                                        ["type"] = "iso_container_small",
+                                        ["unitId"] = 3135990,
+                                        ["rate"] = 100,
+                                        ["y"] = -33660.581913813,
+                                        ["x"] = 65143.254282337,
+                                        ["name"] = "DictKey_GroupName_731",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33660.581913813,
+                                ["x"] = 65143.254282337,
+                                ["name"] = "DictKey_GroupName_731",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [16]
+                            [17] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33666.410485242,
+                                            ["speed"] = 0,
+                                            ["x"] = 65149.254282337,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973094,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "IRIAF - Standard",
+                                        ["mass"] = 1500,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "ammo_box_cargo",
+                                        ["type"] = "ammo_cargo",
+                                        ["unitId"] = 3135991,
+                                        ["rate"] = 100,
+                                        ["y"] = -33666.410485242,
+                                        ["x"] = 65149.254282337,
+                                        ["name"] = "DictKey_GroupName_734",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33666.410485242,
+                                ["x"] = 65149.254282337,
+                                ["name"] = "DictKey_GroupName_734",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [17]
+                            [18] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33664.610485242,
+                                            ["speed"] = 0,
+                                            ["x"] = 65147.482853765,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973095,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 2400,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "fueltank_cargo",
+                                        ["type"] = "fueltank_cargo",
+                                        ["unitId"] = 3135992,
+                                        ["rate"] = 100,
+                                        ["y"] = -33664.610485242,
+                                        ["x"] = 65147.482853765,
+                                        ["name"] = "DictKey_GroupName_737",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33664.610485242,
+                                ["x"] = 65147.482853765,
+                                ["name"] = "DictKey_GroupName_737",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [18]
+                            [19] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33663.039056671,
+                                            ["speed"] = 0,
+                                            ["x"] = 65145.197139479,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973096,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 840,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "m117_cargo",
+                                        ["type"] = "m117_cargo",
+                                        ["unitId"] = 3135993,
+                                        ["rate"] = 100,
+                                        ["y"] = -33663.039056671,
+                                        ["x"] = 65145.197139479,
+                                        ["name"] = "DictKey_GroupName_740",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33663.039056671,
+                                ["x"] = 65145.197139479,
+                                ["name"] = "DictKey_GroupName_740",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [19]
+                            [20] = 
+                            {
+                                ["heading"] = 2.460914245312,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33667.353342385,
+                                            ["speed"] = 0,
+                                            ["x"] = 65150.425710908,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 973097,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "IRIAF - Standard",
+                                        ["mass"] = 1500,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "ammo_box_cargo",
+                                        ["type"] = "ammo_cargo",
+                                        ["unitId"] = 3135994,
+                                        ["rate"] = 100,
+                                        ["y"] = -33667.353342385,
+                                        ["x"] = 65150.425710908,
+                                        ["name"] = "DictKey_GroupName_743",
+                                        ["heading"] = 2.460914245312,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33667.353342385,
+                                ["x"] = 65150.425710908,
+                                ["name"] = "DictKey_GroupName_743",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [20]
+                        }, -- end of ["group"]
+                    }, -- end of ["static"]
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [11]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "Qeshm OCA Tigers",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_GroupName_647"] = "Ammo #008",
+            ["DictKey_UnitName_72"] = "Ammo #002",
+            ["DictKey_GroupName_563"] = "Oiltank",
+            ["DictKey_UnitName_156"] = "Ammo #002",
+            ["DictKey_GroupName_29"] = "ABU MUSA - OCA Targets #005",
+            ["DictKey_GroupName_23"] = "ABU MUSA - OCA Targets #003",
+            ["DictKey_GroupName_125"] = "ISO container small #006",
+            ["DictKey_GroupName_497"] = "Ammo #003",
+            ["DictKey_GroupName_65"] = "Primary Destroyed OCA #001",
+            ["DictKey_UnitName_594"] = "M117 bombs",
+            ["DictKey_GroupName_623"] = "M117 bombs #002",
+            ["DictKey_GroupName_137"] = "ISO container small #001",
+            ["DictKey_UnitName_642"] = "Ammo #007",
+            ["DictKey_WptName_247"] = "",
+            ["DictKey_UnitName_192"] = "M117 bombs #008",
+            ["DictKey_GroupName_380"] = "Ammo #003",
+            ["DictKey_WptName_205"] = "",
+            ["DictKey_WptName_124"] = "",
+            ["DictKey_UnitName_90"] = "Oiltank #004",
+            ["DictKey_UnitName_327"] = "Ammo #003",
+            ["DictKey_GroupName_44"] = "ABU MUSA - OCA Targets #007",
+            ["DictKey_GroupName_728"] = "Ammo #009",
+            ["DictKey_UnitName_417"] = "Ammo #003",
+            ["DictKey_WptName_109"] = "",
+            ["DictKey_UnitName_336"] = "ISO container small #001",
+            ["DictKey_GroupName_398"] = "Primary Destroyed OCA #002",
+            ["DictKey_UnitName_348"] = "New Static Object #001",
+            ["DictKey_UnitName_720"] = "Ammo #008",
+            ["DictKey_UnitName_69"] = "M117 bombs #002",
+            ["DictKey_WptName_25"] = "",
+            ["DictKey_GroupName_719"] = "Ammo #008",
+            ["DictKey_WptName_178"] = "",
+            ["DictKey_WptName_85"] = "",
+            ["DictKey_UnitName_249"] = "Ammo #001",
+            ["DictKey_GroupName_536"] = "M117 bombs #003",
+            ["DictKey_GroupName_146"] = "Primary Destroyed OCA #001",
+            ["DictKey_GroupName_584"] = "Ammo",
+            ["DictKey_GroupName_260"] = "Primary Destroyed OCA #001",
+            ["DictKey_UnitName_48"] = "ABU MUSA - OCA Targets #008",
+            ["DictKey_WptName_715"] = "",
+            ["DictKey_GroupName_689"] = "Ammo #004",
+            ["DictKey_WptName_268"] = "",
+            ["DictKey_GroupName_464"] = "Primary Destroyed OCA #001",
+            ["DictKey_GroupName_356"] = "Ammo #002",
+            ["DictKey_UnitName_663"] = "Ammo #010",
+            ["DictKey_WptName_286"] = "",
+            ["DictKey_WptName_427"] = "",
+            ["DictKey_UnitName_153"] = "M117 bombs #002",
+            ["DictKey_UnitName_618"] = "Ammo #004",
+            ["DictKey_UnitName_648"] = "Ammo #008",
+            ["DictKey_UnitName_270"] = "ISO container small #006",
+            ["DictKey_GroupName_386"] = "M117 bombs #003",
+            ["DictKey_UnitName_726"] = "M117 bombs #004",
+            ["DictKey_UnitName_696"] = "M117 bombs #002",
+            ["DictKey_GroupName_383"] = "ISO container small #003",
+            ["DictKey_UnitName_15"] = "ABU MUSA - OCA Targets #001",
+            ["DictKey_GroupName_515"] = "Ammo #004",
+            ["DictKey_GroupName_518"] = "Fueltank #002",
+            ["DictKey_GroupName_632"] = "Ammo #006",
+            ["DictKey_WptName_670"] = "",
+            ["DictKey_GroupName_296"] = "M117 bombs #002",
+            ["DictKey_WptName_244"] = "",
+            ["DictKey_WptName_439"] = "",
+            ["DictKey_UnitName_186"] = "ISO container small #005",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_WptName_457"] = "",
+            ["DictKey_WptName_628"] = "",
+            ["DictKey_UnitName_201"] = "ISO container small #006",
+            ["DictKey_GroupName_83"] = "Ammo #003",
+            ["DictKey_GroupName_452"] = "Ammo #003",
+            ["DictKey_WptName_67"] = "",
+            ["DictKey_WptName_727"] = "",
+            ["DictKey_UnitName_309"] = "New Static Object #002",
+            ["DictKey_UnitName_612"] = "Ammo #003",
+            ["DictKey_WptName_595"] = "",
+            ["DictKey_UnitName_537"] = "M117 bombs #003",
+            ["DictKey_UnitName_507"] = "New Static Object #002",
+            ["DictKey_UnitName_495"] = "Oiltank #002",
+            ["DictKey_WptName_604"] = "",
+            ["DictKey_WptName_19"] = "",
+            ["DictKey_GroupName_458"] = "Ammo #004",
+            ["DictKey_GroupName_527"] = "ISO container small #004",
+            ["DictKey_UnitName_267"] = "M117 bombs #006",
+            ["DictKey_WptName_586"] = "",
+            ["DictKey_UnitName_210"] = "Ammo #001",
+            ["DictKey_UnitName_435"] = "New Static Object #002",
+            ["DictKey_GroupName_248"] = "Ammo #001",
+            ["DictKey_WptName_487"] = "",
+            ["DictKey_UnitName_741"] = "M117 bombs #005",
+            ["DictKey_UnitName_735"] = "Ammo #010",
+            ["DictKey_WptName_160"] = "",
+            ["DictKey_GroupName_683"] = "Primary Destroyed OCA #003",
+            ["DictKey_UnitName_486"] = "Ammo #001",
+            ["DictKey_UnitName_690"] = "Ammo #004",
+            ["DictKey_GroupName_680"] = "Primary Destroyed OCA #002",
+            ["DictKey_GroupName_707"] = "Fueltank #003",
+            ["DictKey_GroupName_347"] = "Primary Destroyed OCA #001",
+            ["DictKey_GroupName_320"] = "M117 bombs #001",
+            ["DictKey_WptName_532"] = "",
+            ["DictKey_UnitName_564"] = "Oiltank",
+            ["DictKey_UnitName_294"] = "Ammo #001",
+            ["DictKey_WptName_478"] = "",
+            ["DictKey_UnitName_414"] = "M117 bombs #003",
+            ["DictKey_GroupName_485"] = "Ammo #001",
+            ["DictKey_UnitName_165"] = "M117 bombs #003",
+            ["DictKey_GroupName_671"] = "Ammo #011",
+            ["DictKey_GroupName_206"] = "Ammo #004",
+            ["DictKey_WptName_370"] = "",
+            ["DictKey_WptName_745"] = "",
+            ["DictKey_GroupName_587"] = "Ammo #001",
+            ["DictKey_GroupName_134"] = "Ammo #001",
+            ["DictKey_UnitName_225"] = "Ammo #004",
+            ["DictKey_WptName_724"] = "",
+            ["DictKey_GroupName_404"] = "Ammo #001",
+            ["DictKey_UnitName_729"] = "Ammo #009",
+            ["DictKey_GroupName_218"] = "ISO container small #006",
+            ["DictKey_UnitName_147"] = "New Static Object #002",
+            ["DictKey_UnitName_510"] = "New Static Object #001",
+            ["DictKey_GroupName_266"] = "M117 bombs #006",
+            ["DictKey_GroupName_92"] = "ISO container small #001",
+            ["DictKey_WptName_631"] = "",
+            ["DictKey_UnitName_708"] = "Fueltank #003",
+            ["DictKey_UnitName_228"] = "New Static Object #001",
+            ["DictKey_GroupName_236"] = "Ammo #002",
+            ["DictKey_UnitName_561"] = "M117 bombs #005",
+            ["DictKey_WptName_49"] = "",
+            ["DictKey_UnitName_411"] = "Ammo #002",
+            ["DictKey_UnitName_321"] = "M117 bombs #001",
+            ["DictKey_UnitName_546"] = "ISO container small #001",
+            ["DictKey_GroupName_461"] = "Primary Destroyed OCA #002",
+            ["DictKey_GroupName_110"] = "M117 bombs #004",
+            ["DictKey_WptName_472"] = "",
+            ["DictKey_WptName_415"] = "",
+            ["DictKey_GroupName_674"] = "Primary Destroyed OCA",
+            ["DictKey_UnitName_384"] = "ISO container small #003",
+            ["DictKey_WptName_280"] = "",
+            ["DictKey_UnitName_264"] = "New Static Object #002",
+            ["DictKey_GroupName_335"] = "ISO container small #001",
+            ["DictKey_GroupName_278"] = "Oiltank #002",
+            ["DictKey_WptName_307"] = "",
+            ["DictKey_UnitName_129"] = "M117 bombs #006",
+            ["DictKey_UnitName_252"] = "M117 bombs #002",
+            ["DictKey_UnitName_51"] = "ABU MUSA - OCA Targets #009",
+            ["DictKey_UnitName_672"] = "Ammo #011",
+            ["DictKey_UnitName_387"] = "M117 bombs #003",
+            ["DictKey_UnitName_498"] = "Ammo #003",
+            ["DictKey_GroupName_344"] = "Primary Destroyed OCA",
+            ["DictKey_GroupName_698"] = "Ammo #005",
+            ["DictKey_GroupName_662"] = "Ammo #010",
+            ["DictKey_GroupName_263"] = "Primary Destroyed OCA #002",
+            ["DictKey_UnitName_396"] = "New Static Object #002",
+            ["DictKey_GroupName_650"] = "Fueltank #004",
+            ["DictKey_UnitName_150"] = "New Static Object #003",
+            ["DictKey_WptName_76"] = "",
+            ["DictKey_UnitName_291"] = "Oiltank #003",
+            ["DictKey_UnitName_570"] = "New Static Object #002",
+            ["DictKey_WptName_475"] = "",
+            ["DictKey_WptName_100"] = "",
+            ["DictKey_WptName_112"] = "",
+            ["DictKey_GroupName_230"] = "Primary Destroyed OCA #002",
+            ["DictKey_GroupName_338"] = "Ammo #004",
+            ["DictKey_WptName_241"] = "",
+            ["DictKey_GroupName_677"] = "Primary Destroyed OCA #001",
+            ["DictKey_UnitName_732"] = "ISO container small #006",
+            ["DictKey_WptName_541"] = "",
+            ["DictKey_GroupName_224"] = "Ammo #004",
+            ["DictKey_WptName_736"] = "",
+            ["DictKey_GroupName_176"] = "Primary Destroyed OCA #001",
+            ["DictKey_WptName_211"] = "",
+            ["DictKey_WptName_424"] = "",
+            ["DictKey_WptName_166"] = "",
+            ["DictKey_UnitName_420"] = "M117 bombs #004",
+            ["DictKey_UnitName_168"] = "Ammo #003",
+            ["DictKey_WptName_169"] = "",
+            ["DictKey_UnitName_483"] = "Oiltank #001",
+            ["DictKey_UnitName_711"] = "M117 bombs #003",
+            ["DictKey_GroupName_410"] = "Ammo #002",
+            ["DictKey_UnitName_288"] = "ISO container small #001",
+            ["DictKey_GroupName_542"] = "Primary Destroyed OCA",
+            ["DictKey_WptName_40"] = "",
+            ["DictKey_WptName_625"] = "",
+            ["DictKey_WptName_331"] = "",
+            ["DictKey_GroupName_254"] = "ISO container small #002",
+            ["DictKey_GroupName_695"] = "M117 bombs #002",
+            ["DictKey_UnitName_444"] = "M117 bombs #002",
+            ["DictKey_WptName_355"] = "",
+            ["DictKey_WptName_721"] = "",
+            ["DictKey_GroupName_86"] = "ISO container small #003",
+            ["DictKey_WptName_151"] = "",
+            ["DictKey_UnitName_405"] = "Ammo #001",
+            ["DictKey_GroupName_599"] = "ISO container small #002",
+            ["DictKey_WptName_496"] = "",
+            ["DictKey_UnitName_111"] = "M117 bombs #004",
+            ["DictKey_GroupName_359"] = "ISO container small #002",
+            ["DictKey_UnitName_468"] = "New Static Object #003",
+            ["DictKey_UnitName_555"] = "M117 bombs #001",
+            ["DictKey_UnitName_687"] = "ISO container small #003",
+            ["DictKey_GroupName_422"] = "Ammo #004",
+            ["DictKey_UnitName_597"] = "ISO container small #001",
+            ["DictKey_UnitName_240"] = "M117 bombs #001",
+            ["DictKey_UnitName_27"] = "ABU MUSA - OCA Targets #006",
+            ["DictKey_WptName_343"] = "",
+            ["DictKey_GroupName_713"] = "Ammo #007",
+            ["DictKey_GroupName_614"] = "ISO container small #003",
+            ["DictKey_UnitName_189"] = "M117 bombs #007",
+            ["DictKey_WptName_130"] = "",
+            ["DictKey_WptName_223"] = "",
+            ["DictKey_WptName_739"] = "",
+            ["DictKey_GroupName_530"] = "Ammo #006",
+            ["DictKey_UnitName_81"] = "M117 bombs #003",
+            ["DictKey_UnitName_432"] = "New Static Object #003",
+            ["DictKey_GroupName_350"] = "Primary Destroyed OCA #002",
+            ["DictKey_GroupName_203"] = "Oiltank #001",
+            ["DictKey_UnitName_516"] = "Ammo #004",
+            ["DictKey_WptName_718"] = "",
+            ["DictKey_UnitName_30"] = "ABU MUSA - OCA Targets #005",
+            ["DictKey_UnitName_84"] = "Ammo #003",
+            ["DictKey_WptName_154"] = "",
+            ["DictKey_WptName_367"] = "",
+            ["DictKey_GroupName_197"] = "M117 bombs #009",
+            ["DictKey_UnitName_60"] = "New Static Object #001",
+            ["DictKey_WptName_175"] = "",
+            ["DictKey_UnitName_582"] = "New Static Object #006",
+            ["DictKey_WptName_277"] = "",
+            ["DictKey_WptName_322"] = "",
+            ["DictKey_WptName_442"] = "",
+            ["DictKey_WptName_661"] = "",
+            ["DictKey_WptName_202"] = "",
+            ["DictKey_GroupName_68"] = "M117 bombs #002",
+            ["DictKey_WptName_253"] = "",
+            ["DictKey_GroupName_131"] = "Oiltank #001",
+            ["DictKey_UnitName_279"] = "Oiltank #002",
+            ["DictKey_UnitName_513"] = "ISO container small #003",
+            ["DictKey_WptName_337"] = "",
+            ["DictKey_WptName_352"] = "",
+            ["DictKey_UnitName_354"] = "Oiltank #003",
+            ["DictKey_WptName_571"] = "",
+            ["DictKey_UnitName_45"] = "ABU MUSA - OCA Targets #007",
+            ["DictKey_WptName_115"] = "",
+            ["DictKey_GroupName_737"] = "Fueltank #005",
+            ["DictKey_UnitName_126"] = "ISO container small #006",
+            ["DictKey_GroupName_371"] = "ISO container small #001",
+            ["DictKey_GroupName_557"] = "M117 bombs #004",
+            ["DictKey_GroupName_209"] = "Ammo #001",
+            ["DictKey_UnitName_243"] = "ISO container small #001",
+            ["DictKey_UnitName_366"] = "Oiltank #001",
+            ["DictKey_WptName_64"] = "",
+            ["DictKey_UnitName_429"] = "New Static Object #001",
+            ["DictKey_GroupName_188"] = "M117 bombs #007",
+            ["DictKey_UnitName_255"] = "ISO container small #002",
+            ["DictKey_WptName_574"] = "",
+            ["DictKey_GroupName_101"] = "Oiltank #001",
+            ["DictKey_WptName_79"] = "",
+            ["DictKey_WptName_733"] = "",
+            ["DictKey_GroupName_167"] = "Ammo #003",
+            ["DictKey_GroupName_482"] = "Oiltank #001",
+            ["DictKey_WptName_703"] = "",
+            ["DictKey_GroupName_14"] = "Primary Destroyed OCA #001",
+            ["DictKey_GroupName_251"] = "M117 bombs #002",
+            ["DictKey_UnitName_273"] = "Oiltank #001",
+            ["DictKey_UnitName_381"] = "Ammo #003",
+            ["DictKey_UnitName_339"] = "Ammo #004",
+            ["DictKey_GroupName_554"] = "M117 bombs #001",
+            ["DictKey_UnitName_276"] = "Ammo #004",
+            ["DictKey_UnitName_375"] = "M117 bombs #001",
+            ["DictKey_UnitName_645"] = "ISO container small #005",
+            ["DictKey_GroupName_725"] = "M117 bombs #004",
+            ["DictKey_GroupName_287"] = "ISO container small #001",
+            ["DictKey_WptName_652"] = "",
+            ["DictKey_WptName_133"] = "",
+            ["DictKey_GroupName_644"] = "ISO container small #005",
+            ["DictKey_GroupName_353"] = "Oiltank #003",
+            ["DictKey_WptName_301"] = "",
+            ["DictKey_UnitName_174"] = "Oiltank #004",
+            ["DictKey_UnitName_177"] = "New Static Object #002",
+            ["DictKey_GroupName_590"] = "Fueltank",
+            ["DictKey_GroupName_437"] = "M117 bombs #001",
+            ["DictKey_GroupName_413"] = "M117 bombs #003",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_GroupName_128"] = "M117 bombs #006",
+            ["DictKey_WptName_562"] = "",
+            ["DictKey_GroupName_182"] = "M117 bombs #006",
+            ["DictKey_WptName_619"] = "",
+            ["DictKey_WptName_34"] = "",
+            ["DictKey_UnitName_8"] = "Unit #012",
+            ["DictKey_WptName_361"] = "",
+            ["DictKey_WptName_694"] = "",
+            ["DictKey_GroupName_11"] = "Primary Destroyed OCA",
+            ["DictKey_UnitName_297"] = "M117 bombs #002",
+            ["DictKey_WptName_310"] = "",
+            ["DictKey_GroupName_17"] = "Primary Destroyed OCA #002",
+            ["DictKey_UnitName_702"] = "ISO container small #004",
+            ["DictKey_UnitName_456"] = "M117 bombs #004",
+            ["DictKey_GroupName_47"] = "ABU MUSA - OCA Targets #008",
+            ["DictKey_UnitName_360"] = "ISO container small #002",
+            ["DictKey_GroupName_500"] = "ISO container small #003",
+            ["DictKey_GroupName_716"] = "ISO container small #005",
+            ["DictKey_GroupName_593"] = "M117 bombs",
+            ["DictKey_WptName_637"] = "",
+            ["DictKey_WptName_430"] = "",
+            ["DictKey_UnitName_12"] = "ABU MUSA - OCA Targets",
+            ["DictKey_GroupName_113"] = "Oiltank #002",
+            ["DictKey_UnitName_378"] = "Oiltank #002",
+            ["DictKey_GroupName_212"] = "M117 bombs #006",
+            ["DictKey_UnitName_573"] = "New Static Object #003",
+            ["DictKey_WptName_43"] = "",
+            ["DictKey_UnitName_312"] = "Ammo #002",
+            ["DictKey_WptName_13"] = "",
+            ["DictKey_UnitName_345"] = "New Static Object #003",
+            ["DictKey_GroupName_368"] = "Ammo #001",
+            ["DictKey_UnitName_615"] = "ISO container small #003",
+            ["DictKey_WptName_217"] = "",
+            ["DictKey_UnitName_681"] = "New Static Object #003",
+            ["DictKey_UnitName_258"] = "New Static Object #004",
+            ["DictKey_WptName_181"] = "",
+            ["DictKey_GroupName_290"] = "Oiltank #003",
+            ["DictKey_GroupName_479"] = "M117 bombs #002",
+            ["DictKey_GroupName_242"] = "ISO container small #001",
+            ["DictKey_UnitName_453"] = "Ammo #003",
+            ["DictKey_GroupName_392"] = "Primary Destroyed OCA",
+            ["DictKey_UnitName_315"] = "M117 bombs #002",
+            ["DictKey_WptName_187"] = "",
+            ["DictKey_GroupName_617"] = "Ammo #004",
+            ["DictKey_UnitName_171"] = "ISO container small #003",
+            ["DictKey_WptName_289"] = "",
+            ["DictKey_UnitName_654"] = "M117 bombs #004",
+            ["DictKey_GroupName_119"] = "Primary Destroyed OCA #001",
+            ["DictKey_GroupName_560"] = "M117 bombs #005",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_WptName_55"] = "",
+            ["DictKey_GroupName_50"] = "ABU MUSA - OCA Targets #009",
+            ["DictKey_UnitName_669"] = "M117 bombs #005",
+            ["DictKey_WptName_520"] = "",
+            ["DictKey_GroupName_20"] = "ABU MUSA - OCA Targets #004",
+            ["DictKey_WptName_601"] = "",
+            ["DictKey_GroupName_443"] = "M117 bombs #002",
+            ["DictKey_GroupName_53"] = "ABU MUSA - OCA Targets #010",
+            ["DictKey_GroupName_38"] = "ABU MUSA - OCA Targets #013",
+            ["DictKey_UnitName_231"] = "New Static Object #002",
+            ["DictKey_WptName_226"] = "",
+            ["DictKey_GroupName_179"] = "Primary Destroyed OCA #002",
+            ["DictKey_UnitName_93"] = "ISO container small #001",
+            ["DictKey_WptName_391"] = "",
+            ["DictKey_WptName_16"] = "",
+            ["DictKey_WptName_709"] = "",
+            ["DictKey_UnitName_636"] = "Fueltank #003",
+            ["DictKey_GroupName_419"] = "M117 bombs #004",
+            ["DictKey_UnitName_426"] = "New Static Object #004",
+            ["DictKey_WptName_418"] = "",
+            ["DictKey_UnitName_300"] = "ISO container small #002",
+            ["DictKey_GroupName_416"] = "Ammo #003",
+            ["DictKey_UnitName_261"] = "New Static Object #001",
+            ["DictKey_UnitName_198"] = "M117 bombs #009",
+            ["DictKey_UnitName_408"] = "M117 bombs #002",
+            ["DictKey_WptName_97"] = "",
+            ["DictKey_GroupName_476"] = "ISO container small #002",
+            ["DictKey_UnitName_351"] = "New Static Object #002",
+            ["DictKey_WptName_634"] = "",
+            ["DictKey_GroupName_308"] = "Primary Destroyed OCA #002",
+            ["DictKey_UnitName_237"] = "Ammo #002",
+            ["DictKey_WptName_172"] = "",
+            ["DictKey_GroupName_305"] = "Primary Destroyed OCA #001",
+            ["DictKey_UnitName_402"] = "M117 bombs #001",
+            ["DictKey_GroupName_155"] = "Ammo #002",
+            ["DictKey_WptName_157"] = "",
+            ["DictKey_WptName_358"] = "",
+            ["DictKey_WptName_685"] = "",
+            ["DictKey_UnitName_684"] = "New Static Object #004",
+            ["DictKey_GroupName_629"] = "ISO container small #004",
+            ["DictKey_WptName_265"] = "",
+            ["DictKey_WptName_556"] = "",
+            ["DictKey_GroupName_401"] = "M117 bombs #001",
+            ["DictKey_GroupName_116"] = "Primary Destroyed OCA",
+            ["DictKey_GroupName_395"] = "Primary Destroyed OCA #001",
+            ["DictKey_GroupName_152"] = "M117 bombs #002",
+            ["DictKey_GroupName_281"] = "Ammo #002",
+            ["DictKey_WptName_235"] = "",
+            ["DictKey_WptName_340"] = "",
+            ["DictKey_WptName_502"] = "",
+            ["DictKey_GroupName_311"] = "Ammo #002",
+            ["DictKey_UnitName_651"] = "Fueltank #004",
+            ["DictKey_WptName_262"] = "",
+            ["DictKey_UnitName_657"] = "Ammo #009",
+            ["DictKey_WptName_655"] = "",
+            ["DictKey_UnitName_567"] = "New Static Object #001",
+            ["DictKey_GroupName_269"] = "ISO container small #006",
+            ["DictKey_UnitName_369"] = "Ammo #001",
+            ["DictKey_UnitName_492"] = "M117 bombs #001",
+            ["DictKey_GroupName_653"] = "M117 bombs #004",
+            ["DictKey_GroupName_173"] = "Oiltank #004",
+            ["DictKey_WptName_682"] = "",
+            ["DictKey_WptName_529"] = "",
+            ["DictKey_WptName_664"] = "",
+            ["DictKey_GroupName_635"] = "Fueltank #003",
+            ["DictKey_WptName_250"] = "",
+            ["DictKey_WptName_259"] = "",
+            ["DictKey_UnitName_7"] = "Unit #013",
+            ["DictKey_WptName_121"] = "",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_WptName_460"] = "",
+            ["DictKey_UnitName_393"] = "New Static Object #001",
+            ["DictKey_GroupName_80"] = "M117 bombs #003",
+            ["DictKey_UnitName_246"] = "Oiltank #003",
+            ["DictKey_WptName_712"] = "",
+            ["DictKey_WptName_448"] = "",
+            ["DictKey_UnitName_318"] = "Ammo #001",
+            ["DictKey_WptName_106"] = "",
+            ["DictKey_GroupName_221"] = "Oiltank #001",
+            ["DictKey_WptName_163"] = "",
+            ["DictKey_UnitName_54"] = "ABU MUSA - OCA Targets #010",
+            ["DictKey_GroupName_158"] = "ISO container small #002",
+            ["DictKey_WptName_118"] = "",
+            ["DictKey_GroupName_626"] = "Ammo #005",
+            ["DictKey_WptName_208"] = "",
+            ["DictKey_WptName_334"] = "",
+            ["DictKey_GroupName_56"] = "ABU MUSA - OCA Targets #015",
+            ["DictKey_UnitName_624"] = "M117 bombs #002",
+            ["DictKey_GroupName_389"] = "Primary Destroyed OCA #003",
+            ["DictKey_WptName_643"] = "",
+            ["DictKey_GroupName_317"] = "Ammo #001",
+            ["DictKey_WptName_61"] = "",
+            ["DictKey_GroupName_362"] = "M117 bombs #002",
+            ["DictKey_GroupName_293"] = "Ammo #001",
+            ["DictKey_GroupName_194"] = "Primary Destroyed OCA",
+            ["DictKey_WptName_742"] = "",
+            ["DictKey_GroupName_191"] = "M117 bombs #008",
+            ["DictKey_WptName_613"] = "",
+            ["DictKey_UnitName_96"] = "Ammo #001",
+            ["DictKey_WptName_403"] = "",
+            ["DictKey_WptName_526"] = "",
+            ["DictKey_WptName_193"] = "",
+            ["DictKey_GroupName_26"] = "ABU MUSA - OCA Targets #006",
+            ["DictKey_GroupName_74"] = "ISO container small #002",
+            ["DictKey_WptName_409"] = "",
+            ["DictKey_GroupName_275"] = "Ammo #004",
+            ["DictKey_UnitName_24"] = "ABU MUSA - OCA Targets #003",
+            ["DictKey_GroupName_551"] = "M117 bombs",
+            ["DictKey_GroupName_122"] = "Ammo #004",
+            ["DictKey_WptName_139"] = "",
+            ["DictKey_UnitName_33"] = "ABU MUSA - OCA Targets #011",
+            ["DictKey_WptName_328"] = "",
+            ["DictKey_UnitName_714"] = "Ammo #007",
+            ["DictKey_UnitName_219"] = "ISO container small #006",
+            ["DictKey_WptName_700"] = "",
+            ["DictKey_GroupName_431"] = "Primary Destroyed OCA",
+            ["DictKey_UnitName_558"] = "M117 bombs #004",
+            ["DictKey_WptName_10"] = "",
+            ["DictKey_GroupName_566"] = "Primary Destroyed OCA #001",
+            ["DictKey_GroupName_104"] = "ISO container small #004",
+            ["DictKey_UnitName_234"] = "Oiltank #002",
+            ["DictKey_WptName_82"] = "",
+            ["DictKey_WptName_580"] = "",
+            ["DictKey_UnitName_204"] = "Oiltank #001",
+            ["DictKey_GroupName_668"] = "M117 bombs #005",
+            ["DictKey_GroupName_605"] = "Fueltank #001",
+            ["DictKey_UnitName_705"] = "Ammo #006",
+            ["DictKey_UnitName_438"] = "M117 bombs #001",
+            ["DictKey_WptName_412"] = "",
+            ["DictKey_WptName_616"] = "",
+            ["DictKey_GroupName_374"] = "M117 bombs #001",
+            ["DictKey_GroupName_377"] = "Oiltank #002",
+            ["DictKey_UnitName_222"] = "Oiltank #001",
+            ["DictKey_GroupName_407"] = "M117 bombs #002",
+            ["DictKey_WptName_256"] = "",
+            ["DictKey_GroupName_326"] = "Ammo #003",
+            ["DictKey_UnitName_489"] = "ISO container small #001",
+            ["DictKey_WptName_295"] = "",
+            ["DictKey_WptName_220"] = "",
+            ["DictKey_UnitName_120"] = "New Static Object #001",
+            ["DictKey_WptName_421"] = "",
+            ["DictKey_GroupName_332"] = "M117 bombs #003",
+            ["DictKey_UnitName_144"] = "Oiltank #002",
+            ["DictKey_UnitName_678"] = "New Static Object #001",
+            ["DictKey_UnitName_738"] = "Fueltank #005",
+            ["DictKey_WptName_583"] = "",
+            ["DictKey_WptName_31"] = "",
+            ["DictKey_UnitName_75"] = "ISO container small #002",
+            ["DictKey_UnitName_63"] = "New Static Object #002",
+            ["DictKey_UnitName_213"] = "M117 bombs #006",
+            ["DictKey_GroupName_62"] = "Primary Destroyed OCA",
+            ["DictKey_GroupName_59"] = "Primary Destroyed OCA #002",
+            ["DictKey_GroupName_164"] = "M117 bombs #003",
+            ["DictKey_GroupName_638"] = "M117 bombs #003",
+            ["DictKey_WptName_400"] = "",
+            ["DictKey_UnitName_660"] = "ISO container small #006",
+            ["DictKey_WptName_184"] = "",
+            ["DictKey_WptName_274"] = "",
+            ["DictKey_GroupName_686"] = "ISO container small #003",
+            ["DictKey_GroupName_596"] = "ISO container small #001",
+            ["DictKey_WptName_394"] = "",
+            ["DictKey_GroupName_299"] = "ISO container small #002",
+            ["DictKey_WptName_445"] = "",
+            ["DictKey_UnitName_423"] = "Ammo #004",
+            ["DictKey_UnitName_591"] = "Fueltank",
+            ["DictKey_UnitName_447"] = "Ammo #002",
+            ["DictKey_GroupName_659"] = "ISO container small #006",
+            ["DictKey_GroupName_71"] = "Ammo #002",
+            ["DictKey_WptName_535"] = "",
+            ["DictKey_GroupName_449"] = "M117 bombs #003",
+            ["DictKey_UnitName_717"] = "ISO container small #005",
+            ["DictKey_WptName_436"] = "",
+            ["DictKey_WptName_364"] = "",
+            ["DictKey_WptName_238"] = "",
+            ["DictKey_UnitName_462"] = "New Static Object #001",
+            ["DictKey_WptName_58"] = "",
+            ["DictKey_GroupName_77"] = "Oiltank #003",
+            ["DictKey_WptName_127"] = "",
+            ["DictKey_UnitName_42"] = "ABU MUSA - OCA Targets #014",
+            ["DictKey_GroupName_701"] = "ISO container small #004",
+            ["DictKey_UnitName_471"] = "Oiltank #003",
+            ["DictKey_WptName_22"] = "",
+            ["DictKey_WptName_577"] = "",
+            ["DictKey_WptName_466"] = "",
+            ["DictKey_GroupName_185"] = "ISO container small #005",
+            ["DictKey_GroupName_710"] = "M117 bombs #003",
+            ["DictKey_UnitName_744"] = "Ammo #011",
+            ["DictKey_WptName_463"] = "",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_WptName_145"] = "",
+            ["DictKey_WptName_469"] = "",
+            ["DictKey_WptName_706"] = "",
+            ["DictKey_UnitName_723"] = "Fueltank #004",
+            ["DictKey_UnitName_114"] = "Oiltank #002",
+            ["DictKey_GroupName_470"] = "Oiltank #003",
+            ["DictKey_UnitName_102"] = "Oiltank #001",
+            ["DictKey_WptName_382"] = "",
+            ["DictKey_GroupName_170"] = "ISO container small #003",
+            ["DictKey_UnitName_363"] = "M117 bombs #002",
+            ["DictKey_GroupName_473"] = "Ammo #002",
+            ["DictKey_UnitName_108"] = "Ammo #004",
+            ["DictKey_WptName_88"] = "",
+            ["DictKey_GroupName_704"] = "Ammo #006",
+            ["DictKey_WptName_406"] = "",
+            ["DictKey_UnitName_207"] = "Ammo #004",
+            ["DictKey_WptName_298"] = "",
+            ["DictKey_WptName_592"] = "",
+            ["DictKey_UnitName_606"] = "Fueltank #001",
+            ["DictKey_UnitName_477"] = "ISO container small #002",
+            ["DictKey_WptName_379"] = "",
+            ["DictKey_WptName_316"] = "",
+            ["DictKey_GroupName_227"] = "Primary Destroyed OCA #001",
+            ["DictKey_UnitName_66"] = "New Static Object #003",
+            ["DictKey_UnitName_105"] = "ISO container small #004",
+            ["DictKey_WptName_346"] = "",
+            ["DictKey_UnitName_141"] = "M117 bombs #001",
+            ["DictKey_UnitName_138"] = "ISO container small #001",
+            ["DictKey_GroupName_569"] = "Primary Destroyed OCA #002",
+            ["DictKey_UnitName_78"] = "Oiltank #003",
+            ["DictKey_WptName_304"] = "",
+            ["DictKey_UnitName_621"] = "Fueltank #002",
+            ["DictKey_GroupName_35"] = "ABU MUSA - OCA Targets #012",
+            ["DictKey_GroupName_143"] = "Oiltank #002",
+            ["DictKey_GroupName_440"] = "Ammo #001",
+            ["DictKey_UnitName_693"] = "Fueltank #002",
+            ["DictKey_WptName_325"] = "",
+            ["DictKey_UnitName_216"] = "New Static Object #004",
+            ["DictKey_WptName_190"] = "",
+            ["DictKey_UnitName_534"] = "Fueltank #003",
+            ["DictKey_GroupName_434"] = "Primary Destroyed OCA #001",
+            ["DictKey_WptName_622"] = "",
+            ["DictKey_UnitName_99"] = "M117 bombs #001",
+            ["DictKey_WptName_91"] = "",
+            ["DictKey_GroupName_743"] = "Ammo #011",
+            ["DictKey_WptName_676"] = "",
+            ["DictKey_UnitName_342"] = "M117 bombs #004",
+            ["DictKey_WptName_214"] = "",
+            ["DictKey_GroupName_488"] = "ISO container small #001",
+            ["DictKey_WptName_490"] = "",
+            ["DictKey_WptName_433"] = "",
+            ["DictKey_WptName_142"] = "",
+            ["DictKey_UnitName_666"] = "Fueltank #005",
+            ["DictKey_UnitName_450"] = "M117 bombs #003",
+            ["DictKey_UnitName_57"] = "ABU MUSA - OCA Targets #015",
+            ["DictKey_WptName_493"] = "",
+            ["DictKey_UnitName_522"] = "M117 bombs #002",
+            ["DictKey_GroupName_734"] = "Ammo #010",
+            ["DictKey_UnitName_519"] = "Fueltank #002",
+            ["DictKey_GroupName_521"] = "M117 bombs #002",
+            ["DictKey_UnitName_159"] = "ISO container small #002",
+            ["DictKey_WptName_73"] = "",
+            ["DictKey_WptName_544"] = "",
+            ["DictKey_UnitName_162"] = "Oiltank #003",
+            ["DictKey_UnitName_549"] = "ISO container small #002",
+            ["DictKey_WptName_136"] = "",
+            ["DictKey_UnitName_531"] = "Ammo #006",
+            ["DictKey_GroupName_506"] = "Primary Destroyed OCA #001",
+            ["DictKey_GroupName_329"] = "ISO container small #003",
+            ["DictKey_GroupName_32"] = "ABU MUSA - OCA Targets #011",
+            ["DictKey_WptName_508"] = "",
+            ["DictKey_GroupName_467"] = "Primary Destroyed OCA",
+            ["DictKey_WptName_292"] = "",
+            ["DictKey_UnitName_465"] = "New Static Object #002",
+            ["DictKey_WptName_148"] = "",
+            ["DictKey_GroupName_494"] = "Oiltank #002",
+            ["DictKey_GroupName_284"] = "M117 bombs #001",
+            ["DictKey_GroupName_6"] = "SIRRI ISLAND - Airbase Defence",
+            ["DictKey_UnitName_504"] = "M117 bombs #003",
+            ["DictKey_UnitName_180"] = "New Static Object #001",
+            ["DictKey_UnitName_117"] = "New Static Object #004",
+            ["DictKey_WptName_484"] = "",
+            ["DictKey_GroupName_200"] = "ISO container small #006",
+            ["DictKey_WptName_37"] = "",
+            ["DictKey_WptName_481"] = "",
+            ["DictKey_UnitName_357"] = "Ammo #002",
+            ["DictKey_GroupName_314"] = "M117 bombs #002",
+            ["DictKey_GroupName_215"] = "Primary Destroyed OCA",
+            ["DictKey_GroupName_41"] = "ABU MUSA - OCA Targets #014",
+            ["DictKey_WptName_70"] = "",
+            ["DictKey_WptName_94"] = "",
+            ["DictKey_GroupName_731"] = "ISO container small #006",
+            ["DictKey_UnitName_39"] = "ABU MUSA - OCA Targets #013",
+            ["DictKey_WptName_691"] = "",
+            ["DictKey_WptName_505"] = "",
+            ["DictKey_WptName_388"] = "",
+            ["DictKey_GroupName_89"] = "Oiltank #004",
+            ["DictKey_WptName_511"] = "",
+            ["DictKey_UnitName_585"] = "Ammo",
+            ["DictKey_UnitName_135"] = "Ammo #001",
+            ["DictKey_GroupName_509"] = "Primary Destroyed OCA #002",
+            ["DictKey_WptName_649"] = "",
+            ["DictKey_GroupName_512"] = "ISO container small #003",
+            ["DictKey_WptName_514"] = "",
+            ["DictKey_UnitName_552"] = "M117 bombs",
+            ["DictKey_UnitName_282"] = "Ammo #002",
+            ["DictKey_WptName_283"] = "",
+            ["DictKey_GroupName_620"] = "Fueltank #002",
+            ["DictKey_WptName_523"] = "",
+            ["DictKey_GroupName_524"] = "Ammo #005",
+            ["DictKey_WptName_349"] = "",
+            ["DictKey_UnitName_525"] = "Ammo #005",
+            ["DictKey_UnitName_528"] = "ISO container small #004",
+            ["DictKey_WptName_397"] = "",
+            ["DictKey_GroupName_533"] = "Fueltank #003",
+            ["DictKey_GroupName_491"] = "M117 bombs #001",
+            ["DictKey_UnitName_306"] = "New Static Object #001",
+            ["DictKey_GroupName_539"] = "Ammo #007",
+            ["DictKey_UnitName_543"] = "New Static Object #003",
+            ["DictKey_GroupName_545"] = "ISO container small #001",
+            ["DictKey_WptName_547"] = "",
+            ["DictKey_GroupName_548"] = "ISO container small #002",
+            ["DictKey_UnitName_459"] = "Ammo #004",
+            ["DictKey_WptName_454"] = "",
+            ["DictKey_WptName_553"] = "",
+            ["DictKey_WptName_559"] = "",
+            ["DictKey_UnitName_609"] = "M117 bombs #001",
+            ["DictKey_WptName_565"] = "",
+            ["DictKey_WptName_568"] = "",
+            ["DictKey_GroupName_572"] = "Primary Destroyed OCA #003",
+            ["DictKey_GroupName_575"] = "Primary Destroyed OCA #004",
+            ["DictKey_UnitName_123"] = "Ammo #004",
+            ["DictKey_WptName_199"] = "",
+            ["DictKey_UnitName_390"] = "New Static Object #004",
+            ["DictKey_WptName_646"] = "",
+            ["DictKey_UnitName_576"] = "New Static Object #004",
+            ["DictKey_UnitName_9"] = "Unit #011",
+            ["DictKey_WptName_640"] = "",
+            ["DictKey_UnitName_441"] = "Ammo #001",
+            ["DictKey_UnitName_579"] = "New Static Object #005",
+            ["DictKey_GroupName_581"] = "Primary Destroyed OCA",
+            ["DictKey_GroupName_665"] = "Fueltank #005",
+            ["DictKey_UnitName_588"] = "Ammo #001",
+            ["DictKey_UnitName_603"] = "Ammo #002",
+            ["DictKey_GroupName_428"] = "Primary Destroyed OCA #002",
+            ["DictKey_WptName_499"] = "",
+            ["DictKey_GroupName_257"] = "Primary Destroyed OCA",
+            ["DictKey_GroupName_107"] = "Ammo #004",
+            ["DictKey_GroupName_578"] = "Primary Destroyed OCA #005",
+            ["DictKey_WptName_658"] = "",
+            ["DictKey_GroupName_602"] = "Ammo #002",
+            ["DictKey_WptName_385"] = "",
+            ["DictKey_WptName_232"] = "",
+            ["DictKey_UnitName_195"] = "New Static Object #004",
+            ["DictKey_WptName_598"] = "",
+            ["DictKey_WptName_229"] = "",
+            ["DictKey_WptName_589"] = "",
+            ["DictKey_WptName_373"] = "",
+            ["DictKey_GroupName_341"] = "M117 bombs #004",
+            ["DictKey_WptName_679"] = "",
+            ["DictKey_GroupName_302"] = "Primary Destroyed OCA",
+            ["DictKey_UnitName_36"] = "ABU MUSA - OCA Targets #012",
+            ["DictKey_UnitName_639"] = "M117 bombs #003",
+            ["DictKey_WptName_196"] = "",
+            ["DictKey_UnitName_333"] = "M117 bombs #003",
+            ["DictKey_GroupName_446"] = "Ammo #002",
+            ["DictKey_UnitName_21"] = "ABU MUSA - OCA Targets #004",
+            ["DictKey_GroupName_608"] = "M117 bombs #001",
+            ["DictKey_WptName_667"] = "",
+            ["DictKey_GroupName_95"] = "Ammo #001",
+            ["DictKey_WptName_610"] = "",
+            ["DictKey_UnitName_183"] = "M117 bombs #006",
+            ["DictKey_GroupName_455"] = "M117 bombs #004",
+            ["DictKey_WptName_538"] = "",
+            ["DictKey_GroupName_611"] = "Ammo #003",
+            ["DictKey_WptName_103"] = "",
+            ["DictKey_GroupName_425"] = "Primary Destroyed OCA #003",
+            ["DictKey_WptName_730"] = "",
+            ["DictKey_UnitName_600"] = "ISO container small #002",
+            ["DictKey_UnitName_501"] = "ISO container small #003",
+            ["DictKey_GroupName_722"] = "Fueltank #004",
+            ["DictKey_GroupName_272"] = "Oiltank #001",
+            ["DictKey_WptName_52"] = "",
+            ["DictKey_WptName_451"] = "",
+            ["DictKey_UnitName_627"] = "Ammo #005",
+            ["DictKey_GroupName_98"] = "M117 bombs #001",
+            ["DictKey_GroupName_140"] = "M117 bombs #001",
+            ["DictKey_GroupName_239"] = "M117 bombs #001",
+            ["DictKey_UnitName_399"] = "New Static Object #003",
+            ["DictKey_UnitName_474"] = "Ammo #002",
+            ["DictKey_GroupName_656"] = "Ammo #009",
+            ["DictKey_WptName_313"] = "",
+            ["DictKey_UnitName_303"] = "New Static Object #003",
+            ["DictKey_UnitName_540"] = "Ammo #007",
+            ["DictKey_UnitName_633"] = "Ammo #006",
+            ["DictKey_UnitName_699"] = "Ammo #005",
+            ["DictKey_UnitName_480"] = "M117 bombs #002",
+            ["DictKey_UnitName_18"] = "ABU MUSA - OCA Targets #002",
+            ["DictKey_GroupName_245"] = "Oiltank #003",
+            ["DictKey_GroupName_641"] = "Ammo #007",
+            ["DictKey_WptName_376"] = "",
+            ["DictKey_UnitName_630"] = "ISO container small #004",
+            ["DictKey_UnitName_330"] = "ISO container small #003",
+            ["DictKey_WptName_673"] = "",
+            ["DictKey_UnitName_285"] = "M117 bombs #001",
+            ["DictKey_WptName_607"] = "",
+            ["DictKey_GroupName_503"] = "M117 bombs #003",
+            ["DictKey_UnitName_675"] = "New Static Object #002",
+            ["DictKey_UnitName_87"] = "ISO container small #003",
+            ["DictKey_UnitName_132"] = "Oiltank #001",
+            ["DictKey_GroupName_740"] = "M117 bombs #005",
+            ["DictKey_WptName_319"] = "",
+            ["DictKey_UnitName_324"] = "Oiltank #002",
+            ["DictKey_UnitName_372"] = "ISO container small #001",
+            ["DictKey_WptName_28"] = "",
+            ["DictKey_GroupName_233"] = "Oiltank #002",
+            ["DictKey_WptName_688"] = "",
+            ["DictKey_WptName_550"] = "",
+            ["DictKey_GroupName_692"] = "Fueltank #002",
+            ["DictKey_WptName_697"] = "",
+            ["DictKey_GroupName_365"] = "Oiltank #001",
+            ["DictKey_WptName_517"] = "",
+            ["DictKey_WptName_271"] = "",
+            ["DictKey_GroupName_161"] = "Oiltank #003",
+            ["DictKey_GroupName_149"] = "Primary Destroyed OCA",
+            ["DictKey_GroupName_323"] = "Oiltank #002",
+            ["DictKey_WptName_46"] = "",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "%LOCATIONMETHOD% aircraft on the ramp at Qeshm Airport, %LOCATION%.\
+\
+Primary Objectives: Destroy the four F-5E Tiger IIs on the ramp.\
+\
+Secondary Objectives: N/A.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion.",
+} -- end of staticTemplate

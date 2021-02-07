@@ -1,0 +1,18 @@
+objtype = "airbase"
+name = "Al Minhad AFB"
+coalition = 2
+subordinates = {
+	"AlMinhadAirbaseDefenses",
+	"69TAR",
+	"VMA223",
+	"F21",
+	"104FS",
+	"354FS",
+	"DrakenINTL",
+	"3SQN",
+	"1DLMW",
+}
+desc = "Al Minhad Airbase"
+recoverytype = "land"
+takeofftype = "runway"
+cost = 20

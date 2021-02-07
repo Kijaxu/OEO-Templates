@@ -1,0 +1,3 @@
+objtype  = "shorad"
+exclusion = "AbbasSA3"
+regenerate = true

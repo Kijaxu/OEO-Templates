@@ -1,0 +1,8 @@
+objtype = "airbase"
+name = "Bandar Abbas Intl"
+coalition = 1
+subordinates = {"Bandar Abbas Airbase Defence"}
+desc = "Bandar Abbas Airbase"
+recoverytype = "land"
+takeofftype = "runway"
+cost = 20

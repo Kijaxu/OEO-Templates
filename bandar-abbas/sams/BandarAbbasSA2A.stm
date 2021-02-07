@@ -1,0 +1,1020 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["neutrals"] = 
+        {
+            ["name"] = "neutrals",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 70,
+                    ["name"] = "Algeria",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 83,
+                    ["name"] = "Argentina",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 23,
+                    ["name"] = "Austria",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 65,
+                    ["name"] = "Bahrain",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 64,
+                    ["name"] = "Brazil",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 25,
+                    ["name"] = "Bulgaria",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 63,
+                    ["name"] = "Chile",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 76,
+                    ["name"] = "Cuba",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 29,
+                    ["name"] = "Egypt",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 62,
+                    ["name"] = "Ethiopia",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 30,
+                    ["name"] = "Finland",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 78,
+                    ["name"] = "GDR",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 31,
+                    ["name"] = "Greece",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 61,
+                    ["name"] = "Honduras",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 32,
+                    ["name"] = "Hungary",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 33,
+                    ["name"] = "India",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 60,
+                    ["name"] = "Indonesia",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 35,
+                    ["name"] = "Iraq",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 69,
+                    ["name"] = "Italian Social Republic",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 36,
+                    ["name"] = "Japan",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 59,
+                    ["name"] = "Jordan",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 71,
+                    ["name"] = "Kuwait",
+                }, -- end of [22]
+                [23] = 
+                {
+                    ["id"] = 79,
+                    ["name"] = "Lebanon",
+                }, -- end of [23]
+                [24] = 
+                {
+                    ["id"] = 58,
+                    ["name"] = "Libya",
+                }, -- end of [24]
+                [25] = 
+                {
+                    ["id"] = 57,
+                    ["name"] = "Malaysia",
+                }, -- end of [25]
+                [26] = 
+                {
+                    ["id"] = 56,
+                    ["name"] = "Mexico",
+                }, -- end of [26]
+                [27] = 
+                {
+                    ["id"] = 55,
+                    ["name"] = "Morocco",
+                }, -- end of [27]
+                [28] = 
+                {
+                    ["id"] = 73,
+                    ["name"] = "Oman",
+                }, -- end of [28]
+                [29] = 
+                {
+                    ["id"] = 39,
+                    ["name"] = "Pakistan",
+                }, -- end of [29]
+                [30] = 
+                {
+                    ["id"] = 54,
+                    ["name"] = "Philippines",
+                }, -- end of [30]
+                [31] = 
+                {
+                    ["id"] = 77,
+                    ["name"] = "Portugal",
+                }, -- end of [31]
+                [32] = 
+                {
+                    ["id"] = 72,
+                    ["name"] = "Qatar",
+                }, -- end of [32]
+                [33] = 
+                {
+                    ["id"] = 41,
+                    ["name"] = "Romania",
+                }, -- end of [33]
+                [34] = 
+                {
+                    ["id"] = 42,
+                    ["name"] = "Saudi Arabia",
+                }, -- end of [34]
+                [35] = 
+                {
+                    ["id"] = 44,
+                    ["name"] = "Slovakia",
+                }, -- end of [35]
+                [36] = 
+                {
+                    ["id"] = 75,
+                    ["name"] = "South Africa",
+                }, -- end of [36]
+                [37] = 
+                {
+                    ["id"] = 53,
+                    ["name"] = "Sudan",
+                }, -- end of [37]
+                [38] = 
+                {
+                    ["id"] = 22,
+                    ["name"] = "Switzerland",
+                }, -- end of [38]
+                [39] = 
+                {
+                    ["id"] = 52,
+                    ["name"] = "Thailand",
+                }, -- end of [39]
+                [40] = 
+                {
+                    ["id"] = 66,
+                    ["name"] = "Third Reich",
+                }, -- end of [40]
+                [41] = 
+                {
+                    ["id"] = 51,
+                    ["name"] = "Tunisia",
+                }, -- end of [41]
+                [42] = 
+                {
+                    ["id"] = 74,
+                    ["name"] = "United Arab Emirates",
+                }, -- end of [42]
+                [43] = 
+                {
+                    ["id"] = 82,
+                    ["name"] = "UN",
+                }, -- end of [43]
+                [44] = 
+                {
+                    ["id"] = 68,
+                    ["name"] = "USSR",
+                }, -- end of [44]
+                [45] = 
+                {
+                    ["id"] = 50,
+                    ["name"] = "Venezuela",
+                }, -- end of [45]
+                [46] = 
+                {
+                    ["id"] = 49,
+                    ["name"] = "Vietnam",
+                }, -- end of [46]
+                [47] = 
+                {
+                    ["id"] = 48,
+                    ["name"] = "Yemen",
+                }, -- end of [47]
+                [48] = 
+                {
+                    ["id"] = 67,
+                    ["name"] = "Yugoslavia",
+                }, -- end of [48]
+            }, -- end of ["country"]
+        }, -- end of ["neutrals"]
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 80,
+                    ["name"] = "CJTF Blue",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [22]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 81,
+                    ["name"] = "CJTF Red",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 17,
+                    ["name"] = "Insurgents",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 34,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 31,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 8925.2553786602,
+                                            ["x"] = 114302.34396588,
+                                            ["name"] = "DictKey_WptName_18",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "SNR_75V",
+                                        ["unitId"] = 2,
+                                        ["y"] = 8925.2553786602,
+                                        ["x"] = 114302.34396588,
+                                        ["name"] = "DictKey_UnitName_17",
+                                        ["heading"] = 0.0038885041518015,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "S_75M_Volhov",
+                                        ["unitId"] = 3,
+                                        ["y"] = 8807.6942607652,
+                                        ["x"] = 114456.32367299,
+                                        ["name"] = "DictKey_UnitName_16",
+                                        ["heading"] = 5.7421332390613,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "S_75M_Volhov",
+                                        ["unitId"] = 9,
+                                        ["y"] = 9015.2158399057,
+                                        ["x"] = 114118.20425416,
+                                        ["name"] = "DictKey_UnitName_15",
+                                        ["heading"] = 2.3911010752322,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "S_75M_Volhov",
+                                        ["unitId"] = 4,
+                                        ["y"] = 8755.9579089686,
+                                        ["x"] = 114268.19148464,
+                                        ["name"] = "DictKey_UnitName_14",
+                                        ["heading"] = 4.6774823953448,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "S_75M_Volhov",
+                                        ["unitId"] = 7,
+                                        ["y"] = 8780.110174287,
+                                        ["x"] = 114167.32158594,
+                                        ["name"] = "DictKey_UnitName_13",
+                                        ["heading"] = 3.8048177693476,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "S_75M_Volhov",
+                                        ["unitId"] = 10,
+                                        ["y"] = 8894.0048669154,
+                                        ["x"] = 114091.78470405,
+                                        ["name"] = "DictKey_UnitName_12",
+                                        ["heading"] = 3.1066860685499,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "S_75M_Volhov",
+                                        ["unitId"] = 1,
+                                        ["y"] = 9026.0619793872,
+                                        ["x"] = 114416.00963263,
+                                        ["name"] = "DictKey_UnitName_11",
+                                        ["heading"] = 0.92502450355699,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [7]
+                                    [8] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "S_75M_Volhov",
+                                        ["unitId"] = 5,
+                                        ["y"] = 9065.7041190755,
+                                        ["x"] = 114268.86338531,
+                                        ["name"] = "DictKey_UnitName_10",
+                                        ["heading"] = 0.92502450355699,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [8]
+                                    [9] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "S_75M_Volhov",
+                                        ["unitId"] = 6,
+                                        ["y"] = 8941.9480330878,
+                                        ["x"] = 114501.0796908,
+                                        ["name"] = "DictKey_UnitName_9",
+                                        ["heading"] = 0.92502450355699,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [9]
+                                    [10] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "SNR_75V",
+                                        ["unitId"] = 8,
+                                        ["y"] = 8935.265829158,
+                                        ["x"] = 114398.48107964,
+                                        ["name"] = "DictKey_UnitName_8",
+                                        ["heading"] = 0.0038885041518015,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [10]
+                                    [11] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "p-19 s-125 sr",
+                                        ["unitId"] = 11,
+                                        ["y"] = 8953.6808999054,
+                                        ["x"] = 114240.22573721,
+                                        ["name"] = "DictKey_UnitName_7",
+                                        ["heading"] = 0.0038885041518015,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [11]
+                                }, -- end of ["units"]
+                                ["y"] = 8925.2553786602,
+                                ["x"] = 114302.34396588,
+                                ["name"] = "DictKey_GroupName_6",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 25,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 8921.6763105197,
+                                            ["x"] = 113661.09276132,
+                                            ["name"] = "DictKey_WptName_29",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 2,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["unitId"] = 13,
+                                        ["y"] = 8921.6763105197,
+                                        ["x"] = 113661.09276132,
+                                        ["name"] = "DictKey_UnitName_28",
+                                        ["heading"] = 5.6548667764616,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["unitId"] = 14,
+                                        ["y"] = 8559.2478059541,
+                                        ["x"] = 113886.39421058,
+                                        ["name"] = "DictKey_UnitName_27",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["unitId"] = 19,
+                                        ["y"] = 8598.7272259106,
+                                        ["x"] = 114279.56155797,
+                                        ["name"] = "DictKey_UnitName_26",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["unitId"] = 15,
+                                        ["y"] = 9280.1041582577,
+                                        ["x"] = 114015.97470875,
+                                        ["name"] = "DictKey_UnitName_25",
+                                        ["heading"] = 1.0122909661567,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["unitId"] = 18,
+                                        ["y"] = 9123.2877864271,
+                                        ["x"] = 114202.25933601,
+                                        ["name"] = "DictKey_UnitName_24",
+                                        ["heading"] = 0.95993108859688,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["unitId"] = 20,
+                                        ["y"] = 8883.3025560575,
+                                        ["x"] = 114782.38263004,
+                                        ["name"] = "DictKey_UnitName_23",
+                                        ["heading"] = 3.8746309394274,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["unitId"] = 12,
+                                        ["y"] = 9281.280085436,
+                                        ["x"] = 114427.19838339,
+                                        ["name"] = "DictKey_UnitName_22",
+                                        ["heading"] = 1.3613568165556,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [7]
+                                    [8] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "ZSU-23-4 Shilka",
+                                        ["unitId"] = 16,
+                                        ["y"] = 9169.1768226687,
+                                        ["x"] = 114345.460062,
+                                        ["name"] = "DictKey_UnitName_21",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [8]
+                                    [9] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "ZSU-23-4 Shilka",
+                                        ["unitId"] = 17,
+                                        ["y"] = 8792.2405452934,
+                                        ["x"] = 114326.64684316,
+                                        ["name"] = "DictKey_UnitName_20",
+                                        ["heading"] = 4.6949356878647,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [9]
+                                }, -- end of ["units"]
+                                ["y"] = 8921.6763105197,
+                                ["x"] = 113661.09276132,
+                                ["name"] = "DictKey_GroupName_19",
+                                ["start_time"] = 0,
+                            }, -- end of [2]
+                            [3] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 28,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 8771.0076384897,
+                                            ["x"] = 114111.05010389,
+                                            ["name"] = "DictKey_WptName_35",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 3,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 21,
+                                        ["y"] = 8771.0076384897,
+                                        ["x"] = 114111.05010389,
+                                        ["name"] = "DictKey_UnitName_34",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 22,
+                                        ["y"] = 8780.4229893832,
+                                        ["x"] = 114368.40302832,
+                                        ["name"] = "DictKey_UnitName_33",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "KrAZ6322",
+                                        ["unitId"] = 24,
+                                        ["y"] = 9090.3449562963,
+                                        ["x"] = 114118.11161706,
+                                        ["name"] = "DictKey_UnitName_32",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "KrAZ6322",
+                                        ["unitId"] = 23,
+                                        ["y"] = 9080.1449928283,
+                                        ["x"] = 114362.12612772,
+                                        ["name"] = "DictKey_UnitName_31",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [4]
+                                }, -- end of ["units"]
+                                ["y"] = 8771.0076384897,
+                                ["x"] = 114111.05010389,
+                                ["name"] = "DictKey_GroupName_30",
+                                ["start_time"] = 0,
+                            }, -- end of [3]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "Iran",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 0,
+                    ["name"] = "Russia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [13]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "BandarAbbasSA2A",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_UnitName_22"] = "HAWK Abu Musa #001-7",
+            ["DictKey_UnitName_33"] = "SAM Rearm Assets-2",
+            ["DictKey_GroupName_30"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_26"] = "HAWK Abu Musa #001-3",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_UnitName_32"] = "SAM Rearm Assets-3",
+            ["DictKey_UnitName_31"] = "SAM Rearm Assets-4",
+            ["DictKey_WptName_18"] = "",
+            ["DictKey_UnitName_7"] = "Primary Destroyed SA2 SR",
+            ["DictKey_UnitName_16"] = "Abu-Musa SA-2-2",
+            ["DictKey_UnitName_12"] = "Abu-Musa SA-2-6",
+            ["DictKey_UnitName_24"] = "HAWK Abu Musa #001-5",
+            ["DictKey_UnitName_27"] = "HAWK Abu Musa #001-2",
+            ["DictKey_UnitName_20"] = "HAWK Abu Musa #001-9",
+            ["DictKey_UnitName_9"] = "Abu-Musa SA-2-9",
+            ["DictKey_WptName_29"] = "",
+            ["DictKey_UnitName_15"] = "Abu-Musa SA-2-3",
+            ["DictKey_UnitName_34"] = "SAM Rearm Assets-1",
+            ["DictKey_UnitName_11"] = "Abu-Musa SA-2-7",
+            ["DictKey_UnitName_17"] = "Primary Destroyed SA2",
+            ["DictKey_UnitName_10"] = "Abu-Musa SA-2-8",
+            ["DictKey_GroupName_19"] = "HAWK Abu Musa #001",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_WptName_35"] = "",
+            ["DictKey_GroupName_6"] = "Abu-Musa SA-2",
+            ["DictKey_UnitName_23"] = "HAWK Abu Musa #001-6",
+            ["DictKey_UnitName_25"] = "HAWK Abu Musa #001-4",
+            ["DictKey_UnitName_13"] = "Abu-Musa SA-2-5",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_UnitName_14"] = "Abu-Musa SA-2-4",
+            ["DictKey_UnitName_21"] = "HAWK Abu Musa #001-8",
+            ["DictKey_UnitName_28"] = "HAWK Abu Musa #001-1",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_UnitName_8"] = "Primary Destroyed SA2 1",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "%LOCATIONMETHOD% an active SA-2 GUIDELINE SAM site near Bandar Abbas Intl., %LOCATION%.\
+\
+Primary Objectives: Destroy any Search or Tracking Radars present.\
+\
+Secondary Objectives: Destroy any related equipment, including launchers.\
+\
+Recommended Pilots: 2-4\
+\
+Recommended Ordnance: Anti-Radiation Missiles, precision guided long range weapons (I.E. JSOW, AGM-65).",
+} -- end of staticTemplate

@@ -1,0 +1,22 @@
+Khasab 		- 10
+Khasab North 	- 15
+Islands South	- 20
+Islands North	- 20
+Jask		- 30
+Qeshm East	- 40
+Qeshm West	- 40
+Lengeh S300	- 45
+BanndarS300	- 45
+Lengeh		- 50
+Bandar Abbas	- 50
+Lar S300	- 55
+Lar		- 60
+Central South	- 65
+Jiroft S300	- 70
+Jiroft		- 75
+Kerman S300	- 80	
+Kerman		- 85
+Central North	- 90
+Shiraz South	- 95
+Shiraz S300	- 100
+Shiraz		- 105

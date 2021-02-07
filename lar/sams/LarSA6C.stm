@@ -1,0 +1,1672 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["neutrals"] = 
+        {
+            ["name"] = "neutrals",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 70,
+                    ["name"] = "Algeria",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 23,
+                    ["name"] = "Austria",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 65,
+                    ["name"] = "Bahrain",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 64,
+                    ["name"] = "Brazil",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 25,
+                    ["name"] = "Bulgaria",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 63,
+                    ["name"] = "Chile",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 76,
+                    ["name"] = "Cuba",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 29,
+                    ["name"] = "Egypt",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 62,
+                    ["name"] = "Ethiopia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 30,
+                    ["name"] = "Finland",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 78,
+                    ["name"] = "GDR",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 31,
+                    ["name"] = "Greece",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 61,
+                    ["name"] = "Honduras",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 32,
+                    ["name"] = "Hungary",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 33,
+                    ["name"] = "India",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 60,
+                    ["name"] = "Indonesia",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 17,
+                    ["name"] = "Insurgents",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 35,
+                    ["name"] = "Iraq",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 69,
+                    ["name"] = "Italian Social Republic",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 36,
+                    ["name"] = "Japan",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 59,
+                    ["name"] = "Jordan",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 71,
+                    ["name"] = "Kuwait",
+                }, -- end of [22]
+                [23] = 
+                {
+                    ["id"] = 79,
+                    ["name"] = "Lebanon",
+                }, -- end of [23]
+                [24] = 
+                {
+                    ["id"] = 58,
+                    ["name"] = "Libya",
+                }, -- end of [24]
+                [25] = 
+                {
+                    ["id"] = 57,
+                    ["name"] = "Malaysia",
+                }, -- end of [25]
+                [26] = 
+                {
+                    ["id"] = 56,
+                    ["name"] = "Mexico",
+                }, -- end of [26]
+                [27] = 
+                {
+                    ["id"] = 55,
+                    ["name"] = "Morocco",
+                }, -- end of [27]
+                [28] = 
+                {
+                    ["id"] = 73,
+                    ["name"] = "Oman",
+                }, -- end of [28]
+                [29] = 
+                {
+                    ["id"] = 39,
+                    ["name"] = "Pakistan",
+                }, -- end of [29]
+                [30] = 
+                {
+                    ["id"] = 54,
+                    ["name"] = "Philippines",
+                }, -- end of [30]
+                [31] = 
+                {
+                    ["id"] = 77,
+                    ["name"] = "Portugal",
+                }, -- end of [31]
+                [32] = 
+                {
+                    ["id"] = 72,
+                    ["name"] = "Qatar",
+                }, -- end of [32]
+                [33] = 
+                {
+                    ["id"] = 41,
+                    ["name"] = "Romania",
+                }, -- end of [33]
+                [34] = 
+                {
+                    ["id"] = 42,
+                    ["name"] = "Saudi Arabia",
+                }, -- end of [34]
+                [35] = 
+                {
+                    ["id"] = 44,
+                    ["name"] = "Slovakia",
+                }, -- end of [35]
+                [36] = 
+                {
+                    ["id"] = 75,
+                    ["name"] = "South Africa",
+                }, -- end of [36]
+                [37] = 
+                {
+                    ["id"] = 53,
+                    ["name"] = "Sudan",
+                }, -- end of [37]
+                [38] = 
+                {
+                    ["id"] = 22,
+                    ["name"] = "Switzerland",
+                }, -- end of [38]
+                [39] = 
+                {
+                    ["id"] = 52,
+                    ["name"] = "Thailand",
+                }, -- end of [39]
+                [40] = 
+                {
+                    ["id"] = 66,
+                    ["name"] = "Third Reich",
+                }, -- end of [40]
+                [41] = 
+                {
+                    ["id"] = 51,
+                    ["name"] = "Tunisia",
+                }, -- end of [41]
+                [42] = 
+                {
+                    ["id"] = 74,
+                    ["name"] = "United Arab Emirates",
+                }, -- end of [42]
+                [43] = 
+                {
+                    ["id"] = 82,
+                    ["name"] = "UN",
+                }, -- end of [43]
+                [44] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [44]
+                [45] = 
+                {
+                    ["id"] = 68,
+                    ["name"] = "USSR",
+                }, -- end of [45]
+                [46] = 
+                {
+                    ["id"] = 50,
+                    ["name"] = "Venezuela",
+                }, -- end of [46]
+                [47] = 
+                {
+                    ["id"] = 49,
+                    ["name"] = "Vietnam",
+                }, -- end of [47]
+                [48] = 
+                {
+                    ["id"] = 48,
+                    ["name"] = "Yemen",
+                }, -- end of [48]
+                [49] = 
+                {
+                    ["id"] = 67,
+                    ["name"] = "Yugoslavia",
+                }, -- end of [49]
+            }, -- end of ["country"]
+        }, -- end of ["neutrals"]
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 80,
+                    ["name"] = "CJTF Blue",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [22]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 81,
+                    ["name"] = "CJTF Red",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 34,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 788,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -174846.09605779,
+                                            ["x"] = 169264.27772131,
+                                            ["name"] = "DictKey_WptName_1023",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 303,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Kub 1S91 str",
+                                        ["unitId"] = 3019,
+                                        ["y"] = -174846.09605779,
+                                        ["x"] = 169264.27772131,
+                                        ["name"] = "DictKey_UnitName_1022",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Kub 2P25 ln",
+                                        ["unitId"] = 3020,
+                                        ["y"] = -174745.21850787,
+                                        ["x"] = 169266.93407636,
+                                        ["name"] = "DictKey_UnitName_1021",
+                                        ["heading"] = 4.7123889803847,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Kub 2P25 ln",
+                                        ["unitId"] = 3021,
+                                        ["y"] = -174948.34879922,
+                                        ["x"] = 169260.28714274,
+                                        ["name"] = "DictKey_UnitName_1020",
+                                        ["heading"] = 1.553343034275,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Kub 2P25 ln",
+                                        ["unitId"] = 3022,
+                                        ["y"] = -174846.61616603,
+                                        ["x"] = 169158.17564004,
+                                        ["name"] = "DictKey_UnitName_1019",
+                                        ["heading"] = 0.034906585039887,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Kub 2P25 ln",
+                                        ["unitId"] = 3023,
+                                        ["y"] = -174849.44242699,
+                                        ["x"] = 169363.44755249,
+                                        ["name"] = "DictKey_UnitName_1018",
+                                        ["heading"] = 3.1415926535898,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "BTR-80",
+                                        ["unitId"] = 3024,
+                                        ["y"] = -174950.66512265,
+                                        ["x"] = 169393.92002084,
+                                        ["name"] = "DictKey_UnitName_1017",
+                                        ["heading"] = 2.3212879051525,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "BTR-80",
+                                        ["unitId"] = 3025,
+                                        ["y"] = -174958.09666031,
+                                        ["x"] = 169384.71906945,
+                                        ["name"] = "DictKey_UnitName_1016",
+                                        ["heading"] = 2.4958208303519,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [7]
+                                    [8] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Land_Rover_101_FC",
+                                        ["unitId"] = 3026,
+                                        ["y"] = -174826.07642388,
+                                        ["x"] = 169289.88371817,
+                                        ["name"] = "DictKey_UnitName_1015",
+                                        ["heading"] = 1.5882496193148,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [8]
+                                    [9] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Land_Rover_101_FC",
+                                        ["unitId"] = 3027,
+                                        ["y"] = -174866.11312706,
+                                        ["x"] = 169306.45021277,
+                                        ["name"] = "DictKey_UnitName_1014",
+                                        ["heading"] = 0.05235987755983,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [9]
+                                }, -- end of ["units"]
+                                ["y"] = -174846.09605779,
+                                ["x"] = 169264.27772131,
+                                ["name"] = "DictKey_GroupName_1013",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "Iran",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 0,
+                    ["name"] = "Russia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [11]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "LarSA6C",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_GroupName_858"] = "HAWK Shiraz",
+            ["DictKey_UnitName_52"] = "Unit #090",
+            ["DictKey_UnitName_923"] = "Unit #146",
+            ["DictKey_UnitName_808"] = "Unit #377",
+            ["DictKey_UnitName_803"] = "Unit #382",
+            ["DictKey_UnitName_156"] = "Unit #255",
+            ["DictKey_UnitName_656"] = "Unit #079",
+            ["DictKey_UnitName_463"] = "Unit #103",
+            ["DictKey_UnitName_283"] = "Unit #118",
+            ["DictKey_UnitName_449"] = "Unit #108",
+            ["DictKey_UnitName_913"] = "Unit #126",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_UnitName_254"] = "Unit #100",
+            ["DictKey_UnitName_951"] = "Unit #192",
+            ["DictKey_UnitName_62"] = "Unit #024",
+            ["DictKey_UnitName_226"] = "Unit #069",
+            ["DictKey_UnitName_73"] = "Unit #116",
+            ["DictKey_UnitName_229"] = "Unit #055",
+            ["DictKey_UnitName_331"] = "Unit #174",
+            ["DictKey_WptName_915"] = "",
+            ["DictKey_UnitName_860"] = "Unit #102",
+            ["DictKey_UnitName_1022"] = "SA-6 Lar-1",
+            ["DictKey_GroupName_998"] = "SA-2 Left",
+            ["DictKey_UnitName_261"] = "Unit #093",
+            ["DictKey_UnitName_398"] = "Unit #377",
+            ["DictKey_UnitName_642"] = "Unit #052",
+            ["DictKey_UnitName_469"] = "Unit #097",
+            ["DictKey_WptName_269"] = "",
+            ["DictKey_UnitName_980"] = "Unit #251",
+            ["DictKey_UnitName_856"] = "Unit #077",
+            ["DictKey_UnitName_121"] = "Unit #172",
+            ["DictKey_UnitName_521"] = "Unit #152",
+            ["DictKey_UnitName_279"] = "Unit #122",
+            ["DictKey_UnitName_852"] = "Unit #081",
+            ["DictKey_UnitName_1018"] = "SA-6 Lar-5",
+            ["DictKey_UnitName_875"] = "Unit #087",
+            ["DictKey_UnitName_565"] = "Unit #182",
+            ["DictKey_UnitName_372"] = "Unit #251",
+            ["DictKey_UnitName_633"] = "Unit #072",
+            ["DictKey_UnitName_550"] = "Unit #167",
+            ["DictKey_UnitName_90"] = "Unit #129",
+            ["DictKey_UnitName_327"] = "Unit #178",
+            ["DictKey_UnitName_303"] = "Unit #128",
+            ["DictKey_UnitName_132"] = "Unit #191",
+            ["DictKey_UnitName_311"] = "Unit #150",
+            ["DictKey_UnitName_238"] = "Unit #107",
+            ["DictKey_UnitName_850"] = "Unit #083",
+            ["DictKey_UnitName_274"] = "Unit #024",
+            ["DictKey_UnitName_36"] = "Unit #077",
+            ["DictKey_UnitName_334"] = "Unit #171",
+            ["DictKey_UnitName_626"] = "SA-6 Lar-1",
+            ["DictKey_UnitName_336"] = "Unit #169",
+            ["DictKey_UnitName_683"] = "Unit #025",
+            ["DictKey_UnitName_348"] = "Unit #187",
+            ["DictKey_UnitName_558"] = "Unit #189",
+            ["DictKey_UnitName_828"] = "Unit #075",
+            ["DictKey_UnitName_867"] = "Unit #095",
+            ["DictKey_UnitName_650"] = "Unit #085",
+            ["DictKey_UnitName_872"] = "Unit #090",
+            ["DictKey_UnitName_344"] = "Unit #191",
+            ["DictKey_UnitName_333"] = "Unit #172",
+            ["DictKey_UnitName_130"] = "Unit #193",
+            ["DictKey_UnitName_731"] = "Unit #140",
+            ["DictKey_UnitName_787"] = "Unit #360",
+            ["DictKey_UnitName_189"] = "Unit #374",
+            ["DictKey_UnitName_876"] = "Unit #086",
+            ["DictKey_UnitName_836"] = "Unit #056",
+            ["DictKey_UnitName_1020"] = "SA-6 Lar-3",
+            ["DictKey_UnitName_630"] = "Unit #075",
+            ["DictKey_WptName_153"] = "",
+            ["DictKey_UnitName_428"] = "SA-3 Lar Defence-1",
+            ["DictKey_GroupName_536"] = "S-300 Left",
+            ["DictKey_UnitName_188"] = "Unit #375",
+            ["DictKey_UnitName_1014"] = "SA-6 Lar-9",
+            ["DictKey_UnitName_346"] = "Unit #189",
+            ["DictKey_UnitName_584"] = "Unit #251",
+            ["DictKey_UnitName_548"] = "Unit #169",
+            ["DictKey_UnitName_18"] = "Unit #054",
+            ["DictKey_WptName_192"] = "",
+            ["DictKey_GroupName_390"] = "SA-2 Left",
+            ["DictKey_UnitName_480"] = "Unit #086",
+            ["DictKey_UnitName_891"] = "Unit #118",
+            ["DictKey_WptName_1023"] = "",
+            ["DictKey_UnitName_699"] = "Unit #112",
+            ["DictKey_UnitName_556"] = "Unit #191",
+            ["DictKey_GroupName_356"] = "HAWK Jiroft",
+            ["DictKey_UnitName_924"] = "Unit #145",
+            ["DictKey_UnitName_447"] = "Unit #110",
+            ["DictKey_UnitName_663"] = "Unit #101",
+            ["DictKey_WptName_177"] = "",
+            ["DictKey_UnitName_363"] = "Unit #242",
+            ["DictKey_UnitName_103"] = "Unit #146",
+            ["DictKey_UnitName_939"] = "Unit #174",
+            ["DictKey_UnitName_227"] = "Unit #068",
+            ["DictKey_UnitName_691"] = "Unit #120",
+            ["DictKey_UnitName_937"] = "Unit #176",
+            ["DictKey_UnitName_884"] = "Unit #022",
+            ["DictKey_UnitName_618"] = "SA-6 Lar-9",
+            ["DictKey_UnitName_648"] = "Unit #107",
+            ["DictKey_UnitName_412"] = "SA-3 Lar-7",
+            ["DictKey_UnitName_370"] = "Unit #253",
+            ["DictKey_UnitName_897"] = "Unit #112",
+            ["DictKey_UnitName_726"] = "Unit #145",
+            ["DictKey_UnitName_175"] = "Unit #258",
+            ["DictKey_UnitName_961"] = "Unit #182",
+            ["DictKey_UnitName_920"] = "Unit #149",
+            ["DictKey_UnitName_46"] = "Unit #096",
+            ["DictKey_GroupName_80"] = "S-300 Jiroft",
+            ["DictKey_UnitName_380"] = "Unit #357",
+            ["DictKey_UnitName_197"] = "SA-3 Lar-10",
+            ["DictKey_UnitName_40"] = "Unit #102",
+            ["DictKey_UnitName_353"] = "Unit #182",
+            ["DictKey_UnitName_131"] = "Unit #192",
+            ["DictKey_UnitName_401"] = "Unit #374",
+            ["DictKey_UnitName_849"] = "Unit #084",
+            ["DictKey_UnitName_736"] = "Unit #179",
+            ["DictKey_UnitName_114"] = "Unit #179",
+            ["DictKey_UnitName_71"] = "Unit #118",
+            ["DictKey_GroupName_366"] = "HAWK Kerman",
+            ["DictKey_UnitName_186"] = "Unit #377",
+            ["DictKey_UnitName_301"] = "Unit #130",
+            ["DictKey_UnitName_335"] = "Unit #170",
+            ["DictKey_UnitName_116"] = "Unit #177",
+            ["DictKey_UnitName_901"] = "Unit #138",
+            ["DictKey_UnitName_600"] = "Unit #257",
+            ["DictKey_UnitName_201"] = "SA-3 Lar-6",
+            ["DictKey_GroupName_750"] = "SA-6 Left",
+            ["DictKey_UnitName_572"] = "Unit #245",
+            ["DictKey_UnitName_70"] = "Unit #119",
+            ["DictKey_UnitName_417"] = "SA-3 Lar-2",
+            ["DictKey_UnitName_1011"] = "Unit #372",
+            ["DictKey_UnitName_169"] = "Unit #264",
+            ["DictKey_UnitName_553"] = "Unit #194",
+            ["DictKey_UnitName_24"] = "Unit #109",
+            ["DictKey_WptName_143"] = "",
+            ["DictKey_WptName_389"] = "",
+            ["DictKey_UnitName_838"] = "Unit #054",
+            ["DictKey_UnitName_612"] = "Unit #375",
+            ["DictKey_UnitName_421"] = "SA-3 Lar Defence-8",
+            ["DictKey_UnitName_476"] = "Unit #090",
+            ["DictKey_UnitName_830"] = "Unit #073",
+            ["DictKey_UnitName_740"] = "Unit #175",
+            ["DictKey_UnitName_537"] = "Unit #180",
+            ["DictKey_UnitName_940"] = "Unit #173",
+            ["DictKey_UnitName_962"] = "Unit #181",
+            ["DictKey_UnitName_349"] = "Unit #186",
+            ["DictKey_WptName_997"] = "",
+            ["DictKey_UnitName_472"] = "Unit #094",
+            ["DictKey_UnitName_795"] = "Unit #260",
+            ["DictKey_UnitName_214"] = "SA-3 Lar Defence-3",
+            ["DictKey_UnitName_742"] = "Unit #173",
+            ["DictKey_UnitName_607"] = "Unit #380",
+            ["DictKey_UnitName_267"] = "Unit #087",
+            ["DictKey_UnitName_423"] = "SA-3 Lar Defence-6",
+            ["DictKey_UnitName_106"] = "Unit #143",
+            ["DictKey_UnitName_704"] = "Unit #137",
+            ["DictKey_UnitName_435"] = "Unit #072",
+            ["DictKey_UnitName_529"] = "Unit #144",
+            ["DictKey_UnitName_160"] = "Unit #251",
+            ["DictKey_UnitName_258"] = "Unit #096",
+            ["DictKey_UnitName_33"] = "Unit #080",
+            ["DictKey_UnitName_64"] = "Unit #022",
+            ["DictKey_UnitName_859"] = "Unit #103",
+            ["DictKey_UnitName_741"] = "Unit #174",
+            ["DictKey_UnitName_735"] = "Unit #180",
+            ["DictKey_UnitName_925"] = "Unit #144",
+            ["DictKey_UnitName_210"] = "SA-3 Lar Defence-7",
+            ["DictKey_UnitName_853"] = "Unit #080",
+            ["DictKey_UnitName_272"] = "Unit #033",
+            ["DictKey_WptName_163"] = "",
+            ["DictKey_UnitName_486"] = "Unit #024",
+            ["DictKey_UnitName_56"] = "Unit #086",
+            ["DictKey_UnitName_527"] = "Unit #146",
+            ["DictKey_UnitName_410"] = "SA-3 Lar-9",
+            ["DictKey_GroupName_680"] = "S-300 Center",
+            ["DictKey_UnitName_100"] = "Unit #149",
+            ["DictKey_UnitName_954"] = "Unit #189",
+            ["DictKey_WptName_765"] = "",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_UnitName_564"] = "Unit #183",
+            ["DictKey_UnitName_294"] = "Unit #137",
+            ["DictKey_UnitName_166"] = "Unit #359",
+            ["DictKey_UnitName_676"] = "Unit #088",
+            ["DictKey_UnitName_278"] = "Unit #123",
+            ["DictKey_UnitName_343"] = "Unit #192",
+            ["DictKey_UnitName_165"] = "Unit #360",
+            ["DictKey_UnitName_383"] = "Unit #262",
+            ["DictKey_UnitName_455"] = "Unit #082",
+            ["DictKey_UnitName_976"] = "Unit #255",
+            ["DictKey_UnitName_368"] = "Unit #255",
+            ["DictKey_UnitName_244"] = "Unit #081",
+            ["DictKey_UnitName_667"] = "Unit #097",
+            ["DictKey_UnitName_635"] = "Unit #070",
+            ["DictKey_UnitName_202"] = "SA-3 Lar-5",
+            ["DictKey_UnitName_286"] = "Unit #115",
+            ["DictKey_UnitName_575"] = "Unit #242",
+            ["DictKey_UnitName_1006"] = "Unit #377",
+            ["DictKey_UnitName_438"] = "Unit #069",
+            ["DictKey_UnitName_215"] = "SA-3 Lar Defence-2",
+            ["DictKey_UnitName_220"] = "Unit #075",
+            ["DictKey_WptName_785"] = "",
+            ["DictKey_UnitName_225"] = "Unit #070",
+            ["DictKey_UnitName_933"] = "Unit #180",
+            ["DictKey_WptName_291"] = "",
+            ["DictKey_GroupName_932"] = "S-300 Left",
+            ["DictKey_GroupName_154"] = "HAWK Kerman",
+            ["DictKey_UnitName_729"] = "Unit #142",
+            ["DictKey_UnitName_870"] = "Unit #092",
+            ["DictKey_UnitName_203"] = "SA-3 Lar-4",
+            ["DictKey_UnitName_147"] = "Unit #246",
+            ["DictKey_UnitName_305"] = "Unit #126",
+            ["DictKey_UnitName_493"] = "Unit #120",
+            ["DictKey_UnitName_510"] = "Unit #133",
+            ["DictKey_UnitName_86"] = "Unit #133",
+            ["DictKey_UnitName_408"] = "SA-3 Lar-11",
+            ["DictKey_UnitName_350"] = "Unit #185",
+            ["DictKey_UnitName_341"] = "Unit #194",
+            ["DictKey_UnitName_790"] = "Unit #357",
+            ["DictKey_UnitName_119"] = "Unit #174",
+            ["DictKey_UnitName_561"] = "Unit #186",
+            ["DictKey_UnitName_894"] = "Unit #115",
+            ["DictKey_UnitName_142"] = "Unit #181",
+            ["DictKey_UnitName_361"] = "Unit #244",
+            ["DictKey_UnitName_411"] = "SA-3 Lar-8",
+            ["DictKey_UnitName_321"] = "Unit #140",
+            ["DictKey_GroupName_270"] = "S-300 Center",
+            ["DictKey_UnitName_545"] = "Unit #172",
+            ["DictKey_GroupName_578"] = "HAWK Kerman",
+            ["DictKey_UnitName_107"] = "Unit #142",
+            ["DictKey_UnitName_328"] = "Unit #177",
+            ["DictKey_UnitName_789"] = "Unit #358",
+            ["DictKey_UnitName_427"] = "SA-3 Lar Defence-2",
+            ["DictKey_UnitName_15"] = "Unit #068",
+            ["DictKey_UnitName_696"] = "Unit #115",
+            ["DictKey_UnitName_392"] = "Unit #383",
+            ["DictKey_UnitName_495"] = "Unit #118",
+            ["DictKey_UnitName_499"] = "Unit #114",
+            ["DictKey_UnitName_264"] = "Unit #090",
+            ["DictKey_UnitName_306"] = "Unit #125",
+            ["DictKey_UnitName_196"] = "SA-3 Lar-11",
+            ["DictKey_WptName_307"] = "",
+            ["DictKey_WptName_419"] = "",
+            ["DictKey_UnitName_129"] = "Unit #194",
+            ["DictKey_UnitName_996"] = "Unit #257",
+            ["DictKey_UnitName_546"] = "Unit #171",
+            ["DictKey_UnitName_652"] = "Unit #083",
+            ["DictKey_UnitName_848"] = "Unit #085",
+            ["DictKey_UnitName_281"] = "Unit #120",
+            ["DictKey_UnitName_252"] = "Unit #102",
+            ["DictKey_WptName_111"] = "",
+            ["DictKey_UnitName_804"] = "Unit #381",
+            ["DictKey_UnitName_821"] = "SA-6 Lar-4",
+            ["DictKey_UnitName_959"] = "Unit #184",
+            ["DictKey_UnitName_672"] = "Unit #092",
+            ["DictKey_UnitName_928"] = "Unit #141",
+            ["DictKey_UnitName_715"] = "Unit #126",
+            ["DictKey_UnitName_387"] = "Unit #258",
+            ["DictKey_UnitName_498"] = "Unit #115",
+            ["DictKey_UnitName_44"] = "Unit #098",
+            ["DictKey_UnitName_452"] = "Unit #085",
+            ["DictKey_UnitName_42"] = "Unit #100",
+            ["DictKey_WptName_233"] = "",
+            ["DictKey_UnitName_434"] = "Unit #073",
+            ["DictKey_UnitName_384"] = "Unit #261",
+            ["DictKey_UnitName_457"] = "Unit #080",
+            ["DictKey_UnitName_415"] = "SA-3 Lar-4",
+            ["DictKey_UnitName_459"] = "Unit #078",
+            ["DictKey_UnitName_396"] = "Unit #379",
+            ["DictKey_UnitName_592"] = "Unit #357",
+            ["DictKey_UnitName_150"] = "Unit #243",
+            ["DictKey_GroupName_58"] = "S-300 Center",
+            ["DictKey_UnitName_313"] = "Unit #148",
+            ["DictKey_UnitName_152"] = "Unit #241",
+            ["DictKey_UnitName_593"] = "Unit #264",
+            ["DictKey_UnitName_570"] = "Unit #247",
+            ["DictKey_GroupName_112"] = "S-300 Left",
+            ["DictKey_UnitName_596"] = "Unit #261",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_UnitName_7"] = "Unit #076",
+            ["DictKey_UnitName_967"] = "Unit #246",
+            ["DictKey_UnitName_816"] = "SA-6 Lar-9",
+            ["DictKey_UnitName_235"] = "Unit #110",
+            ["DictKey_UnitName_487"] = "Unit #023",
+            ["DictKey_UnitName_358"] = "Unit #247",
+            ["DictKey_WptName_899"] = "",
+            ["DictKey_UnitName_257"] = "Unit #097",
+            ["DictKey_UnitName_302"] = "Unit #129",
+            ["DictKey_UnitName_326"] = "Unit #179",
+            ["DictKey_UnitName_813"] = "Unit #372",
+            ["DictKey_UnitName_400"] = "Unit #375",
+            ["DictKey_UnitName_69"] = "Unit #120",
+            ["DictKey_UnitName_938"] = "Unit #175",
+            ["DictKey_WptName_775"] = "",
+            ["DictKey_UnitName_640"] = "Unit #054",
+            ["DictKey_UnitName_141"] = "Unit #182",
+            ["DictKey_UnitName_526"] = "Unit #147",
+            ["DictKey_UnitName_87"] = "Unit #132",
+            ["DictKey_UnitName_809"] = "Unit #376",
+            ["DictKey_UnitName_1002"] = "Unit #381",
+            ["DictKey_UnitName_468"] = "Unit #098",
+            ["DictKey_WptName_339"] = "",
+            ["DictKey_UnitName_228"] = "Unit #056",
+            ["DictKey_UnitName_865"] = "Unit #097",
+            ["DictKey_UnitName_94"] = "Unit #125",
+            ["DictKey_UnitName_431"] = "Unit #076",
+            ["DictKey_UnitName_571"] = "Unit #246",
+            ["DictKey_UnitName_674"] = "Unit #090",
+            ["DictKey_UnitName_362"] = "Unit #243",
+            ["DictKey_GroupName_842"] = "SA-6 Shiraz",
+            ["DictKey_UnitName_184"] = "Unit #379",
+            ["DictKey_UnitName_560"] = "Unit #187",
+            ["DictKey_UnitName_168"] = "Unit #357",
+            ["DictKey_UnitName_868"] = "Unit #094",
+            ["DictKey_UnitName_122"] = "Unit #171",
+            ["DictKey_UnitName_604"] = "Unit #383",
+            ["DictKey_UnitName_957"] = "Unit #186",
+            ["DictKey_UnitName_155"] = "Unit #256",
+            ["DictKey_GroupName_552"] = "SA-6 Left",
+            ["DictKey_UnitName_288"] = "Unit #113",
+            ["DictKey_UnitName_14"] = "Unit #069",
+            ["DictKey_UnitName_314"] = "Unit #147",
+            ["DictKey_UnitName_242"] = "Unit #083",
+            ["DictKey_UnitName_832"] = "Unit #071",
+            ["DictKey_UnitName_105"] = "Unit #144",
+            ["DictKey_GroupName_250"] = "HAWK Shiraz",
+            ["DictKey_UnitName_388"] = "Unit #257",
+            ["DictKey_GroupName_22"] = "SA-6 Shiraz",
+            ["DictKey_UnitName_881"] = "Unit #025",
+            ["DictKey_UnitName_223"] = "Unit #072",
+            ["DictKey_WptName_355"] = "",
+            ["DictKey_UnitName_479"] = "Unit #087",
+            ["DictKey_UnitName_912"] = "Unit #127",
+            ["DictKey_UnitName_275"] = "Unit #023",
+            ["DictKey_UnitName_102"] = "Unit #147",
+            ["DictKey_UnitName_183"] = "Unit #380",
+            ["DictKey_UnitName_885"] = "Unit #124",
+            ["DictKey_UnitName_478"] = "Unit #088",
+            ["DictKey_GroupName_815"] = "SA-6 Lar",
+            ["DictKey_UnitName_906"] = "Unit #133",
+            ["DictKey_UnitName_31"] = "Unit #082",
+            ["DictKey_UnitName_260"] = "Unit #094",
+            ["DictKey_GroupName_948"] = "SA-6 Left",
+            ["DictKey_UnitName_187"] = "Unit #376",
+            ["DictKey_UnitName_382"] = "Unit #263",
+            ["DictKey_UnitName_211"] = "SA-3 Lar Defence-6",
+            ["DictKey_UnitName_137"] = "Unit #186",
+            ["DictKey_UnitName_555"] = "Unit #192",
+            ["DictKey_UnitName_687"] = "Unit #124",
+            ["DictKey_UnitName_883"] = "Unit #023",
+            ["DictKey_UnitName_597"] = "Unit #260",
+            ["DictKey_UnitName_245"] = "Unit #080",
+            ["DictKey_UnitName_8"] = "Unit #075",
+            ["DictKey_UnitName_240"] = "Unit #085",
+            ["DictKey_UnitName_27"] = "Unit #106",
+            ["DictKey_UnitName_282"] = "Unit #119",
+            ["DictKey_UnitName_99"] = "Unit #150",
+            ["DictKey_UnitName_23"] = "Unit #110",
+            ["DictKey_UnitName_946"] = "Unit #167",
+            ["DictKey_UnitName_176"] = "Unit #257",
+            ["DictKey_UnitName_47"] = "Unit #095",
+            ["DictKey_UnitName_133"] = "Unit #190",
+            ["DictKey_UnitName_934"] = "Unit #179",
+            ["DictKey_UnitName_515"] = "Unit #128",
+            ["DictKey_UnitName_1007"] = "Unit #376",
+            ["DictKey_UnitName_140"] = "Unit #183",
+            ["DictKey_UnitName_394"] = "Unit #381",
+            ["DictKey_UnitName_395"] = "Unit #380",
+            ["DictKey_UnitName_81"] = "Unit #138",
+            ["DictKey_UnitName_955"] = "Unit #188",
+            ["DictKey_UnitName_268"] = "Unit #086",
+            ["DictKey_WptName_95"] = "",
+            ["DictKey_UnitName_992"] = "Unit #261",
+            ["DictKey_UnitName_820"] = "SA-6 Lar-5",
+            ["DictKey_UnitName_516"] = "Unit #127",
+            ["DictKey_UnitName_497"] = "Unit #116",
+            ["DictKey_GroupName_193"] = "SA-3 Lar",
+            ["DictKey_UnitName_728"] = "Unit #143",
+            ["DictKey_UnitName_494"] = "Unit #119",
+            ["DictKey_UnitName_30"] = "Unit #083",
+            ["DictKey_UnitName_84"] = "Unit #135",
+            ["DictKey_UnitName_538"] = "Unit #179",
+            ["DictKey_UnitName_424"] = "SA-3 Lar Defence-5",
+            ["DictKey_UnitName_135"] = "Unit #188",
+            ["DictKey_UnitName_59"] = "Unit #356",
+            ["DictKey_UnitName_293"] = "Unit #138",
+            ["DictKey_UnitName_941"] = "Unit #172",
+            ["DictKey_UnitName_60"] = "Unit #033",
+            ["DictKey_UnitName_265"] = "Unit #089",
+            ["DictKey_UnitName_466"] = "Unit #100",
+            ["DictKey_UnitName_492"] = "Unit #121",
+            ["DictKey_UnitName_761"] = "Unit #184",
+            ["DictKey_UnitName_582"] = "Unit #253",
+            ["DictKey_UnitName_675"] = "Unit #089",
+            ["DictKey_UnitName_26"] = "Unit #107",
+            ["DictKey_UnitName_970"] = "Unit #243",
+            ["DictKey_UnitName_72"] = "Unit #117",
+            ["DictKey_GroupName_1013"] = "SA-6 Lar",
+            ["DictKey_UnitName_524"] = "Unit #149",
+            ["DictKey_UnitName_12"] = "Unit #071",
+            ["DictKey_UnitName_522"] = "Unit #151",
+            ["DictKey_UnitName_791"] = "Unit #264",
+            ["DictKey_UnitName_746"] = "Unit #169",
+            ["DictKey_UnitName_29"] = "Unit #084",
+            ["DictKey_GroupName_405"] = "SA-3 Lar",
+            ["DictKey_UnitName_198"] = "SA-3 Lar-9",
+            ["DictKey_UnitName_167"] = "Unit #358",
+            ["DictKey_UnitName_513"] = "Unit #130",
+            ["DictKey_UnitName_11"] = "Unit #072",
+            ["DictKey_UnitName_757"] = "Unit #188",
+            ["DictKey_UnitName_502"] = "Unit #111",
+            ["DictKey_UnitName_975"] = "Unit #256",
+            ["DictKey_UnitName_357"] = "Unit #248",
+            ["DictKey_UnitName_509"] = "Unit #134",
+            ["DictKey_UnitName_354"] = "Unit #181",
+            ["DictKey_GroupName_144"] = "HAWK Jiroft",
+            ["DictKey_UnitName_425"] = "SA-3 Lar Defence-4",
+            ["DictKey_UnitName_45"] = "Unit #097",
+            ["DictKey_UnitName_369"] = "Unit #254",
+            ["DictKey_GroupName_786"] = "HAWK Center",
+            ["DictKey_UnitName_126"] = "Unit #167",
+            ["DictKey_UnitName_488"] = "Unit #022",
+            ["DictKey_UnitName_783"] = "Unit #250",
+            ["DictKey_UnitName_879"] = "Unit #356",
+            ["DictKey_UnitName_347"] = "Unit #188",
+            ["DictKey_UnitName_763"] = "Unit #182",
+            ["DictKey_UnitName_243"] = "Unit #082",
+            ["DictKey_UnitName_221"] = "Unit #074",
+            ["DictKey_UnitName_528"] = "Unit #145",
+            ["DictKey_UnitName_117"] = "Unit #176",
+            ["DictKey_UnitName_338"] = "Unit #167",
+            ["DictKey_UnitName_180"] = "Unit #383",
+            ["DictKey_UnitName_605"] = "Unit #382",
+            ["DictKey_UnitName_887"] = "Unit #122",
+            ["DictKey_UnitName_255"] = "Unit #099",
+            ["DictKey_UnitName_554"] = "Unit #193",
+            ["DictKey_UnitName_296"] = "Unit #135",
+            ["DictKey_UnitName_506"] = "Unit #137",
+            ["DictKey_UnitName_489"] = "Unit #124",
+            ["DictKey_WptName_79"] = "",
+            ["DictKey_UnitName_13"] = "Unit #070",
+            ["DictKey_UnitName_39"] = "Unit #103",
+            ["DictKey_UnitName_273"] = "Unit #025",
+            ["DictKey_UnitName_721"] = "Unit #150",
+            ["DictKey_UnitName_995"] = "Unit #258",
+            ["DictKey_UnitName_845"] = "Unit #108",
+            ["DictKey_UnitName_271"] = "Unit #356",
+            ["DictKey_GroupName_482"] = "S-300 Center",
+            ["DictKey_GroupName_376"] = "HAWK Center",
+            ["DictKey_UnitName_966"] = "Unit #247",
+            ["DictKey_UnitName_508"] = "Unit #135",
+            ["DictKey_UnitName_465"] = "Unit #101",
+            ["DictKey_UnitName_149"] = "Unit #244",
+            ["DictKey_UnitName_873"] = "Unit #089",
+            ["DictKey_UnitName_886"] = "Unit #123",
+            ["DictKey_UnitName_381"] = "Unit #264",
+            ["DictKey_UnitName_475"] = "Unit #091",
+            ["DictKey_UnitName_777"] = "Unit #256",
+            ["DictKey_UnitName_484"] = "Unit #033",
+            ["DictKey_UnitName_559"] = "Unit #188",
+            ["DictKey_UnitName_110"] = "Unit #139",
+            ["DictKey_UnitName_391"] = "Unit #384",
+            ["DictKey_UnitName_28"] = "Unit #085",
+            ["DictKey_UnitName_146"] = "Unit #247",
+            ["DictKey_UnitName_276"] = "Unit #022",
+            ["DictKey_WptName_249"] = "",
+            ["DictKey_UnitName_778"] = "Unit #255",
+            ["DictKey_UnitName_511"] = "Unit #132",
+            ["DictKey_UnitName_200"] = "SA-3 Lar-7",
+            ["DictKey_UnitName_82"] = "Unit #137",
+            ["DictKey_UnitName_762"] = "Unit #183",
+            ["DictKey_UnitName_199"] = "SA-3 Lar-8",
+            ["DictKey_UnitName_625"] = "SA-6 Lar-2",
+            ["DictKey_UnitName_442"] = "Unit #054",
+            ["DictKey_UnitName_386"] = "Unit #259",
+            ["DictKey_UnitName_706"] = "Unit #135",
+            ["DictKey_UnitName_16"] = "Unit #056",
+            ["DictKey_UnitName_309"] = "Unit #152",
+            ["DictKey_UnitName_53"] = "Unit #089",
+            ["DictKey_UnitName_695"] = "Unit #116",
+            ["DictKey_UnitName_713"] = "Unit #128",
+            ["DictKey_UnitName_896"] = "Unit #113",
+            ["DictKey_UnitName_209"] = "SA-3 Lar Defence-8",
+            ["DictKey_UnitName_304"] = "Unit #127",
+            ["DictKey_UnitName_159"] = "Unit #252",
+            ["DictKey_UnitName_41"] = "Unit #101",
+            ["DictKey_UnitName_756"] = "Unit #189",
+            ["DictKey_UnitName_977"] = "Unit #254",
+            ["DictKey_UnitName_230"] = "Unit #054",
+            ["DictKey_UnitName_638"] = "Unit #056",
+            ["DictKey_GroupName_324"] = "S-300 Left",
+            ["DictKey_UnitName_35"] = "Unit #078",
+            ["DictKey_UnitName_655"] = "Unit #080",
+            ["DictKey_UnitName_174"] = "Unit #259",
+            ["DictKey_GroupName_964"] = "HAWK Jiroft",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_WptName_519"] = "",
+            ["DictKey_UnitName_530"] = "Unit #143",
+            ["DictKey_UnitName_657"] = "Unit #078",
+            ["DictKey_UnitName_65"] = "Unit #124",
+            ["DictKey_UnitName_10"] = "Unit #073",
+            ["DictKey_GroupName_128"] = "SA-6 Left",
+            ["DictKey_UnitName_78"] = "Unit #111",
+            ["DictKey_UnitName_533"] = "Unit #140",
+            ["DictKey_UnitName_490"] = "Unit #123",
+            ["DictKey_UnitName_266"] = "Unit #088",
+            ["DictKey_UnitName_248"] = "Unit #077",
+            ["DictKey_UnitName_811"] = "Unit #374",
+            ["DictKey_UnitName_454"] = "Unit #083",
+            ["DictKey_UnitName_280"] = "Unit #121",
+            ["DictKey_UnitName_831"] = "Unit #072",
+            ["DictKey_UnitName_1009"] = "Unit #374",
+            ["DictKey_UnitName_576"] = "Unit #241",
+            ["DictKey_UnitName_89"] = "Unit #130",
+            ["DictKey_UnitName_914"] = "Unit #125",
+            ["DictKey_UnitName_67"] = "Unit #122",
+            ["DictKey_UnitName_539"] = "Unit #178",
+            ["DictKey_UnitName_364"] = "Unit #241",
+            ["DictKey_UnitName_981"] = "Unit #250",
+            ["DictKey_UnitName_297"] = "Unit #134",
+            ["DictKey_UnitName_902"] = "Unit #137",
+            ["DictKey_UnitName_743"] = "Unit #172",
+            ["DictKey_UnitName_769"] = "Unit #246",
+            ["DictKey_UnitName_774"] = "Unit #241",
+            ["DictKey_UnitName_310"] = "Unit #151",
+            ["DictKey_UnitName_835"] = "Unit #068",
+            ["DictKey_UnitName_1005"] = "Unit #378",
+            ["DictKey_UnitName_374"] = "Unit #249",
+            ["DictKey_UnitName_456"] = "Unit #081",
+            ["DictKey_UnitName_710"] = "Unit #131",
+            ["DictKey_UnitName_542"] = "Unit #175",
+            ["DictKey_UnitName_397"] = "Unit #378",
+            ["DictKey_UnitName_747"] = "Unit #168",
+            ["DictKey_UnitName_837"] = "Unit #055",
+            ["DictKey_UnitName_360"] = "Unit #245",
+            ["DictKey_UnitName_662"] = "Unit #102",
+            ["DictKey_UnitName_714"] = "Unit #127",
+            ["DictKey_UnitName_433"] = "Unit #074",
+            ["DictKey_UnitName_329"] = "Unit #176",
+            ["DictKey_GroupName_520"] = "S-300 Kerman",
+            ["DictKey_UnitName_51"] = "Unit #091",
+            ["DictKey_UnitName_145"] = "Unit #248",
+            ["DictKey_UnitName_882"] = "Unit #024",
+            ["DictKey_UnitName_547"] = "Unit #170",
+            ["DictKey_UnitName_378"] = "Unit #359",
+            ["DictKey_UnitName_320"] = "Unit #141",
+            ["DictKey_UnitName_342"] = "Unit #193",
+            ["DictKey_UnitName_889"] = "Unit #120",
+            ["DictKey_UnitName_965"] = "Unit #248",
+            ["DictKey_UnitName_312"] = "Unit #149",
+            ["DictKey_UnitName_773"] = "Unit #242",
+            ["DictKey_UnitName_345"] = "Unit #190",
+            ["DictKey_UnitName_716"] = "Unit #125",
+            ["DictKey_UnitName_971"] = "Unit #242",
+            ["DictKey_GroupName_916"] = "S-300 Kerman",
+            ["DictKey_UnitName_406"] = "SA-3 Lar-13",
+            ["DictKey_UnitName_732"] = "Unit #139",
+            ["DictKey_UnitName_76"] = "Unit #113",
+            ["DictKey_UnitName_681"] = "Unit #356",
+            ["DictKey_UnitName_599"] = "Unit #258",
+            ["DictKey_GroupName_6"] = "S-300 Shiraz",
+            ["DictKey_UnitName_549"] = "Unit #168",
+            ["DictKey_UnitName_182"] = "Unit #381",
+            ["DictKey_WptName_973"] = "",
+            ["DictKey_UnitName_157"] = "Unit #254",
+            ["DictKey_UnitName_942"] = "Unit #171",
+            ["DictKey_UnitName_653"] = "Unit #082",
+            ["DictKey_UnitName_534"] = "Unit #139",
+            ["DictKey_UnitName_1001"] = "Unit #382",
+            ["DictKey_UnitName_453"] = "Unit #084",
+            ["DictKey_UnitName_74"] = "Unit #115",
+            ["DictKey_UnitName_724"] = "Unit #147",
+            ["DictKey_UnitName_988"] = "Unit #357",
+            ["DictKey_UnitName_91"] = "Unit #128",
+            ["DictKey_UnitName_722"] = "Unit #149",
+            ["DictKey_UnitName_315"] = "Unit #146",
+            ["DictKey_UnitName_43"] = "Unit #099",
+            ["DictKey_UnitName_88"] = "Unit #131",
+            ["DictKey_UnitName_843"] = "Unit #110",
+            ["DictKey_UnitName_532"] = "Unit #141",
+            ["DictKey_UnitName_290"] = "Unit #111",
+            ["DictKey_UnitName_720"] = "Unit #151",
+            ["DictKey_UnitName_807"] = "Unit #378",
+            ["DictKey_UnitName_664"] = "Unit #100",
+            ["DictKey_UnitName_171"] = "Unit #262",
+            ["DictKey_UnitName_719"] = "Unit #152",
+            ["DictKey_WptName_587"] = "",
+            ["DictKey_UnitName_903"] = "Unit #136",
+            ["DictKey_UnitName_895"] = "Unit #114",
+            ["DictKey_UnitName_138"] = "Unit #185",
+            ["DictKey_UnitName_583"] = "Unit #252",
+            ["DictKey_UnitName_917"] = "Unit #152",
+            ["DictKey_UnitName_450"] = "Unit #107",
+            ["DictKey_UnitName_566"] = "Unit #181",
+            ["DictKey_WptName_375"] = "",
+            ["DictKey_UnitName_711"] = "Unit #130",
+            ["DictKey_UnitName_66"] = "Unit #123",
+            ["DictKey_UnitName_485"] = "Unit #025",
+            ["DictKey_UnitName_871"] = "Unit #091",
+            ["DictKey_WptName_323"] = "",
+            ["DictKey_UnitName_170"] = "Unit #263",
+            ["DictKey_UnitName_846"] = "Unit #107",
+            ["DictKey_GroupName_766"] = "HAWK Jiroft",
+            ["DictKey_UnitName_299"] = "Unit #132",
+            ["DictKey_GroupName_568"] = "HAWK Jiroft",
+            ["DictKey_UnitName_136"] = "Unit #187",
+            ["DictKey_UnitName_708"] = "Unit #133",
+            ["DictKey_UnitName_855"] = "Unit #078",
+            ["DictKey_UnitName_752"] = "Unit #193",
+            ["DictKey_GroupName_38"] = "HAWK Shiraz",
+            ["DictKey_GroupName_660"] = "HAWK Shiraz",
+            ["DictKey_UnitName_316"] = "Unit #145",
+            ["DictKey_UnitName_123"] = "Unit #170",
+            ["DictKey_UnitName_1015"] = "SA-6 Lar-8",
+            ["DictKey_UnitName_418"] = "SA-3 Lar-1",
+            ["DictKey_UnitName_574"] = "Unit #243",
+            ["DictKey_UnitName_910"] = "Unit #129",
+            ["DictKey_UnitName_385"] = "Unit #260",
+            ["DictKey_UnitName_467"] = "Unit #099",
+            ["DictKey_UnitName_764"] = "Unit #181",
+            ["DictKey_UnitName_93"] = "Unit #126",
+            ["DictKey_UnitName_866"] = "Unit #096",
+            ["DictKey_UnitName_332"] = "Unit #173",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_UnitName_636"] = "Unit #069",
+            ["DictKey_UnitName_904"] = "Unit #135",
+            ["DictKey_UnitName_426"] = "SA-3 Lar Defence-3",
+            ["DictKey_UnitName_1010"] = "Unit #373",
+            ["DictKey_WptName_577"] = "",
+            ["DictKey_UnitName_377"] = "Unit #360",
+            ["DictKey_GroupName_702"] = "S-300 Jiroft",
+            ["DictKey_UnitName_262"] = "Unit #092",
+            ["DictKey_WptName_429"] = "",
+            ["DictKey_UnitName_246"] = "Unit #079",
+            ["DictKey_UnitName_263"] = "Unit #091",
+            ["DictKey_UnitName_351"] = "Unit #184",
+            ["DictKey_UnitName_579"] = "Unit #256",
+            ["DictKey_GroupName_308"] = "S-300 Kerman",
+            ["DictKey_UnitName_919"] = "Unit #150",
+            ["DictKey_UnitName_185"] = "Unit #378",
+            ["DictKey_UnitName_727"] = "Unit #144",
+            ["DictKey_UnitName_402"] = "Unit #373",
+            ["DictKey_UnitName_251"] = "Unit #103",
+            ["DictKey_UnitName_581"] = "Unit #254",
+            ["DictKey_WptName_1012"] = "",
+            ["DictKey_UnitName_407"] = "SA-3 Lar-12",
+            ["DictKey_WptName_799"] = "",
+            ["DictKey_UnitName_723"] = "Unit #148",
+            ["DictKey_UnitName_591"] = "Unit #358",
+            ["DictKey_UnitName_55"] = "Unit #087",
+            ["DictKey_UnitName_458"] = "Unit #079",
+            ["DictKey_UnitName_751"] = "Unit #194",
+            ["DictKey_UnitName_173"] = "Unit #260",
+            ["DictKey_UnitName_595"] = "Unit #262",
+            ["DictKey_UnitName_589"] = "Unit #360",
+            ["DictKey_UnitName_590"] = "Unit #359",
+            ["DictKey_WptName_947"] = "",
+            ["DictKey_UnitName_737"] = "Unit #178",
+            ["DictKey_UnitName_32"] = "Unit #081",
+            ["DictKey_UnitName_927"] = "Unit #142",
+            ["DictKey_UnitName_921"] = "Unit #148",
+            ["DictKey_UnitName_758"] = "Unit #187",
+            ["DictKey_UnitName_905"] = "Unit #134",
+            ["DictKey_UnitName_523"] = "Unit #150",
+            ["DictKey_UnitName_684"] = "Unit #024",
+            ["DictKey_UnitName_682"] = "Unit #033",
+            ["DictKey_GroupName_900"] = "S-300 Jiroft",
+            ["DictKey_UnitName_247"] = "Unit #078",
+            ["DictKey_UnitName_594"] = "Unit #263",
+            ["DictKey_WptName_679"] = "",
+            ["DictKey_GroupName_984"] = "HAWK Center",
+            ["DictKey_UnitName_259"] = "Unit #095",
+            ["DictKey_UnitName_1019"] = "SA-6 Lar-4",
+            ["DictKey_UnitName_978"] = "Unit #253",
+            ["DictKey_UnitName_148"] = "Unit #245",
+            ["DictKey_WptName_404"] = "",
+            ["DictKey_UnitName_658"] = "Unit #077",
+            ["DictKey_UnitName_414"] = "SA-3 Lar-5",
+            ["DictKey_UnitName_371"] = "Unit #252",
+            ["DictKey_UnitName_393"] = "Unit #382",
+            ["DictKey_UnitName_669"] = "Unit #095",
+            ["DictKey_UnitName_213"] = "SA-3 Lar Defence-4",
+            ["DictKey_UnitName_97"] = "Unit #152",
+            ["DictKey_WptName_21"] = "",
+            ["DictKey_GroupName_340"] = "SA-6 Left",
+            ["DictKey_WptName_601"] = "",
+            ["DictKey_WptName_127"] = "",
+            ["DictKey_UnitName_944"] = "Unit #169",
+            ["DictKey_UnitName_54"] = "Unit #088",
+            ["DictKey_UnitName_990"] = "Unit #263",
+            ["DictKey_UnitName_436"] = "Unit #071",
+            ["DictKey_UnitName_707"] = "Unit #134",
+            ["DictKey_UnitName_755"] = "Unit #190",
+            ["DictKey_UnitName_654"] = "Unit #081",
+            ["DictKey_UnitName_651"] = "Unit #084",
+            ["DictKey_UnitName_319"] = "Unit #142",
+            ["DictKey_UnitName_608"] = "Unit #379",
+            ["DictKey_UnitName_863"] = "Unit #099",
+            ["DictKey_UnitName_134"] = "Unit #189",
+            ["DictKey_UnitName_289"] = "Unit #112",
+            ["DictKey_UnitName_767"] = "Unit #248",
+            ["DictKey_UnitName_441"] = "Unit #055",
+            ["DictKey_UnitName_544"] = "Unit #173",
+            ["DictKey_UnitName_945"] = "Unit #168",
+            ["DictKey_UnitName_101"] = "Unit #148",
+            ["DictKey_UnitName_158"] = "Unit #253",
+            ["DictKey_UnitName_989"] = "Unit #264",
+            ["DictKey_UnitName_810"] = "Unit #375",
+            ["DictKey_UnitName_969"] = "Unit #244",
+            ["DictKey_UnitName_802"] = "Unit #383",
+            ["DictKey_UnitName_952"] = "Unit #191",
+            ["DictKey_UnitName_692"] = "Unit #119",
+            ["DictKey_UnitName_514"] = "Unit #129",
+            ["DictKey_WptName_57"] = "",
+            ["DictKey_WptName_825"] = "",
+            ["DictKey_UnitName_645"] = "Unit #110",
+            ["DictKey_UnitName_745"] = "Unit #170",
+            ["DictKey_UnitName_613"] = "Unit #374",
+            ["DictKey_GroupName_234"] = "SA-6 Shiraz",
+            ["DictKey_UnitName_161"] = "Unit #250",
+            ["DictKey_UnitName_632"] = "Unit #073",
+            ["DictKey_UnitName_219"] = "Unit #076",
+            ["DictKey_UnitName_854"] = "Unit #079",
+            ["DictKey_GroupName_430"] = "S-300 Shiraz",
+            ["DictKey_UnitName_139"] = "Unit #184",
+            ["DictKey_GroupName_644"] = "SA-6 Shiraz",
+            ["DictKey_UnitName_563"] = "Unit #184",
+            ["DictKey_WptName_616"] = "",
+            ["DictKey_UnitName_641"] = "Unit #053",
+            ["DictKey_UnitName_991"] = "Unit #262",
+            ["DictKey_UnitName_98"] = "Unit #151",
+            ["DictKey_GroupName_826"] = "S-300 Shiraz",
+            ["DictKey_GroupName_617"] = "SA-6 Lar",
+            ["DictKey_UnitName_322"] = "Unit #139",
+            ["DictKey_UnitName_705"] = "Unit #136",
+            ["DictKey_UnitName_918"] = "Unit #151",
+            ["DictKey_UnitName_619"] = "SA-6 Lar-8",
+            ["DictKey_UnitName_671"] = "Unit #093",
+            ["DictKey_UnitName_120"] = "Unit #173",
+            ["DictKey_GroupName_776"] = "HAWK Kerman",
+            ["DictKey_UnitName_284"] = "Unit #117",
+            ["DictKey_UnitName_634"] = "Unit #071",
+            ["DictKey_UnitName_993"] = "Unit #260",
+            ["DictKey_UnitName_678"] = "Unit #086",
+            ["DictKey_UnitName_829"] = "Unit #074",
+            ["DictKey_UnitName_622"] = "SA-6 Lar-5",
+            ["DictKey_UnitName_367"] = "Unit #256",
+            ["DictKey_UnitName_665"] = "Unit #099",
+            ["DictKey_UnitName_422"] = "SA-3 Lar Defence-7",
+            ["DictKey_WptName_877"] = "",
+            ["DictKey_GroupName_178"] = "SA-2 Left",
+            ["DictKey_UnitName_712"] = "Unit #129",
+            ["DictKey_UnitName_738"] = "Unit #177",
+            ["DictKey_UnitName_624"] = "SA-6 Lar-3",
+            ["DictKey_UnitName_77"] = "Unit #112",
+            ["DictKey_UnitName_409"] = "SA-3 Lar-10",
+            ["DictKey_UnitName_63"] = "Unit #023",
+            ["DictKey_GroupName_718"] = "S-300 Kerman",
+            ["DictKey_UnitName_287"] = "Unit #114",
+            ["DictKey_UnitName_880"] = "Unit #033",
+            ["DictKey_GroupName_164"] = "HAWK Center",
+            ["DictKey_UnitName_413"] = "SA-3 Lar-6",
+            ["DictKey_UnitName_629"] = "Unit #076",
+            ["DictKey_UnitName_191"] = "Unit #372",
+            ["DictKey_WptName_461"] = "",
+            ["DictKey_UnitName_874"] = "Unit #088",
+            ["DictKey_UnitName_1008"] = "Unit #375",
+            ["DictKey_UnitName_118"] = "Unit #175",
+            ["DictKey_UnitName_337"] = "Unit #168",
+            ["DictKey_UnitName_34"] = "Unit #079",
+            ["DictKey_WptName_445"] = "",
+            ["DictKey_UnitName_85"] = "Unit #134",
+            ["DictKey_UnitName_222"] = "Unit #073",
+            ["DictKey_WptName_643"] = "",
+            ["DictKey_GroupName_292"] = "S-300 Jiroft",
+            ["DictKey_UnitName_525"] = "Unit #148",
+            ["DictKey_WptName_535"] = "",
+            ["DictKey_GroupName_96"] = "S-300 Kerman",
+            ["DictKey_UnitName_50"] = "Unit #092",
+            ["DictKey_UnitName_204"] = "SA-3 Lar-3",
+            ["DictKey_UnitName_649"] = "Unit #106",
+            ["DictKey_UnitName_598"] = "Unit #259",
+            ["DictKey_UnitName_979"] = "Unit #252",
+            ["DictKey_UnitName_298"] = "Unit #133",
+            ["DictKey_GroupName_588"] = "HAWK Center",
+            ["DictKey_UnitName_949"] = "Unit #194",
+            ["DictKey_UnitName_668"] = "Unit #096",
+            ["DictKey_UnitName_623"] = "SA-6 Lar-4",
+            ["DictKey_UnitName_471"] = "Unit #095",
+            ["DictKey_GroupName_208"] = "SA-3 Lar Defence",
+            ["DictKey_UnitName_730"] = "Unit #141",
+            ["DictKey_UnitName_443"] = "Unit #053",
+            ["DictKey_UnitName_844"] = "Unit #109",
+            ["DictKey_UnitName_232"] = "Unit #052",
+            ["DictKey_UnitName_744"] = "Unit #171",
+            ["DictKey_UnitName_496"] = "Unit #117",
+            ["DictKey_WptName_841"] = "",
+            ["DictKey_UnitName_690"] = "Unit #121",
+            ["DictKey_UnitName_673"] = "Unit #091",
+            ["DictKey_UnitName_295"] = "Unit #136",
+            ["DictKey_UnitName_1003"] = "Unit #380",
+            ["DictKey_WptName_551"] = "",
+            ["DictKey_UnitName_700"] = "Unit #111",
+            ["DictKey_UnitName_20"] = "Unit #052",
+            ["DictKey_UnitName_698"] = "Unit #113",
+            ["DictKey_UnitName_231"] = "Unit #053",
+            ["DictKey_UnitName_115"] = "Unit #178",
+            ["DictKey_UnitName_586"] = "Unit #249",
+            ["DictKey_UnitName_108"] = "Unit #141",
+            ["DictKey_WptName_659"] = "",
+            ["DictKey_UnitName_911"] = "Unit #128",
+            ["DictKey_UnitName_812"] = "Unit #373",
+            ["DictKey_UnitName_968"] = "Unit #245",
+            ["DictKey_UnitName_212"] = "SA-3 Lar Defence-5",
+            ["DictKey_UnitName_930"] = "Unit #139",
+            ["DictKey_UnitName_606"] = "Unit #381",
+            ["DictKey_UnitName_562"] = "Unit #185",
+            ["DictKey_UnitName_416"] = "SA-3 Lar-3",
+            ["DictKey_UnitName_709"] = "Unit #132",
+            ["DictKey_UnitName_464"] = "Unit #102",
+            ["DictKey_UnitName_703"] = "Unit #138",
+            ["DictKey_GroupName_800"] = "SA-2 Left",
+            ["DictKey_UnitName_190"] = "Unit #373",
+            ["DictKey_UnitName_373"] = "Unit #250",
+            ["DictKey_UnitName_972"] = "Unit #241",
+            ["DictKey_UnitName_477"] = "Unit #089",
+            ["DictKey_UnitName_637"] = "Unit #068",
+            ["DictKey_UnitName_614"] = "Unit #373",
+            ["DictKey_UnitName_621"] = "SA-6 Lar-6",
+            ["DictKey_UnitName_505"] = "Unit #138",
+            ["DictKey_UnitName_379"] = "Unit #358",
+            ["DictKey_UnitName_451"] = "Unit #106",
+            ["DictKey_UnitName_693"] = "Unit #118",
+            ["DictKey_UnitName_125"] = "Unit #168",
+            ["DictKey_UnitName_206"] = "SA-3 Lar-1",
+            ["DictKey_UnitName_19"] = "Unit #053",
+            ["DictKey_UnitName_104"] = "Unit #145",
+            ["DictKey_UnitName_953"] = "Unit #190",
+            ["DictKey_UnitName_216"] = "SA-3 Lar Defence-1",
+            ["DictKey_UnitName_49"] = "Unit #093",
+            ["DictKey_UnitName_739"] = "Unit #176",
+            ["DictKey_UnitName_631"] = "Unit #074",
+            ["DictKey_UnitName_172"] = "Unit #261",
+            ["DictKey_UnitName_688"] = "Unit #123",
+            ["DictKey_UnitName_817"] = "SA-6 Lar-8",
+            ["DictKey_UnitName_179"] = "Unit #384",
+            ["DictKey_UnitName_569"] = "Unit #248",
+            ["DictKey_UnitName_748"] = "Unit #167",
+            ["DictKey_UnitName_25"] = "Unit #108",
+            ["DictKey_UnitName_666"] = "Unit #098",
+            ["DictKey_UnitName_686"] = "Unit #022",
+            ["DictKey_UnitName_753"] = "Unit #192",
+            ["DictKey_UnitName_754"] = "Unit #191",
+            ["DictKey_UnitName_256"] = "Unit #098",
+            ["DictKey_GroupName_734"] = "S-300 Left",
+            ["DictKey_UnitName_460"] = "Unit #077",
+            ["DictKey_UnitName_236"] = "Unit #109",
+            ["DictKey_UnitName_956"] = "Unit #187",
+            ["DictKey_UnitName_892"] = "Unit #117",
+            ["DictKey_UnitName_500"] = "Unit #113",
+            ["DictKey_UnitName_162"] = "Unit #249",
+            ["DictKey_UnitName_760"] = "Unit #185",
+            ["DictKey_UnitName_518"] = "Unit #125",
+            ["DictKey_UnitName_646"] = "Unit #109",
+            ["DictKey_UnitName_75"] = "Unit #114",
+            ["DictKey_UnitName_987"] = "Unit #358",
+            ["DictKey_UnitName_772"] = "Unit #243",
+            ["DictKey_UnitName_788"] = "Unit #359",
+            ["DictKey_UnitName_697"] = "Unit #114",
+            ["DictKey_UnitName_771"] = "Unit #244",
+            ["DictKey_UnitName_792"] = "Unit #263",
+            ["DictKey_UnitName_780"] = "Unit #253",
+            ["DictKey_UnitName_473"] = "Unit #093",
+            ["DictKey_UnitName_194"] = "SA-3 Lar-13",
+            ["DictKey_UnitName_151"] = "Unit #242",
+            ["DictKey_UnitName_543"] = "Unit #174",
+            ["DictKey_UnitName_986"] = "Unit #359",
+            ["DictKey_WptName_627"] = "",
+            ["DictKey_WptName_749"] = "",
+            ["DictKey_UnitName_784"] = "Unit #249",
+            ["DictKey_WptName_37"] = "",
+            ["DictKey_UnitName_985"] = "Unit #360",
+            ["DictKey_UnitName_864"] = "Unit #098",
+            ["DictKey_WptName_217"] = "",
+            ["DictKey_UnitName_615"] = "Unit #372",
+            ["DictKey_UnitName_573"] = "Unit #244",
+            ["DictKey_UnitName_1004"] = "Unit #379",
+            ["DictKey_UnitName_610"] = "Unit #377",
+            ["DictKey_WptName_481"] = "",
+            ["DictKey_UnitName_444"] = "Unit #052",
+            ["DictKey_UnitName_839"] = "Unit #053",
+            ["DictKey_UnitName_557"] = "Unit #190",
+            ["DictKey_UnitName_798"] = "Unit #257",
+            ["DictKey_GroupName_420"] = "SA-3 Lar Defence",
+            ["DictKey_UnitName_239"] = "Unit #106",
+            ["DictKey_UnitName_585"] = "Unit #250",
+            ["DictKey_UnitName_781"] = "Unit #252",
+            ["DictKey_GroupName_504"] = "S-300 Jiroft",
+            ["DictKey_UnitName_531"] = "Unit #142",
+            ["DictKey_WptName_567"] = "",
+            ["DictKey_UnitName_689"] = "Unit #122",
+            ["DictKey_UnitName_801"] = "Unit #384",
+            ["DictKey_UnitName_359"] = "Unit #246",
+            ["DictKey_UnitName_237"] = "Unit #108",
+            ["DictKey_UnitName_603"] = "Unit #384",
+            ["DictKey_UnitName_403"] = "Unit #372",
+            ["DictKey_UnitName_670"] = "Unit #094",
+            ["DictKey_UnitName_253"] = "Unit #101",
+            ["DictKey_WptName_207"] = "",
+            ["DictKey_UnitName_943"] = "Unit #170",
+            ["DictKey_UnitName_797"] = "Unit #258",
+            ["DictKey_UnitName_806"] = "Unit #379",
+            ["DictKey_UnitName_1021"] = "SA-6 Lar-2",
+            ["DictKey_UnitName_890"] = "Unit #119",
+            ["DictKey_UnitName_909"] = "Unit #130",
+            ["DictKey_UnitName_935"] = "Unit #178",
+            ["DictKey_UnitName_994"] = "Unit #259",
+            ["DictKey_UnitName_507"] = "Unit #136",
+            ["DictKey_UnitName_491"] = "Unit #122",
+            ["DictKey_WptName_365"] = "",
+            ["DictKey_UnitName_512"] = "Unit #131",
+            ["DictKey_UnitName_611"] = "Unit #376",
+            ["DictKey_UnitName_440"] = "Unit #056",
+            ["DictKey_UnitName_609"] = "Unit #378",
+            ["DictKey_UnitName_999"] = "Unit #384",
+            ["DictKey_WptName_814"] = "",
+            ["DictKey_UnitName_647"] = "Unit #108",
+            ["DictKey_UnitName_48"] = "Unit #094",
+            ["DictKey_UnitName_936"] = "Unit #177",
+            ["DictKey_WptName_701"] = "",
+            ["DictKey_UnitName_317"] = "Unit #144",
+            ["DictKey_UnitName_818"] = "SA-6 Lar-7",
+            ["DictKey_UnitName_759"] = "Unit #186",
+            ["DictKey_UnitName_9"] = "Unit #074",
+            ["DictKey_UnitName_770"] = "Unit #245",
+            ["DictKey_UnitName_819"] = "SA-6 Lar-6",
+            ["DictKey_GroupName_974"] = "HAWK Kerman",
+            ["DictKey_UnitName_960"] = "Unit #183",
+            ["DictKey_UnitName_796"] = "Unit #259",
+            ["DictKey_UnitName_958"] = "Unit #185",
+            ["DictKey_UnitName_277"] = "Unit #124",
+            ["DictKey_UnitName_83"] = "Unit #136",
+            ["DictKey_UnitName_793"] = "Unit #262",
+            ["DictKey_UnitName_517"] = "Unit #126",
+            ["DictKey_UnitName_824"] = "SA-6 Lar-1",
+            ["DictKey_UnitName_950"] = "Unit #193",
+            ["DictKey_UnitName_181"] = "Unit #382",
+            ["DictKey_UnitName_805"] = "Unit #380",
+            ["DictKey_UnitName_862"] = "Unit #100",
+            ["DictKey_UnitName_541"] = "Unit #176",
+            ["DictKey_UnitName_195"] = "SA-3 Lar-12",
+            ["DictKey_UnitName_685"] = "Unit #023",
+            ["DictKey_UnitName_109"] = "Unit #140",
+            ["DictKey_UnitName_1016"] = "SA-6 Lar-7",
+            ["DictKey_UnitName_833"] = "Unit #070",
+            ["DictKey_UnitName_768"] = "Unit #247",
+            ["DictKey_WptName_857"] = "",
+            ["DictKey_UnitName_205"] = "SA-3 Lar-2",
+            ["DictKey_UnitName_823"] = "SA-6 Lar-2",
+            ["DictKey_UnitName_639"] = "Unit #055",
+            ["DictKey_UnitName_124"] = "Unit #169",
+            ["DictKey_UnitName_834"] = "Unit #069",
+            ["DictKey_GroupName_446"] = "SA-6 Shiraz",
+            ["DictKey_GroupName_602"] = "SA-2 Left",
+            ["DictKey_UnitName_224"] = "Unit #071",
+            ["DictKey_GroupName_462"] = "HAWK Shiraz",
+            ["DictKey_UnitName_318"] = "Unit #143",
+            ["DictKey_UnitName_908"] = "Unit #131",
+            ["DictKey_UnitName_822"] = "SA-6 Lar-3",
+            ["DictKey_UnitName_794"] = "Unit #261",
+            ["DictKey_UnitName_352"] = "Unit #183",
+            ["DictKey_GroupName_628"] = "S-300 Shiraz",
+            ["DictKey_WptName_733"] = "",
+            ["DictKey_UnitName_677"] = "Unit #087",
+            ["DictKey_UnitName_68"] = "Unit #121",
+            ["DictKey_UnitName_827"] = "Unit #076",
+            ["DictKey_UnitName_501"] = "Unit #112",
+            ["DictKey_GroupName_218"] = "S-300 Shiraz",
+            ["DictKey_UnitName_840"] = "Unit #052",
+            ["DictKey_UnitName_982"] = "Unit #249",
+            ["DictKey_UnitName_907"] = "Unit #132",
+            ["DictKey_UnitName_779"] = "Unit #254",
+            ["DictKey_GroupName_878"] = "S-300 Center",
+            ["DictKey_UnitName_898"] = "Unit #111",
+            ["DictKey_UnitName_439"] = "Unit #068",
+            ["DictKey_UnitName_399"] = "Unit #376",
+            ["DictKey_UnitName_474"] = "Unit #092",
+            ["DictKey_UnitName_483"] = "Unit #356",
+            ["DictKey_UnitName_470"] = "Unit #096",
+            ["DictKey_UnitName_61"] = "Unit #025",
+            ["DictKey_UnitName_540"] = "Unit #177",
+            ["DictKey_WptName_983"] = "",
+            ["DictKey_WptName_931"] = "",
+            ["DictKey_UnitName_694"] = "Unit #117",
+            ["DictKey_UnitName_1000"] = "Unit #383",
+            ["DictKey_UnitName_92"] = "Unit #127",
+            ["DictKey_UnitName_847"] = "Unit #106",
+            ["DictKey_UnitName_113"] = "Unit #180",
+            ["DictKey_UnitName_1017"] = "SA-6 Lar-6",
+            ["DictKey_UnitName_330"] = "Unit #175",
+            ["DictKey_UnitName_929"] = "Unit #140",
+            ["DictKey_UnitName_285"] = "Unit #116",
+            ["DictKey_UnitName_448"] = "Unit #109",
+            ["DictKey_WptName_963"] = "",
+            ["DictKey_WptName_717"] = "",
+            ["DictKey_UnitName_782"] = "Unit #251",
+            ["DictKey_UnitName_325"] = "Unit #180",
+            ["DictKey_UnitName_851"] = "Unit #082",
+            ["DictKey_UnitName_17"] = "Unit #055",
+            ["DictKey_UnitName_580"] = "Unit #255",
+            ["DictKey_UnitName_437"] = "Unit #070",
+            ["DictKey_UnitName_725"] = "Unit #146",
+            ["DictKey_UnitName_661"] = "Unit #103",
+            ["DictKey_UnitName_432"] = "Unit #075",
+            ["DictKey_UnitName_861"] = "Unit #101",
+            ["DictKey_UnitName_893"] = "Unit #116",
+            ["DictKey_UnitName_620"] = "SA-6 Lar-7",
+            ["DictKey_UnitName_300"] = "Unit #131",
+            ["DictKey_WptName_503"] = "",
+            ["DictKey_UnitName_241"] = "Unit #084",
+            ["DictKey_UnitName_926"] = "Unit #143",
+            ["DictKey_UnitName_922"] = "Unit #147",
+            ["DictKey_UnitName_869"] = "Unit #093",
+            ["DictKey_UnitName_888"] = "Unit #121",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "%LOCATIONMETHOD% an active SA-6 Site at %LOCATION%, defending Lar Airbase. We need to disable that airfield to continue northwards.\
+\
+Primary Objectives: Destroy any and all Mobile Radar and Launcher elements at the site.\
+\
+Secondary Objectives: None.\
+\
+Recommended Pilots: 2-4\
+\
+Recommended Ordnance: Anti-radiation missiles (AGM-88C etc.), long range standoff weaponry (JSOW etc.).",
+} -- end of staticTemplate

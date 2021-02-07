@@ -1,0 +1,11 @@
+region = {
+    ["name"] = "CN-Armed-Recce",
+    ["priority"] = 3,
+		["airspace"] = false,
+    ["limits"] = {
+        ["specialforces"] = {
+            ["min"] = 6,
+            ["max"] = 10,
+        },
+    },
+}

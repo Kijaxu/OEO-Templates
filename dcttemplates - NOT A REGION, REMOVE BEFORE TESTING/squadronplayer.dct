@@ -1,0 +1,8 @@
+objtype = "squadronplayer"
+name = "409TFS"
+coalition = 2
+ato = {"CAP", "SEAD"}
+payloadlimits  = {
+			["ag"] = 20,
+			["aa"] = 10,
+}

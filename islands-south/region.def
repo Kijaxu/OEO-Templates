@@ -1,0 +1,54 @@
+region = {
+    ["name"] = "islands-south",
+    ["priority"] = 15,
+    ["limits"] = {
+		["shorad"] = {
+            ["min"] = 1,
+            ["max"] = 2,
+		},
+        ["ammodump"] = {
+            ["min"] = 0,
+            ["max"] = 1,
+        },
+        ["bunker"] = {
+            ["min"] = 0,
+            ["max"] = 0,
+        },
+        ["checkpoint"] = {
+            ["min"] = 0,
+            ["max"] = 1,
+        },
+        ["c2"] = {
+            ["min"] = 0,
+            ["max"] = 1,
+        },
+        ["ewr"] = {
+            ["min"] = 0,
+            ["max"] = 1,
+        },
+        ["factory"] = {
+            ["min"] = 0,
+            ["max"] = 0,
+        },
+        ["fueldump"] = {
+            ["min"] = 0,
+            ["max"] = 1,
+        },
+        ["missile"] = {
+            ["min"] = 1,
+            ["max"] = 1,
+        },
+        ["oca"] = {
+            ["min"] = 0,
+            ["max"] = 1,
+        },
+        ["port"] = {
+            ["min"] = 0,
+            ["max"] = 1,
+        },
+        ["sam"] = {
+            ["min"] = 1,
+            ["max"] = 2,
+        },
+    },
+}

@@ -1,0 +1,1753 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 80,
+                    ["name"] = "CJTF Blue",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [22]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["neutrals"] = 
+        {
+            ["name"] = "neutrals",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 70,
+                    ["name"] = "Algeria",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 83,
+                    ["name"] = "Argentina",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 23,
+                    ["name"] = "Austria",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 65,
+                    ["name"] = "Bahrain",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 64,
+                    ["name"] = "Brazil",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 25,
+                    ["name"] = "Bulgaria",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 63,
+                    ["name"] = "Chile",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 76,
+                    ["name"] = "Cuba",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 29,
+                    ["name"] = "Egypt",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 62,
+                    ["name"] = "Ethiopia",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 30,
+                    ["name"] = "Finland",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 78,
+                    ["name"] = "GDR",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 31,
+                    ["name"] = "Greece",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 61,
+                    ["name"] = "Honduras",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 32,
+                    ["name"] = "Hungary",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 33,
+                    ["name"] = "India",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 60,
+                    ["name"] = "Indonesia",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 17,
+                    ["name"] = "Insurgents",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 35,
+                    ["name"] = "Iraq",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 69,
+                    ["name"] = "Italian Social Republic",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 36,
+                    ["name"] = "Japan",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 59,
+                    ["name"] = "Jordan",
+                }, -- end of [22]
+                [23] = 
+                {
+                    ["id"] = 71,
+                    ["name"] = "Kuwait",
+                }, -- end of [23]
+                [24] = 
+                {
+                    ["id"] = 79,
+                    ["name"] = "Lebanon",
+                }, -- end of [24]
+                [25] = 
+                {
+                    ["id"] = 58,
+                    ["name"] = "Libya",
+                }, -- end of [25]
+                [26] = 
+                {
+                    ["id"] = 57,
+                    ["name"] = "Malaysia",
+                }, -- end of [26]
+                [27] = 
+                {
+                    ["id"] = 56,
+                    ["name"] = "Mexico",
+                }, -- end of [27]
+                [28] = 
+                {
+                    ["id"] = 55,
+                    ["name"] = "Morocco",
+                }, -- end of [28]
+                [29] = 
+                {
+                    ["id"] = 73,
+                    ["name"] = "Oman",
+                }, -- end of [29]
+                [30] = 
+                {
+                    ["id"] = 39,
+                    ["name"] = "Pakistan",
+                }, -- end of [30]
+                [31] = 
+                {
+                    ["id"] = 54,
+                    ["name"] = "Philippines",
+                }, -- end of [31]
+                [32] = 
+                {
+                    ["id"] = 77,
+                    ["name"] = "Portugal",
+                }, -- end of [32]
+                [33] = 
+                {
+                    ["id"] = 72,
+                    ["name"] = "Qatar",
+                }, -- end of [33]
+                [34] = 
+                {
+                    ["id"] = 41,
+                    ["name"] = "Romania",
+                }, -- end of [34]
+                [35] = 
+                {
+                    ["id"] = 42,
+                    ["name"] = "Saudi Arabia",
+                }, -- end of [35]
+                [36] = 
+                {
+                    ["id"] = 44,
+                    ["name"] = "Slovakia",
+                }, -- end of [36]
+                [37] = 
+                {
+                    ["id"] = 75,
+                    ["name"] = "South Africa",
+                }, -- end of [37]
+                [38] = 
+                {
+                    ["id"] = 53,
+                    ["name"] = "Sudan",
+                }, -- end of [38]
+                [39] = 
+                {
+                    ["id"] = 22,
+                    ["name"] = "Switzerland",
+                }, -- end of [39]
+                [40] = 
+                {
+                    ["id"] = 52,
+                    ["name"] = "Thailand",
+                }, -- end of [40]
+                [41] = 
+                {
+                    ["id"] = 66,
+                    ["name"] = "Third Reich",
+                }, -- end of [41]
+                [42] = 
+                {
+                    ["id"] = 51,
+                    ["name"] = "Tunisia",
+                }, -- end of [42]
+                [43] = 
+                {
+                    ["id"] = 74,
+                    ["name"] = "United Arab Emirates",
+                }, -- end of [43]
+                [44] = 
+                {
+                    ["id"] = 82,
+                    ["name"] = "UN",
+                }, -- end of [44]
+                [45] = 
+                {
+                    ["id"] = 68,
+                    ["name"] = "USSR",
+                }, -- end of [45]
+                [46] = 
+                {
+                    ["id"] = 50,
+                    ["name"] = "Venezuela",
+                }, -- end of [46]
+                [47] = 
+                {
+                    ["id"] = 49,
+                    ["name"] = "Vietnam",
+                }, -- end of [47]
+                [48] = 
+                {
+                    ["id"] = 48,
+                    ["name"] = "Yemen",
+                }, -- end of [48]
+                [49] = 
+                {
+                    ["id"] = 67,
+                    ["name"] = "Yugoslavia",
+                }, -- end of [49]
+            }, -- end of ["country"]
+        }, -- end of ["neutrals"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["name"] = "CJTF Red",
+                    ["id"] = 81,
+                    ["static"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["heading"] = 6.0737457969403,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -22421.476078827,
+                                            ["speed"] = 0,
+                                            ["x"] = -120192.61542016,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 79,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["type"] = "UAZ-469",
+                                        ["unitId"] = 131,
+                                        ["y"] = -22421.476078827,
+                                        ["x"] = -120192.61542016,
+                                        ["name"] = "DictKey_GroupName_728",
+                                        ["heading"] = 6.0737457969403,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -22421.476078827,
+                                ["x"] = -120192.61542016,
+                                ["name"] = "DictKey_GroupName_728",
+                                ["dead"] = false,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["heading"] = 6.0737457969403,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -22419.453955763,
+                                            ["speed"] = 0,
+                                            ["x"] = -120188.72089016,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 80,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["type"] = "UAZ-469",
+                                        ["unitId"] = 132,
+                                        ["y"] = -22419.453955763,
+                                        ["x"] = -120188.72089016,
+                                        ["name"] = "DictKey_GroupName_731",
+                                        ["heading"] = 6.0737457969403,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -22419.453955763,
+                                ["x"] = -120188.72089016,
+                                ["name"] = "DictKey_GroupName_731",
+                                ["dead"] = false,
+                            }, -- end of [2]
+                            [3] = 
+                            {
+                                ["heading"] = 6.0737457969403,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -24477.201512614,
+                                            ["speed"] = 0,
+                                            ["x"] = -119520.96519046,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 81,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["type"] = "UAZ-469",
+                                        ["unitId"] = 133,
+                                        ["y"] = -24477.201512614,
+                                        ["x"] = -119520.96519046,
+                                        ["name"] = "DictKey_GroupName_734",
+                                        ["heading"] = 6.0737457969403,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -24477.201512614,
+                                ["x"] = -119520.96519046,
+                                ["name"] = "DictKey_GroupName_734",
+                                ["dead"] = false,
+                            }, -- end of [3]
+                            [4] = 
+                            {
+                                ["heading"] = 6.0737457969403,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -24475.111735244,
+                                            ["speed"] = 0,
+                                            ["x"] = -119521.3254969,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 82,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["type"] = "UAZ-469",
+                                        ["unitId"] = 134,
+                                        ["y"] = -24475.111735244,
+                                        ["x"] = -119521.3254969,
+                                        ["name"] = "DictKey_GroupName_737",
+                                        ["heading"] = 6.0737457969403,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -24475.111735244,
+                                ["x"] = -119521.3254969,
+                                ["name"] = "DictKey_GroupName_737",
+                                ["dead"] = false,
+                            }, -- end of [4]
+                        }, -- end of ["group"]
+                    }, -- end of ["static"]
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 282,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -22388.511590474,
+                                            ["x"] = -120201.40539067,
+                                            ["name"] = "DictKey_WptName_693",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 4,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 72,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 108,
+                                        ["y"] = -22388.511590474,
+                                        ["x"] = -120201.40539067,
+                                        ["name"] = "DictKey_UnitName_692",
+                                        ["heading"] = 4.7472955654246,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 109,
+                                        ["y"] = -22406.146823542,
+                                        ["x"] = -120216.19407024,
+                                        ["name"] = "DictKey_UnitName_694",
+                                        ["heading"] = 5.0789081233035,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 110,
+                                        ["y"] = -22407.71355201,
+                                        ["x"] = -120215.72549758,
+                                        ["name"] = "DictKey_UnitName_695",
+                                        ["heading"] = 2.0943951023932,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 111,
+                                        ["y"] = -22385.635224063,
+                                        ["x"] = -120224.64875992,
+                                        ["name"] = "DictKey_UnitName_696",
+                                        ["heading"] = 5.2534410485029,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 112,
+                                        ["y"] = -22385.863795492,
+                                        ["x"] = -120223.76304563,
+                                        ["name"] = "DictKey_UnitName_697",
+                                        ["heading"] = 2.4783675378319,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 113,
+                                        ["y"] = -22400.375394971,
+                                        ["x"] = -120204.76549882,
+                                        ["name"] = "DictKey_UnitName_698",
+                                        ["heading"] = 6.1086523819802,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [6]
+                                }, -- end of ["units"]
+                                ["y"] = -22388.511590474,
+                                ["x"] = -120201.40539067,
+                                ["name"] = "DictKey_GroupName_691",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 247,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -24461.20814747,
+                                            ["x"] = -119528.91070983,
+                                            ["name"] = "DictKey_WptName_716",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 4,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 75,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 120,
+                                        ["y"] = -24461.20814747,
+                                        ["x"] = -119528.91070983,
+                                        ["name"] = "DictKey_UnitName_710",
+                                        ["heading"] = 4.7472955654246,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 121,
+                                        ["y"] = -24474.890746178,
+                                        ["x"] = -119538.1131656,
+                                        ["name"] = "DictKey_UnitName_711",
+                                        ["heading"] = 5.0789081233035,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 122,
+                                        ["y"] = -24475.980510677,
+                                        ["x"] = -119537.70954912,
+                                        ["name"] = "DictKey_UnitName_712",
+                                        ["heading"] = 2.0943951023932,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 123,
+                                        ["y"] = -24445.668912949,
+                                        ["x"] = -119543.56198809,
+                                        ["name"] = "DictKey_UnitName_713",
+                                        ["heading"] = 5.2534410485029,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 124,
+                                        ["y"] = -24445.951444486,
+                                        ["x"] = -119542.43186194,
+                                        ["name"] = "DictKey_UnitName_714",
+                                        ["heading"] = 2.4783675378319,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 125,
+                                        ["y"] = -24466.899139853,
+                                        ["x"] = -119529.75830444,
+                                        ["name"] = "DictKey_UnitName_715",
+                                        ["heading"] = 6.1086523819802,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [6]
+                                }, -- end of ["units"]
+                                ["y"] = -24461.20814747,
+                                ["x"] = -119528.91070983,
+                                ["name"] = "DictKey_GroupName_709",
+                                ["start_time"] = 0,
+                            }, -- end of [2]
+                            [3] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 247,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -24603.103396466,
+                                            ["x"] = -119562.19598251,
+                                            ["name"] = "DictKey_WptName_725",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 4,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 78,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Stinger comm dsr",
+                                        ["unitId"] = 128,
+                                        ["y"] = -24603.103396466,
+                                        ["x"] = -119562.19598251,
+                                        ["name"] = "DictKey_UnitName_724",
+                                        ["heading"] = 6.1086523819802,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Soldier stinger",
+                                        ["unitId"] = 129,
+                                        ["y"] = -24652.604266098,
+                                        ["x"] = -119525.22697861,
+                                        ["name"] = "DictKey_UnitName_726",
+                                        ["heading"] = 6.1086523819802,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Soldier stinger",
+                                        ["unitId"] = 130,
+                                        ["y"] = -24610.622515904,
+                                        ["x"] = -119572.84806838,
+                                        ["name"] = "DictKey_UnitName_727",
+                                        ["heading"] = 6.1086523819802,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                }, -- end of ["units"]
+                                ["y"] = -24603.103396466,
+                                ["x"] = -119562.19598251,
+                                ["name"] = "DictKey_GroupName_723",
+                                ["start_time"] = 0,
+                            }, -- end of [3]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 34,
+                    ["name"] = "Iran",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 0,
+                    ["name"] = "Russia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [12]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "DN07 Armed Recce Substation",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_WptName_159"] = "",
+            ["DictKey_UnitName_72"] = "Secondary Destroyed",
+            ["DictKey_GroupName_124"] = "Static CP Predator TrojanSpirit-1",
+            ["DictKey_UnitName_656"] = "Primary Destroyed-28-6",
+            ["DictKey_GroupName_537"] = "Primary Destroyed-16",
+            ["DictKey_GroupName_467"] = "Primary Destroyed-6",
+            ["DictKey_GroupName_65"] = "Primary Destroyed -3",
+            ["DictKey_GroupName_594"] = "Static GeneratorF-1",
+            ["DictKey_UnitName_146"] = "Static FARP Tent-1",
+            ["DictKey_GroupName_214"] = "Static Mark Tyre Black-14",
+            ["DictKey_UnitName_398"] = "Static Land Rover 101 FC-1",
+            ["DictKey_WptName_70"] = "",
+            ["DictKey_GroupName_175"] = "Static Mark Tyre Black-1",
+            ["DictKey_GroupName_298"] = "Static Container white-16",
+            ["DictKey_UnitName_218"] = "Static Mark Tyre Black-1",
+            ["DictKey_GroupName_247"] = "Static Mark Tyre with Red Flag-10",
+            ["DictKey_WptName_387"] = "",
+            ["DictKey_WptName_690"] = "",
+            ["DictKey_GroupName_728"] = "Primary Destroyed -1",
+            ["DictKey_UnitName_158"] = "Static FARP Tent-1",
+            ["DictKey_UnitName_626"] = "Ground-4-6",
+            ["DictKey_UnitName_683"] = "Static FARP Tent-2",
+            ["DictKey_UnitName_707"] = "Static Transport UAZ-469-1",
+            ["DictKey_UnitName_69"] = "Primary Destroyed -4",
+            ["DictKey_WptName_536"] = "",
+            ["DictKey_UnitName_650"] = "Primary Destroyed-28-1",
+            ["DictKey_WptName_533"] = "",
+            ["DictKey_GroupName_709"] = "Primary Destroyed-1",
+            ["DictKey_WptName_85"] = "",
+            ["DictKey_WptName_153"] = "",
+            ["DictKey_GroupName_265"] = "Static Container white-5",
+            ["DictKey_UnitName_48"] = "-1-4",
+            ["DictKey_WptName_192"] = "",
+            ["DictKey_GroupName_157"] = "Primary Destroyed-7",
+            ["DictKey_UnitName_713"] = "Primary Destroyed-1-4",
+            ["DictKey_GroupName_283"] = "Static Container white-11",
+            ["DictKey_GroupName_464"] = "Primary Destroyed-10",
+            ["DictKey_WptName_621"] = "",
+            ["DictKey_GroupName_455"] = "Ground-4",
+            ["DictKey_WptName_177"] = "",
+            ["DictKey_UnitName_227"] = "Static Mark Tyre with Red Flag-2",
+            ["DictKey_WptName_566"] = "",
+            ["DictKey_GroupName_685"] = "Primary Destroyed-4",
+            ["DictKey_GroupName_382"] = "Static Watch tower armed-2",
+            ["DictKey_WptName_315"] = "",
+            ["DictKey_GroupName_95"] = "Static GeneratorF-1",
+            ["DictKey_UnitName_628"] = "Ground-4-8",
+            ["DictKey_WptName_103"] = "",
+            ["DictKey_UnitName_696"] = "Primary Destroyed-28-4",
+            ["DictKey_UnitName_15"] = "Secondary Destroyed -1",
+            ["DictKey_GroupName_515"] = "Primary Destroyed-27",
+            ["DictKey_UnitName_395"] = "Static Land Rover 101 FC-1",
+            ["DictKey_UnitName_644"] = "",
+            ["DictKey_UnitName_541"] = "Static Rapier FSA Launcher-1",
+            ["DictKey_UnitName_114"] = "DN08 Armed Recce-1-2",
+            ["DictKey_UnitName_50"] = "-1-2",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_WptName_457"] = "",
+            ["DictKey_WptName_141"] = "",
+            ["DictKey_WptName_132"] = "",
+            ["DictKey_GroupName_235"] = "Static Mark Tyre with Red Flag-6",
+            ["DictKey_UnitName_22"] = "HAWK Abu Musa #001-7",
+            ["DictKey_GroupName_83"] = "Primary Destroyed -6",
+            ["DictKey_GroupName_452"] = "Ground-3",
+            ["DictKey_WptName_67"] = "",
+            ["DictKey_UnitName_553"] = "Static Ammo-1",
+            ["DictKey_GroupName_328"] = "Static Mark Tyre with White Flag-7",
+            ["DictKey_WptName_333"] = "",
+            ["DictKey_UnitName_356"] = "Static Mark Tyre with Red Flag-2",
+            ["DictKey_UnitName_612"] = "Ground-1-2",
+            ["DictKey_WptName_348"] = "",
+            ["DictKey_UnitName_56"] = "-3-2",
+            ["DictKey_UnitName_507"] = "Static Land Rover 109 S3-1",
+            ["DictKey_UnitName_495"] = "Static ISO container small-1",
+            ["DictKey_UnitName_362"] = "Static Mark Tyre with Red Flag-2",
+            ["DictKey_GroupName_458"] = "Primary Destroyed-7",
+            ["DictKey_UnitName_128"] = "",
+            ["DictKey_WptName_207"] = "",
+            ["DictKey_UnitName_629"] = "Ground-4-9",
+            ["DictKey_UnitName_704"] = "",
+            ["DictKey_UnitName_435"] = "",
+            ["DictKey_GroupName_71"] = "Secondary Destroyed",
+            ["DictKey_WptName_487"] = "",
+            ["DictKey_WptName_369"] = "",
+            ["DictKey_UnitName_735"] = "Primary Destroyed ",
+            ["DictKey_UnitName_308"] = "Static Container white-5-1",
+            ["DictKey_WptName_716"] = "",
+            ["DictKey_UnitName_224"] = "",
+            ["DictKey_WptName_288"] = "",
+            ["DictKey_WptName_246"] = "",
+            ["DictKey_UnitName_365"] = "",
+            ["DictKey_UnitName_410"] = "DN06 Armed Recce-1",
+            ["DictKey_UnitName_75"] = "Secondary Destroyed-1",
+            ["DictKey_GroupName_470"] = "Primary Destroyed-3",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_UnitName_724"] = "Primary Destroyed-5-1",
+            ["DictKey_WptName_478"] = "",
+            ["DictKey_UnitName_278"] = "Static Container white-5-1",
+            ["DictKey_GroupName_485"] = "Primary Destroyed-2",
+            ["DictKey_GroupName_37"] = "",
+            ["DictKey_UnitName_383"] = "Static Watch tower armed-1",
+            ["DictKey_UnitName_368"] = "Static 2B11 mortar-1",
+            ["DictKey_UnitName_547"] = "Static Rapier FSA Blindfire Tracker-1",
+            ["DictKey_GroupName_717"] = "Primary Destroyed-2",
+            ["DictKey_UnitName_635"] = "",
+            ["DictKey_WptName_366"] = "",
+            ["DictKey_WptName_213"] = "",
+            ["DictKey_GroupName_202"] = "Static Mark Tyre Black-10",
+            ["DictKey_WptName_687"] = "",
+            ["DictKey_GroupName_154"] = "Primary Destroyed-6",
+            ["DictKey_UnitName_729"] = "",
+            ["DictKey_UnitName_203"] = "Static Mark Tyre Black-1",
+            ["DictKey_UnitName_305"] = "Static Container white-5-1",
+            ["DictKey_UnitName_510"] = "Static Land Rover 109 S3-1",
+            ["DictKey_GroupName_92"] = "DN08 Armed Recce",
+            ["DictKey_UnitName_350"] = "Static Mark Tyre with White Flag-2",
+            ["DictKey_WptName_222"] = "",
+            ["DictKey_UnitName_119"] = "",
+            ["DictKey_UnitName_24"] = "HAWK Abu Musa #001-5",
+            ["DictKey_WptName_165"] = "",
+            ["DictKey_GroupName_649"] = "Primary Destroyed-28",
+            ["DictKey_UnitName_107"] = "DN08 Armed Recce-1",
+            ["DictKey_WptName_472"] = "",
+            ["DictKey_GroupName_674"] = "Primary Destroyed-1",
+            ["DictKey_UnitName_392"] = "",
+            ["DictKey_GroupName_286"] = "Static Container white-12",
+            ["DictKey_GroupName_531"] = "Static Rapier FSA Optical Tracker-1",
+            ["DictKey_UnitName_652"] = "Primary Destroyed-28-2",
+            ["DictKey_WptName_539"] = "",
+            ["DictKey_UnitName_608"] = "Ground-3-6",
+            ["DictKey_GroupName_346"] = "Static Mark Tyre with White Flag-13",
+            ["DictKey_UnitName_51"] = "-1-1",
+            ["DictKey_UnitName_672"] = "Primary Destroyed-28-1",
+            ["DictKey_UnitName_715"] = "Primary Destroyed-1-6",
+            ["DictKey_WptName_201"] = "",
+            ["DictKey_UnitName_498"] = "",
+            ["DictKey_GroupName_199"] = "Static Mark Tyre Black-9",
+            ["DictKey_GroupName_274"] = "Static Container white-8",
+            ["DictKey_UnitName_589"] = "Static FARP Tent-1",
+            ["DictKey_WptName_596"] = "",
+            ["DictKey_UnitName_592"] = "Static FARP Tent-1",
+            ["DictKey_WptName_76"] = "",
+            ["DictKey_UnitName_152"] = "Static FARP Tent-1",
+            ["DictKey_WptName_475"] = "",
+            ["DictKey_UnitName_7"] = "Abu-Musa SA-2-11",
+            ["DictKey_WptName_126"] = "",
+            ["DictKey_WptName_273"] = "",
+            ["DictKey_WptName_123"] = "",
+            ["DictKey_UnitName_732"] = "Static Transport UAZ-469-1",
+            ["DictKey_GroupName_277"] = "Static Container white-9",
+            ["DictKey_WptName_466"] = "",
+            ["DictKey_UnitName_87"] = "Primary Destroyed -7",
+            ["DictKey_UnitName_419"] = "DN06 Armed Recce-1-3",
+            ["DictKey_WptName_339"] = "",
+            ["DictKey_WptName_602"] = "",
+            ["DictKey_UnitName_431"] = "DN06 Armed Recce-2-8",
+            ["DictKey_UnitName_571"] = "Static Oiltank-1",
+            ["DictKey_UnitName_131"] = "",
+            ["DictKey_WptName_424"] = "",
+            ["DictKey_WptName_147"] = "",
+            ["DictKey_WptName_469"] = "",
+            ["DictKey_UnitName_122"] = "",
+            ["DictKey_UnitName_604"] = "Ground-3-2",
+            ["DictKey_UnitName_483"] = "",
+            ["DictKey_UnitName_155"] = "Static FARP Tent-1",
+            ["DictKey_GroupName_552"] = "Primary Destroyed-12",
+            ["DictKey_WptName_396"] = "",
+            ["DictKey_UnitName_314"] = "Static Mark Tyre with Red Flag-7",
+            ["DictKey_WptName_40"] = "",
+            ["DictKey_UnitName_444"] = "",
+            ["DictKey_GroupName_86"] = "Primary Destroyed -7",
+            ["DictKey_GroupName_127"] = "Static CP Predator TrojanSpirit-2",
+            ["DictKey_WptName_264"] = "",
+            ["DictKey_GroupName_449"] = "Ground-2",
+            ["DictKey_GroupName_205"] = "Static Mark Tyre Black-11",
+            ["DictKey_WptName_496"] = "",
+            ["DictKey_UnitName_31"] = "SAM Rearm Assets-4",
+            ["DictKey_GroupName_579"] = "",
+            ["DictKey_UnitName_468"] = "Static ISO container-2-1",
+            ["DictKey_UnitName_137"] = "",
+            ["DictKey_WptName_330"] = "",
+            ["DictKey_WptName_645"] = "",
+            ["DictKey_UnitName_245"] = "Static Mark Tyre with Red Flag-2",
+            ["DictKey_UnitName_27"] = "HAWK Abu Musa #001-2",
+            ["DictKey_UnitName_23"] = "HAWK Abu Musa #001-6",
+            ["DictKey_UnitName_550"] = "",
+            ["DictKey_UnitName_176"] = "",
+            ["DictKey_GroupName_349"] = "Static Mark Tyre with White Flag-14",
+            ["DictKey_GroupName_549"] = "Primary Destroyed-14",
+            ["DictKey_WptName_739"] = "",
+            ["DictKey_UnitName_140"] = "Static FARP Tent-1",
+            ["DictKey_UnitName_81"] = "Secondary Destroyed-3",
+            ["DictKey_UnitName_432"] = "DN06 Armed Recce-2-9",
+            ["DictKey_GroupName_322"] = "Static Mark Tyre with White Flag-5",
+            ["DictKey_WptName_490"] = "",
+            ["DictKey_UnitName_504"] = "",
+            ["DictKey_UnitName_516"] = "",
+            ["DictKey_UnitName_143"] = "Static FARP Tent-1",
+            ["DictKey_UnitName_601"] = "Ground-3-1",
+            ["DictKey_GroupName_543"] = "Primary Destroyed-18",
+            ["DictKey_UnitName_84"] = "Primary Destroyed -6",
+            ["DictKey_UnitName_293"] = "Static Container white-5-1",
+            ["DictKey_UnitName_254"] = "",
+            ["DictKey_UnitName_60"] = "Primary Destroyed",
+            ["DictKey_WptName_94"] = "",
+            ["DictKey_WptName_372"] = "",
+            ["DictKey_WptName_442"] = "",
+            ["DictKey_WptName_661"] = "",
+            ["DictKey_GroupName_139"] = "Primary Destroyed-1",
+            ["DictKey_WptName_97"] = "",
+            ["DictKey_GroupName_68"] = "Primary Destroyed -4",
+            ["DictKey_WptName_360"] = "",
+            ["DictKey_UnitName_167"] = "Static Mark Tyre with White Flag-1",
+            ["DictKey_UnitName_513"] = "",
+            ["DictKey_GroupName_160"] = "Primary Destroyed-8",
+            ["DictKey_WptName_183"] = "",
+            ["DictKey_UnitName_45"] = "-2-1",
+            ["DictKey_GroupName_582"] = "Static FARP Tent-1",
+            ["DictKey_GroupName_737"] = "Primary Destroyed -3",
+            ["DictKey_UnitName_260"] = "Static Container white-1",
+            ["DictKey_UnitName_347"] = "Static Mark Tyre with White Flag-2",
+            ["DictKey_UnitName_28"] = "HAWK Abu Musa #001-1",
+            ["DictKey_UnitName_221"] = "Static Mark Tyre Black-1",
+            ["DictKey_WptName_180"] = "",
+            ["DictKey_UnitName_429"] = "DN06 Armed Recce-2-6",
+            ["DictKey_UnitName_338"] = "Static Mark Tyre with White Flag-2",
+            ["DictKey_UnitName_605"] = "Ground-3-3",
+            ["DictKey_UnitName_296"] = "Static Container white-5-1",
+            ["DictKey_GroupName_101"] = "Static CP Predator TrojanSpirit-2",
+            ["DictKey_WptName_79"] = "",
+            ["DictKey_GroupName_163"] = "Static Mark Tyre with White Flag-1",
+            ["DictKey_GroupName_646"] = "Static Transport UAZ-469-1",
+            ["DictKey_WptName_345"] = "",
+            ["DictKey_UnitName_721"] = "Static Transport UAZ-469-2",
+            ["DictKey_UnitName_677"] = "Primary Destroyed-1-1",
+            ["DictKey_UnitName_616"] = "Ground-2-2",
+            ["DictKey_GroupName_385"] = "Static Watch tower armed-3",
+            ["DictKey_GroupName_376"] = "Primary Destroyed-10",
+            ["DictKey_WptName_294"] = "",
+            ["DictKey_GroupName_316"] = "Static Mark Tyre with Red Flag-11",
+            ["DictKey_UnitName_529"] = "",
+            ["DictKey_WptName_593"] = "",
+            ["DictKey_GroupName_643"] = "Static Transport UAZ-469-2",
+            ["DictKey_WptName_186"] = "",
+            ["DictKey_GroupName_133"] = "Static CP Predator TrojanSpirit-4",
+            ["DictKey_UnitName_110"] = "DN08 Armed Recce-4",
+            ["DictKey_WptName_551"] = "",
+            ["DictKey_WptName_210"] = "",
+            ["DictKey_GroupName_232"] = "Static Mark Tyre with Red Flag-5",
+            ["DictKey_WptName_249"] = "",
+            ["DictKey_UnitName_200"] = "Static Mark Tyre Black-1",
+            ["DictKey_UnitName_625"] = "Ground-4-5",
+            ["DictKey_UnitName_386"] = "Static Watch tower armed-2-1",
+            ["DictKey_WptName_351"] = "",
+            ["DictKey_UnitName_16"] = "Secondary Destroyed ",
+            ["DictKey_WptName_719"] = "",
+            ["DictKey_GroupName_634"] = "Secondary Destroyed-6",
+            ["DictKey_UnitName_209"] = "Static Mark Tyre Black-1",
+            ["DictKey_UnitName_317"] = "Static Mark Tyre with Red Flag-7",
+            ["DictKey_WptName_150"] = "",
+            ["DictKey_UnitName_638"] = "",
+            ["DictKey_WptName_29"] = "",
+            ["DictKey_GroupName_271"] = "Static Container white-7",
+            ["DictKey_GroupName_720"] = "Primary Destroyed",
+            ["DictKey_GroupName_437"] = "Secondary Destroyed-1",
+            ["DictKey_UnitName_10"] = "Secondary Destroyed -6",
+            ["DictKey_WptName_514"] = "",
+            ["DictKey_UnitName_389"] = "Static Watch tower armed-2-1",
+            ["DictKey_UnitName_266"] = "Static Container white-1",
+            ["DictKey_WptName_405"] = "",
+            ["DictKey_GroupName_238"] = "Static Mark Tyre with Red Flag-7",
+            ["DictKey_UnitName_8"] = "Abu-Musa SA-2-10",
+            ["DictKey_UnitName_326"] = "Static Mark Tyre with White Flag-2",
+            ["DictKey_UnitName_689"] = "Static Transport UAZ-469-1",
+            ["DictKey_GroupName_226"] = "Static Mark Tyre with Red Flag-3",
+            ["DictKey_WptName_113"] = "",
+            ["DictKey_UnitName_233"] = "Static Mark Tyre with Red Flag-2",
+            ["DictKey_UnitName_26"] = "HAWK Abu Musa #001-3",
+            ["DictKey_UnitName_374"] = "",
+            ["DictKey_UnitName_456"] = "Ground-4-1",
+            ["DictKey_UnitName_710"] = "Primary Destroyed-1-1",
+            ["DictKey_UnitName_251"] = "Static Mark Tyre Black-15",
+            ["DictKey_GroupName_47"] = "-1",
+            ["DictKey_UnitName_39"] = "-1",
+            ["DictKey_UnitName_662"] = "Primary Destroyed-1-2",
+            ["DictKey_UnitName_433"] = "DN06 Armed Recce-2-10",
+            ["DictKey_UnitName_329"] = "Static Mark Tyre with White Flag-2",
+            ["DictKey_WptName_578"] = "",
+            ["DictKey_UnitName_12"] = "Secondary Destroyed -4",
+            ["DictKey_UnitName_320"] = "Static Mark Tyre with Red Flag-7",
+            ["DictKey_WptName_46"] = "",
+            ["DictKey_UnitName_660"] = "Primary Destroyed-1-1",
+            ["DictKey_GroupName_373"] = "Primary Destroyed-9",
+            ["DictKey_UnitName_615"] = "Ground-2-1",
+            ["DictKey_GroupName_151"] = "Primary Destroyed-5",
+            ["DictKey_GroupName_6"] = "Abu-Musa SA-2",
+            ["DictKey_WptName_508"] = "",
+            ["DictKey_WptName_336"] = "",
+            ["DictKey_GroupName_479"] = "Primary Destroyed-9",
+            ["DictKey_UnitName_680"] = "Static FARP Tent-1",
+            ["DictKey_UnitName_653"] = "Primary Destroyed-28-3",
+            ["DictKey_GroupName_259"] = "Static Container white-3",
+            ["DictKey_UnitName_453"] = "Ground-3-1",
+            ["DictKey_WptName_527"] = "",
+            ["DictKey_UnitName_43"] = "-2-3",
+            ["DictKey_GroupName_331"] = "Static Mark Tyre with White Flag-8",
+            ["DictKey_WptName_144"] = "",
+            ["DictKey_UnitName_290"] = "Static Container white-5-1",
+            ["DictKey_GroupName_30"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_654"] = "Primary Destroyed-28-4",
+            ["DictKey_UnitName_583"] = "",
+            ["DictKey_UnitName_99"] = "",
+            ["DictKey_WptName_120"] = "",
+            ["DictKey_UnitName_38"] = "-2",
+            ["DictKey_GroupName_358"] = "Static Mark Tyre with Red Flag-14",
+            ["DictKey_UnitName_669"] = "Primary Destroyed-28-4",
+            ["DictKey_WptName_520"] = "",
+            ["DictKey_GroupName_220"] = "Static Mark Tyre with Red Flag-1",
+            ["DictKey_UnitName_170"] = "Static Mark Tyre with White Flag-1",
+            ["DictKey_GroupName_443"] = "",
+            ["DictKey_UnitName_655"] = "Primary Destroyed-28-5",
+            ["DictKey_UnitName_299"] = "Static Container white-5-1",
+            ["DictKey_GroupName_241"] = "Static Mark Tyre with Red Flag-8",
+            ["DictKey_UnitName_78"] = "Secondary Destroyed-2",
+            ["DictKey_UnitName_105"] = "",
+            ["DictKey_GroupName_121"] = "Static CP Predator TrojanSpirit-1",
+            ["DictKey_UnitName_112"] = "DN08 Armed Recce-1-1",
+            ["DictKey_WptName_64"] = "",
+            ["DictKey_WptName_651"] = "",
+            ["DictKey_GroupName_136"] = "Primary Destroyed",
+            ["DictKey_WptName_590"] = "",
+            ["DictKey_WptName_162"] = "",
+            ["DictKey_WptName_156"] = "",
+            ["DictKey_UnitName_695"] = "Primary Destroyed-28-3",
+            ["DictKey_UnitName_404"] = "",
+            ["DictKey_UnitName_93"] = "-1-1",
+            ["DictKey_WptName_517"] = "",
+            ["DictKey_UnitName_641"] = "Static FARP Tent-1",
+            ["DictKey_UnitName_577"] = "Static Oiltank-1",
+            ["DictKey_UnitName_701"] = "",
+            ["DictKey_GroupName_688"] = "Primary Destroyed-3",
+            ["DictKey_GroupName_223"] = "Static Mark Tyre with Red Flag-2",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_WptName_318"] = "",
+            ["DictKey_UnitName_377"] = "Static Shelter B-1",
+            ["DictKey_UnitName_657"] = "Primary Destroyed-28-7",
+            ["DictKey_UnitName_415"] = "DN06 Armed Recce-4",
+            ["DictKey_UnitName_11"] = "Secondary Destroyed -5",
+            ["DictKey_WptName_581"] = "",
+            ["DictKey_GroupName_476"] = "Primary Destroyed-5",
+            ["DictKey_UnitName_675"] = "Primary Destroyed-1-3",
+            ["DictKey_WptName_575"] = "",
+            ["DictKey_GroupName_250"] = "Static Mark Tyre Black-16",
+            ["DictKey_WptName_603"] = "",
+            ["DictKey_UnitName_450"] = "Ground-2-1",
+            ["DictKey_UnitName_727"] = "Primary Destroyed-5-3",
+            ["DictKey_UnitName_323"] = "Static Mark Tyre with White Flag-2",
+            ["DictKey_UnitName_281"] = "Static Container white-5-1",
+            ["DictKey_GroupName_53"] = "-3",
+            ["DictKey_WptName_58"] = "",
+            ["DictKey_GroupName_367"] = "Secondary Destroyed-4",
+            ["DictKey_UnitName_191"] = "Static Mark Tyre Black-1",
+            ["DictKey_UnitName_595"] = "",
+            ["DictKey_WptName_384"] = "",
+            ["DictKey_WptName_502"] = "",
+            ["DictKey_WptName_279"] = "",
+            ["DictKey_WptName_243"] = "",
+            ["DictKey_UnitName_173"] = "Static Mark Tyre with White Flag-1",
+            ["DictKey_GroupName_706"] = "Primary Destroyed-4",
+            ["DictKey_UnitName_275"] = "Static Container white-5-1",
+            ["DictKey_UnitName_430"] = "DN06 Armed Recce-2-7",
+            ["DictKey_GroupName_379"] = "Static Watch tower armed-1",
+            ["DictKey_WptName_399"] = "",
+            ["DictKey_UnitName_32"] = "SAM Rearm Assets-3",
+            ["DictKey_UnitName_624"] = "Ground-4-4",
+            ["DictKey_UnitName_698"] = "Primary Destroyed-28-6",
+            ["DictKey_GroupName_614"] = "Ground-2",
+            ["DictKey_WptName_18"] = "",
+            ["DictKey_GroupName_148"] = "Primary Destroyed-4",
+            ["DictKey_WptName_684"] = "",
+            ["DictKey_UnitName_185"] = "Static Mark Tyre Black-1",
+            ["DictKey_UnitName_492"] = "Static ISO container small-1",
+            ["DictKey_UnitName_14"] = "Secondary Destroyed -2",
+            ["DictKey_GroupName_461"] = "Primary Destroyed-8",
+            ["DictKey_GroupName_187"] = "Static Mark Tyre Black-5",
+            ["DictKey_UnitName_480"] = "Static ISO container-2-1",
+            ["DictKey_WptName_231"] = "",
+            ["DictKey_GroupName_637"] = "Static FARP Tent-1",
+            ["DictKey_GroupName_62"] = "Primary Destroyed -2",
+            ["DictKey_GroupName_561"] = "Primary Destroyed-11",
+            ["DictKey_UnitName_447"] = "Ground-1-1",
+            ["DictKey_WptName_560"] = "",
+            ["DictKey_GroupName_394"] = "Static Land Rover 101 FC-2",
+            ["DictKey_UnitName_371"] = "Static 2B11 mortar-1",
+            ["DictKey_UnitName_248"] = "Static Mark Tyre with Red Flag-2",
+            ["DictKey_UnitName_462"] = "Static ISO container-1",
+            ["DictKey_GroupName_307"] = "Static Container white-19",
+            ["DictKey_WptName_460"] = "",
+            ["DictKey_WptName_448"] = "",
+            ["DictKey_GroupName_340"] = "Static Mark Tyre with White Flag-11",
+            ["DictKey_GroupName_406"] = "",
+            ["DictKey_UnitName_353"] = "Static Mark Tyre with Red Flag-2",
+            ["DictKey_GroupName_310"] = "Static Container white-20",
+            ["DictKey_UnitName_54"] = "-3-4",
+            ["DictKey_UnitName_627"] = "Ground-4-7",
+            ["DictKey_WptName_705"] = "",
+            ["DictKey_UnitName_559"] = "Static Ammo-1",
+            ["DictKey_UnitName_55"] = "-3-3",
+            ["DictKey_GroupName_482"] = "Static ISO container small-1",
+            ["DictKey_WptName_258"] = "",
+            ["DictKey_GroupName_397"] = "Static Land Rover 101 FC-3",
+            ["DictKey_UnitName_670"] = "Primary Destroyed-28-3",
+            ["DictKey_GroupName_130"] = "Static CP Predator TrojanSpirit-3",
+            ["DictKey_WptName_82"] = "",
+            ["DictKey_GroupName_190"] = "Static Mark Tyre Black-6",
+            ["DictKey_GroupName_524"] = "Primary Destroyed-28",
+            ["DictKey_UnitName_441"] = "Ground-1-1",
+            ["DictKey_UnitName_544"] = "Static Rapier FSA Launcher-1",
+            ["DictKey_GroupName_564"] = "Primary Destroyed-20",
+            ["DictKey_WptName_357"] = "",
+            ["DictKey_GroupName_74"] = "Secondary Destroyed-1",
+            ["DictKey_UnitName_658"] = "Primary Destroyed-28-8",
+            ["DictKey_UnitName_116"] = "DN08 Armed Recce-1-3",
+            ["DictKey_WptName_526"] = "",
+            ["DictKey_GroupName_208"] = "Static Mark Tyre Black-12",
+            ["DictKey_WptName_237"] = "",
+            ["DictKey_UnitName_692"] = "Primary Destroyed-28-1",
+            ["DictKey_WptName_312"] = "",
+            ["DictKey_WptName_354"] = "",
+            ["DictKey_WptName_390"] = "",
+            ["DictKey_UnitName_714"] = "Primary Destroyed-1-5",
+            ["DictKey_GroupName_178"] = "Static Mark Tyre Black-2",
+            ["DictKey_UnitName_667"] = "Primary Destroyed-28-6",
+            ["DictKey_GroupName_304"] = "Static Container white-18",
+            ["DictKey_UnitName_269"] = "Static Container white-5-1",
+            ["DictKey_UnitName_632"] = "",
+            ["DictKey_WptName_493"] = "",
+            ["DictKey_GroupName_364"] = "Secondary Destroyed-3",
+            ["DictKey_WptName_648"] = "",
+            ["DictKey_UnitName_535"] = "Static Rapier FSA Optical Tracker-1",
+            ["DictKey_WptName_219"] = "",
+            ["DictKey_GroupName_631"] = "Secondary Destroyed-5",
+            ["DictKey_WptName_722"] = "",
+            ["DictKey_UnitName_556"] = "Static Ammo-1",
+            ["DictKey_UnitName_287"] = "Static Container white-5-1",
+            ["DictKey_WptName_129"] = "",
+            ["DictKey_UnitName_525"] = "Ground-5-1",
+            ["DictKey_UnitName_519"] = "",
+            ["DictKey_UnitName_33"] = "SAM Rearm Assets-2",
+            ["DictKey_GroupName_534"] = "Primary Destroyed-25",
+            ["DictKey_WptName_228"] = "",
+            ["DictKey_WptName_412"] = "",
+            ["DictKey_UnitName_671"] = "Primary Destroyed-28-2",
+            ["DictKey_GroupName_217"] = "Static Mark Tyre Black-15",
+            ["DictKey_WptName_135"] = "",
+            ["DictKey_UnitName_284"] = "Static Container white-5-1",
+            ["DictKey_GroupName_172"] = "Static Mark Tyre with White Flag-4",
+            ["DictKey_UnitName_663"] = "Primary Destroyed-1-3",
+            ["DictKey_WptName_363"] = "",
+            ["DictKey_UnitName_489"] = "Static ISO container small-1",
+            ["DictKey_UnitName_622"] = "Ground-4-2",
+            ["DictKey_UnitName_574"] = "Static Oiltank-1",
+            ["DictKey_UnitName_665"] = "Primary Destroyed-28-8",
+            ["DictKey_WptName_421"] = "",
+            ["DictKey_WptName_587"] = "",
+            ["DictKey_GroupName_512"] = "Primary Destroyed-26",
+            ["DictKey_UnitName_712"] = "Primary Destroyed-1-3",
+            ["DictKey_UnitName_738"] = "Primary Destroyed ",
+            ["DictKey_UnitName_568"] = "Static Oiltank-1",
+            ["DictKey_GroupName_528"] = "",
+            ["DictKey_WptName_282"] = "",
+            ["DictKey_UnitName_63"] = "Primary Destroyed -2",
+            ["DictKey_GroupName_211"] = "Static Mark Tyre Black-13",
+            ["DictKey_UnitName_718"] = "Static Transport UAZ-469-2",
+            ["DictKey_GroupName_59"] = "Primary Destroyed",
+            ["DictKey_UnitName_96"] = "",
+            ["DictKey_UnitName_413"] = "DN06 Armed Recce-2",
+            ["DictKey_WptName_61"] = "",
+            ["DictKey_GroupName_169"] = "Static Mark Tyre with White Flag-3",
+            ["DictKey_GroupName_104"] = "Static FARP Tent-1",
+            ["DictKey_GroupName_361"] = "Static Mark Tyre with Red Flag-15",
+            ["DictKey_WptName_693"] = "",
+            ["DictKey_WptName_505"] = "",
+            ["DictKey_WptName_408"] = "",
+            ["DictKey_UnitName_486"] = "Static ISO container small-1",
+            ["DictKey_WptName_445"] = "",
+            ["DictKey_UnitName_423"] = "DN06 Armed Recce-2-1",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_GroupName_292"] = "Static Container white-14",
+            ["DictKey_GroupName_229"] = "Static Mark Tyre with Red Flag-4",
+            ["DictKey_GroupName_409"] = "DN06 Armed Recce",
+            ["DictKey_WptName_138"] = "",
+            ["DictKey_WptName_708"] = "",
+            ["DictKey_GroupName_679"] = "Primary Destroyed",
+            ["DictKey_WptName_436"] = "",
+            ["DictKey_UnitName_598"] = "Static GeneratorF-1",
+            ["DictKey_WptName_681"] = "",
+            ["DictKey_GroupName_253"] = "Static Container white-1",
+            ["DictKey_UnitName_623"] = "Ground-4-3",
+            ["DictKey_GroupName_77"] = "Secondary Destroyed-2",
+            ["DictKey_GroupName_301"] = "Static Container white-17",
+            ["DictKey_WptName_198"] = "",
+            ["DictKey_GroupName_591"] = "Static FARP Tent-4",
+            ["DictKey_UnitName_471"] = "Static ISO container-2-1",
+            ["DictKey_UnitName_215"] = "Static Mark Tyre Black-1",
+            ["DictKey_GroupName_352"] = "Static Mark Tyre with Red Flag-12",
+            ["DictKey_GroupName_166"] = "Static Mark Tyre with White Flag-2",
+            ["DictKey_WptName_402"] = "",
+            ["DictKey_WptName_195"] = "",
+            ["DictKey_WptName_499"] = "",
+            ["DictKey_GroupName_289"] = "Static Container white-13",
+            ["DictKey_WptName_321"] = "",
+            ["DictKey_GroupName_509"] = "Secondary Destroyed-2",
+            ["DictKey_WptName_618"] = "",
+            ["DictKey_UnitName_197"] = "Static Mark Tyre Black-1",
+            ["DictKey_GroupName_573"] = "Primary Destroyed-23",
+            ["DictKey_UnitName_102"] = "Static CP Predator TrojanSpirit-1",
+            ["DictKey_UnitName_407"] = "",
+            ["DictKey_UnitName_20"] = "HAWK Abu Musa #001-9",
+            ["DictKey_UnitName_586"] = "Static FARP Tent-1",
+            ["DictKey_WptName_378"] = "",
+            ["DictKey_UnitName_115"] = "",
+            ["DictKey_WptName_523"] = "",
+            ["DictKey_UnitName_108"] = "DN08 Armed Recce-2",
+            ["DictKey_WptName_88"] = "",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_WptName_542"] = "",
+            ["DictKey_GroupName_540"] = "Primary Destroyed-17",
+            ["DictKey_GroupName_682"] = "Primary Destroyed-2",
+            ["DictKey_UnitName_418"] = "DN06 Armed Recce-1-2",
+            ["DictKey_UnitName_606"] = "Ground-3-4",
+            ["DictKey_UnitName_562"] = "Static Ammo-1",
+            ["DictKey_GroupName_664"] = "Primary Destroyed-28",
+            ["DictKey_WptName_225"] = "",
+            ["DictKey_UnitName_522"] = "",
+            ["DictKey_UnitName_66"] = "Primary Destroyed -3",
+            ["DictKey_UnitName_36"] = "Primary Destroyed",
+            ["DictKey_GroupName_588"] = "Static FARP Tent-3",
+            ["DictKey_WptName_633"] = "",
+            ["DictKey_UnitName_668"] = "Primary Destroyed-28-5",
+            ["DictKey_UnitName_477"] = "Static ISO container-2-1",
+            ["DictKey_WptName_204"] = "",
+            ["DictKey_UnitName_428"] = "DN06 Armed Recce-2-5",
+            ["DictKey_UnitName_532"] = "Static Rapier FSA Optical Tracker-1",
+            ["DictKey_WptName_106"] = "",
+            ["DictKey_UnitName_438"] = "Static AAA ZU-23 Insurgent on Ural-375-1",
+            ["DictKey_GroupName_440"] = "Ground-1",
+            ["DictKey_UnitName_206"] = "Static Mark Tyre Black-1",
+            ["DictKey_UnitName_125"] = "",
+            ["DictKey_WptName_584"] = "",
+            ["DictKey_WptName_569"] = "",
+            ["DictKey_GroupName_244"] = "Static Mark Tyre with Red Flag-9",
+            ["DictKey_GroupName_434"] = "Secondary Destroyed",
+            ["DictKey_GroupName_500"] = "Static Transport Ural-375-2",
+            ["DictKey_UnitName_49"] = "-1-3",
+            ["DictKey_WptName_91"] = "",
+            ["DictKey_UnitName_425"] = "DN06 Armed Recce-2-2",
+            ["DictKey_WptName_255"] = "",
+            ["DictKey_WptName_252"] = "",
+            ["DictKey_WptName_393"] = "",
+            ["DictKey_UnitName_179"] = "Static Mark Tyre Black-1",
+            ["DictKey_UnitName_427"] = "DN06 Armed Recce-2-4",
+            ["DictKey_GroupName_703"] = "Primary Destroyed-3",
+            ["DictKey_GroupName_334"] = "Static Mark Tyre with White Flag-9",
+            ["DictKey_UnitName_666"] = "Primary Destroyed-28-7",
+            ["DictKey_UnitName_417"] = "DN06 Armed Recce-1-1",
+            ["DictKey_UnitName_57"] = "-3-1",
+            ["DictKey_WptName_306"] = "",
+            ["DictKey_UnitName_188"] = "Static Mark Tyre Black-1",
+            ["DictKey_GroupName_734"] = "Primary Destroyed -2",
+            ["DictKey_UnitName_230"] = "Static Mark Tyre with Red Flag-2",
+            ["DictKey_UnitName_236"] = "Static Mark Tyre with Red Flag-2",
+            ["DictKey_WptName_300"] = "",
+            ["DictKey_GroupName_400"] = "Static Land Rover 101 FC-4",
+            ["DictKey_UnitName_426"] = "DN06 Armed Recce-2-3",
+            ["DictKey_WptName_309"] = "",
+            ["DictKey_UnitName_161"] = "Static FARP Tent-1",
+            ["DictKey_WptName_216"] = "",
+            ["DictKey_WptName_572"] = "",
+            ["DictKey_GroupName_506"] = "Secondary Destroyed-1",
+            ["DictKey_UnitName_212"] = "Static Mark Tyre Black-1",
+            ["DictKey_WptName_411"] = "",
+            ["DictKey_GroupName_319"] = "Static Mark Tyre with Red Flag-7",
+            ["DictKey_UnitName_697"] = "Primary Destroyed-28-5",
+            ["DictKey_UnitName_149"] = "Static FARP Tent-1",
+            ["DictKey_UnitName_465"] = "Static ISO container-2-1",
+            ["DictKey_GroupName_619"] = "Ground-4",
+            ["DictKey_GroupName_494"] = "Primary Destroyed",
+            ["DictKey_GroupName_19"] = "HAWK Abu Musa #001",
+            ["DictKey_WptName_324"] = "",
+            ["DictKey_WptName_381"] = "",
+            ["DictKey_UnitName_565"] = "",
+            ["DictKey_UnitName_117"] = "DN08 Armed Recce-1-4",
+            ["DictKey_WptName_484"] = "",
+            ["DictKey_GroupName_256"] = "Static Container white-2",
+            ["DictKey_WptName_174"] = "",
+            ["DictKey_GroupName_723"] = "Primary Destroyed-5",
+            ["DictKey_GroupName_268"] = "Static Container white-6",
+            ["DictKey_GroupName_41"] = "-2",
+            ["DictKey_WptName_545"] = "",
+            ["DictKey_GroupName_181"] = "Static Mark Tyre Black-3",
+            ["DictKey_WptName_481"] = "",
+            ["DictKey_UnitName_610"] = "Ground-1-1",
+            ["DictKey_GroupName_731"] = "Primary Destroyed ",
+            ["DictKey_WptName_511"] = "",
+            ["DictKey_WptName_375"] = "",
+            ["DictKey_GroupName_691"] = "Primary Destroyed-28",
+            ["DictKey_WptName_261"] = "",
+            ["DictKey_GroupName_89"] = "Primary Destroyed ",
+            ["DictKey_UnitName_239"] = "Static Mark Tyre with Red Flag-2",
+            ["DictKey_UnitName_538"] = "Static Rapier FSA Launcher-1",
+            ["DictKey_GroupName_337"] = "Static Mark Tyre with White Flag-10",
+            ["DictKey_UnitName_242"] = "Static Mark Tyre with Red Flag-2",
+            ["DictKey_WptName_327"] = "",
+            ["DictKey_GroupName_391"] = "Static Land Rover 101 FC-1",
+            ["DictKey_UnitName_414"] = "DN06 Armed Recce-3",
+            ["DictKey_WptName_73"] = "",
+            ["DictKey_UnitName_359"] = "Static Mark Tyre with Red Flag-2",
+            ["DictKey_GroupName_142"] = "Primary Destroyed-2",
+            ["DictKey_GroupName_570"] = "Primary Destroyed-22",
+            ["DictKey_UnitName_420"] = "DN06 Armed Recce-1-4",
+            ["DictKey_WptName_168"] = "",
+            ["DictKey_GroupName_521"] = "Primary Destroyed-29",
+            ["DictKey_GroupName_567"] = "Primary Destroyed-21",
+            ["DictKey_UnitName_164"] = "",
+            ["DictKey_WptName_267"] = "",
+            ["DictKey_WptName_285"] = "",
+            ["DictKey_GroupName_491"] = "Primary Destroyed-1",
+            ["DictKey_WptName_276"] = "",
+            ["DictKey_GroupName_111"] = "DN08 Armed Recce-1",
+            ["DictKey_GroupName_576"] = "Primary Destroyed-24",
+            ["DictKey_UnitName_341"] = "Static Mark Tyre with White Flag-2",
+            ["DictKey_UnitName_311"] = "Static Container white-5-1",
+            ["DictKey_GroupName_497"] = "Static Transport Ural-375-1",
+            ["DictKey_UnitName_459"] = "",
+            ["DictKey_UnitName_182"] = "Static Mark Tyre Black-1",
+            ["DictKey_WptName_454"] = "",
+            ["DictKey_UnitName_302"] = "Static Container white-5-1",
+            ["DictKey_UnitName_257"] = "Static Container white-1",
+            ["DictKey_GroupName_145"] = "Primary Destroyed-3",
+            ["DictKey_UnitName_25"] = "HAWK Abu Musa #001-4",
+            ["DictKey_UnitName_647"] = "Static Transport UAZ-469-2",
+            ["DictKey_WptName_303"] = "",
+            ["DictKey_GroupName_473"] = "Primary Destroyed-4",
+            ["DictKey_UnitName_700"] = "",
+            ["DictKey_GroupName_422"] = "DN06 Armed Recce-2",
+            ["DictKey_WptName_463"] = "",
+            ["DictKey_GroupName_313"] = "Static Mark Tyre with Red Flag-1",
+            ["DictKey_UnitName_9"] = "Secondary Destroyed -7",
+            ["DictKey_UnitName_42"] = "-2-4",
+            ["DictKey_UnitName_134"] = "",
+            ["DictKey_UnitName_44"] = "-2-2",
+            ["DictKey_WptName_240"] = "",
+            ["DictKey_GroupName_295"] = "Static Container white-15",
+            ["DictKey_WptName_530"] = "",
+            ["DictKey_UnitName_380"] = "",
+            ["DictKey_GroupName_184"] = "Static Mark Tyre Black-4",
+            ["DictKey_GroupName_196"] = "Static Mark Tyre Black-8",
+            ["DictKey_UnitName_90"] = "Primary Destroyed ",
+            ["DictKey_GroupName_388"] = "Static Watch tower armed-4",
+            ["DictKey_GroupName_600"] = "Ground-3",
+            ["DictKey_WptName_599"] = "",
+            ["DictKey_WptName_291"] = "",
+            ["DictKey_WptName_439"] = "",
+            ["DictKey_WptName_563"] = "",
+            ["DictKey_GroupName_659"] = "Primary Destroyed-1",
+            ["DictKey_GroupName_370"] = "Secondary Destroyed-2",
+            ["DictKey_UnitName_109"] = "DN08 Armed Recce-3",
+            ["DictKey_GroupName_325"] = "Static Mark Tyre with White Flag-6",
+            ["DictKey_UnitName_617"] = "Ground-2-3",
+            ["DictKey_WptName_639"] = "",
+            ["DictKey_UnitName_607"] = "Ground-3-5",
+            ["DictKey_WptName_642"] = "",
+            ["DictKey_UnitName_272"] = "Static Container white-5-1",
+            ["DictKey_WptName_342"] = "",
+            ["DictKey_UnitName_401"] = "Static Land Rover 101 FC-1",
+            ["DictKey_UnitName_686"] = "Static Transport UAZ-469-2",
+            ["DictKey_GroupName_446"] = "Ground-1",
+            ["DictKey_UnitName_726"] = "Primary Destroyed-5-2",
+            ["DictKey_WptName_678"] = "",
+            ["DictKey_GroupName_518"] = "Static Rapier FSA Optical Tracker-1",
+            ["DictKey_UnitName_332"] = "Static Mark Tyre with White Flag-2",
+            ["DictKey_WptName_548"] = "",
+            ["DictKey_GroupName_546"] = "Primary Destroyed-19",
+            ["DictKey_GroupName_343"] = "Static Mark Tyre with White Flag-12",
+            ["DictKey_WptName_52"] = "",
+            ["DictKey_GroupName_640"] = "Static FARP Tent-2",
+            ["DictKey_UnitName_21"] = "HAWK Abu Musa #001-8",
+            ["DictKey_GroupName_555"] = "Primary Destroyed-13",
+            ["DictKey_WptName_730"] = "",
+            ["DictKey_WptName_297"] = "",
+            ["DictKey_UnitName_501"] = "Static Transport Ural-375-1",
+            ["DictKey_UnitName_34"] = "SAM Rearm Assets-1",
+            ["DictKey_UnitName_335"] = "Static Mark Tyre with White Flag-2",
+            ["DictKey_WptName_636"] = "",
+            ["DictKey_WptName_451"] = "",
+            ["DictKey_WptName_270"] = "",
+            ["DictKey_GroupName_98"] = "Static CP Predator TrojanSpirit-1",
+            ["DictKey_WptName_234"] = "",
+            ["DictKey_WptName_100"] = "",
+            ["DictKey_GroupName_488"] = "Static ISO container small-3",
+            ["DictKey_UnitName_474"] = "Static ISO container-2-1",
+            ["DictKey_WptName_725"] = "",
+            ["DictKey_WptName_736"] = "",
+            ["DictKey_GroupName_80"] = "Secondary Destroyed-3",
+            ["DictKey_WptName_611"] = "",
+            ["DictKey_GroupName_403"] = "",
+            ["DictKey_UnitName_699"] = "",
+            ["DictKey_UnitName_694"] = "Primary Destroyed-28-2",
+            ["DictKey_WptName_171"] = "",
+            ["DictKey_UnitName_711"] = "Primary Destroyed-1-2",
+            ["DictKey_GroupName_585"] = "Static FARP Tent-2",
+            ["DictKey_GroupName_280"] = "Static Container white-10",
+            ["DictKey_UnitName_630"] = "Ground-4-10",
+            ["DictKey_UnitName_194"] = "Static Mark Tyre Black-1",
+            ["DictKey_WptName_673"] = "",
+            ["DictKey_UnitName_613"] = "Ground-1-3",
+            ["DictKey_UnitName_344"] = "Static Mark Tyre with White Flag-2",
+            ["DictKey_GroupName_503"] = "Secondary Destroyed",
+            ["DictKey_WptName_189"] = "",
+            ["DictKey_GroupName_355"] = "Static Mark Tyre with Red Flag-13",
+            ["DictKey_GroupName_193"] = "Static Mark Tyre Black-7",
+            ["DictKey_UnitName_676"] = "Primary Destroyed-1-2",
+            ["DictKey_UnitName_17"] = "Primary Destroyed ",
+            ["DictKey_UnitName_580"] = "",
+            ["DictKey_UnitName_263"] = "Static Container white-1",
+            ["DictKey_GroupName_597"] = "Static GeneratorF-2",
+            ["DictKey_WptName_35"] = "",
+            ["DictKey_UnitName_13"] = "Secondary Destroyed -3",
+            ["DictKey_GroupName_262"] = "Static Container white-4",
+            ["DictKey_GroupName_416"] = "DN06 Armed Recce-1",
+            ["DictKey_UnitName_620"] = "Ground-4-1",
+            ["DictKey_GroupName_118"] = "Static Transport Ural-375-1",
+            ["DictKey_GroupName_609"] = "Ground-1",
+            ["DictKey_WptName_554"] = "",
+            ["DictKey_GroupName_558"] = "Primary Destroyed-15",
+            ["DictKey_UnitName_702"] = "",
+            ["DictKey_WptName_557"] = "",
+            ["DictKey_WptName_733"] = "",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "%LOCATIONMETHOD% a number of suspicious people near a pair of electric substations in DN07.\\\
+\
+Primary Objectives: Any Insurgents or hostile vehicles near infrastructure elements.\\\
+\
+Secondary Objectives: Avoid damaging any infrastructure.\\\
+\
+Recommended Pilots: 2.\\\
+\
+Recommended Ordnance: Precision or Light Weaponry/Guns.",
+} -- end of staticTemplate

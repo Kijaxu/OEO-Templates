@@ -1,0 +1,1007 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [21]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 34,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = -120758.45639982,
+                                                ["x"] = -33129.304648977,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = -120758.41733208,
+                                                ["x"] = -33129.244450271,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 4,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -170690.18720321,
+                                            ["x"] = -28446.914239832,
+                                            ["name"] = "DictKey_WptName_18",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 50,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "BTR-80",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 70,
+                                        ["skill"] = "Average",
+                                        ["y"] = -170690.18720321,
+                                        ["x"] = -28446.914239832,
+                                        ["name"] = "DictKey_UnitName_17",
+                                        ["heading"] = 1.3089969389957,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "Land_Rover_109_S3",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 71,
+                                        ["skill"] = "Average",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["TentedRoof"] = true,
+                                            ["Variant"] = 4,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["y"] = -170671.38120627,
+                                        ["x"] = -28460.485053845,
+                                        ["name"] = "DictKey_UnitName_16",
+                                        ["heading"] = 6.2133721370998,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "Ural-375",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 72,
+                                        ["skill"] = "Average",
+                                        ["y"] = -170702.18412332,
+                                        ["x"] = -28470.719371678,
+                                        ["name"] = "DictKey_UnitName_15",
+                                        ["heading"] = 4.939281783144,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 73,
+                                        ["skill"] = "Average",
+                                        ["y"] = -170684.03713394,
+                                        ["x"] = -28445.186121194,
+                                        ["name"] = "DictKey_UnitName_14",
+                                        ["heading"] = 1.6580627893946,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 74,
+                                        ["skill"] = "Average",
+                                        ["y"] = -170676.51473516,
+                                        ["x"] = -28462.009864408,
+                                        ["name"] = "DictKey_UnitName_13",
+                                        ["heading"] = 4.8345620280243,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 75,
+                                        ["skill"] = "Average",
+                                        ["y"] = -170707.08505675,
+                                        ["x"] = -28473.485310369,
+                                        ["name"] = "DictKey_UnitName_12",
+                                        ["heading"] = 4.8345620280243,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["type"] = "Ural-375 ZU-23 Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 76,
+                                        ["skill"] = "Average",
+                                        ["y"] = -170776.61475949,
+                                        ["x"] = -28483.678514963,
+                                        ["name"] = "DictKey_UnitName_11",
+                                        ["heading"] = 6.0737457969403,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [7]
+                                    [8] = 
+                                    {
+                                        ["type"] = "Ural-375 ZU-23 Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 77,
+                                        ["skill"] = "Average",
+                                        ["y"] = -170715.43365911,
+                                        ["x"] = -28443.810502831,
+                                        ["name"] = "DictKey_UnitName_10",
+                                        ["heading"] = 6.0737457969403,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [8]
+                                    [9] = 
+                                    {
+                                        ["type"] = "Igla manpad INS",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 78,
+                                        ["skill"] = "Average",
+                                        ["y"] = -170794.52998915,
+                                        ["x"] = -28443.882069964,
+                                        ["name"] = "DictKey_UnitName_9",
+                                        ["heading"] = 6.0737457969403,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [9]
+                                    [10] = 
+                                    {
+                                        ["type"] = "Igla manpad INS",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 79,
+                                        ["skill"] = "Average",
+                                        ["y"] = -170704.38348174,
+                                        ["x"] = -28473.95156322,
+                                        ["name"] = "DictKey_UnitName_8",
+                                        ["heading"] = 6.0737457969403,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [10]
+                                    [11] = 
+                                    {
+                                        ["type"] = "Igla manpad INS",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 80,
+                                        ["skill"] = "Average",
+                                        ["y"] = -170721.45147226,
+                                        ["x"] = -28519.660022767,
+                                        ["name"] = "DictKey_UnitName_7",
+                                        ["heading"] = 6.0737457969403,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [11]
+                                }, -- end of ["units"]
+                                ["y"] = -170690.18720321,
+                                ["x"] = -28446.914239832,
+                                ["name"] = "DictKey_GroupName_6",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "Iran",
+                    ["static"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["heading"] = 1.1693705988362,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -170735.26246023,
+                                            ["speed"] = 0,
+                                            ["x"] = -28448.248495849,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 36,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "him_bak_a",
+                                        ["type"] = "Chemical tank A",
+                                        ["unitId"] = 56,
+                                        ["rate"] = 100,
+                                        ["y"] = -170735.26246023,
+                                        ["x"] = -28448.248495849,
+                                        ["name"] = "DictKey_GroupName_19",
+                                        ["heading"] = 1.1693705988362,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -170735.26246023,
+                                ["x"] = -28448.248495849,
+                                ["name"] = "DictKey_GroupName_19",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["heading"] = 1.1693705988362,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -170757.12823538,
+                                            ["speed"] = 0,
+                                            ["x"] = -28443.875340819,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 37,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "him_bak_a",
+                                        ["type"] = "Chemical tank A",
+                                        ["unitId"] = 57,
+                                        ["rate"] = 100,
+                                        ["y"] = -170757.12823538,
+                                        ["x"] = -28443.875340819,
+                                        ["name"] = "DictKey_GroupName_22",
+                                        ["heading"] = 1.1693705988362,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -170757.12823538,
+                                ["x"] = -28443.875340819,
+                                ["name"] = "DictKey_GroupName_22",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [2]
+                            [3] = 
+                            {
+                                ["heading"] = 1.1693705988362,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -170692.43562459,
+                                            ["speed"] = 0,
+                                            ["x"] = -28458.243433963,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 38,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["type"] = "outpost_road",
+                                        ["unitId"] = 58,
+                                        ["rate"] = 5,
+                                        ["y"] = -170692.43562459,
+                                        ["x"] = -28458.243433963,
+                                        ["name"] = "DictKey_GroupName_25",
+                                        ["heading"] = 1.1693705988362,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -170692.43562459,
+                                ["x"] = -28458.243433963,
+                                ["name"] = "DictKey_GroupName_25",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [3]
+                            [4] = 
+                            {
+                                ["heading"] = 1.1693705988362,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -170783.8195609,
+                                            ["speed"] = 0,
+                                            ["x"] = -28459.256782647,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 39,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "him_bak_a",
+                                        ["type"] = "Chemical tank A",
+                                        ["unitId"] = 59,
+                                        ["rate"] = 100,
+                                        ["y"] = -170783.8195609,
+                                        ["x"] = -28459.256782647,
+                                        ["name"] = "DictKey_GroupName_28",
+                                        ["heading"] = 1.1693705988362,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -170783.8195609,
+                                ["x"] = -28459.256782647,
+                                ["name"] = "DictKey_GroupName_28",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [4]
+                            [5] = 
+                            {
+                                ["heading"] = 1.1693705988362,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -170777.48602603,
+                                            ["speed"] = 0,
+                                            ["x"] = -28438.144999746,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 40,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "him_bak_a",
+                                        ["type"] = "Chemical tank A",
+                                        ["unitId"] = 60,
+                                        ["rate"] = 100,
+                                        ["y"] = -170777.48602603,
+                                        ["x"] = -28438.144999746,
+                                        ["name"] = "DictKey_GroupName_31",
+                                        ["heading"] = 1.1693705988362,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -170777.48602603,
+                                ["x"] = -28438.144999746,
+                                ["name"] = "DictKey_GroupName_31",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [5]
+                            [6] = 
+                            {
+                                ["heading"] = 1.1693705988362,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -170762.55697955,
+                                            ["speed"] = 0,
+                                            ["x"] = -28465.741115967,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 41,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "him_bak_a",
+                                        ["type"] = "Chemical tank A",
+                                        ["unitId"] = 61,
+                                        ["rate"] = 100,
+                                        ["y"] = -170762.55697955,
+                                        ["x"] = -28465.741115967,
+                                        ["name"] = "DictKey_GroupName_34",
+                                        ["heading"] = 1.1693705988362,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -170762.55697955,
+                                ["x"] = -28465.741115967,
+                                ["name"] = "DictKey_GroupName_34",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [6]
+                            [7] = 
+                            {
+                                ["heading"] = 1.1693705988362,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -170740.23880906,
+                                            ["speed"] = 0,
+                                            ["x"] = -28470.114270996,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 42,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "him_bak_a",
+                                        ["type"] = "Chemical tank A",
+                                        ["unitId"] = 62,
+                                        ["rate"] = 100,
+                                        ["y"] = -170740.23880906,
+                                        ["x"] = -28470.114270996,
+                                        ["name"] = "DictKey_GroupName_37",
+                                        ["heading"] = 1.1693705988362,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -170740.23880906,
+                                ["x"] = -28470.114270996,
+                                ["name"] = "DictKey_GroupName_37",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [7]
+                            [8] = 
+                            {
+                                ["heading"] = 2.7227136331112,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -170711.21979817,
+                                            ["speed"] = 0,
+                                            ["x"] = -28456.040774243,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 44,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "GRC_autumn",
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "GSM Rus",
+                                        ["type"] = "FARP Fuel Depot",
+                                        ["unitId"] = 64,
+                                        ["rate"] = 20,
+                                        ["y"] = -170711.21979817,
+                                        ["x"] = -28456.040774243,
+                                        ["name"] = "DictKey_GroupName_40",
+                                        ["heading"] = 2.7227136331112,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -170711.21979817,
+                                ["x"] = -28456.040774243,
+                                ["name"] = "DictKey_GroupName_40",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [8]
+                            [9] = 
+                            {
+                                ["heading"] = 1.1693705988362,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -170709.25202972,
+                                            ["speed"] = 0,
+                                            ["x"] = -28515.809095358,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 45,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "toplivo-bak",
+                                        ["type"] = "Fuel tank",
+                                        ["unitId"] = 65,
+                                        ["rate"] = 100,
+                                        ["y"] = -170709.25202972,
+                                        ["x"] = -28515.809095358,
+                                        ["name"] = "DictKey_GroupName_43",
+                                        ["heading"] = 1.1693705988362,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -170709.25202972,
+                                ["x"] = -28515.809095358,
+                                ["name"] = "DictKey_GroupName_43",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [9]
+                            [10] = 
+                            {
+                                ["heading"] = 1.1693705988362,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -170710.79699027,
+                                            ["speed"] = 0,
+                                            ["x"] = -28488.92678181,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 47,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "toplivo-bak",
+                                        ["type"] = "Fuel tank",
+                                        ["unitId"] = 67,
+                                        ["rate"] = 100,
+                                        ["y"] = -170710.79699027,
+                                        ["x"] = -28488.92678181,
+                                        ["name"] = "DictKey_GroupName_46",
+                                        ["heading"] = 1.1693705988362,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -170710.79699027,
+                                ["x"] = -28488.92678181,
+                                ["name"] = "DictKey_GroupName_46",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [10]
+                            [11] = 
+                            {
+                                ["heading"] = 1.1693705988362,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -170729.02752474,
+                                            ["speed"] = 0,
+                                            ["x"] = -28497.475563513,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 48,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "toplivo-bak",
+                                        ["type"] = "Fuel tank",
+                                        ["unitId"] = 68,
+                                        ["rate"] = 100,
+                                        ["y"] = -170729.02752474,
+                                        ["x"] = -28497.475563513,
+                                        ["name"] = "DictKey_GroupName_49",
+                                        ["heading"] = 1.1693705988362,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -170729.02752474,
+                                ["x"] = -28497.475563513,
+                                ["name"] = "DictKey_GroupName_49",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [11]
+                            [12] = 
+                            {
+                                ["heading"] = 2.7227136331112,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -170716.55431523,
+                                            ["speed"] = 0,
+                                            ["x"] = -28458.505211572,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 49,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "GRC_autumn",
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "GSM Rus",
+                                        ["type"] = "FARP Fuel Depot",
+                                        ["unitId"] = 69,
+                                        ["rate"] = 20,
+                                        ["y"] = -170716.55431523,
+                                        ["x"] = -28458.505211572,
+                                        ["name"] = "DictKey_GroupName_52",
+                                        ["heading"] = 2.7227136331112,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -170716.55431523,
+                                ["x"] = -28458.505211572,
+                                ["name"] = "DictKey_GroupName_52",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [12]
+                        }, -- end of ["group"]
+                    }, -- end of ["static"]
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 0,
+                    ["name"] = "Russia",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [11]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "Sirri Island Fuel Dump",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_UnitName_14"] = "Unit #004",
+            ["DictKey_WptName_39"] = "",
+            ["DictKey_GroupName_52"] = "Fuel Dump #014",
+            ["DictKey_GroupName_22"] = "Primary Destroyed Fuel Dump #001",
+            ["DictKey_GroupName_49"] = "Secondary Destroyed Fuel Dump",
+            ["DictKey_UnitName_26"] = "Fuel Dump #003",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_UnitName_38"] = "Fuel Dump #007",
+            ["DictKey_UnitName_32"] = "Fuel Dump #005",
+            ["DictKey_UnitName_29"] = "Fuel Dump #004",
+            ["DictKey_GroupName_46"] = "Secondary Destroyed Fuel Dump #001",
+            ["DictKey_WptName_48"] = "",
+            ["DictKey_WptName_18"] = "",
+            ["DictKey_UnitName_7"] = "Unit #011",
+            ["DictKey_UnitName_8"] = "Unit #010",
+            ["DictKey_WptName_33"] = "",
+            ["DictKey_WptName_24"] = "",
+            ["DictKey_UnitName_10"] = "Unit #008",
+            ["DictKey_UnitName_16"] = "Unit #002",
+            ["DictKey_GroupName_6"] = "Fuel Dump Defence #002",
+            ["DictKey_UnitName_53"] = "Fuel Dump #014",
+            ["DictKey_WptName_27"] = "",
+            ["DictKey_GroupName_19"] = "Primary Destroyed Fuel Dump",
+            ["DictKey_GroupName_43"] = "Secondary Destroyed Fuel Dump #002",
+            ["DictKey_UnitName_15"] = "Unit #003",
+            ["DictKey_UnitName_20"] = "Fuel Dump #001",
+            ["DictKey_UnitName_41"] = "Fuel Dump #009",
+            ["DictKey_UnitName_23"] = "Fuel Dump #002",
+            ["DictKey_WptName_30"] = "",
+            ["DictKey_UnitName_13"] = "Unit #005",
+            ["DictKey_UnitName_44"] = "Fuel Dump #010",
+            ["DictKey_GroupName_34"] = "Primary Destroyed Fuel Dump #004",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_WptName_45"] = "",
+            ["DictKey_GroupName_28"] = "Primary Destroyed Fuel Dump #003",
+            ["DictKey_UnitName_9"] = "Unit #009",
+            ["DictKey_WptName_21"] = "",
+            ["DictKey_GroupName_31"] = "Primary Destroyed Fuel Dump #002",
+            ["DictKey_UnitName_47"] = "Fuel Dump #012",
+            ["DictKey_WptName_36"] = "",
+            ["DictKey_UnitName_35"] = "Fuel Dump #006",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_UnitName_17"] = "Unit #001",
+            ["DictKey_UnitName_11"] = "Unit #007",
+            ["DictKey_GroupName_40"] = "Fuel Dump #009",
+            ["DictKey_UnitName_50"] = "Fuel Dump #013",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_GroupName_37"] = "Primary Destroyed Fuel Dump #005",
+            ["DictKey_WptName_51"] = "",
+            ["DictKey_UnitName_12"] = "Unit #006",
+            ["DictKey_WptName_54"] = "",
+            ["DictKey_WptName_42"] = "",
+            ["DictKey_GroupName_25"] = "Fuel Dump #003",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "%LOCATIONMETHOD% a fuel dump used by Iranian forces next to the harbour on Sirri Island, %LOCATION%.\
+\
+Primary Objectives: Destroy the grey, upright storage tanks.\
+\
+Secondary Objectives: Destroy any ground embedded storage tanks.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion.",
+} -- end of staticTemplate

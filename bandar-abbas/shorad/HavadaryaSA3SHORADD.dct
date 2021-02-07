@@ -1,0 +1,3 @@
+objtype  = "shorad"
+exclusion = "HaveADryerSA3"
+regenerate = true

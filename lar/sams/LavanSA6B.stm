@@ -1,0 +1,1459 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 25,
+                    ["name"] = "Bulgaria",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 73,
+                    ["name"] = "Oman",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 39,
+                    ["name"] = "Pakistan",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 72,
+                    ["name"] = "Qatar",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [22]
+                [23] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [23]
+                [24] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [24]
+                [25] = 
+                {
+                    ["id"] = 74,
+                    ["name"] = "United Arab Emirates",
+                }, -- end of [25]
+                [26] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [26]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["neutrals"] = 
+        {
+            ["name"] = "neutrals",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 70,
+                    ["name"] = "Algeria",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 23,
+                    ["name"] = "Austria",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 65,
+                    ["name"] = "Bahrain",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 64,
+                    ["name"] = "Brazil",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 63,
+                    ["name"] = "Chile",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 76,
+                    ["name"] = "Cuba",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 29,
+                    ["name"] = "Egypt",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 62,
+                    ["name"] = "Ethiopia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 30,
+                    ["name"] = "Finland",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 31,
+                    ["name"] = "Greece",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 61,
+                    ["name"] = "Honduras",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 32,
+                    ["name"] = "Hungary",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 33,
+                    ["name"] = "India",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 60,
+                    ["name"] = "Indonesia",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 17,
+                    ["name"] = "Insurgents",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 69,
+                    ["name"] = "Italian Social Republic",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 36,
+                    ["name"] = "Japan",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 59,
+                    ["name"] = "Jordan",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 71,
+                    ["name"] = "Kuwait",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 58,
+                    ["name"] = "Libya",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 57,
+                    ["name"] = "Malaysia",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 56,
+                    ["name"] = "Mexico",
+                }, -- end of [22]
+                [23] = 
+                {
+                    ["id"] = 55,
+                    ["name"] = "Morocco",
+                }, -- end of [23]
+                [24] = 
+                {
+                    ["id"] = 54,
+                    ["name"] = "Philippines",
+                }, -- end of [24]
+                [25] = 
+                {
+                    ["id"] = 41,
+                    ["name"] = "Romania",
+                }, -- end of [25]
+                [26] = 
+                {
+                    ["id"] = 42,
+                    ["name"] = "Saudi Arabia",
+                }, -- end of [26]
+                [27] = 
+                {
+                    ["id"] = 44,
+                    ["name"] = "Slovakia",
+                }, -- end of [27]
+                [28] = 
+                {
+                    ["id"] = 75,
+                    ["name"] = "South Africa",
+                }, -- end of [28]
+                [29] = 
+                {
+                    ["id"] = 53,
+                    ["name"] = "Sudan",
+                }, -- end of [29]
+                [30] = 
+                {
+                    ["id"] = 22,
+                    ["name"] = "Switzerland",
+                }, -- end of [30]
+                [31] = 
+                {
+                    ["id"] = 52,
+                    ["name"] = "Thailand",
+                }, -- end of [31]
+                [32] = 
+                {
+                    ["id"] = 66,
+                    ["name"] = "Third Reich",
+                }, -- end of [32]
+                [33] = 
+                {
+                    ["id"] = 51,
+                    ["name"] = "Tunisia",
+                }, -- end of [33]
+                [34] = 
+                {
+                    ["id"] = 68,
+                    ["name"] = "USSR",
+                }, -- end of [34]
+                [35] = 
+                {
+                    ["id"] = 50,
+                    ["name"] = "Venezuela",
+                }, -- end of [35]
+                [36] = 
+                {
+                    ["id"] = 49,
+                    ["name"] = "Vietnam",
+                }, -- end of [36]
+                [37] = 
+                {
+                    ["id"] = 48,
+                    ["name"] = "Yemen",
+                }, -- end of [37]
+                [38] = 
+                {
+                    ["id"] = 67,
+                    ["name"] = "Yugoslavia",
+                }, -- end of [38]
+            }, -- end of ["country"]
+        }, -- end of ["neutrals"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 34,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 2,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -291783.60311801,
+                                            ["x"] = 76568.538414962,
+                                            ["name"] = "DictKey_WptName_509",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 124,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Kub 1S91 str",
+                                        ["unitId"] = 1241,
+                                        ["y"] = -291783.60311801,
+                                        ["x"] = 76568.538414962,
+                                        ["name"] = "DictKey_UnitName_508",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Kub 2P25 ln",
+                                        ["unitId"] = 1242,
+                                        ["y"] = -291879.77278334,
+                                        ["x"] = 76504.240390367,
+                                        ["name"] = "DictKey_UnitName_507",
+                                        ["heading"] = 4.7123889803847,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Kub 2P25 ln",
+                                        ["unitId"] = 1243,
+                                        ["y"] = -291666.39032483,
+                                        ["x"] = 76539.303235663,
+                                        ["name"] = "DictKey_UnitName_506",
+                                        ["heading"] = 1.553343034275,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Kub 2P25 ln",
+                                        ["unitId"] = 1244,
+                                        ["y"] = -290959.12264543,
+                                        ["x"] = 76544.312213563,
+                                        ["name"] = "DictKey_UnitName_505",
+                                        ["heading"] = 0.034906585039887,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Kub 2P25 ln",
+                                        ["unitId"] = 1245,
+                                        ["y"] = -290792.82457917,
+                                        ["x"] = 76615.439699735,
+                                        ["name"] = "DictKey_UnitName_504",
+                                        ["heading"] = 3.1415926535898,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "BTR-80",
+                                        ["unitId"] = 1246,
+                                        ["y"] = -290916.58445946,
+                                        ["x"] = 76615.596411396,
+                                        ["name"] = "DictKey_UnitName_503",
+                                        ["heading"] = 2.3212879051525,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "BTR-80",
+                                        ["unitId"] = 1247,
+                                        ["y"] = -290885.97877826,
+                                        ["x"] = 76623.4490137,
+                                        ["name"] = "DictKey_UnitName_502",
+                                        ["heading"] = 2.4958208303519,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [7]
+                                    [8] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Land_Rover_101_FC",
+                                        ["unitId"] = 1248,
+                                        ["y"] = -291763.58348409,
+                                        ["x"] = 76594.144411822,
+                                        ["name"] = "DictKey_UnitName_501",
+                                        ["heading"] = 1.5882496193148,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [8]
+                                    [9] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Land_Rover_101_FC",
+                                        ["unitId"] = 1249,
+                                        ["y"] = -291803.62018727,
+                                        ["x"] = 76610.710906422,
+                                        ["name"] = "DictKey_UnitName_500",
+                                        ["heading"] = 0.05235987755983,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [9]
+                                    [10] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Kub 1S91 str",
+                                        ["unitId"] = 1250,
+                                        ["y"] = -290894.55549484,
+                                        ["x"] = 76609.77352491,
+                                        ["name"] = "DictKey_UnitName_499",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [10]
+                                    [11] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Kub 2P25 ln",
+                                        ["unitId"] = 1253,
+                                        ["y"] = -291755.55013144,
+                                        ["x"] = 76467.173953912,
+                                        ["name"] = "DictKey_UnitName_522",
+                                        ["heading"] = 1.553343034275,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [11]
+                                    [12] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Kub 2P25 ln",
+                                        ["unitId"] = 1254,
+                                        ["y"] = -291032.09280374,
+                                        ["x"] = 75925.691119529,
+                                        ["name"] = "DictKey_UnitName_523",
+                                        ["heading"] = 1.553343034275,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [12]
+                                    [13] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Kub 2P25 ln",
+                                        ["unitId"] = 1255,
+                                        ["y"] = -291118.31422044,
+                                        ["x"] = 75839.469702835,
+                                        ["name"] = "DictKey_UnitName_524",
+                                        ["heading"] = 1.553343034275,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [13]
+                                    [14] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Kub 2P25 ln",
+                                        ["unitId"] = 1256,
+                                        ["y"] = -291233.71827047,
+                                        ["x"] = 75896.508486186,
+                                        ["name"] = "DictKey_UnitName_525",
+                                        ["heading"] = 1.553343034275,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [14]
+                                    [15] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Kub 2P25 ln",
+                                        ["unitId"] = 1257,
+                                        ["y"] = -290834.89999352,
+                                        ["x"] = 76524.276301965,
+                                        ["name"] = "DictKey_UnitName_526",
+                                        ["heading"] = 1.553343034275,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [15]
+                                    [16] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Kub 1S91 str",
+                                        ["unitId"] = 1258,
+                                        ["y"] = -291141.61101073,
+                                        ["x"] = 75953.217557494,
+                                        ["name"] = "DictKey_UnitName_527",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [16]
+                                }, -- end of ["units"]
+                                ["y"] = -291783.60311801,
+                                ["x"] = 76568.538414962,
+                                ["name"] = "DictKey_GroupName_496",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "Iran",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 0,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 2,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -292607.55592628,
+                                            ["x"] = 76932.486468779,
+                                            ["name"] = "DictKey_WptName_521",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 122,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "ZU-23 Emplacement",
+                                        ["unitId"] = 1218,
+                                        ["y"] = -292607.55592628,
+                                        ["x"] = 76932.486468779,
+                                        ["name"] = "DictKey_UnitName_520",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "ZU-23 Emplacement",
+                                        ["unitId"] = 1219,
+                                        ["y"] = -291506.35353745,
+                                        ["x"] = 76851.367820174,
+                                        ["name"] = "DictKey_UnitName_519",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "ZU-23 Emplacement",
+                                        ["unitId"] = 1220,
+                                        ["y"] = -292442.12323742,
+                                        ["x"] = 76674.407813652,
+                                        ["name"] = "DictKey_UnitName_518",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "ZU-23 Emplacement",
+                                        ["unitId"] = 1221,
+                                        ["y"] = -291836.07565838,
+                                        ["x"] = 76353.526515049,
+                                        ["name"] = "DictKey_UnitName_517",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Osa 9A33 ln",
+                                        ["unitId"] = 1222,
+                                        ["y"] = -291499.06069138,
+                                        ["x"] = 76517.204356823,
+                                        ["name"] = "DictKey_UnitName_516",
+                                        ["heading"] = 1.3089969389957,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Strela-10M3",
+                                        ["unitId"] = 1223,
+                                        ["y"] = -291196.66385758,
+                                        ["x"] = 76836.191095545,
+                                        ["name"] = "DictKey_UnitName_515",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "SA-18 Igla-S manpad",
+                                        ["unitId"] = 1224,
+                                        ["y"] = -292239.65566505,
+                                        ["x"] = 76900.114718114,
+                                        ["name"] = "DictKey_UnitName_514",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [7]
+                                    [8] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "SA-18 Igla-S comm",
+                                        ["unitId"] = 1225,
+                                        ["y"] = -292244.89761912,
+                                        ["x"] = 76896.620082067,
+                                        ["name"] = "DictKey_UnitName_513",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [8]
+                                    [9] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "SA-18 Igla-S comm",
+                                        ["unitId"] = 1226,
+                                        ["y"] = -291243.20906356,
+                                        ["x"] = 76419.520514846,
+                                        ["name"] = "DictKey_UnitName_512",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [9]
+                                    [10] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "SA-18 Igla-S manpad",
+                                        ["unitId"] = 1227,
+                                        ["y"] = -291242.09300229,
+                                        ["x"] = 76413.510126859,
+                                        ["name"] = "DictKey_UnitName_511",
+                                        ["heading"] = 2.775073510671,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [10]
+                                }, -- end of ["units"]
+                                ["y"] = -292607.55592628,
+                                ["x"] = 76932.486468779,
+                                ["name"] = "DictKey_GroupName_510",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "Russia",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 35,
+                    ["name"] = "Iraq",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [12]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "LavanSA6B",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_UnitName_72"] = "Unit #065",
+            ["DictKey_UnitName_508"] = "SA-6 Lavan-1",
+            ["DictKey_UnitName_156"] = "Unit #122",
+            ["DictKey_UnitName_463"] = "HAWK Lavan Island SHORAD-3",
+            ["DictKey_UnitName_283"] = "Unit #217",
+            ["DictKey_UnitName_449"] = "Unit #376",
+            ["DictKey_GroupName_467"] = "SA-2 Lavan Island",
+            ["DictKey_UnitName_226"] = "Unit #172",
+            ["DictKey_UnitName_73"] = "Unit #064",
+            ["DictKey_UnitName_398"] = "Unit #325",
+            ["DictKey_UnitName_469"] = "Secondary Destroyed Lavan SA-1",
+            ["DictKey_UnitName_192"] = "Unit #146",
+            ["DictKey_UnitName_218"] = "Unit #180",
+            ["DictKey_UnitName_388"] = "Unit #293",
+            ["DictKey_UnitName_90"] = "Primary Destroyed Hawk Lavan-3",
+            ["DictKey_UnitName_327"] = "Unit #252",
+            ["DictKey_GroupName_44"] = "SA-15 Bandar Abbas",
+            ["DictKey_GroupName_302"] = "HAWK Qeshm",
+            ["DictKey_UnitName_158"] = "Unit #120",
+            ["DictKey_UnitName_163"] = "Unit #115",
+            ["DictKey_UnitName_336"] = "Unit #357",
+            ["DictKey_UnitName_348"] = "Unit #307",
+            ["DictKey_UnitName_69"] = "Unit #349",
+            ["DictKey_UnitName_333"] = "Unit #360",
+            ["DictKey_UnitName_130"] = "Unit #101",
+            ["DictKey_GroupName_265"] = "HAWK Jask",
+            ["DictKey_UnitName_48"] = "Unit #032",
+            ["DictKey_UnitName_79"] = "Unit #058",
+            ["DictKey_UnitName_382"] = "Unit #299",
+            ["DictKey_UnitName_183"] = "Unit #125",
+            ["DictKey_GroupName_455"] = "SA-6 Lavan Island SHORAD",
+            ["DictKey_UnitName_355"] = "Unit #279",
+            ["DictKey_UnitName_358"] = "Unit #276",
+            ["DictKey_UnitName_227"] = "Unit #171",
+            ["DictKey_UnitName_499"] = "SA-6 Lavan-10",
+            ["DictKey_UnitName_270"] = "Unit #212",
+            ["DictKey_UnitName_175"] = "Unit #133",
+            ["DictKey_UnitName_15"] = "Unit #269",
+            ["DictKey_UnitName_380"] = "Unit #301",
+            ["DictKey_UnitName_40"] = "Unit #003",
+            ["DictKey_WptName_439"] = "",
+            ["DictKey_WptName_521"] = "",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_WptName_457"] = "",
+            ["DictKey_UnitName_22"] = "Unit #021",
+            ["DictKey_UnitName_309"] = "Unit #234",
+            ["DictKey_UnitName_356"] = "Unit #278",
+            ["DictKey_UnitName_476"] = "HAWK Lavan Island SHORAD-1-9",
+            ["DictKey_UnitName_56"] = "Unit #038",
+            ["DictKey_UnitName_507"] = "SA-6 Lavan-2",
+            ["DictKey_UnitName_495"] = "Primary Destroyed Lavan SA-4",
+            ["DictKey_UnitName_511"] = "SA-6 Lavan Island SHORAD-10",
+            ["DictKey_UnitName_128"] = "Unit #103",
+            ["DictKey_UnitName_267"] = "Unit #215",
+            ["DictKey_UnitName_106"] = "Unit #055",
+            ["DictKey_UnitName_210"] = "Unit #158",
+            ["DictKey_UnitName_435"] = "Unit #362",
+            ["DictKey_UnitName_58"] = "Unit #036",
+            ["DictKey_UnitName_308"] = "Unit #235",
+            ["DictKey_UnitName_224"] = "Unit #174",
+            ["DictKey_UnitName_486"] = "Primary Destroyed Lavan SA-5",
+            ["DictKey_UnitName_527"] = "SA-6 Lavan-16",
+            ["DictKey_UnitName_318"] = "Unit #243",
+            ["DictKey_UnitName_34"] = "Unit #009",
+            ["DictKey_UnitName_294"] = "Unit #231",
+            ["DictKey_UnitName_178"] = "Unit #130",
+            ["DictKey_UnitName_278"] = "Unit #222",
+            ["DictKey_UnitName_343"] = "Unit #258",
+            ["DictKey_UnitName_165"] = "Unit #113",
+            ["DictKey_UnitName_383"] = "Unit #298",
+            ["DictKey_UnitName_368"] = "Unit #310",
+            ["DictKey_UnitName_244"] = "Unit #184",
+            ["DictKey_UnitName_202"] = "Unit #166",
+            ["DictKey_UnitName_286"] = "Unit #335",
+            ["DictKey_UnitName_215"] = "Unit #153",
+            ["DictKey_GroupName_7"] = "SA-3 Lar",
+            ["DictKey_UnitName_225"] = "Unit #173",
+            ["DictKey_UnitName_68"] = "Unit #350",
+            ["DictKey_UnitName_203"] = "Unit #165",
+            ["DictKey_UnitName_305"] = "Unit #238",
+            ["DictKey_UnitName_493"] = "Primary Destroyed Lavan SA-1",
+            ["DictKey_UnitName_86"] = "Primary Destroyed Hawk Lavan",
+            ["DictKey_UnitName_350"] = "Unit #305",
+            ["DictKey_UnitName_341"] = "Unit #260",
+            ["DictKey_UnitName_228"] = "Unit #170",
+            ["DictKey_UnitName_119"] = "Unit #083",
+            ["DictKey_UnitName_142"] = "Unit #089",
+            ["DictKey_UnitName_361"] = "Unit #273",
+            ["DictKey_UnitName_303"] = "Unit #240",
+            ["DictKey_UnitName_107"] = "Unit #054",
+            ["DictKey_UnitName_328"] = "Unit #251",
+            ["DictKey_UnitName_384"] = "Unit #297",
+            ["DictKey_UnitName_306"] = "Unit #237",
+            ["DictKey_UnitName_196"] = "Unit #142",
+            ["DictKey_UnitName_129"] = "Unit #102",
+            ["DictKey_UnitName_281"] = "Unit #219",
+            ["DictKey_UnitName_252"] = "Unit #206",
+            ["DictKey_UnitName_51"] = "Unit #029",
+            ["DictKey_UnitName_387"] = "Unit #294",
+            ["DictKey_UnitName_498"] = "Primary Destroyed Lavan SA-2",
+            ["DictKey_UnitName_434"] = "Unit #363",
+            ["DictKey_UnitName_415"] = "Unit #344",
+            ["DictKey_UnitName_396"] = "Unit #327",
+            ["DictKey_UnitName_150"] = "Unit #025",
+            ["DictKey_UnitName_313"] = "Unit #248",
+            ["DictKey_UnitName_193"] = "Unit #145",
+            ["DictKey_GroupName_21"] = "S-300 Bandar Abbas",
+            ["DictKey_UnitName_503"] = "SA-6 Lavan-6",
+            ["DictKey_WptName_126"] = "",
+            ["DictKey_UnitName_487"] = "Primary Destroyed Lavan SA-7",
+            ["DictKey_UnitName_400"] = "Unit #323",
+            ["DictKey_UnitName_526"] = "SA-6 Lavan-15",
+            ["DictKey_UnitName_87"] = "Secondary Destroyed Hawk Lavan",
+            ["DictKey_UnitName_419"] = "Unit #340",
+            ["DictKey_WptName_81"] = "",
+            ["DictKey_UnitName_431"] = "Unit #366",
+            ["DictKey_UnitName_235"] = "Unit #193",
+            ["DictKey_WptName_424"] = "",
+            ["DictKey_UnitName_420"] = "Unit #339",
+            ["DictKey_UnitName_122"] = "Unit #080",
+            ["DictKey_UnitName_483"] = "Primary Destroyed Lavan SA-6",
+            ["DictKey_UnitName_324"] = "Unit #255",
+            ["DictKey_GroupName_410"] = "S-300 Bandar Lengeh",
+            ["DictKey_UnitName_288"] = "Unit #333",
+            ["DictKey_UnitName_14"] = "Unit #270",
+            ["DictKey_UnitName_314"] = "Unit #247",
+            ["DictKey_WptName_284"] = "",
+            ["DictKey_WptName_331"] = "",
+            ["DictKey_UnitName_223"] = "Unit #175",
+            ["DictKey_UnitName_92"] = "Primary Destroyed Hawk Lavan-1",
+            ["DictKey_GroupName_127"] = "HAWK Shiraz",
+            ["DictKey_WptName_264"] = "",
+            ["DictKey_UnitName_405"] = "Unit #318",
+            ["DictKey_UnitName_113"] = "Unit #109",
+            ["DictKey_UnitName_31"] = "Unit #012",
+            ["DictKey_UnitName_187"] = "Unit #151",
+            ["DictKey_UnitName_211"] = "Unit #157",
+            ["DictKey_UnitName_137"] = "Unit #094",
+            ["DictKey_UnitName_245"] = "Unit #183",
+            ["DictKey_UnitName_240"] = "Unit #188",
+            ["DictKey_UnitName_27"] = "Unit #016",
+            ["DictKey_UnitName_23"] = "Unit #020",
+            ["DictKey_UnitName_176"] = "Unit #132",
+            ["DictKey_UnitName_133"] = "Unit #098",
+            ["DictKey_UnitName_515"] = "SA-6 Lavan Island SHORAD-6",
+            ["DictKey_UnitName_140"] = "Unit #091",
+            ["DictKey_UnitName_432"] = "Unit #365",
+            ["DictKey_UnitName_268"] = "Unit #214",
+            ["DictKey_UnitName_504"] = "SA-6 Lavan-5",
+            ["DictKey_UnitName_516"] = "SA-6 Lavan Island SHORAD-5",
+            ["DictKey_UnitName_143"] = "Unit #088",
+            ["DictKey_UnitName_494"] = "Primary Destroyed Lavan SA-2",
+            ["DictKey_UnitName_30"] = "Unit #013",
+            ["DictKey_UnitName_84"] = "Secondary Destroyed Hawk Lavan-4",
+            ["DictKey_UnitName_59"] = "Unit #035",
+            ["DictKey_UnitName_293"] = "Unit #232",
+            ["DictKey_UnitName_254"] = "Unit #204",
+            ["DictKey_UnitName_60"] = "Unit #034",
+            ["DictKey_WptName_94"] = "",
+            ["DictKey_GroupName_312"] = "HAWK Jiroft",
+            ["DictKey_UnitName_376"] = "Unit #282",
+            ["DictKey_UnitName_522"] = "SA-6 Lavan-11",
+            ["DictKey_GroupName_394"] = "SA-6 Tunb Kochak",
+            ["DictKey_UnitName_198"] = "Unit #140",
+            ["DictKey_UnitName_167"] = "Unit #111",
+            ["DictKey_WptName_110"] = "",
+            ["DictKey_UnitName_481"] = "SA-2 Lavan Island-1",
+            ["DictKey_UnitName_354"] = "Unit #280",
+            ["DictKey_UnitName_45"] = "Unit #026",
+            ["DictKey_UnitName_369"] = "Unit #309",
+            ["DictKey_UnitName_260"] = "Unit #198",
+            ["DictKey_UnitName_347"] = "Unit #308",
+            ["DictKey_UnitName_243"] = "Unit #185",
+            ["DictKey_UnitName_221"] = "Unit #177",
+            ["DictKey_UnitName_429"] = "Unit #368",
+            ["DictKey_UnitName_338"] = "Unit #263",
+            ["DictKey_UnitName_524"] = "SA-6 Lavan-13",
+            ["DictKey_UnitName_255"] = "Unit #203",
+            ["DictKey_UnitName_296"] = "Unit #229",
+            ["DictKey_UnitName_71"] = "Unit #066",
+            ["DictKey_UnitName_13"] = "Unit #271",
+            ["DictKey_GroupName_82"] = "HAWK Lavan Island",
+            ["DictKey_WptName_345"] = "",
+            ["DictKey_UnitName_250"] = "Unit #208",
+            ["DictKey_GroupName_482"] = "SA-6 Lavan",
+            ["DictKey_UnitName_273"] = "Unit #209",
+            ["DictKey_UnitName_381"] = "Unit #300",
+            ["DictKey_UnitName_475"] = "HAWK Lavan Island SHORAD-1-8",
+            ["DictKey_UnitName_339"] = "Unit #262",
+            ["DictKey_UnitName_484"] = "Primary Destroyed Lavan SA-8",
+            ["DictKey_UnitName_112"] = "Unit #110",
+            ["DictKey_UnitName_391"] = "Unit #290",
+            ["DictKey_UnitName_276"] = "Unit #224",
+            ["DictKey_UnitName_375"] = "Unit #283",
+            ["DictKey_UnitName_386"] = "Unit #295",
+            ["DictKey_UnitName_181"] = "Unit #127",
+            ["DictKey_UnitName_53"] = "Unit #027",
+            ["DictKey_UnitName_209"] = "Unit #159",
+            ["DictKey_UnitName_41"] = "Unit #002",
+            ["DictKey_WptName_20"] = "",
+            ["DictKey_UnitName_317"] = "Unit #244",
+            ["DictKey_WptName_301"] = "",
+            ["DictKey_WptName_492"] = "",
+            ["DictKey_WptName_362"] = "",
+            ["DictKey_UnitName_174"] = "Unit #134",
+            ["DictKey_UnitName_177"] = "Unit #131",
+            ["DictKey_UnitName_65"] = "Unit #353",
+            ["DictKey_UnitName_10"] = "Unit #386",
+            ["DictKey_UnitName_261"] = "Unit #197",
+            ["DictKey_UnitName_389"] = "Unit #292",
+            ["DictKey_UnitName_490"] = "SA-1-8",
+            ["DictKey_UnitName_253"] = "Unit #205",
+            ["DictKey_UnitName_403"] = "Unit #320",
+            ["DictKey_GroupName_363"] = "HAWK Bandar Lengeh",
+            ["DictKey_UnitName_8"] = "Unit #388",
+            ["DictKey_UnitName_326"] = "Unit #253",
+            ["DictKey_UnitName_67"] = "Unit #351",
+            ["DictKey_UnitName_364"] = "Unit #314",
+            ["DictKey_UnitName_497"] = "Primary Destroyed Lavan SA-4",
+            ["DictKey_UnitName_297"] = "Unit #228",
+            ["DictKey_UnitName_135"] = "Unit #096",
+            ["DictKey_UnitName_310"] = "Unit #233",
+            ["DictKey_UnitName_26"] = "Unit #017",
+            ["DictKey_UnitName_374"] = "Unit #284",
+            ["DictKey_UnitName_456"] = "HAWK Lavan Island-1-1",
+            ["DictKey_UnitName_397"] = "Unit #326",
+            ["DictKey_GroupName_47"] = "SA-2 Bandar Abbas",
+            ["DictKey_UnitName_360"] = "Unit #274",
+            ["DictKey_GroupName_332"] = "HAWK Center",
+            ["DictKey_UnitName_329"] = "Unit #250",
+            ["DictKey_UnitName_145"] = "Unit #086",
+            ["DictKey_UnitName_12"] = "Unit #272",
+            ["DictKey_UnitName_320"] = "Unit #241",
+            ["DictKey_UnitName_342"] = "Unit #259",
+            ["DictKey_WptName_43"] = "",
+            ["DictKey_UnitName_406"] = "Unit #317",
+            ["DictKey_UnitName_76"] = "Unit #061",
+            ["DictKey_UnitName_136"] = "Unit #095",
+            ["DictKey_UnitName_157"] = "Unit #121",
+            ["DictKey_UnitName_194"] = "Unit #144",
+            ["DictKey_UnitName_453"] = "Unit #372",
+            ["DictKey_UnitName_74"] = "Unit #063",
+            ["DictKey_UnitName_315"] = "Unit #246",
+            ["DictKey_UnitName_290"] = "Unit #331",
+            ["DictKey_UnitName_171"] = "Unit #137",
+            ["DictKey_UnitName_99"] = "Unit #073",
+            ["DictKey_UnitName_450"] = "Unit #375",
+            ["DictKey_UnitName_38"] = "Unit #005",
+            ["DictKey_UnitName_485"] = "Primary Destroyed Lavan SA-3",
+            ["DictKey_UnitName_506"] = "SA-6 Lavan-3",
+            ["DictKey_UnitName_170"] = "Unit #138",
+            ["DictKey_UnitName_299"] = "Unit #226",
+            ["DictKey_UnitName_78"] = "Unit #059",
+            ["DictKey_UnitName_105"] = "Unit #056",
+            ["DictKey_WptName_200"] = "",
+            ["DictKey_UnitName_404"] = "Unit #319",
+            ["DictKey_UnitName_93"] = "Primary Destroyed Hawk Lavan-4",
+            ["DictKey_GroupName_201"] = "S-300 Lar",
+            ["DictKey_UnitName_426"] = "Unit #371",
+            ["DictKey_UnitName_377"] = "Unit #281",
+            ["DictKey_UnitName_11"] = "Unit #385",
+            ["DictKey_UnitName_263"] = "Unit #195",
+            ["DictKey_UnitName_351"] = "Unit #304",
+            ["DictKey_UnitName_323"] = "Unit #256",
+            ["DictKey_UnitName_208"] = "Unit #160",
+            ["DictKey_UnitName_505"] = "SA-6 Lavan-4",
+            ["DictKey_UnitName_445"] = "Unit #380",
+            ["DictKey_UnitName_458"] = "HAWK Lavan Island-1-2",
+            ["DictKey_UnitName_173"] = "Unit #135",
+            ["DictKey_UnitName_430"] = "Unit #367",
+            ["DictKey_UnitName_80"] = "Unit #057",
+            ["DictKey_UnitName_32"] = "Unit #011",
+            ["DictKey_UnitName_373"] = "Unit #285",
+            ["DictKey_UnitName_287"] = "Unit #334",
+            ["DictKey_UnitName_523"] = "SA-6 Lavan-12",
+            ["DictKey_GroupName_379"] = "HAWK Khasab",
+            ["DictKey_UnitName_416"] = "Unit #343",
+            ["DictKey_UnitName_446"] = "Unit #379",
+            ["DictKey_UnitName_259"] = "Unit #199",
+            ["DictKey_UnitName_148"] = "Unit #356",
+            ["DictKey_UnitName_371"] = "Unit #287",
+            ["DictKey_GroupName_62"] = "HAWK Abu Musa",
+            ["DictKey_UnitName_246"] = "Unit #182",
+            ["DictKey_UnitName_97"] = "Unit #075",
+            ["DictKey_UnitName_54"] = "Unit #040",
+            ["DictKey_UnitName_436"] = "Unit #361",
+            ["DictKey_UnitName_55"] = "Unit #039",
+            ["DictKey_UnitName_134"] = "Unit #097",
+            ["DictKey_UnitName_289"] = "Unit #332",
+            ["DictKey_UnitName_247"] = "Unit #181",
+            ["DictKey_UnitName_441"] = "Unit #384",
+            ["DictKey_UnitName_101"] = "Unit #071",
+            ["DictKey_UnitName_160"] = "Unit #118",
+            ["DictKey_WptName_146"] = "",
+            ["DictKey_UnitName_161"] = "Unit #117",
+            ["DictKey_UnitName_219"] = "Unit #179",
+            ["DictKey_UnitName_139"] = "Unit #092",
+            ["DictKey_UnitName_319"] = "Unit #242",
+            ["DictKey_UnitName_520"] = "SA-6 Lavan Island SHORAD-1",
+            ["DictKey_UnitName_370"] = "Unit #288",
+            ["DictKey_UnitName_514"] = "SA-6 Lavan Island SHORAD-7",
+            ["DictKey_UnitName_525"] = "SA-6 Lavan-14",
+            ["DictKey_GroupName_275"] = "HAWK Havadarya",
+            ["DictKey_UnitName_222"] = "Unit #176",
+            ["DictKey_UnitName_98"] = "Unit #074",
+            ["DictKey_UnitName_489"] = "SA-1-7",
+            ["DictKey_UnitName_335"] = "Unit #358",
+            ["DictKey_UnitName_120"] = "Unit #082",
+            ["DictKey_UnitName_422"] = "Unit #337",
+            ["DictKey_UnitName_144"] = "Unit #087",
+            ["DictKey_GroupName_249"] = "SA-6 Khasab",
+            ["DictKey_UnitName_77"] = "Unit #060",
+            ["DictKey_UnitName_63"] = "Unit #355",
+            ["DictKey_UnitName_96"] = "Unit #076",
+            ["DictKey_UnitName_413"] = "Unit #346",
+            ["DictKey_WptName_61"] = "",
+            ["DictKey_WptName_184"] = "",
+            ["DictKey_UnitName_118"] = "Unit #084",
+            ["DictKey_UnitName_85"] = "Secondary Destroyed Hawk Lavan-3",
+            ["DictKey_UnitName_298"] = "Unit #227",
+            ["DictKey_UnitName_488"] = "SA-1-6",
+            ["DictKey_UnitName_443"] = "Unit #382",
+            ["DictKey_GroupName_185"] = "S-300 Kerman",
+            ["DictKey_WptName_321"] = "",
+            ["DictKey_UnitName_197"] = "Unit #141",
+            ["DictKey_UnitName_407"] = "Unit #316",
+            ["DictKey_UnitName_102"] = "Unit #070",
+            ["DictKey_WptName_378"] = "",
+            ["DictKey_UnitName_115"] = "Unit #107",
+            ["DictKey_UnitName_108"] = "Unit #053",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_UnitName_385"] = "Unit #296",
+            ["DictKey_UnitName_207"] = "Unit #161",
+            ["DictKey_UnitName_452"] = "Unit #373",
+            ["DictKey_UnitName_123"] = "Unit #079",
+            ["DictKey_UnitName_464"] = "HAWK Lavan Island SHORAD-4",
+            ["DictKey_UnitName_66"] = "Unit #352",
+            ["DictKey_UnitName_190"] = "Unit #148",
+            ["DictKey_WptName_248"] = "",
+            ["DictKey_UnitName_138"] = "Unit #093",
+            ["DictKey_WptName_454"] = "",
+            ["DictKey_UnitName_438"] = "Unit #104",
+            ["DictKey_UnitName_451"] = "Unit #374",
+            ["DictKey_UnitName_125"] = "Unit #077",
+            ["DictKey_UnitName_182"] = "Unit #126",
+            ["DictKey_UnitName_104"] = "Unit #068",
+            ["DictKey_UnitName_49"] = "Unit #031",
+            ["DictKey_UnitName_172"] = "Unit #136",
+            ["DictKey_UnitName_179"] = "Unit #129",
+            ["DictKey_UnitName_280"] = "Unit #220",
+            ["DictKey_UnitName_231"] = "Unit #167",
+            ["DictKey_UnitName_344"] = "Unit #257",
+            ["DictKey_UnitName_282"] = "Unit #218",
+            ["DictKey_UnitName_57"] = "Unit #037",
+            ["DictKey_UnitName_229"] = "Unit #169",
+            ["DictKey_UnitName_256"] = "Unit #202",
+            ["DictKey_UnitName_35"] = "Unit #008",
+            ["DictKey_UnitName_230"] = "Unit #168",
+            ["DictKey_UnitName_236"] = "Unit #192",
+            ["DictKey_UnitName_159"] = "Unit #119",
+            ["DictKey_UnitName_188"] = "Unit #150",
+            ["DictKey_UnitName_500"] = "SA-6 Lavan-9",
+            ["DictKey_UnitName_162"] = "Unit #116",
+            ["DictKey_UnitName_502"] = "SA-6 Lavan-7",
+            ["DictKey_UnitName_199"] = "Unit #139",
+            ["DictKey_WptName_216"] = "",
+            ["DictKey_GroupName_510"] = "SA-6 Lavan Island SHORAD",
+            ["DictKey_GroupName_496"] = "SA-6 Lavan",
+            ["DictKey_UnitName_29"] = "Unit #014",
+            ["DictKey_UnitName_427"] = "Unit #370",
+            ["DictKey_UnitName_359"] = "Unit #275",
+            ["DictKey_UnitName_149"] = "Unit #033",
+            ["DictKey_UnitName_465"] = "HAWK Lavan Island SHORAD-5",
+            ["DictKey_UnitName_154"] = "Unit #124",
+            ["DictKey_UnitName_131"] = "Unit #100",
+            ["DictKey_GroupName_322"] = "HAWK Kerman",
+            ["DictKey_UnitName_151"] = "Unit #024",
+            ["DictKey_UnitName_372"] = "Unit #286",
+            ["DictKey_UnitName_180"] = "Unit #128",
+            ["DictKey_UnitName_117"] = "Unit #085",
+            ["DictKey_UnitName_28"] = "Unit #015",
+            ["DictKey_UnitName_52"] = "Unit #028",
+            ["DictKey_UnitName_292"] = "Unit #329",
+            ["DictKey_UnitName_251"] = "Unit #207",
+            ["DictKey_UnitName_357"] = "Unit #277",
+            ["DictKey_UnitName_132"] = "Unit #099",
+            ["DictKey_UnitName_39"] = "Unit #004",
+            ["DictKey_UnitName_366"] = "Unit #312",
+            ["DictKey_UnitName_189"] = "Unit #149",
+            ["DictKey_UnitName_433"] = "Unit #364",
+            ["DictKey_UnitName_519"] = "SA-6 Lavan Island SHORAD-2",
+            ["DictKey_GroupName_147"] = "S-300 Center",
+            ["DictKey_UnitName_25"] = "Unit #018",
+            ["DictKey_UnitName_121"] = "Unit #081",
+            ["DictKey_WptName_311"] = "",
+            ["DictKey_UnitName_191"] = "Unit #147",
+            ["DictKey_UnitName_239"] = "Unit #189",
+            ["DictKey_UnitName_444"] = "Unit #381",
+            ["DictKey_UnitName_460"] = "HAWK Lavan Island-1-4",
+            ["DictKey_UnitName_220"] = "Unit #178",
+            ["DictKey_UnitName_206"] = "Unit #162",
+            ["DictKey_UnitName_418"] = "Unit #341",
+            ["DictKey_UnitName_238"] = "Unit #190",
+            ["DictKey_UnitName_271"] = "Unit #211",
+            ["DictKey_UnitName_19"] = "Unit #265",
+            ["DictKey_UnitName_237"] = "Unit #191",
+            ["DictKey_UnitName_258"] = "Unit #200",
+            ["DictKey_UnitName_36"] = "Unit #007",
+            ["DictKey_WptName_168"] = "",
+            ["DictKey_UnitName_367"] = "Unit #311",
+            ["DictKey_UnitName_89"] = "Secondary Destroyed Hawk Lavan-2",
+            ["DictKey_UnitName_164"] = "Unit #114",
+            ["DictKey_UnitName_473"] = "Secondary Destroyed Lavan SA-2",
+            ["DictKey_GroupName_440"] = "SA-2 Left",
+            ["DictKey_UnitName_242"] = "Unit #186",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_GroupName_111"] = "SA-6 Shiraz",
+            ["DictKey_UnitName_266"] = "Unit #216",
+            ["DictKey_UnitName_412"] = "Unit #347",
+            ["DictKey_UnitName_291"] = "Unit #330",
+            ["DictKey_UnitName_491"] = "SA-1-9",
+            ["DictKey_UnitName_141"] = "Unit #090",
+            ["DictKey_UnitName_512"] = "SA-6 Lavan Island SHORAD-9",
+            ["DictKey_UnitName_462"] = "HAWK Lavan Island SHORAD-2",
+            ["DictKey_UnitName_353"] = "Unit #302",
+            ["DictKey_UnitName_257"] = "Unit #201",
+            ["DictKey_UnitName_423"] = "Unit #336",
+            ["DictKey_UnitName_428"] = "Unit #369",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_UnitName_152"] = "Unit #023",
+            ["DictKey_WptName_393"] = "",
+            ["DictKey_UnitName_442"] = "Unit #383",
+            ["DictKey_UnitName_390"] = "Unit #291",
+            ["DictKey_UnitName_70"] = "Unit #067",
+            ["DictKey_UnitName_16"] = "Unit #268",
+            ["DictKey_UnitName_9"] = "Unit #387",
+            ["DictKey_UnitName_42"] = "Unit #001",
+            ["DictKey_GroupName_217"] = "S-300 Left",
+            ["DictKey_UnitName_262"] = "Unit #196",
+            ["DictKey_UnitName_116"] = "Unit #106",
+            ["DictKey_UnitName_411"] = "Unit #348",
+            ["DictKey_UnitName_103"] = "Unit #069",
+            ["DictKey_UnitName_277"] = "Unit #223",
+            ["DictKey_UnitName_83"] = "Secondary Destroyed Hawk Lavan-5",
+            ["DictKey_UnitName_401"] = "Unit #322",
+            ["DictKey_UnitName_517"] = "SA-6 Lavan Island SHORAD-4",
+            ["DictKey_UnitName_153"] = "Unit #022",
+            ["DictKey_WptName_274"] = "",
+            ["DictKey_GroupName_346"] = "HAWK Kish Intl",
+            ["DictKey_UnitName_316"] = "Unit #245",
+            ["DictKey_UnitName_88"] = "Secondary Destroyed Hawk Lavan-1",
+            ["DictKey_WptName_232"] = "",
+            ["DictKey_UnitName_195"] = "Unit #143",
+            ["DictKey_GroupName_95"] = "S-300 Shiraz",
+            ["DictKey_UnitName_109"] = "Unit #052",
+            ["DictKey_WptName_409"] = "",
+            ["DictKey_UnitName_421"] = "Unit #338",
+            ["DictKey_UnitName_166"] = "Unit #112",
+            ["DictKey_UnitName_100"] = "Unit #072",
+            ["DictKey_UnitName_205"] = "Unit #163",
+            ["DictKey_UnitName_272"] = "Unit #210",
+            ["DictKey_UnitName_114"] = "Unit #108",
+            ["DictKey_UnitName_124"] = "Unit #078",
+            ["DictKey_UnitName_417"] = "Unit #342",
+            ["DictKey_UnitName_33"] = "Unit #010",
+            ["DictKey_UnitName_155"] = "Unit #123",
+            ["DictKey_UnitName_204"] = "Unit #164",
+            ["DictKey_UnitName_395"] = "Unit #328",
+            ["DictKey_UnitName_91"] = "Primary Destroyed Hawk Lavan-2",
+            ["DictKey_UnitName_214"] = "Unit #154",
+            ["DictKey_UnitName_349"] = "Unit #306",
+            ["DictKey_WptName_509"] = "",
+            ["DictKey_UnitName_352"] = "Unit #303",
+            ["DictKey_UnitName_234"] = "Unit #194",
+            ["DictKey_UnitName_186"] = "Unit #152",
+            ["DictKey_GroupName_425"] = "SA-2 Bandar Khamir",
+            ["DictKey_UnitName_64"] = "Unit #354",
+            ["DictKey_UnitName_402"] = "Unit #321",
+            ["DictKey_UnitName_501"] = "SA-6 Lavan-8",
+            ["DictKey_UnitName_304"] = "Unit #239",
+            ["DictKey_UnitName_75"] = "Unit #062",
+            ["DictKey_UnitName_472"] = "Secondary Destroyed Lavan SA-8",
+            ["DictKey_UnitName_340"] = "Unit #261",
+            ["DictKey_UnitName_392"] = "Unit #289",
+            ["DictKey_WptName_477"] = "",
+            ["DictKey_UnitName_213"] = "Unit #155",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_UnitName_399"] = "Unit #324",
+            ["DictKey_UnitName_474"] = "Secondary Destroyed Lavan SA-3",
+            ["DictKey_UnitName_365"] = "Unit #313",
+            ["DictKey_UnitName_470"] = "Secondary Destroyed Lavan SA-7",
+            ["DictKey_UnitName_414"] = "Unit #345",
+            ["DictKey_UnitName_447"] = "Unit #378",
+            ["DictKey_GroupName_169"] = "S-300 Jiroft",
+            ["DictKey_GroupName_285"] = "HAWK Tunb AFB",
+            ["DictKey_UnitName_480"] = "Primary Destroyed Lavan SA-1",
+            ["DictKey_UnitName_18"] = "Unit #266",
+            ["DictKey_UnitName_279"] = "Unit #221",
+            ["DictKey_UnitName_24"] = "Unit #019",
+            ["DictKey_UnitName_269"] = "Unit #213",
+            ["DictKey_UnitName_459"] = "HAWK Lavan Island-1-3",
+            ["DictKey_UnitName_330"] = "Unit #249",
+            ["DictKey_UnitName_50"] = "Unit #030",
+            ["DictKey_UnitName_461"] = "HAWK Lavan Island SHORAD-1",
+            ["DictKey_UnitName_448"] = "Unit #377",
+            ["DictKey_UnitName_334"] = "Unit #359",
+            ["DictKey_UnitName_337"] = "Unit #264",
+            ["DictKey_UnitName_468"] = "Primary Destroyed Lavan SA-2",
+            ["DictKey_UnitName_325"] = "Unit #254",
+            ["DictKey_UnitName_37"] = "Unit #006",
+            ["DictKey_UnitName_17"] = "Unit #267",
+            ["DictKey_UnitName_478"] = "Secondary Destroyed Lavan SA-4",
+            ["DictKey_UnitName_437"] = "Unit #105",
+            ["DictKey_UnitName_479"] = "Secondary Destroyed Lavan SA-6",
+            ["DictKey_GroupName_233"] = "SA-6 Left",
+            ["DictKey_UnitName_471"] = "Secondary Destroyed Lavan SA-5",
+            ["DictKey_UnitName_408"] = "Unit #315",
+            ["DictKey_UnitName_212"] = "Unit #156",
+            ["DictKey_UnitName_295"] = "Unit #230",
+            ["DictKey_UnitName_300"] = "Unit #225",
+            ["DictKey_UnitName_307"] = "Unit #236",
+            ["DictKey_UnitName_241"] = "Unit #187",
+            ["DictKey_UnitName_466"] = "HAWK Lavan Island SHORAD-6",
+            ["DictKey_UnitName_518"] = "SA-6 Lavan Island SHORAD-3",
+            ["DictKey_WptName_46"] = "",
+            ["DictKey_UnitName_513"] = "SA-6 Lavan Island SHORAD-8",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "%LOCATIONMETHOD% two small SA-6 emplacements at %LOCATION%, on Lavan Island.\
+\
+Primary Objectives: Destroy all of the mobile Radars and Launchers. Intelligence suggests at least 6 pieces, potentially more.\
+\
+Secondary Objectives: None.\
+\
+Recommended Pilots: 2-4\
+\
+Recommended Ordnance: Anti-radiation missiles (AGM-88C etc.), long range standoff weaponry (JSOW etc.).",
+} -- end of staticTemplate

@@ -1,0 +1,1360 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [21]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 0,
+                    ["name"] = "Russia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["name"] = "Iran",
+                    ["ship"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -91618.358144833,
+                                            ["x"] = 11031.272577127,
+                                            ["name"] = "DictKey_WptName_388",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Turning Point",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 199411,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "speedboat",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637132,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91618.358144833,
+                                        ["x"] = 11031.272577127,
+                                        ["name"] = "DictKey_UnitName_387",
+                                        ["heading"] = 1.5707963267949,
+                                        ["modulation"] = 0,
+                                        ["frequency"] = 127500000,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "speedboat",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637133,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91618.249991721,
+                                        ["x"] = 11035.72365714,
+                                        ["name"] = "DictKey_UnitName_386",
+                                        ["heading"] = 1.535889741755,
+                                        ["modulation"] = 0,
+                                        ["frequency"] = 127500000,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "speedboat",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637134,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91606.145038931,
+                                        ["x"] = 11036.157819487,
+                                        ["name"] = "DictKey_UnitName_385",
+                                        ["heading"] = 1.5707963267949,
+                                        ["modulation"] = 0,
+                                        ["frequency"] = 127500000,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "speedboat",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637135,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91605.964104029,
+                                        ["x"] = 11031.272577127,
+                                        ["name"] = "DictKey_UnitName_384",
+                                        ["heading"] = 1.5707963267949,
+                                        ["modulation"] = 0,
+                                        ["frequency"] = 127500000,
+                                    }, -- end of [4]
+                                }, -- end of ["units"]
+                                ["y"] = -91618.358144833,
+                                ["x"] = 11031.272577127,
+                                ["name"] = "DictKey_GroupName_383",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -91709.824662613,
+                                            ["x"] = 11369.857450913,
+                                            ["name"] = "DictKey_WptName_394",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Turning Point",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 199414,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "speedboat",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637149,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91709.824662613,
+                                        ["x"] = 11369.857450913,
+                                        ["name"] = "DictKey_UnitName_393",
+                                        ["heading"] = 1.5707963267949,
+                                        ["modulation"] = 0,
+                                        ["frequency"] = 127500000,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "speedboat",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637150,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91709.716509501,
+                                        ["x"] = 11374.308530926,
+                                        ["name"] = "DictKey_UnitName_392",
+                                        ["heading"] = 1.535889741755,
+                                        ["modulation"] = 0,
+                                        ["frequency"] = 127500000,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "speedboat",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637151,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91697.611556711,
+                                        ["x"] = 11374.742693273,
+                                        ["name"] = "DictKey_UnitName_391",
+                                        ["heading"] = 1.5707963267949,
+                                        ["modulation"] = 0,
+                                        ["frequency"] = 127500000,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "speedboat",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637152,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91697.430621809,
+                                        ["x"] = 11369.857450913,
+                                        ["name"] = "DictKey_UnitName_390",
+                                        ["heading"] = 1.5707963267949,
+                                        ["modulation"] = 0,
+                                        ["frequency"] = 127500000,
+                                    }, -- end of [4]
+                                }, -- end of ["units"]
+                                ["y"] = -91709.824662613,
+                                ["x"] = 11369.857450913,
+                                ["name"] = "DictKey_GroupName_389",
+                                ["start_time"] = 0,
+                            }, -- end of [2]
+                            [3] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -91571.805484015,
+                                            ["x"] = 11365.10003581,
+                                            ["name"] = "DictKey_WptName_400",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Turning Point",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 199415,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "speedboat",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637153,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91571.805484015,
+                                        ["x"] = 11365.10003581,
+                                        ["name"] = "DictKey_UnitName_399",
+                                        ["heading"] = 1.5707963267949,
+                                        ["modulation"] = 0,
+                                        ["frequency"] = 127500000,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "speedboat",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637154,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91571.697330903,
+                                        ["x"] = 11369.551115823,
+                                        ["name"] = "DictKey_UnitName_398",
+                                        ["heading"] = 1.535889741755,
+                                        ["modulation"] = 0,
+                                        ["frequency"] = 127500000,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "speedboat",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637155,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91559.592378113,
+                                        ["x"] = 11369.98527817,
+                                        ["name"] = "DictKey_UnitName_397",
+                                        ["heading"] = 1.5707963267949,
+                                        ["modulation"] = 0,
+                                        ["frequency"] = 127500000,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "speedboat",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637156,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91559.411443211,
+                                        ["x"] = 11365.10003581,
+                                        ["name"] = "DictKey_UnitName_396",
+                                        ["heading"] = 1.5707963267949,
+                                        ["modulation"] = 0,
+                                        ["frequency"] = 127500000,
+                                    }, -- end of [4]
+                                }, -- end of ["units"]
+                                ["y"] = -91571.805484015,
+                                ["x"] = 11365.10003581,
+                                ["name"] = "DictKey_GroupName_395",
+                                ["start_time"] = 0,
+                            }, -- end of [3]
+                            [4] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -91381.925871244,
+                                            ["x"] = 11118.424026815,
+                                            ["name"] = "DictKey_WptName_406",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Turning Point",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 199416,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "speedboat",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637157,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91381.925871244,
+                                        ["x"] = 11118.424026815,
+                                        ["name"] = "DictKey_UnitName_405",
+                                        ["heading"] = 3.1764992386297,
+                                        ["modulation"] = 0,
+                                        ["frequency"] = 127500000,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "speedboat",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637161,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91377.18165885,
+                                        ["x"] = 11117.818392245,
+                                        ["name"] = "DictKey_UnitName_404",
+                                        ["heading"] = 3.1764992386297,
+                                        ["modulation"] = 0,
+                                        ["frequency"] = 127500000,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "speedboat",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637162,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91382.3212995,
+                                        ["x"] = 11106.113735902,
+                                        ["name"] = "DictKey_UnitName_403",
+                                        ["heading"] = 3.1764992386297,
+                                        ["modulation"] = 0,
+                                        ["frequency"] = 127500000,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "speedboat",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637163,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91377.239662353,
+                                        ["x"] = 11106.062879031,
+                                        ["name"] = "DictKey_UnitName_402",
+                                        ["heading"] = 3.1764992386297,
+                                        ["modulation"] = 0,
+                                        ["frequency"] = 127500000,
+                                    }, -- end of [4]
+                                }, -- end of ["units"]
+                                ["y"] = -91381.925871244,
+                                ["x"] = 11118.424026815,
+                                ["name"] = "DictKey_GroupName_401",
+                                ["start_time"] = 0,
+                            }, -- end of [4]
+                        }, -- end of ["group"]
+                    }, -- end of ["ship"]
+                    ["id"] = 34,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = -108578.56306876,
+                                                ["x"] = 8639.8184591963,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = -108578.87811503,
+                                                ["x"] = 8640.2274516945,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 2,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -91591.741098625,
+                                            ["x"] = 11014.500215672,
+                                            ["name"] = "DictKey_WptName_419",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 199412,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637137,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91591.741098625,
+                                        ["x"] = 11014.500215672,
+                                        ["name"] = "DictKey_UnitName_418",
+                                        ["heading"] = 1.2566370614359,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637138,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91730.706320999,
+                                        ["x"] = 11192.908439767,
+                                        ["name"] = "DictKey_UnitName_417",
+                                        ["heading"] = 1.2566370614359,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637139,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91399.114207177,
+                                        ["x"] = 11349.031185352,
+                                        ["name"] = "DictKey_UnitName_416",
+                                        ["heading"] = 1.2566370614359,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637140,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91745.553729081,
+                                        ["x"] = 11357.129771579,
+                                        ["name"] = "DictKey_UnitName_415",
+                                        ["heading"] = 1.2566370614359,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["type"] = "Igla manpad INS",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637141,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91729.351342527,
+                                        ["x"] = 11173.628156785,
+                                        ["name"] = "DictKey_UnitName_414",
+                                        ["heading"] = 1.2566370614359,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["type"] = "Igla manpad INS",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637142,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91707.846151315,
+                                        ["x"] = 11015.776792364,
+                                        ["name"] = "DictKey_UnitName_413",
+                                        ["heading"] = 1.2566370614359,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["type"] = "Igla manpad INS",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637143,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91522.954027998,
+                                        ["x"] = 11372.017997113,
+                                        ["name"] = "DictKey_UnitName_412",
+                                        ["heading"] = 1.2566370614359,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [7]
+                                    [8] = 
+                                    {
+                                        ["type"] = "Igla manpad INS",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637144,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91371.219076842,
+                                        ["x"] = 11007.990720933,
+                                        ["name"] = "DictKey_UnitName_411",
+                                        ["heading"] = 1.2566370614359,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [8]
+                                    [9] = 
+                                    {
+                                        ["type"] = "BTR-80",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637145,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91834.026006325,
+                                        ["x"] = 11246.693968925,
+                                        ["name"] = "DictKey_UnitName_410",
+                                        ["heading"] = 5.4454272662223,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [9]
+                                    [10] = 
+                                    {
+                                        ["type"] = "Ural-375",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637146,
+                                        ["skill"] = "Average",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["Variant"] = 4,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["y"] = -91831.254543623,
+                                        ["x"] = 11211.944090431,
+                                        ["name"] = "DictKey_UnitName_409",
+                                        ["heading"] = 6.1784655520599,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [10]
+                                    [11] = 
+                                    {
+                                        ["type"] = "Ural-375",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 637147,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91835.944711272,
+                                        ["x"] = 11210.878143238,
+                                        ["name"] = "DictKey_UnitName_408",
+                                        ["heading"] = 6.1784655520599,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [11]
+                                }, -- end of ["units"]
+                                ["y"] = -91591.741098625,
+                                ["x"] = 11014.500215672,
+                                ["name"] = "DictKey_GroupName_407",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["static"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["heading"] = 1.5184364492351,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -91791.935033615,
+                                            ["speed"] = 0,
+                                            ["x"] = 11224.812574779,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 199413,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Warehouses",
+                                        ["shape_name"] = "sklad",
+                                        ["type"] = "Warehouse",
+                                        ["unitId"] = 637148,
+                                        ["rate"] = 100,
+                                        ["y"] = -91791.935033615,
+                                        ["x"] = 11224.812574779,
+                                        ["name"] = "DictKey_GroupName_420",
+                                        ["heading"] = 1.5184364492351,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -91791.935033615,
+                                ["x"] = 11224.812574779,
+                                ["name"] = "DictKey_GroupName_420",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["static"]
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [10]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "Tunb Greater Port Speedboats",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_UnitName_89"] = "Unit #011",
+            ["DictKey_UnitName_212"] = "Unit #026",
+            ["DictKey_UnitName_67"] = "Unit #005",
+            ["DictKey_UnitName_364"] = "Unit #021",
+            ["DictKey_UnitName_156"] = "Unit #006",
+            ["DictKey_UnitName_297"] = "Unit #003",
+            ["DictKey_UnitName_283"] = "Primary Destroyed Cargo",
+            ["DictKey_GroupName_125"] = "BandarELengeh - Port Defences #001",
+            ["DictKey_UnitName_135"] = "Unit #007",
+            ["DictKey_GroupName_420"] = "Secondary Destroyed Ship Warehouse",
+            ["DictKey_UnitName_26"] = "Unit #027",
+            ["DictKey_UnitName_374"] = "Unit #006",
+            ["DictKey_UnitName_226"] = "Unit #032",
+            ["DictKey_WptName_272"] = "",
+            ["DictKey_UnitName_331"] = "Primary Destroyed Cargo",
+            ["DictKey_WptName_48"] = "",
+            ["DictKey_UnitName_39"] = "Unit #034",
+            ["DictKey_UnitName_398"] = "Unit #017",
+            ["DictKey_GroupName_73"] = "TUNB KOCHAK - Port Defences #002",
+            ["DictKey_UnitName_145"] = "Primary Destroyed Cargo",
+            ["DictKey_UnitName_192"] = "Secondary Destroyed Speedboat 1",
+            ["DictKey_GroupName_380"] = "Primary Destroyed Shipping Warehouse",
+            ["DictKey_UnitName_218"] = "Unit #030",
+            ["DictKey_UnitName_342"] = "Unit #003",
+            ["DictKey_GroupName_247"] = "Secondary Destroyed Speedboats",
+            ["DictKey_UnitName_312"] = "Unit #020",
+            ["DictKey_WptName_30"] = "",
+            ["DictKey_GroupName_153"] = "BandarELengeh - Port Defences #001",
+            ["DictKey_UnitName_90"] = "Unit #010",
+            ["DictKey_UnitName_76"] = "Unit #009",
+            ["DictKey_UnitName_238"] = "Unit #047",
+            ["DictKey_UnitName_136"] = "Unit #006",
+            ["DictKey_UnitName_417"] = "Unit #003",
+            ["DictKey_UnitName_336"] = "Unit #014",
+            ["DictKey_UnitName_348"] = "Unit #018",
+            ["DictKey_UnitName_69"] = "Unit #003",
+            ["DictKey_UnitName_74"] = "Unit #011",
+            ["DictKey_WptName_99"] = "",
+            ["DictKey_UnitName_130"] = "Unit #012",
+            ["DictKey_UnitName_315"] = "Unit #012",
+            ["DictKey_GroupName_216"] = "Primary Destroyed Speedboats #002",
+            ["DictKey_GroupName_352"] = "TUNB Greater - Navy Strike #001",
+            ["DictKey_GroupName_119"] = "Bandar Lengeh - Navy Strike #004",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_WptName_142"] = "",
+            ["DictKey_UnitName_38"] = "Unit #035",
+            ["DictKey_UnitName_183"] = "Unit #018",
+            ["DictKey_UnitName_262"] = "Unit #008",
+            ["DictKey_GroupName_20"] = "Qeshm Testm",
+            ["DictKey_UnitName_170"] = "Unit #015",
+            ["DictKey_UnitName_299"] = "Unit #001",
+            ["DictKey_UnitName_358"] = "Unit #247",
+            ["DictKey_UnitName_78"] = "Unit #007",
+            ["DictKey_UnitName_316"] = "Unit #011",
+            ["DictKey_UnitName_270"] = "Unit #002",
+            ["DictKey_WptName_162"] = "",
+            ["DictKey_GroupName_383"] = "Primary Destroyed Speedboats",
+            ["DictKey_UnitName_404"] = "Unit #021",
+            ["DictKey_UnitName_93"] = "Unit #007",
+            ["DictKey_GroupName_31"] = "Primary Destroyed Speedboats #002",
+            ["DictKey_UnitName_377"] = "Unit #003",
+            ["DictKey_WptName_167"] = "",
+            ["DictKey_UnitName_408"] = "Unit #012",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_UnitName_263"] = "Unit #007",
+            ["DictKey_GroupName_194"] = "TUNB KOCHAK - Port Defences #001",
+            ["DictKey_UnitName_201"] = "Unit #006",
+            ["DictKey_UnitName_22"] = "Unit #002",
+            ["DictKey_UnitName_402"] = "Unit #023",
+            ["DictKey_UnitName_169"] = "Unit #016",
+            ["DictKey_GroupName_367"] = "TUNB KOCHAK - Port Defences #001",
+            ["DictKey_GroupName_328"] = "Khasab - Navy Strike #002",
+            ["DictKey_WptName_265"] = "",
+            ["DictKey_UnitName_356"] = "Unit #249",
+            ["DictKey_GroupName_49"] = "TUNB KOCHAK - Port Defences #002",
+            ["DictKey_GroupName_395"] = "Primary Destroyed Speedboats #002",
+            ["DictKey_UnitName_56"] = "Unit #044",
+            ["DictKey_UnitName_32"] = "Unit #031",
+            ["DictKey_WptName_332"] = "",
+            ["DictKey_WptName_19"] = "",
+            ["DictKey_UnitName_128"] = "Unit #019",
+            ["DictKey_UnitName_267"] = "Unit #005",
+            ["DictKey_UnitName_416"] = "Unit #004",
+            ["DictKey_UnitName_340"] = "Unit #005",
+            ["DictKey_UnitName_259"] = "Unit #011",
+            ["DictKey_UnitName_148"] = "Unit #017",
+            ["DictKey_UnitName_58"] = "Unit #038",
+            ["DictKey_UnitName_393"] = "Unit #001",
+            ["DictKey_UnitName_308"] = "Unit #014",
+            ["DictKey_UnitName_213"] = "Unit #025",
+            ["DictKey_UnitName_224"] = "Unit #034",
+            ["DictKey_WptName_246"] = "",
+            ["DictKey_UnitName_365"] = "Unit #020",
+            ["DictKey_UnitName_410"] = "Unit #010",
+            ["DictKey_UnitName_75"] = "Unit #010",
+            ["DictKey_UnitName_54"] = "Unit #046",
+            ["DictKey_GroupName_13"] = "Qeshm Testm",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_UnitName_55"] = "Unit #045",
+            ["DictKey_UnitName_294"] = "Unit #006",
+            ["DictKey_UnitName_178"] = "Unit #002",
+            ["DictKey_UnitName_414"] = "Unit #006",
+            ["DictKey_UnitName_343"] = "Unit #002",
+            ["DictKey_GroupName_37"] = "Primary Destroyed Speedboats #001",
+            ["DictKey_UnitName_289"] = "Unit #014",
+            ["DictKey_WptName_24"] = "",
+            ["DictKey_UnitName_244"] = "Unit #037",
+            ["DictKey_UnitName_101"] = "Unit #017",
+            ["DictKey_UnitName_202"] = "Unit #005",
+            ["DictKey_UnitName_286"] = "Unit #017",
+            ["DictKey_UnitName_160"] = "Unit #002",
+            ["DictKey_WptName_354"] = "",
+            ["DictKey_UnitName_225"] = "Unit #033",
+            ["DictKey_UnitName_68"] = "Unit #004",
+            ["DictKey_UnitName_8"] = "Unit #004",
+            ["DictKey_UnitName_110"] = "Unit #005",
+            ["DictKey_GroupName_234"] = "TUNB KOCHAK - Port Defences #002",
+            ["DictKey_UnitName_21"] = "Unit #003",
+            ["DictKey_WptName_193"] = "",
+            ["DictKey_UnitName_203"] = "Unit #004",
+            ["DictKey_UnitName_91"] = "Unit #009",
+            ["DictKey_GroupName_273"] = "TUNB KOCHAK - Port Defences #002",
+            ["DictKey_UnitName_139"] = "Unit #003",
+            ["DictKey_WptName_400"] = "",
+            ["DictKey_UnitName_86"] = "Primary Destroyed Minelayer",
+            ["DictKey_UnitName_241"] = "Unit #044",
+            ["DictKey_UnitName_350"] = "Unit #011",
+            ["DictKey_UnitName_319"] = "Unit #008",
+            ["DictKey_UnitName_397"] = "Unit #018",
+            ["DictKey_UnitName_204"] = "Unit #003",
+            ["DictKey_UnitName_392"] = "Unit #013",
+            ["DictKey_UnitName_322"] = "Unit #005",
+            ["DictKey_UnitName_34"] = "Unit #029",
+            ["DictKey_GroupName_6"] = "Qeshm Testm",
+            ["DictKey_UnitName_411"] = "Unit #009",
+            ["DictKey_UnitName_321"] = "Unit #006",
+            ["DictKey_UnitName_177"] = "Unit #003",
+            ["DictKey_UnitName_107"] = "Unit #008",
+            ["DictKey_UnitName_70"] = "Unit #002",
+            ["DictKey_GroupName_407"] = "TUNB KOCHAK - Port Defences #001",
+            ["DictKey_UnitName_98"] = "Primary Destroyed Cargo",
+            ["DictKey_UnitName_10"] = "Unit #002",
+            ["DictKey_UnitName_337"] = "Unit #008",
+            ["DictKey_WptName_180"] = "",
+            ["DictKey_UnitName_335"] = "Unit #015",
+            ["DictKey_UnitName_120"] = "Unit #017",
+            ["DictKey_UnitName_173"] = "Unit #007",
+            ["DictKey_WptName_280"] = "",
+            ["DictKey_UnitName_144"] = "Primary Destroyed Tanker",
+            ["DictKey_UnitName_306"] = "Unit #016",
+            ["DictKey_WptName_118"] = "",
+            ["DictKey_GroupName_187"] = "TUNB Greater - Navy Strike",
+            ["DictKey_UnitName_77"] = "Unit #008",
+            ["DictKey_UnitName_129"] = "Unit #018",
+            ["DictKey_UnitName_63"] = "TUNB KOCHAK - Port Warehouse #002",
+            ["DictKey_UnitName_409"] = "Unit #011",
+            ["DictKey_UnitName_371"] = "Unit #009",
+            ["DictKey_WptName_152"] = "",
+            ["DictKey_UnitName_132"] = "Unit #010",
+            ["DictKey_UnitName_413"] = "Unit #007",
+            ["DictKey_UnitName_51"] = "Unit #049",
+            ["DictKey_UnitName_174"] = "Unit #006",
+            ["DictKey_UnitName_94"] = "Unit #006",
+            ["DictKey_GroupName_361"] = "Secondary Destroyed Speedboats",
+            ["DictKey_UnitName_369"] = "Unit #011",
+            ["DictKey_GroupName_25"] = "Primary Destroyed Speedboats #003",
+            ["DictKey_WptName_80"] = "",
+            ["DictKey_UnitName_387"] = "Unit #246",
+            ["DictKey_UnitName_50"] = "Unit #050",
+            ["DictKey_UnitName_85"] = "Unit #002",
+            ["DictKey_WptName_227"] = "",
+            ["DictKey_UnitName_11"] = "Unit #001",
+            ["DictKey_WptName_206"] = "",
+            ["DictKey_UnitName_317"] = "Unit #010",
+            ["DictKey_UnitName_208"] = "TUNB KOCHAK - Port Warehouse #001",
+            ["DictKey_GroupName_96"] = "TUNB Greater - Navy Strike #002",
+            ["DictKey_UnitName_415"] = "Unit #005",
+            ["DictKey_UnitName_362"] = "Unit #023",
+            ["DictKey_UnitName_396"] = "Unit #019",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_UnitName_150"] = "Unit #015",
+            ["DictKey_UnitName_298"] = "Unit #002",
+            ["DictKey_UnitName_313"] = "Unit #019",
+            ["DictKey_GroupName_81"] = "TUNB Greater - Navy Strike #008",
+            ["DictKey_UnitName_353"] = "Primary Destroyed Minelayer",
+            ["DictKey_GroupName_301"] = "TUNB Greater - Navy Strike #002",
+            ["DictKey_UnitName_349"] = "Unit #012",
+            ["DictKey_UnitName_103"] = "Unit #015",
+            ["DictKey_GroupName_222"] = "Primary Destroyed Speedboats #001",
+            ["DictKey_UnitName_7"] = "Unit #005",
+            ["DictKey_UnitName_175"] = "Unit #005",
+            ["DictKey_UnitName_232"] = "Unit #040",
+            ["DictKey_UnitName_172"] = "Unit #008",
+            ["DictKey_UnitName_27"] = "Unit #026",
+            ["DictKey_UnitName_16"] = "Unit #003",
+            ["DictKey_UnitName_341"] = "Unit #004",
+            ["DictKey_GroupName_88"] = "TUNB KOCHAK - Port Defences #002",
+            ["DictKey_UnitName_197"] = "Unit #010",
+            ["DictKey_WptName_221"] = "",
+            ["DictKey_WptName_12"] = "",
+            ["DictKey_UnitName_421"] = "TUNB KOCHAK - Port Warehouse #001",
+            ["DictKey_UnitName_102"] = "Unit #016",
+            ["DictKey_UnitName_159"] = "Unit #003",
+            ["DictKey_UnitName_219"] = "Unit #029",
+            ["DictKey_GroupName_210"] = "Primary Destroyed Speedboats #003",
+            ["DictKey_UnitName_158"] = "Unit #004",
+            ["DictKey_UnitName_108"] = "Unit #007",
+            ["DictKey_UnitName_217"] = "Unit #031",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_UnitName_385"] = "Unit #248",
+            ["DictKey_WptName_406"] = "",
+            ["DictKey_UnitName_57"] = "Unit #039",
+            ["DictKey_UnitName_418"] = "Unit #002",
+            ["DictKey_UnitName_123"] = "Unit #014",
+            ["DictKey_UnitName_329"] = "Secondary Destroyed Escort",
+            ["DictKey_UnitName_184"] = "Unit #012",
+            ["DictKey_GroupName_143"] = "TUNB Greater - Navy Strike #002",
+            ["DictKey_UnitName_235"] = "Unit #050",
+            ["DictKey_UnitName_66"] = "Primary Destroyed Tanker",
+            ["DictKey_UnitName_171"] = "Unit #014",
+            ["DictKey_UnitName_190"] = "Secondary Destroyed Speedboat 3",
+            ["DictKey_GroupName_346"] = "Bandar Lengeh - Navy Strike #001",
+            ["DictKey_UnitName_138"] = "Unit #004",
+            ["DictKey_UnitName_188"] = "Primary Destroyed Cargo",
+            ["DictKey_UnitName_122"] = "Unit #015",
+            ["DictKey_GroupName_228"] = "Primary Destroyed Speedboats",
+            ["DictKey_UnitName_15"] = "Unit #004",
+            ["DictKey_UnitName_155"] = "Unit #007",
+            ["DictKey_WptName_105"] = "",
+            ["DictKey_UnitName_288"] = "Unit #015",
+            ["DictKey_UnitName_14"] = "Unit #005",
+            ["DictKey_UnitName_314"] = "Unit #018",
+            ["DictKey_UnitName_182"] = "Unit #019",
+            ["DictKey_UnitName_324"] = "Unit #003",
+            ["DictKey_UnitName_104"] = "Unit #014",
+            ["DictKey_WptName_87"] = "",
+            ["DictKey_UnitName_214"] = "Unit #024",
+            ["DictKey_UnitName_311"] = "Unit #021",
+            ["DictKey_GroupName_100"] = "Bandar Lengeh - Navy Strike #004",
+            ["DictKey_UnitName_223"] = "Unit #035",
+            ["DictKey_WptName_379"] = "",
+            ["DictKey_UnitName_384"] = "Unit #249",
+            ["DictKey_UnitName_92"] = "Unit #008",
+            ["DictKey_UnitName_179"] = "Unit #001",
+            ["DictKey_WptName_233"] = "",
+            ["DictKey_UnitName_140"] = "Unit #002",
+            ["DictKey_UnitName_134"] = "Unit #008",
+            ["DictKey_UnitName_405"] = "Unit #020",
+            ["DictKey_UnitName_131"] = "Unit #011",
+            ["DictKey_UnitName_113"] = "Unit #002",
+            ["DictKey_UnitName_47"] = "Unit #040",
+            ["DictKey_UnitName_111"] = "Unit #004",
+            ["DictKey_UnitName_35"] = "Unit #028",
+            ["DictKey_UnitName_230"] = "Unit #042",
+            ["DictKey_UnitName_236"] = "Unit #049",
+            ["DictKey_UnitName_211"] = "Unit #027",
+            ["DictKey_UnitName_137"] = "Unit #005",
+            ["DictKey_GroupName_401"] = "Primary Destroyed Speedboats #001",
+            ["DictKey_UnitName_305"] = "Unit #017",
+            ["DictKey_UnitName_127"] = "Unit #020",
+            ["DictKey_UnitName_199"] = "Unit #008",
+            ["DictKey_UnitName_245"] = "Unit #036",
+            ["DictKey_WptName_146"] = "",
+            ["DictKey_UnitName_240"] = "Unit #045",
+            ["DictKey_UnitName_191"] = "Secondary Destroyed Speedboat 2",
+            ["DictKey_WptName_257"] = "",
+            ["DictKey_WptName_300"] = "",
+            ["DictKey_UnitName_149"] = "Unit #016",
+            ["DictKey_UnitName_121"] = "Unit #016",
+            ["DictKey_UnitName_176"] = "Unit #004",
+            ["DictKey_UnitName_109"] = "Unit #006",
+            ["DictKey_UnitName_133"] = "Unit #009",
+            ["DictKey_UnitName_151"] = "Unit #014",
+            ["DictKey_GroupName_291"] = "BandarELengeh - Port Defences #001",
+            ["DictKey_GroupName_116"] = "TUNB Greater - Navy Strike #002",
+            ["DictKey_UnitName_117"] = "Primary Destroyed Minelayer",
+            ["DictKey_UnitName_59"] = "Unit #037",
+            ["DictKey_UnitName_154"] = "Unit #008",
+            ["DictKey_UnitName_292"] = "Unit #008",
+            ["DictKey_UnitName_220"] = "Unit #028",
+            ["DictKey_UnitName_357"] = "Unit #248",
+            ["DictKey_WptName_215"] = "",
+            ["DictKey_UnitName_287"] = "Unit #016",
+            ["DictKey_GroupName_181"] = "Bandar Lengeh - Navy Strike #001",
+            ["DictKey_WptName_61"] = "",
+            ["DictKey_UnitName_79"] = "Unit #006",
+            ["DictKey_UnitName_185"] = "Unit #011",
+            ["DictKey_GroupName_147"] = "Bandar Lengeh - Navy Strike #004",
+            ["DictKey_GroupName_250"] = "TUNB Greater - Navy Strike #008",
+            ["DictKey_GroupName_43"] = "Primary Destroyed Speedboats",
+            ["DictKey_WptName_388"] = "",
+            ["DictKey_GroupName_281"] = "TUNB Greater - Navy Strike #002",
+            ["DictKey_UnitName_239"] = "Unit #046",
+            ["DictKey_UnitName_278"] = "Unit #007",
+            ["DictKey_GroupName_333"] = "BandarELengeh - Port Defences #001",
+            ["DictKey_UnitName_293"] = "Unit #007",
+            ["DictKey_WptName_327"] = "",
+            ["DictKey_UnitName_60"] = "Unit #036",
+            ["DictKey_WptName_64"] = "",
+            ["DictKey_GroupName_65"] = "TUNB Greater - Navy Strike #008",
+            ["DictKey_UnitName_359"] = "Unit #246",
+            ["DictKey_UnitName_237"] = "Unit #048",
+            ["DictKey_UnitName_28"] = "Unit #025",
+            ["DictKey_UnitName_40"] = "Unit #033",
+            ["DictKey_UnitName_44"] = "Unit #043",
+            ["DictKey_UnitName_165"] = "Primary Destroyed Tanker",
+            ["DictKey_UnitName_254"] = "Unit #003",
+            ["DictKey_UnitName_164"] = "Secondary Destroyed Escort",
+            ["DictKey_UnitName_376"] = "Unit #004",
+            ["DictKey_UnitName_274"] = "Unit #011",
+            ["DictKey_UnitName_242"] = "Unit #039",
+            ["DictKey_UnitName_126"] = "Unit #021",
+            ["DictKey_UnitName_256"] = "Secondary Destroyed Escort",
+            ["DictKey_WptName_360"] = "",
+            ["DictKey_WptName_115"] = "",
+            ["DictKey_UnitName_279"] = "Unit #006",
+            ["DictKey_UnitName_269"] = "Unit #003",
+            ["DictKey_UnitName_141"] = "Unit #001",
+            ["DictKey_UnitName_52"] = "Unit #048",
+            ["DictKey_GroupName_106"] = "BandarELengeh - Port Defences #001",
+            ["DictKey_UnitName_302"] = "Primary Destroyed Minelayer",
+            ["DictKey_UnitName_198"] = "Unit #009",
+            ["DictKey_UnitName_295"] = "Unit #005",
+            ["DictKey_UnitName_264"] = "Unit #006",
+            ["DictKey_GroupName_266"] = "TUNB Greater - Navy Strike #008",
+            ["DictKey_WptName_303"] = "",
+            ["DictKey_UnitName_268"] = "Unit #004",
+            ["DictKey_UnitName_45"] = "Unit #042",
+            ["DictKey_UnitName_390"] = "Unit #015",
+            ["DictKey_WptName_124"] = "",
+            ["DictKey_UnitName_260"] = "Unit #010",
+            ["DictKey_UnitName_9"] = "Unit #003",
+            ["DictKey_UnitName_29"] = "Unit #024",
+            ["DictKey_UnitName_275"] = "Unit #010",
+            ["DictKey_UnitName_347"] = "Unit #019",
+            ["DictKey_WptName_422"] = "",
+            ["DictKey_UnitName_243"] = "Unit #038",
+            ["DictKey_WptName_36"] = "",
+            ["DictKey_UnitName_277"] = "Unit #008",
+            ["DictKey_UnitName_83"] = "Unit #004",
+            ["DictKey_UnitName_338"] = "Unit #007",
+            ["DictKey_WptName_284"] = "",
+            ["DictKey_UnitName_23"] = "Unit #001",
+            ["DictKey_UnitName_282"] = "Primary Destroyed Tanker",
+            ["DictKey_UnitName_255"] = "Unit #002",
+            ["DictKey_WptName_290"] = "",
+            ["DictKey_UnitName_296"] = "Unit #004",
+            ["DictKey_WptName_95"] = "",
+            ["DictKey_UnitName_195"] = "Unit #012",
+            ["DictKey_UnitName_71"] = "Secondary Destroyed Escort",
+            ["DictKey_GroupName_163"] = "Khasab - Navy Strike #002",
+            ["DictKey_UnitName_84"] = "Unit #003",
+            ["DictKey_WptName_345"] = "",
+            ["DictKey_UnitName_166"] = "Primary Destroyed Cargo",
+            ["DictKey_GroupName_304"] = "Bandar Lengeh - Navy Strike #004",
+            ["DictKey_UnitName_205"] = "Unit #002",
+            ["DictKey_UnitName_271"] = "Primary Destroyed Minelayer",
+            ["DictKey_UnitName_161"] = "Unit #001",
+            ["DictKey_WptName_309"] = "",
+            ["DictKey_GroupName_310"] = "BandarELengeh - Port Defences #001",
+            ["DictKey_UnitName_33"] = "Unit #030",
+            ["DictKey_UnitName_189"] = "Secondary Destroyed Speedboat 4",
+            ["DictKey_UnitName_318"] = "Unit #009",
+            ["DictKey_UnitName_320"] = "Unit #007",
+            ["DictKey_UnitName_323"] = "Unit #004",
+            ["DictKey_UnitName_381"] = "TUNB KOCHAK - Port Warehouse #001",
+            ["DictKey_WptName_186"] = "",
+            ["DictKey_UnitName_339"] = "Unit #006",
+            ["DictKey_UnitName_325"] = "Unit #002",
+            ["DictKey_UnitName_326"] = "Unit #001",
+            ["DictKey_UnitName_112"] = "Unit #003",
+            ["DictKey_UnitName_391"] = "Unit #014",
+            ["DictKey_UnitName_251"] = "Primary Destroyed Tanker",
+            ["DictKey_WptName_72"] = "",
+            ["DictKey_UnitName_276"] = "Unit #009",
+            ["DictKey_WptName_249"] = "",
+            ["DictKey_UnitName_378"] = "Unit #002",
+            ["DictKey_GroupName_207"] = "Primary Destroyed Shipping Warehouse",
+            ["DictKey_UnitName_200"] = "Unit #007",
+            ["DictKey_UnitName_82"] = "Unit #005",
+            ["DictKey_UnitName_375"] = "Unit #005",
+            ["DictKey_UnitName_157"] = "Unit #005",
+            ["DictKey_UnitName_196"] = "Unit #011",
+            ["DictKey_UnitName_399"] = "Unit #016",
+            ["DictKey_UnitName_386"] = "Unit #247",
+            ["DictKey_WptName_351"] = "",
+            ["DictKey_UnitName_412"] = "Unit #008",
+            ["DictKey_UnitName_248"] = "Secondary Destroyed Speedboats",
+            ["DictKey_UnitName_53"] = "Unit #047",
+            ["DictKey_WptName_42"] = "",
+            ["DictKey_GroupName_285"] = "Bandar Lengeh - Navy Strike #004",
+            ["DictKey_WptName_419"] = "",
+            ["DictKey_UnitName_18"] = "Unit #001",
+            ["DictKey_UnitName_370"] = "Unit #010",
+            ["DictKey_UnitName_46"] = "Unit #041",
+            ["DictKey_UnitName_41"] = "Unit #032",
+            ["DictKey_WptName_366"] = "",
+            ["DictKey_UnitName_330"] = "Primary Destroyed Tanker",
+            ["DictKey_UnitName_114"] = "Unit #001",
+            ["DictKey_UnitName_368"] = "Unit #012",
+            ["DictKey_UnitName_344"] = "Unit #001",
+            ["DictKey_UnitName_334"] = "Unit #016",
+            ["DictKey_WptName_394"] = "",
+            ["DictKey_GroupName_355"] = "Secondary Destroyed Speedboats #001",
+            ["DictKey_GroupName_389"] = "Primary Destroyed Speedboats #003",
+            ["DictKey_GroupName_168"] = "BandarELengeh - Port Defences #001",
+            ["DictKey_UnitName_17"] = "Unit #002",
+            ["DictKey_UnitName_373"] = "Unit #007",
+            ["DictKey_UnitName_372"] = "Unit #008",
+            ["DictKey_WptName_382"] = "",
+            ["DictKey_UnitName_231"] = "Unit #041",
+            ["DictKey_UnitName_261"] = "Unit #009",
+            ["DictKey_GroupName_62"] = "Secondary Destroyed Speedboats",
+            ["DictKey_UnitName_97"] = "Primary Destroyed Tanker",
+            ["DictKey_GroupName_258"] = "TUNB KOCHAK - Port Defences #002",
+            ["DictKey_UnitName_253"] = "Unit #004",
+            ["DictKey_UnitName_307"] = "Unit #015",
+            ["DictKey_UnitName_403"] = "Unit #022",
+            ["DictKey_UnitName_229"] = "Unit #043",
+            ["DictKey_WptName_209"] = "",
+            ["DictKey_UnitName_252"] = "Unit #005",
+            ["DictKey_UnitName_363"] = "Unit #022",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "%LOCATIONMETHOD% Iranian speedboats within the harbour at Greater Tunb, %LOCATION%.\
+\
+Primary Objectives: Destroy the speedboats within the harbour.\
+\
+Secondary Objectives: Destroy the warehouse nearby.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion.",
+} -- end of staticTemplate

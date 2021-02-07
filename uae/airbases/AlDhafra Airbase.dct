@@ -1,0 +1,24 @@
+objtype = "airbase"
+name = "Al Dhafra AFB"
+coalition = 2
+subordinates = {
+	"AlDhafraAirbaseDefenses",
+	"71FS",
+	"EdC1/12",
+	"75SQN",
+	"409TFS",
+	"VMFA251",
+	"VF154",
+	"VF74",
+	"114TAB",
+	"14SQN",
+	"493FS",
+	"77FS",
+	"191FILO",
+	"101SQN",
+	"831TAB",
+}
+desc = "Al Dhafra Airbase"
+recoverytype = "land"
+takeofftype = "runway"
+cost = 20

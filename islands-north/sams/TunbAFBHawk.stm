@@ -1,0 +1,942 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 25,
+                    ["name"] = "Bulgaria",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 73,
+                    ["name"] = "Oman",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 39,
+                    ["name"] = "Pakistan",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 72,
+                    ["name"] = "Qatar",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [22]
+                [23] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [23]
+                [24] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [24]
+                [25] = 
+                {
+                    ["id"] = 74,
+                    ["name"] = "United Arab Emirates",
+                }, -- end of [25]
+                [26] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [26]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 34,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 2,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -92374.302970824,
+                                            ["x"] = 9784.3279962509,
+                                            ["name"] = "DictKey_WptName_232",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                        [1] = 
+                                                        {
+                                                            ["number"] = 1,
+                                                            ["auto"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["enabled"] = true,
+                                                            ["params"] = 
+                                                            {
+                                                                ["action"] = 
+                                                                {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] = 
+                                                                    {
+                                                                        ["value"] = true,
+                                                                        ["groupId"] = 3,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 50229474,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "Hawk cwar",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 162748236,
+                                        ["skill"] = "Average",
+                                        ["y"] = -92374.302970824,
+                                        ["x"] = 9784.3279962509,
+                                        ["name"] = "DictKey_UnitName_231",
+                                        ["heading"] = 4.0666171571468,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "Hawk ln",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 162748237,
+                                        ["skill"] = "Average",
+                                        ["y"] = -92089.073144393,
+                                        ["x"] = 9840.2051894746,
+                                        ["name"] = "DictKey_UnitName_230",
+                                        ["heading"] = 4.0666171571468,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "Hawk ln",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 162748238,
+                                        ["skill"] = "Average",
+                                        ["y"] = -92142.244779227,
+                                        ["x"] = 9713.1840618152,
+                                        ["name"] = "DictKey_UnitName_229",
+                                        ["heading"] = 4.0666171571468,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "Hawk ln",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 162748239,
+                                        ["skill"] = "Average",
+                                        ["y"] = -92292.897744591,
+                                        ["x"] = 9567.4543959734,
+                                        ["name"] = "DictKey_UnitName_228",
+                                        ["heading"] = 4.0666171571468,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["type"] = "Hawk pcp",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 162748240,
+                                        ["skill"] = "Average",
+                                        ["y"] = -92290.928424782,
+                                        ["x"] = 9918.9779818216,
+                                        ["name"] = "DictKey_UnitName_227",
+                                        ["heading"] = 4.0666171571468,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["type"] = "Hawk sr",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 162748241,
+                                        ["skill"] = "Average",
+                                        ["y"] = -92304.713663443,
+                                        ["x"] = 9807.7114126315,
+                                        ["name"] = "DictKey_UnitName_226",
+                                        ["heading"] = 4.0666171571468,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["type"] = "Hawk tr",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 162748242,
+                                        ["skill"] = "Average",
+                                        ["y"] = -92390.37907512,
+                                        ["x"] = 9699.3988231545,
+                                        ["name"] = "DictKey_UnitName_225",
+                                        ["heading"] = 4.0666171571468,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [7]
+                                    [8] = 
+                                    {
+                                        ["type"] = "Hawk ln",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 162748243,
+                                        ["skill"] = "Average",
+                                        ["y"] = -92479.983126415,
+                                        ["x"] = 9531.021979513,
+                                        ["name"] = "DictKey_UnitName_224",
+                                        ["heading"] = 1.553343034275,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [8]
+                                }, -- end of ["units"]
+                                ["y"] = -92374.302970824,
+                                ["x"] = 9784.3279962509,
+                                ["name"] = "DictKey_GroupName_223",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 13,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -92700.797861043,
+                                            ["x"] = 10203.716345242,
+                                            ["name"] = "DictKey_WptName_241",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 50229485,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "Tor 9A331",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 162748376,
+                                        ["skill"] = "Average",
+                                        ["y"] = -92700.797861043,
+                                        ["x"] = 10203.716345242,
+                                        ["name"] = "DictKey_UnitName_240",
+                                        ["heading"] = 1.3613568165556,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 162748377,
+                                        ["skill"] = "Average",
+                                        ["y"] = -92756.262703454,
+                                        ["x"] = 9501.4717682831,
+                                        ["name"] = "DictKey_UnitName_239",
+                                        ["heading"] = 1.3613568165556,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 162748378,
+                                        ["skill"] = "Average",
+                                        ["y"] = -92384.545987176,
+                                        ["x"] = 9372.4201183138,
+                                        ["name"] = "DictKey_UnitName_238",
+                                        ["heading"] = 1.3613568165556,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 162748379,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91896.162054131,
+                                        ["x"] = 9434.5475727955,
+                                        ["name"] = "DictKey_UnitName_237",
+                                        ["heading"] = 1.3613568165556,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 162748380,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91970.660191633,
+                                        ["x"] = 9536.9542625022,
+                                        ["name"] = "DictKey_UnitName_236",
+                                        ["heading"] = 1.3613568165556,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 162748381,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91848.777965158,
+                                        ["x"] = 9950.5838134418,
+                                        ["name"] = "DictKey_UnitName_235",
+                                        ["heading"] = 1.3613568165556,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 162748382,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91954.920034444,
+                                        ["x"] = 10373.982895435,
+                                        ["name"] = "DictKey_UnitName_234",
+                                        ["heading"] = 1.3613568165556,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [7]
+                                }, -- end of ["units"]
+                                ["y"] = -92700.797861043,
+                                ["x"] = 10203.716345242,
+                                ["name"] = "DictKey_GroupName_233",
+                                ["start_time"] = 0,
+                            }, -- end of [2]
+                            [3] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 28,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -92337.065835479,
+                                            ["x"] = 9456.3491882593,
+                                            ["name"] = "DictKey_WptName_247",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 50229486,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "Ural-375",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 162748383,
+                                        ["skill"] = "Average",
+                                        ["y"] = -92337.065835479,
+                                        ["x"] = 9456.3491882593,
+                                        ["name"] = "DictKey_UnitName_243",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "Ural-375",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 162748384,
+                                        ["skill"] = "Average",
+                                        ["y"] = -92219.834152157,
+                                        ["x"] = 9778.9899299362,
+                                        ["name"] = "DictKey_UnitName_244",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "KrAZ6322",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 162748385,
+                                        ["skill"] = "Average",
+                                        ["y"] = -91923.122294417,
+                                        ["x"] = 9499.0438391135,
+                                        ["name"] = "DictKey_UnitName_245",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "KrAZ6322",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 162748386,
+                                        ["skill"] = "Average",
+                                        ["y"] = -92795.035974207,
+                                        ["x"] = 10212.823513184,
+                                        ["name"] = "DictKey_UnitName_246",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [4]
+                                }, -- end of ["units"]
+                                ["y"] = -92337.065835479,
+                                ["x"] = 9456.3491882593,
+                                ["name"] = "DictKey_GroupName_242",
+                                ["start_time"] = 0,
+                            }, -- end of [3]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "Iran",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 35,
+                    ["name"] = "Iraq",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 0,
+                    ["name"] = "Russia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [12]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "TunbAFBHawk",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_UnitName_89"] = "Unit #017",
+            ["DictKey_UnitName_212"] = "Unit #024",
+            ["DictKey_UnitName_85"] = "Unit #021",
+            ["DictKey_UnitName_156"] = "Unit #028",
+            ["DictKey_GroupName_67"] = "HAWK Tunb AFB",
+            ["DictKey_UnitName_26"] = "Unit #004",
+            ["DictKey_UnitName_62"] = "Unit #008",
+            ["DictKey_GroupName_77"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_73"] = "Secondary Destroyed Hawk #002",
+            ["DictKey_UnitName_8"] = "Unit #013",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_UnitName_58"] = "Unit #002",
+            ["DictKey_UnitName_39"] = "Primary Destroyed SA-2 #001",
+            ["DictKey_GroupName_136"] = "S-300 Bandar Abbas",
+            ["DictKey_GroupName_50"] = "HAWK Abu Musa #001",
+            ["DictKey_UnitName_63"] = "Unit #009",
+            ["DictKey_WptName_112"] = "",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_GroupName_20"] = "HAWK Abu Musa #001",
+            ["DictKey_UnitName_145"] = "Primary Destroyed SA10",
+            ["DictKey_WptName_247"] = "",
+            ["DictKey_GroupName_113"] = "HAWK Tunb AFB Adds",
+            ["DictKey_WptName_241"] = "",
+            ["DictKey_UnitName_218"] = "Unit #008",
+            ["DictKey_GroupName_31"] = "SAM Rearm Assets",
+            ["DictKey_GroupName_97"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_99"] = "Unit #009",
+            ["DictKey_UnitName_10"] = "Secondary Destroyed SA-2 #007",
+            ["DictKey_WptName_30"] = "",
+            ["DictKey_UnitName_65"] = "Unit #014",
+            ["DictKey_UnitName_108"] = "Secondary Destroyed Hawk #001",
+            ["DictKey_UnitName_90"] = "Unit #016",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_GroupName_37"] = "Abu-Musa SA-2",
+            ["DictKey_UnitName_207"] = "Unit #004",
+            ["DictKey_UnitName_13"] = "Secondary Destroyed SA-2 #003",
+            ["DictKey_UnitName_238"] = "Unit #003",
+            ["DictKey_UnitName_123"] = "Secondary Destroyed SA-3 #007",
+            ["DictKey_UnitName_47"] = "Secondary Destroyed SA-2",
+            ["DictKey_UnitName_36"] = "Unit #014",
+            ["DictKey_UnitName_17"] = "Secondary Destroyed SA-2",
+            ["DictKey_UnitName_131"] = "Secondary Destroyed SA-3 #005",
+            ["DictKey_UnitName_157"] = "Unit #027",
+            ["DictKey_UnitName_43"] = "Secondary Destroyed SA-2 #003",
+            ["DictKey_UnitName_190"] = "Unit #009",
+            ["DictKey_GroupName_242"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_69"] = "Primary Destroyed Hawk #004",
+            ["DictKey_UnitName_132"] = "Unit #001",
+            ["DictKey_UnitName_74"] = "Secondary Destroyed Hawk #003",
+            ["DictKey_UnitName_220"] = "Unit #010",
+            ["DictKey_UnitName_91"] = "Secondary Destroyed SA-3 #010",
+            ["DictKey_UnitName_155"] = "Unit #029",
+            ["DictKey_UnitName_130"] = "Secondary Destroyed SA-3 #006",
+            ["DictKey_UnitName_224"] = "Secondary Destroyed Hawk",
+            ["DictKey_UnitName_14"] = "Secondary Destroyed SA-2 #004",
+            ["DictKey_UnitName_125"] = "Unit #013",
+            ["DictKey_UnitName_182"] = "Unit #025",
+            ["DictKey_WptName_187"] = "",
+            ["DictKey_UnitName_104"] = "Secondary Destroyed Hawk",
+            ["DictKey_UnitName_109"] = "Secondary Destroyed Hawk #002",
+            ["DictKey_UnitName_87"] = "Unit #019",
+            ["DictKey_UnitName_46"] = "Secondary Destroyed SA-2 #002",
+            ["DictKey_UnitName_171"] = "Primary Destroyed SA10 #002",
+            ["DictKey_WptName_66"] = "",
+            ["DictKey_UnitName_172"] = "Primary Destroyed SA10 #001",
+            ["DictKey_UnitName_115"] = "Unit #006",
+            ["DictKey_UnitName_92"] = "Secondary Destroyed SA-3 #009",
+            ["DictKey_UnitName_48"] = "Primary Destroyed SA-2",
+            ["DictKey_WptName_76"] = "",
+            ["DictKey_UnitName_79"] = "Unit #009",
+            ["DictKey_UnitName_41"] = "Secondary Destroyed SA-2 #006",
+            ["DictKey_UnitName_38"] = "Unit #013",
+            ["DictKey_UnitName_183"] = "Unit #024",
+            ["DictKey_UnitName_57"] = "Unit #003",
+            ["DictKey_UnitName_197"] = "Secondary Destroyed SA10 #005",
+            ["DictKey_UnitName_111"] = "Primary Destroyed Hawk",
+            ["DictKey_UnitName_35"] = "Unit #010",
+            ["DictKey_UnitName_230"] = "Secondary Destroyed Hawk #003",
+            ["DictKey_UnitName_236"] = "Unit #005",
+            ["DictKey_UnitName_211"] = "Unit #025",
+            ["DictKey_UnitName_137"] = "Primary Destroyed SA10 #002",
+            ["DictKey_WptName_96"] = "",
+            ["DictKey_GroupName_103"] = "HAWK Tunb AFB",
+            ["DictKey_UnitName_18"] = "Primary Destroyed SA-2",
+            ["DictKey_UnitName_227"] = "Primary Destroyed Hawk #002",
+            ["DictKey_UnitName_245"] = "Unit #010",
+            ["DictKey_UnitName_78"] = "Unit #008",
+            ["DictKey_UnitName_240"] = "Unit #001",
+            ["DictKey_UnitName_27"] = "Unit #003",
+            ["DictKey_UnitName_231"] = "Primary Destroyed Hawk",
+            ["DictKey_UnitName_52"] = "Unit #011",
+            ["DictKey_UnitName_23"] = "Unit #007",
+            ["DictKey_UnitName_189"] = "Unit #008",
+            ["DictKey_UnitName_176"] = "Secondary Destroyed SA10 #002",
+            ["DictKey_UnitName_175"] = "Secondary Destroyed SA10 #003",
+            ["DictKey_UnitName_133"] = "Secondary Destroyed SA-3 #004",
+            ["DictKey_UnitName_151"] = "Unit #033",
+            ["DictKey_UnitName_15"] = "Secondary Destroyed SA-2 #005",
+            ["DictKey_UnitName_93"] = "Unit #015",
+            ["DictKey_UnitName_117"] = "Unit #004",
+            ["DictKey_UnitName_53"] = "Unit #007",
+            ["DictKey_UnitName_40"] = "Secondary Destroyed SA-2 #007",
+            ["DictKey_UnitName_81"] = "Unit #014",
+            ["DictKey_UnitName_95"] = "Primary Destroyed SA-3 #002",
+            ["DictKey_GroupName_223"] = "HAWK Tunb AFB",
+            ["DictKey_GroupName_181"] = "SA-15 Bandar Abbas",
+            ["DictKey_UnitName_185"] = "Unit #022",
+            ["DictKey_UnitName_114"] = "Unit #007",
+            ["DictKey_UnitName_184"] = "Unit #023",
+            ["DictKey_WptName_163"] = "",
+            ["DictKey_UnitName_11"] = "Secondary Destroyed SA-2 #006",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_WptName_33"] = "",
+            ["DictKey_UnitName_179"] = "Primary Destroyed SA10",
+            ["DictKey_UnitName_84"] = "Secondary Destroyed SA-3 #011",
+            ["DictKey_GroupName_194"] = "S-300 Bandar Abbas",
+            ["DictKey_UnitName_239"] = "Unit #002",
+            ["DictKey_WptName_121"] = "",
+            ["DictKey_UnitName_22"] = "Unit #011",
+            ["DictKey_GroupName_83"] = "Bandar Abbas SA-3",
+            ["DictKey_WptName_60"] = "",
+            ["DictKey_UnitName_177"] = "Secondary Destroyed SA10 #001",
+            ["DictKey_UnitName_208"] = "Unit #003",
+            ["DictKey_WptName_135"] = "",
+            ["DictKey_UnitName_139"] = "Secondary Destroyed SA10 #005",
+            ["DictKey_UnitName_237"] = "Unit #004",
+            ["DictKey_UnitName_94"] = "Secondary Destroyed SA-3 #008",
+            ["DictKey_UnitName_12"] = "Secondary Destroyed SA-2 #001",
+            ["DictKey_UnitName_203"] = "Primary Destroyed SA10",
+            ["DictKey_UnitName_116"] = "Unit #005",
+            ["DictKey_UnitName_173"] = "Secondary Destroyed SA10 #005",
+            ["DictKey_UnitName_21"] = "Unit #012",
+            ["DictKey_UnitName_56"] = "Unit #004",
+            ["DictKey_UnitName_72"] = "Secondary Destroyed Hawk #001",
+            ["DictKey_UnitName_80"] = "Unit #010",
+            ["DictKey_UnitName_59"] = "Unit #001",
+            ["DictKey_UnitName_32"] = "Unit #008",
+            ["DictKey_UnitName_29"] = "Unit #001",
+            ["DictKey_WptName_19"] = "",
+            ["DictKey_UnitName_198"] = "Secondary Destroyed SA10 #004",
+            ["DictKey_UnitName_167"] = "Unit #010",
+            ["DictKey_UnitName_128"] = "Unit #003",
+            ["DictKey_UnitName_213"] = "Unit #023",
+            ["DictKey_UnitName_68"] = "Secondary Destroyed Hawk",
+            ["DictKey_UnitName_162"] = "Unit #026",
+            ["DictKey_UnitName_106"] = "Primary Destroyed Hawk #003",
+            ["DictKey_UnitName_210"] = "Unit #001",
+            ["DictKey_UnitName_168"] = "Unit #014",
+            ["DictKey_UnitName_134"] = "Primary Destroyed SA-3 #001",
+            ["DictKey_UnitName_214"] = "Unit #022",
+            ["DictKey_UnitName_138"] = "Primary Destroyed SA10 #001",
+            ["DictKey_UnitName_45"] = "Secondary Destroyed SA-2 #005",
+            ["DictKey_UnitName_148"] = "Unit #036",
+            ["DictKey_UnitName_34"] = "Unit #009",
+            ["DictKey_UnitName_154"] = "Unit #030",
+            ["DictKey_UnitName_9"] = "Primary Destroyed SA-2 #001",
+            ["DictKey_UnitName_42"] = "Secondary Destroyed SA-2 #001",
+            ["DictKey_UnitName_140"] = "Secondary Destroyed SA10 #004",
+            ["DictKey_UnitName_44"] = "Secondary Destroyed SA-2 #004",
+            ["DictKey_UnitName_246"] = "Unit #014",
+            ["DictKey_UnitName_243"] = "Unit #008",
+            ["DictKey_UnitName_221"] = "Unit #014",
+            ["DictKey_WptName_180"] = "",
+            ["DictKey_UnitName_141"] = "Secondary Destroyed SA10 #003",
+            ["DictKey_UnitName_150"] = "Unit #034",
+            ["DictKey_UnitName_75"] = "Primary Destroyed Hawk",
+            ["DictKey_GroupName_188"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_143"] = "Secondary Destroyed SA10 #001",
+            ["DictKey_UnitName_101"] = "Unit #014",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_UnitName_55"] = "Unit #005",
+            ["DictKey_WptName_232"] = "",
+            ["DictKey_UnitName_195"] = "Primary Destroyed SA10 #002",
+            ["DictKey_UnitName_71"] = "Primary Destroyed Hawk #002",
+            ["DictKey_UnitName_64"] = "Unit #010",
+            ["DictKey_UnitName_100"] = "Unit #010",
+            ["DictKey_UnitName_165"] = "Unit #008",
+            ["DictKey_UnitName_166"] = "Unit #009",
+            ["DictKey_UnitName_234"] = "Unit #007",
+            ["DictKey_UnitName_28"] = "Unit #002",
+            ["DictKey_GroupName_147"] = "SA-15 Bandar Abbas",
+            ["DictKey_UnitName_244"] = "Unit #009",
+            ["DictKey_UnitName_124"] = "Unit #014",
+            ["DictKey_WptName_82"] = "",
+            ["DictKey_UnitName_202"] = "Secondary Destroyed SA10",
+            ["DictKey_UnitName_178"] = "Secondary Destroyed SA10",
+            ["DictKey_UnitName_88"] = "Unit #018",
+            ["DictKey_UnitName_160"] = "Unit #023",
+            ["DictKey_UnitName_158"] = "Unit #025",
+            ["DictKey_UnitName_215"] = "Unit #026",
+            ["DictKey_UnitName_54"] = "Unit #006",
+            ["DictKey_GroupName_7"] = "Abu-Musa SA-2",
+            ["DictKey_UnitName_225"] = "Primary Destroyed Hawk #004",
+            ["DictKey_WptName_146"] = "",
+            ["DictKey_UnitName_110"] = "Secondary Destroyed Hawk #003",
+            ["DictKey_UnitName_149"] = "Unit #035",
+            ["DictKey_UnitName_126"] = "Unit #006",
+            ["DictKey_UnitName_161"] = "Unit #022",
+            ["DictKey_WptName_193"] = "",
+            ["DictKey_UnitName_219"] = "Unit #009",
+            ["DictKey_WptName_169"] = "",
+            ["DictKey_GroupName_170"] = "S-300 Bandar Abbas",
+            ["DictKey_UnitName_200"] = "Secondary Destroyed SA10 #002",
+            ["DictKey_GroupName_122"] = "Havadarya SA-3",
+            ["DictKey_UnitName_86"] = "Unit #020",
+            ["DictKey_UnitName_152"] = "Unit #032",
+            ["DictKey_GroupName_61"] = "SAM Rearm Assets",
+            ["DictKey_WptName_222"] = "",
+            ["DictKey_UnitName_228"] = "Secondary Destroyed Hawk #001",
+            ["DictKey_UnitName_119"] = "Unit #002",
+            ["DictKey_UnitName_16"] = "Secondary Destroyed SA-2 #002",
+            ["DictKey_UnitName_186"] = "Unit #026",
+            ["DictKey_UnitName_142"] = "Secondary Destroyed SA10 #002",
+            ["DictKey_WptName_49"] = "",
+            ["DictKey_UnitName_24"] = "Unit #006",
+            ["DictKey_UnitName_191"] = "Unit #010",
+            ["DictKey_UnitName_209"] = "Unit #002",
+            ["DictKey_UnitName_192"] = "Unit #014",
+            ["DictKey_UnitName_70"] = "Primary Destroyed Hawk #003",
+            ["DictKey_UnitName_107"] = "Primary Destroyed Hawk #002",
+            ["DictKey_UnitName_98"] = "Unit #008",
+            ["DictKey_UnitName_226"] = "Primary Destroyed Hawk #003",
+            ["DictKey_UnitName_199"] = "Secondary Destroyed SA10 #003",
+            ["DictKey_UnitName_201"] = "Secondary Destroyed SA10 #001",
+            ["DictKey_UnitName_153"] = "Unit #031",
+            ["DictKey_UnitName_120"] = "Unit #001",
+            ["DictKey_UnitName_25"] = "Unit #005",
+            ["DictKey_UnitName_174"] = "Secondary Destroyed SA10 #004",
+            ["DictKey_UnitName_144"] = "Secondary Destroyed SA10",
+            ["DictKey_WptName_204"] = "",
+            ["DictKey_UnitName_196"] = "Primary Destroyed SA10 #001",
+            ["DictKey_GroupName_205"] = "SA-15 Bandar Abbas",
+            ["DictKey_UnitName_206"] = "Unit #005",
+            ["DictKey_UnitName_129"] = "Unit #002",
+            ["DictKey_GroupName_233"] = "HAWK Tunb AFB Adds",
+            ["DictKey_UnitName_127"] = "Unit #005",
+            ["DictKey_UnitName_235"] = "Unit #006",
+            ["DictKey_WptName_102"] = "",
+            ["DictKey_GroupName_164"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_159"] = "Unit #024",
+            ["DictKey_UnitName_51"] = "Unit #012",
+            ["DictKey_WptName_216"] = "",
+            ["DictKey_UnitName_229"] = "Secondary Destroyed Hawk #002",
+            ["DictKey_UnitName_105"] = "Primary Destroyed Hawk #004",
+            ["DictKey_GroupName_217"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_118"] = "Unit #003",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "%LOCATIONMETHOD% an active HAWK SAM site at %LOCATION%, at Tunb Island AFB.\
+\
+Primary Objectives: Destroy the AN/MPQ-46 Fire Control RADAR and command post.\
+\
+Secondary Objectives: Destroy any other related equipment, including launchers.\
+\
+Recommended Pilots: 2-4\
+\
+Recommended Ordnance: Anti-radiation missiles (AGM-88C etc.), long range standoff weaponry (JSOW etc.).",
+} -- end of staticTemplate

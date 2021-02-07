@@ -1,0 +1,442 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [21]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 34,
+                    ["name"] = "Iran",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 0,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["hiddenOnPlanner"] = true,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 2,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -19546.343071581,
+                                            ["x"] = 102286.32767911,
+                                            ["name"] = "DictKey_WptName_166",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 44,
+                                ["hidden"] = true,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "Osa 9A33 ln",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 74,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = -19546.343071581,
+                                        ["x"] = 102286.32767911,
+                                        ["name"] = "DictKey_UnitName_165",
+                                        ["heading"] = 5.7944931166212,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -19546.343071581,
+                                ["x"] = 102286.32767911,
+                                ["name"] = "DictKey_GroupName_164",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "Russia",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [11]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "Abbas SHORAD H",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_UnitName_72"] = "Unit #034",
+            ["DictKey_UnitName_52"] = "Unit #024",
+            ["DictKey_UnitName_67"] = "Unit #031",
+            ["DictKey_UnitName_156"] = "Abbas_SA8_G",
+            ["DictKey_WptName_138"] = "",
+            ["DictKey_UnitName_150"] = "Abbas_SA8_F",
+            ["DictKey_WptName_41"] = "",
+            ["DictKey_WptName_21"] = "",
+            ["DictKey_UnitName_39"] = "Unit #017",
+            ["DictKey_UnitName_7"] = "Unit #001",
+            ["DictKey_WptName_126"] = "",
+            ["DictKey_GroupName_102"] = "New Vehicle Group #005",
+            ["DictKey_WptName_145"] = "",
+            ["DictKey_UnitName_12"] = "Unit #004",
+            ["DictKey_WptName_69"] = "",
+            ["DictKey_WptName_123"] = "",
+            ["DictKey_UnitName_20"] = "Unit #008",
+            ["DictKey_WptName_13"] = "",
+            ["DictKey_UnitName_87"] = "Unit #041",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_UnitName_76"] = "Unit #036",
+            ["DictKey_GroupName_6"] = "New Vehicle Group",
+            ["DictKey_GroupName_94"] = "New Vehicle Group #022",
+            ["DictKey_UnitName_131"] = "Unit #004",
+            ["DictKey_WptName_77"] = "",
+            ["DictKey_WptName_166"] = "",
+            ["DictKey_WptName_101"] = "",
+            ["DictKey_UnitName_122"] = "Unit #006",
+            ["DictKey_WptName_25"] = "",
+            ["DictKey_WptName_105"] = "",
+            ["DictKey_UnitName_43"] = "Unit #019",
+            ["DictKey_UnitName_125"] = "Unit #001",
+            ["DictKey_WptName_157"] = "",
+            ["DictKey_UnitName_104"] = "Unit #011",
+            ["DictKey_WptName_85"] = "",
+            ["DictKey_GroupName_22"] = "New Vehicle Group #004",
+            ["DictKey_UnitName_171"] = "Abbas_SA8_J",
+            ["DictKey_GroupName_146"] = "New Vehicle Group #001",
+            ["DictKey_WptName_172"] = "",
+            ["DictKey_WptName_8"] = "",
+            ["DictKey_UnitName_48"] = "Unit #022",
+            ["DictKey_WptName_151"] = "",
+            ["DictKey_GroupName_127"] = "New Vehicle Group #003",
+            ["DictKey_WptName_120"] = "",
+            ["DictKey_GroupName_50"] = "New Vehicle Group #011",
+            ["DictKey_UnitName_31"] = "Unit #013",
+            ["DictKey_UnitName_35"] = "Unit #015",
+            ["DictKey_WptName_17"] = "",
+            ["DictKey_UnitName_159"] = "Abbas_SA8_E",
+            ["DictKey_UnitName_137"] = "Abbas_SA8_A",
+            ["DictKey_UnitName_162"] = "Abbas_SA8_C",
+            ["DictKey_UnitName_153"] = "Abbas_SA8_D",
+            ["DictKey_GroupName_38"] = "New Vehicle Group #008",
+            ["DictKey_UnitName_27"] = "Unit #011",
+            ["DictKey_UnitName_23"] = "Unit #009",
+            ["DictKey_GroupName_18"] = "New Vehicle Group #003",
+            ["DictKey_WptName_148"] = "",
+            ["DictKey_GroupName_170"] = "New Vehicle Group #010",
+            ["DictKey_UnitName_15"] = "Unit #005",
+            ["DictKey_UnitName_140"] = "Unit #007",
+            ["DictKey_UnitName_40"] = "Unit #018",
+            ["DictKey_WptName_37"] = "",
+            ["DictKey_UnitName_95"] = "Unit #045",
+            ["DictKey_GroupName_109"] = "New Vehicle Group #001",
+            ["DictKey_GroupName_66"] = "New Vehicle Group #015",
+            ["DictKey_UnitName_11"] = "Unit #003",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_GroupName_112"] = "New Vehicle Group #002",
+            ["DictKey_UnitName_84"] = "Unit #040",
+            ["DictKey_WptName_132"] = "",
+            ["DictKey_WptName_154"] = "",
+            ["DictKey_UnitName_59"] = "Unit #027",
+            ["DictKey_GroupName_42"] = "New Vehicle Group #009",
+            ["DictKey_WptName_135"] = "",
+            ["DictKey_WptName_175"] = "",
+            ["DictKey_GroupName_142"] = "New Airplane Group",
+            ["DictKey_WptName_65"] = "",
+            ["DictKey_GroupName_152"] = "New Vehicle Group #003",
+            ["DictKey_UnitName_56"] = "Unit #026",
+            ["DictKey_UnitName_80"] = "Unit #038",
+            ["DictKey_UnitName_32"] = "Unit #014",
+            ["DictKey_GroupName_70"] = "New Vehicle Group #016",
+            ["DictKey_GroupName_46"] = "New Vehicle Group #010",
+            ["DictKey_UnitName_128"] = "Unit #003",
+            ["DictKey_GroupName_106"] = "New Vehicle Group #022",
+            ["DictKey_GroupName_173"] = "New Vehicle Group #011",
+            ["DictKey_GroupName_54"] = "New Vehicle Group #012",
+            ["DictKey_WptName_89"] = "",
+            ["DictKey_UnitName_9"] = "Unit #002",
+            ["DictKey_GroupName_62"] = "New Vehicle Group #014",
+            ["DictKey_UnitName_44"] = "Unit #020",
+            ["DictKey_UnitName_28"] = "Unit #012",
+            ["DictKey_UnitName_83"] = "Unit #039",
+            ["DictKey_UnitName_113"] = "Unit #003",
+            ["DictKey_UnitName_75"] = "Unit #035",
+            ["DictKey_UnitName_103"] = "Unit #012",
+            ["DictKey_GroupName_158"] = "New Vehicle Group #005",
+            ["DictKey_WptName_141"] = "",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_UnitName_88"] = "Unit #042",
+            ["DictKey_UnitName_79"] = "Unit #037",
+            ["DictKey_UnitName_134"] = "Unit #005",
+            ["DictKey_UnitName_71"] = "Unit #033",
+            ["DictKey_UnitName_64"] = "Unit #030",
+            ["DictKey_GroupName_82"] = "New Vehicle Group #019",
+            ["DictKey_UnitName_165"] = "Abbas_SA8_H",
+            ["DictKey_GroupName_78"] = "New Vehicle Group #018",
+            ["DictKey_UnitName_100"] = "Unit #048",
+            ["DictKey_UnitName_51"] = "Unit #023",
+            ["DictKey_GroupName_167"] = "New Vehicle Group #009",
+            ["DictKey_UnitName_96"] = "Unit #046",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_WptName_111"] = "",
+            ["DictKey_GroupName_124"] = "New Vehicle Group #002",
+            ["DictKey_GroupName_14"] = "New Vehicle Group #002",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_UnitName_60"] = "Unit #028",
+            ["DictKey_WptName_73"] = "",
+            ["DictKey_GroupName_74"] = "New Vehicle Group #017",
+            ["DictKey_GroupName_115"] = "New Vehicle Group #003",
+            ["DictKey_WptName_57"] = "",
+            ["DictKey_WptName_160"] = "",
+            ["DictKey_GroupName_133"] = "New Vehicle Group #005",
+            ["DictKey_UnitName_110"] = "Unit #002",
+            ["DictKey_WptName_53"] = "",
+            ["DictKey_WptName_108"] = "",
+            ["DictKey_GroupName_30"] = "New Vehicle Group #006",
+            ["DictKey_UnitName_116"] = "Unit #004",
+            ["DictKey_GroupName_130"] = "New Vehicle Group #004",
+            ["DictKey_UnitName_147"] = "Abbas_SA8_B",
+            ["DictKey_UnitName_99"] = "Unit #047",
+            ["DictKey_GroupName_58"] = "New Vehicle Group #013",
+            ["DictKey_GroupName_139"] = "New Vehicle Group #007",
+            ["DictKey_GroupName_98"] = "New Vehicle Group #023",
+            ["DictKey_UnitName_143"] = "Pilot #001",
+            ["DictKey_WptName_97"] = "",
+            ["DictKey_WptName_33"] = "",
+            ["DictKey_WptName_129"] = "",
+            ["DictKey_UnitName_119"] = "Unit #005",
+            ["DictKey_UnitName_16"] = "Unit #006",
+            ["DictKey_WptName_114"] = "",
+            ["DictKey_UnitName_55"] = "Unit #025",
+            ["DictKey_WptName_49"] = "",
+            ["DictKey_UnitName_24"] = "Unit #010",
+            ["DictKey_UnitName_36"] = "Unit #016",
+            ["DictKey_UnitName_47"] = "Unit #021",
+            ["DictKey_GroupName_10"] = "New Vehicle Group #001",
+            ["DictKey_WptName_81"] = "",
+            ["DictKey_UnitName_107"] = "Unit #001",
+            ["DictKey_UnitName_91"] = "Unit #043",
+            ["DictKey_GroupName_155"] = "New Vehicle Group #004",
+            ["DictKey_GroupName_121"] = "New Vehicle Group #005",
+            ["DictKey_GroupName_34"] = "New Vehicle Group #007",
+            ["DictKey_WptName_29"] = "",
+            ["DictKey_GroupName_86"] = "New Vehicle Group #020",
+            ["DictKey_WptName_93"] = "",
+            ["DictKey_UnitName_174"] = "Abbas_SA8_K",
+            ["DictKey_GroupName_26"] = "New Vehicle Group #005",
+            ["DictKey_UnitName_68"] = "Unit #032",
+            ["DictKey_WptName_163"] = "",
+            ["DictKey_WptName_169"] = "",
+            ["DictKey_GroupName_90"] = "New Vehicle Group #021",
+            ["DictKey_UnitName_19"] = "Unit #007",
+            ["DictKey_UnitName_63"] = "Unit #029",
+            ["DictKey_UnitName_92"] = "Unit #044",
+            ["DictKey_WptName_117"] = "",
+            ["DictKey_UnitName_168"] = "Abbas_SA8_I",
+            ["DictKey_GroupName_164"] = "New Vehicle Group #008",
+            ["DictKey_GroupName_118"] = "New Vehicle Group #004",
+            ["DictKey_WptName_61"] = "",
+            ["DictKey_WptName_144"] = "",
+            ["DictKey_GroupName_136"] = "New Vehicle Group #006",
+            ["DictKey_GroupName_149"] = "New Vehicle Group #002",
+            ["DictKey_WptName_45"] = "",
+            ["DictKey_GroupName_161"] = "New Vehicle Group #007",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "",
+} -- end of staticTemplate

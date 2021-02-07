@@ -1,0 +1,485 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [21]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 34,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = -23332.661501067,
+                                                ["x"] = 73174.357269713,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = -23332.655796055,
+                                                ["x"] = 73174.406340035,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 60,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -143658.08265872,
+                                            ["x"] = 46421.119936706,
+                                            ["name"] = "DictKey_WptName_25",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 6,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "Sandbox",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 51,
+                                        ["skill"] = "Average",
+                                        ["y"] = -143658.08265872,
+                                        ["x"] = 46421.119936706,
+                                        ["name"] = "DictKey_UnitName_24",
+                                        ["heading"] = 4.9741883681838,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "Bunker",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 52,
+                                        ["skill"] = "Average",
+                                        ["y"] = -143638.77033154,
+                                        ["x"] = 46423.032000102,
+                                        ["name"] = "DictKey_UnitName_23",
+                                        ["heading"] = 0.5235987755983,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "Land_Rover_109_S3",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 65,
+                                        ["skill"] = "Average",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["TentedRoof"] = true,
+                                            ["Variant"] = 4,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["y"] = -143628.01660688,
+                                        ["x"] = 46399.209512826,
+                                        ["name"] = "DictKey_UnitName_22",
+                                        ["heading"] = 1.3962634015955,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "BTR-80",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 66,
+                                        ["skill"] = "Average",
+                                        ["y"] = -143629.59332272,
+                                        ["x"] = 46416.940930329,
+                                        ["name"] = "DictKey_UnitName_21",
+                                        ["heading"] = 2.3736477827123,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["type"] = "rapier_fsa_blindfire_radar",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 68,
+                                        ["skill"] = "Average",
+                                        ["y"] = -143148.42247588,
+                                        ["x"] = 45306.253875787,
+                                        ["name"] = "DictKey_UnitName_20",
+                                        ["heading"] = 2.3736477827123,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["type"] = "rapier_fsa_optical_tracker_unit",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 69,
+                                        ["skill"] = "Average",
+                                        ["y"] = -143150.91884136,
+                                        ["x"] = 45278.88596633,
+                                        ["name"] = "DictKey_UnitName_19",
+                                        ["heading"] = 2.3736477827123,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["type"] = "rapier_fsa_launcher",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 71,
+                                        ["skill"] = "Average",
+                                        ["y"] = -143137.17141375,
+                                        ["x"] = 45292.318567349,
+                                        ["name"] = "DictKey_UnitName_18",
+                                        ["heading"] = 2.3736477827123,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [7]
+                                    [8] = 
+                                    {
+                                        ["type"] = "rapier_fsa_launcher",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 72,
+                                        ["skill"] = "Average",
+                                        ["y"] = -143161.74246834,
+                                        ["x"] = 45292.682562706,
+                                        ["name"] = "DictKey_UnitName_17",
+                                        ["heading"] = 2.3736477827123,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [8]
+                                    [9] = 
+                                    {
+                                        ["type"] = "Ural-375 ZU-23 Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 73,
+                                        ["skill"] = "Average",
+                                        ["y"] = -143653.00583665,
+                                        ["x"] = 46458.499090854,
+                                        ["name"] = "DictKey_UnitName_16",
+                                        ["heading"] = 2.3736477827123,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [9]
+                                }, -- end of ["units"]
+                                ["y"] = -143658.08265872,
+                                ["x"] = 46421.119936706,
+                                ["name"] = "DictKey_GroupName_15",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "Iran",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 0,
+                    ["static"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["heading"] = 5.1487212933833,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -143648.62179724,
+                                            ["speed"] = 0,
+                                            ["x"] = 46390.395554864,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 7,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "ceh_ang_a",
+                                        ["type"] = "Tech hangar A",
+                                        ["unitId"] = 67,
+                                        ["rate"] = 100,
+                                        ["y"] = -143648.62179724,
+                                        ["x"] = 46390.395554864,
+                                        ["name"] = "DictKey_GroupName_12",
+                                        ["heading"] = 5.1487212933833,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -143648.62179724,
+                                ["x"] = 46390.395554864,
+                                ["name"] = "DictKey_GroupName_12",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["static"]
+                    ["name"] = "Russia",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [11]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "Bandar Lengeh Bunker B",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_UnitName_22"] = "Unit #003",
+            ["DictKey_WptName_11"] = "",
+            ["DictKey_UnitName_20"] = "Unit #005",
+            ["DictKey_UnitName_23"] = "Unit #002",
+            ["DictKey_UnitName_19"] = "Unit #006",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_UnitName_8"] = "Unit #003",
+            ["DictKey_UnitName_21"] = "Unit #004",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_GroupName_6"] = "Weapons Bunker",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_UnitName_9"] = "Unit #002",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_UnitName_10"] = "Primary Destroyed Bunker",
+            ["DictKey_UnitName_18"] = "Unit #007",
+            ["DictKey_UnitName_17"] = "Unit #008",
+            ["DictKey_UnitName_7"] = "Unit #004",
+            ["DictKey_UnitName_13"] = "Weapons Warehouses",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_UnitName_24"] = "Primary Destroyed Bunker",
+            ["DictKey_WptName_25"] = "",
+            ["DictKey_UnitName_16"] = "Unit #009",
+            ["DictKey_GroupName_15"] = "Weapons Bunker",
+            ["DictKey_WptName_14"] = "",
+            ["DictKey_GroupName_12"] = "Secondary Destroyed Bunker",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "%LOCATIONMETHOD% an Iranian bunker in the north of the Bandar-Lengeh airport, %LOCATION%.\
+\
+Primary Objectives: Destroy the large, green armoured bunker.\
+\
+Secondary Objectives: N/A.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Heavy ordnance required for bunker targets, e.g. Mk-84s or PGM Variants.",
+} -- end of staticTemplate

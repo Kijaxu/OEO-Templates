@@ -1,0 +1,1064 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["neutrals"] = 
+        {
+            ["name"] = "neutrals",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 70,
+                    ["name"] = "Algeria",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 83,
+                    ["name"] = "Argentina",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 23,
+                    ["name"] = "Austria",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 65,
+                    ["name"] = "Bahrain",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 64,
+                    ["name"] = "Brazil",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 25,
+                    ["name"] = "Bulgaria",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 63,
+                    ["name"] = "Chile",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 76,
+                    ["name"] = "Cuba",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 29,
+                    ["name"] = "Egypt",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 62,
+                    ["name"] = "Ethiopia",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 30,
+                    ["name"] = "Finland",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 78,
+                    ["name"] = "GDR",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 31,
+                    ["name"] = "Greece",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 61,
+                    ["name"] = "Honduras",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 32,
+                    ["name"] = "Hungary",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 33,
+                    ["name"] = "India",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 60,
+                    ["name"] = "Indonesia",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 35,
+                    ["name"] = "Iraq",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 69,
+                    ["name"] = "Italian Social Republic",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 36,
+                    ["name"] = "Japan",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 59,
+                    ["name"] = "Jordan",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 71,
+                    ["name"] = "Kuwait",
+                }, -- end of [22]
+                [23] = 
+                {
+                    ["id"] = 79,
+                    ["name"] = "Lebanon",
+                }, -- end of [23]
+                [24] = 
+                {
+                    ["id"] = 58,
+                    ["name"] = "Libya",
+                }, -- end of [24]
+                [25] = 
+                {
+                    ["id"] = 57,
+                    ["name"] = "Malaysia",
+                }, -- end of [25]
+                [26] = 
+                {
+                    ["id"] = 56,
+                    ["name"] = "Mexico",
+                }, -- end of [26]
+                [27] = 
+                {
+                    ["id"] = 55,
+                    ["name"] = "Morocco",
+                }, -- end of [27]
+                [28] = 
+                {
+                    ["id"] = 73,
+                    ["name"] = "Oman",
+                }, -- end of [28]
+                [29] = 
+                {
+                    ["id"] = 39,
+                    ["name"] = "Pakistan",
+                }, -- end of [29]
+                [30] = 
+                {
+                    ["id"] = 54,
+                    ["name"] = "Philippines",
+                }, -- end of [30]
+                [31] = 
+                {
+                    ["id"] = 77,
+                    ["name"] = "Portugal",
+                }, -- end of [31]
+                [32] = 
+                {
+                    ["id"] = 72,
+                    ["name"] = "Qatar",
+                }, -- end of [32]
+                [33] = 
+                {
+                    ["id"] = 41,
+                    ["name"] = "Romania",
+                }, -- end of [33]
+                [34] = 
+                {
+                    ["id"] = 42,
+                    ["name"] = "Saudi Arabia",
+                }, -- end of [34]
+                [35] = 
+                {
+                    ["id"] = 44,
+                    ["name"] = "Slovakia",
+                }, -- end of [35]
+                [36] = 
+                {
+                    ["id"] = 75,
+                    ["name"] = "South Africa",
+                }, -- end of [36]
+                [37] = 
+                {
+                    ["id"] = 53,
+                    ["name"] = "Sudan",
+                }, -- end of [37]
+                [38] = 
+                {
+                    ["id"] = 22,
+                    ["name"] = "Switzerland",
+                }, -- end of [38]
+                [39] = 
+                {
+                    ["id"] = 52,
+                    ["name"] = "Thailand",
+                }, -- end of [39]
+                [40] = 
+                {
+                    ["id"] = 66,
+                    ["name"] = "Third Reich",
+                }, -- end of [40]
+                [41] = 
+                {
+                    ["id"] = 51,
+                    ["name"] = "Tunisia",
+                }, -- end of [41]
+                [42] = 
+                {
+                    ["id"] = 74,
+                    ["name"] = "United Arab Emirates",
+                }, -- end of [42]
+                [43] = 
+                {
+                    ["id"] = 82,
+                    ["name"] = "UN",
+                }, -- end of [43]
+                [44] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [44]
+                [45] = 
+                {
+                    ["id"] = 68,
+                    ["name"] = "USSR",
+                }, -- end of [45]
+                [46] = 
+                {
+                    ["id"] = 50,
+                    ["name"] = "Venezuela",
+                }, -- end of [46]
+                [47] = 
+                {
+                    ["id"] = 49,
+                    ["name"] = "Vietnam",
+                }, -- end of [47]
+                [48] = 
+                {
+                    ["id"] = 48,
+                    ["name"] = "Yemen",
+                }, -- end of [48]
+                [49] = 
+                {
+                    ["id"] = 67,
+                    ["name"] = "Yugoslavia",
+                }, -- end of [49]
+            }, -- end of ["country"]
+        }, -- end of ["neutrals"]
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 80,
+                    ["name"] = "CJTF Blue",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [22]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 0,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["hiddenOnPlanner"] = true,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["hiddenOnMFD"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 19,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -85692.036703938,
+                                            ["x"] = 50213.428432521,
+                                            ["name"] = "DictKey_WptName_446",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 47,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "snr s-125 tr",
+                                        ["unitId"] = 323,
+                                        ["y"] = -85692.036703938,
+                                        ["x"] = 50213.428432521,
+                                        ["name"] = "DictKey_UnitName_445",
+                                        ["heading"] = 2.8099800957109,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "p-19 s-125 sr",
+                                        ["unitId"] = 321,
+                                        ["y"] = -85604.962529468,
+                                        ["x"] = 50242.487627405,
+                                        ["name"] = "DictKey_UnitName_444",
+                                        ["heading"] = 2.8099800957109,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "5p73 s-125 ln",
+                                        ["unitId"] = 322,
+                                        ["y"] = -86555.622472355,
+                                        ["x"] = 51956.605030012,
+                                        ["name"] = "DictKey_UnitName_443",
+                                        ["heading"] = 2.4958208303519,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "5p73 s-125 ln",
+                                        ["unitId"] = 324,
+                                        ["y"] = -86594.53393348,
+                                        ["x"] = 51953.611840695,
+                                        ["name"] = "DictKey_UnitName_442",
+                                        ["heading"] = 3.1590459461097,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "SKP-11",
+                                        ["unitId"] = 325,
+                                        ["y"] = -85669.962382183,
+                                        ["x"] = 50255.385635135,
+                                        ["name"] = "DictKey_UnitName_441",
+                                        ["heading"] = 1.5707963267949,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "ZiL-131 APA-80",
+                                        ["unitId"] = 320,
+                                        ["y"] = -85678.168343816,
+                                        ["x"] = 50254.530847465,
+                                        ["name"] = "DictKey_UnitName_440",
+                                        ["heading"] = 3.1241393610699,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "GAZ-66",
+                                        ["unitId"] = 326,
+                                        ["y"] = -86578.50679951,
+                                        ["x"] = 51972.194119528,
+                                        ["name"] = "DictKey_UnitName_439",
+                                        ["heading"] = 1.5707963267949,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [7]
+                                }, -- end of ["units"]
+                                ["y"] = -85692.036703938,
+                                ["x"] = 50213.428432521,
+                                ["name"] = "DictKey_GroupName_438",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "Russia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 81,
+                    ["name"] = "CJTF Red",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 17,
+                    ["name"] = "Insurgents",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 34,
+                    ["name"] = "Iran",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [12]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "Qeshm W SA3 B",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_WptName_159"] = "",
+            ["DictKey_UnitName_89"] = "Ground-2-3",
+            ["DictKey_UnitName_212"] = "Ground-1-8",
+            ["DictKey_UnitName_67"] = "Ground-2-4",
+            ["DictKey_UnitName_297"] = "Ground-1-7",
+            ["DictKey_UnitName_283"] = "PRIMARY DESTROYED SR",
+            ["DictKey_GroupName_125"] = "Ground-2",
+            ["DictKey_UnitName_135"] = "Ground-2-6",
+            ["DictKey_GroupName_420"] = "Ground-2",
+            ["DictKey_UnitName_233"] = "Ground-1-9",
+            ["DictKey_UnitName_26"] = "",
+            ["DictKey_UnitName_226"] = "Ground-2-3",
+            ["DictKey_UnitName_146"] = "Ground-1-2",
+            ["DictKey_UnitName_331"] = "Ground-1-3",
+            ["DictKey_UnitName_39"] = "Ground-1-4",
+            ["DictKey_UnitName_398"] = "Ground-2-4",
+            ["DictKey_WptName_220"] = "",
+            ["DictKey_WptName_295"] = "",
+            ["DictKey_UnitName_145"] = "Ground-1-1",
+            ["DictKey_UnitName_12"] = "",
+            ["DictKey_UnitName_121"] = "Ground-1-3",
+            ["DictKey_UnitName_378"] = "Ground-1-5",
+            ["DictKey_UnitName_218"] = "Ground-1-2",
+            ["DictKey_UnitName_342"] = "Ground-1-3",
+            ["DictKey_WptName_59"] = "",
+            ["DictKey_GroupName_40"] = "Ground-2",
+            ["DictKey_WptName_416"] = "",
+            ["DictKey_WptName_124"] = "",
+            ["DictKey_UnitName_90"] = "Ground-2-2",
+            ["DictKey_UnitName_327"] = "Ground-1-7",
+            ["DictKey_UnitName_406"] = "Ground-1-7",
+            ["DictKey_WptName_260"] = "",
+            ["DictKey_UnitName_274"] = "PRIMARY DESTROYED SR",
+            ["DictKey_UnitName_158"] = "Aerial-1-1",
+            ["DictKey_UnitName_336"] = "Ground-1-9",
+            ["DictKey_UnitName_348"] = "Ground-1-6",
+            ["DictKey_GroupName_242"] = "Ground-1",
+            ["DictKey_UnitName_194"] = "Ground-1-4",
+            ["DictKey_UnitName_74"] = "Aerial-1-1",
+            ["DictKey_WptName_374"] = "",
+            ["DictKey_UnitName_130"] = "Ground-2-2",
+            ["DictKey_UnitName_315"] = "Ground-2-8",
+            ["DictKey_UnitName_43"] = "Ground-2-3",
+            ["DictKey_UnitName_290"] = "Ground-2-5",
+            ["DictKey_UnitName_171"] = "Ground-2-2",
+            ["DictKey_UnitName_48"] = "Ground-2-7",
+            ["DictKey_UnitName_99"] = "Ground-2-3",
+            ["DictKey_UnitName_382"] = "Ground-1-1",
+            ["DictKey_UnitName_38"] = "",
+            ["DictKey_WptName_190"] = "",
+            ["DictKey_GroupName_20"] = "Ground-1",
+            ["DictKey_UnitName_170"] = "Ground-2-3",
+            ["DictKey_UnitName_216"] = "Ground-1-4",
+            ["DictKey_UnitName_299"] = "Ground-1-5",
+            ["DictKey_UnitName_358"] = "Ground-2-5",
+            ["DictKey_UnitName_227"] = "Ground-2-2",
+            ["DictKey_WptName_75"] = "",
+            ["DictKey_UnitName_78"] = "Ground-1-6",
+            ["DictKey_UnitName_105"] = "Aerial-1-1",
+            ["DictKey_UnitName_316"] = "Ground-2-7",
+            ["DictKey_UnitName_270"] = "Ground-1-6",
+            ["DictKey_WptName_47"] = "",
+            ["DictKey_WptName_437"] = "",
+            ["DictKey_WptName_156"] = "",
+            ["DictKey_UnitName_15"] = "",
+            ["DictKey_UnitName_395"] = "Ground-2-7",
+            ["DictKey_GroupName_191"] = "Ground-1",
+            ["DictKey_UnitName_95"] = "Ground-2-6",
+            ["DictKey_UnitName_426"] = "PRIMARY DESTROYED TR",
+            ["DictKey_GroupName_296"] = "Ground-1",
+            ["DictKey_UnitName_114"] = "Ground-2-1",
+            ["DictKey_UnitName_11"] = "",
+            ["DictKey_UnitName_301"] = "Ground-1-3",
+            ["DictKey_UnitName_263"] = "Ground-1-8",
+            ["DictKey_UnitName_351"] = "Ground-1-3",
+            ["DictKey_UnitName_201"] = "Ground-2-7",
+            ["DictKey_UnitName_22"] = "Ground-1-2",
+            ["DictKey_WptName_62"] = "",
+            ["DictKey_UnitName_169"] = "Ground-2-4",
+            ["DictKey_UnitName_309"] = "Ground-1-4",
+            ["DictKey_UnitName_445"] = "PRIMARY DESTROYED TR",
+            ["DictKey_GroupName_49"] = "Ground-1",
+            ["DictKey_GroupName_414"] = "Aerial-1",
+            ["DictKey_UnitName_430"] = "Ground-2-7",
+            ["DictKey_UnitName_80"] = "Ground-1-4",
+            ["DictKey_UnitName_32"] = "",
+            ["DictKey_UnitName_373"] = "Ground-1-1",
+            ["DictKey_WptName_19"] = "",
+            ["DictKey_UnitName_128"] = "Ground-2-4",
+            ["DictKey_UnitName_267"] = "Ground-1-9",
+            ["DictKey_UnitName_340"] = "Ground-1-5",
+            ["DictKey_UnitName_210"] = "Ground-2-9",
+            ["DictKey_UnitName_435"] = "Ground-2-2",
+            ["DictKey_UnitName_259"] = "Aerial-1-1",
+            ["DictKey_UnitName_411"] = "Ground-1-2",
+            ["DictKey_UnitName_52"] = "Ground-1-3",
+            ["DictKey_UnitName_148"] = "Ground-1-4",
+            ["DictKey_UnitName_306"] = "Ground-1-7",
+            ["DictKey_WptName_56"] = "",
+            ["DictKey_WptName_84"] = "",
+            ["DictKey_UnitName_371"] = "Ground-1-3",
+            ["DictKey_UnitName_248"] = "Ground-1-6",
+            ["DictKey_UnitName_308"] = "Ground-1-5",
+            ["DictKey_UnitName_246"] = "Ground-1-4",
+            ["DictKey_GroupName_384"] = "Ground-1",
+            ["DictKey_WptName_417"] = "",
+            ["DictKey_UnitName_147"] = "Ground-1-3",
+            ["DictKey_UnitName_365"] = "Ground-1-9",
+            ["DictKey_UnitName_410"] = "Ground-1-3",
+            ["DictKey_UnitName_318"] = "Ground-2-5",
+            ["DictKey_UnitName_54"] = "Ground-1-5",
+            ["DictKey_UnitName_252"] = "Ground-1-9",
+            ["DictKey_UnitName_436"] = "Ground-2-1",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_WptName_208"] = "",
+            ["DictKey_UnitName_294"] = "PRIMARY DESTROYED TR",
+            ["DictKey_UnitName_178"] = "Ground-2-4",
+            ["DictKey_WptName_383"] = "",
+            ["DictKey_GroupName_258"] = "Aerial-1",
+            ["DictKey_UnitName_343"] = "PRIMARY DESTROYED SR",
+            ["DictKey_UnitName_165"] = "Ground-2-8",
+            ["DictKey_UnitName_289"] = "Ground-2-6",
+            ["DictKey_UnitName_234"] = "Ground-1-5",
+            ["DictKey_GroupName_104"] = "Aerial-1",
+            ["DictKey_UnitName_368"] = "Ground-1-6",
+            ["DictKey_UnitName_244"] = "Ground-1-2",
+            ["DictKey_UnitName_101"] = "Ground-2-1",
+            ["DictKey_UnitName_247"] = "Ground-1-5",
+            ["DictKey_UnitName_202"] = "Ground-2-6",
+            ["DictKey_WptName_160"] = "",
+            ["DictKey_UnitName_10"] = "",
+            ["DictKey_WptName_413"] = "",
+            ["DictKey_UnitName_433"] = "Ground-2-4",
+            ["DictKey_UnitName_215"] = "Ground-1-5",
+            ["DictKey_WptName_106"] = "",
+            ["DictKey_GroupName_134"] = "Ground-2",
+            ["DictKey_UnitName_225"] = "Ground-2-4",
+            ["DictKey_UnitName_68"] = "Ground-2-5",
+            ["DictKey_UnitName_50"] = "Ground-1-1",
+            ["DictKey_UnitName_97"] = "Ground-2-5",
+            ["DictKey_UnitName_319"] = "Ground-2-4",
+            ["DictKey_UnitName_21"] = "Ground-1-1",
+            ["DictKey_WptName_107"] = "",
+            ["DictKey_UnitName_219"] = "Ground-1-1",
+            ["DictKey_GroupName_364"] = "Ground-1",
+            ["DictKey_UnitName_132"] = "Ground-2-7",
+            ["DictKey_UnitName_139"] = "Ground-2-3",
+            ["DictKey_UnitName_362"] = "PRIMARY DESTROYED TR",
+            ["DictKey_UnitName_86"] = "Ground-2-6",
+            ["DictKey_UnitName_356"] = "Ground-2-7",
+            ["DictKey_UnitName_350"] = "Ground-1-4",
+            ["DictKey_UnitName_341"] = "Ground-1-4",
+            ["DictKey_GroupName_85"] = "Ground-2",
+            ["DictKey_UnitName_370"] = "Ground-1-4",
+            ["DictKey_GroupName_157"] = "Aerial-1",
+            ["DictKey_UnitName_322"] = "PRIMARY DESTROYED TR",
+            ["DictKey_UnitName_142"] = "Ground-2-7",
+            ["DictKey_UnitName_361"] = "PRIMARY DESTROYED SR",
+            ["DictKey_UnitName_24"] = "",
+            ["DictKey_UnitName_321"] = "PRIMARY DESTROYED SR",
+            ["DictKey_GroupName_324"] = "Ground-1",
+            ["DictKey_UnitName_380"] = "Ground-1-3",
+            ["DictKey_UnitName_222"] = "Ground-2-6",
+            ["DictKey_WptName_173"] = "",
+            ["DictKey_UnitName_98"] = "Ground-2-4",
+            ["DictKey_UnitName_317"] = "Ground-2-6",
+            ["DictKey_UnitName_337"] = "Ground-1-8",
+            ["DictKey_GroupName_34"] = "Aerial-1",
+            ["DictKey_UnitName_367"] = "Ground-1-7",
+            ["DictKey_UnitName_120"] = "Ground-1-4",
+            ["DictKey_UnitName_422"] = "Ground-2-6",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_UnitName_264"] = "Ground-1-8",
+            ["DictKey_GroupName_335"] = "Ground-1",
+            ["DictKey_UnitName_196"] = "Ground-1-2",
+            ["DictKey_GroupName_286"] = "Ground-2",
+            ["DictKey_UnitName_91"] = "Ground-2-1",
+            ["DictKey_UnitName_129"] = "Ground-2-3",
+            ["DictKey_UnitName_69"] = "Ground-2-6",
+            ["DictKey_UnitName_409"] = "Ground-1-4",
+            ["DictKey_UnitName_407"] = "Ground-1-6",
+            ["DictKey_UnitName_439"] = "Ground-1-7",
+            ["DictKey_UnitName_96"] = "Ground-2-8",
+            ["DictKey_GroupName_346"] = "Ground-1",
+            ["DictKey_UnitName_51"] = "Ground-1-2",
+            ["DictKey_UnitName_209"] = "Ground-2-8",
+            ["DictKey_WptName_133"] = "",
+            ["DictKey_UnitName_332"] = "PRIMARY DESTROYED SR",
+            ["DictKey_UnitName_404"] = "Ground-1-9",
+            ["DictKey_UnitName_118"] = "Ground-1-6",
+            ["DictKey_GroupName_63"] = "Ground-2",
+            ["DictKey_UnitName_387"] = "Ground-1-5",
+            ["DictKey_UnitName_175"] = "Ground-2-7",
+            ["DictKey_UnitName_423"] = "Ground-2-5",
+            ["DictKey_GroupName_314"] = "Ground-2",
+            ["DictKey_GroupName_393"] = "Ground-2",
+            ["DictKey_WptName_313"] = "",
+            ["DictKey_UnitName_434"] = "Ground-2-3",
+            ["DictKey_UnitName_16"] = "",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_UnitName_415"] = "Aerial-1-1",
+            ["DictKey_UnitName_386"] = "Ground-1-6",
+            ["DictKey_UnitName_396"] = "Ground-2-6",
+            ["DictKey_WptName_33"] = "",
+            ["DictKey_UnitName_150"] = "Ground-1-6",
+            ["DictKey_WptName_76"] = "",
+            ["DictKey_GroupName_253"] = "Aerial-1",
+            ["DictKey_UnitName_193"] = "Ground-1-5",
+            ["DictKey_WptName_70"] = "",
+            ["DictKey_WptName_198"] = "",
+            ["DictKey_UnitName_298"] = "Ground-1-6",
+            ["DictKey_GroupName_94"] = "Ground-2",
+            ["DictKey_UnitName_412"] = "Ground-1-1",
+            ["DictKey_UnitName_7"] = "",
+            ["DictKey_WptName_402"] = "",
+            ["DictKey_UnitName_232"] = "Ground-1-6",
+            ["DictKey_UnitName_46"] = "Ground-2-6",
+            ["DictKey_WptName_262"] = "",
+            ["DictKey_WptName_116"] = "",
+            ["DictKey_UnitName_320"] = "Ground-2-3",
+            ["DictKey_UnitName_333"] = "PRIMARY DESTROYED TR",
+            ["DictKey_UnitName_197"] = "Ground-1-1",
+            ["DictKey_WptName_241"] = "",
+            ["DictKey_UnitName_131"] = "Ground-2-1",
+            ["DictKey_UnitName_400"] = "PRIMARY DESTROYED SR",
+            ["DictKey_UnitName_102"] = "Ground-2-7",
+            ["DictKey_GroupName_277"] = "Ground-1",
+            ["DictKey_WptName_151"] = "",
+            ["DictKey_UnitName_115"] = "Ground-2-7",
+            ["DictKey_UnitName_58"] = "",
+            ["DictKey_WptName_446"] = "",
+            ["DictKey_UnitName_87"] = "Ground-2-5",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_UnitName_385"] = "Ground-1-7",
+            ["DictKey_UnitName_207"] = "Ground-2-1",
+            ["DictKey_WptName_230"] = "",
+            ["DictKey_UnitName_203"] = "Ground-2-5",
+            ["DictKey_UnitName_123"] = "Ground-1-1",
+            ["DictKey_UnitName_397"] = "Ground-2-5",
+            ["DictKey_UnitName_431"] = "Ground-2-6",
+            ["DictKey_WptName_182"] = "",
+            ["DictKey_UnitName_235"] = "Ground-1-4",
+            ["DictKey_UnitName_66"] = "Ground-2-3",
+            ["DictKey_UnitName_79"] = "Ground-1-5",
+            ["DictKey_UnitName_214"] = "Ground-1-6",
+            ["DictKey_GroupName_231"] = "Ground-1",
+            ["DictKey_UnitName_138"] = "Ground-2-4",
+            ["DictKey_UnitName_228"] = "Ground-2-1",
+            ["DictKey_UnitName_122"] = "Ground-1-2",
+            ["DictKey_UnitName_278"] = "Ground-1-7",
+            ["DictKey_GroupName_117"] = "Ground-1",
+            ["DictKey_UnitName_292"] = "Ground-2-3",
+            ["DictKey_UnitName_379"] = "Ground-1-4",
+            ["DictKey_UnitName_288"] = "Ground-2-7",
+            ["DictKey_UnitName_14"] = "",
+            ["DictKey_UnitName_61"] = "Ground-1-1",
+            ["DictKey_UnitName_206"] = "Ground-2-2",
+            ["DictKey_UnitName_360"] = "Ground-2-3",
+            ["DictKey_UnitName_92"] = "Ground-2-7",
+            ["DictKey_UnitName_110"] = "Ground-2-5",
+            ["DictKey_UnitName_250"] = "Ground-1-7",
+            ["DictKey_UnitName_311"] = "PRIMARY DESTROYED SR",
+            ["DictKey_UnitName_205"] = "Ground-2-3",
+            ["DictKey_UnitName_444"] = "PRIMARY DESTROYED SR",
+            ["DictKey_UnitName_172"] = "Ground-2-1",
+            ["DictKey_UnitName_238"] = "Ground-1-8",
+            ["DictKey_WptName_428"] = "",
+            ["DictKey_UnitName_179"] = "Ground-2-3",
+            ["DictKey_UnitName_280"] = "Ground-1-5",
+            ["DictKey_UnitName_326"] = "Ground-1-8",
+            ["DictKey_UnitName_204"] = "Ground-2-4",
+            ["DictKey_UnitName_405"] = "Ground-1-8",
+            ["DictKey_GroupName_200"] = "Ground-2",
+            ["DictKey_UnitName_113"] = "Ground-2-2",
+            ["DictKey_UnitName_31"] = "Ground-1-11",
+            ["DictKey_UnitName_111"] = "Ground-2-4",
+            ["DictKey_UnitName_35"] = "Aerial-1-1",
+            ["DictKey_UnitName_187"] = "Ground-1-3",
+            ["DictKey_UnitName_236"] = "Ground-1-3",
+            ["DictKey_GroupName_163"] = "Ground-2",
+            ["DictKey_UnitName_188"] = "Ground-1-2",
+            ["DictKey_UnitName_149"] = "Ground-1-5",
+            ["DictKey_UnitName_162"] = "Ground-1-9",
+            ["DictKey_GroupName_73"] = "Aerial-1",
+            ["DictKey_UnitName_199"] = "Ground-1-7",
+            ["DictKey_UnitName_245"] = "Ground-1-3",
+            ["DictKey_UnitName_177"] = "Ground-2-5",
+            ["DictKey_UnitName_240"] = "Ground-1-1",
+            ["DictKey_UnitName_27"] = "Ground-1-7",
+            ["DictKey_UnitName_287"] = "Ground-2-8",
+            ["DictKey_WptName_354"] = "",
+            ["DictKey_UnitName_23"] = "Ground-1-3",
+            ["DictKey_GroupName_108"] = "Ground-2",
+            ["DictKey_UnitName_189"] = "Ground-1-1",
+            ["DictKey_GroupName_77"] = "Ground-1",
+            ["DictKey_UnitName_224"] = "Ground-2-5",
+            ["DictKey_UnitName_272"] = "Ground-1-4",
+            ["DictKey_UnitName_72"] = "Ground-2-8",
+            ["DictKey_UnitName_180"] = "Ground-2-2",
+            ["DictKey_UnitName_140"] = "Ground-2-2",
+            ["DictKey_UnitName_394"] = "Ground-2-8",
+            ["DictKey_UnitName_443"] = "Ground-1-3",
+            ["DictKey_UnitName_81"] = "Ground-1-3",
+            ["DictKey_UnitName_432"] = "Ground-2-5",
+            ["DictKey_UnitName_127"] = "Ground-2-5",
+            ["DictKey_GroupName_183"] = "Ground-1",
+            ["DictKey_WptName_261"] = "",
+            ["DictKey_UnitName_137"] = "Ground-2-5",
+            ["DictKey_UnitName_28"] = "Ground-1-8",
+            ["DictKey_UnitName_390"] = "PRIMARY DESTROYED SR",
+            ["DictKey_UnitName_185"] = "Ground-1-5",
+            ["DictKey_WptName_155"] = "",
+            ["DictKey_UnitName_44"] = "Ground-2-4",
+            ["DictKey_UnitName_30"] = "Ground-1-10",
+            ["DictKey_UnitName_126"] = "Ground-2-6",
+            ["DictKey_UnitName_25"] = "",
+            ["DictKey_UnitName_424"] = "Ground-2-4",
+            ["DictKey_UnitName_254"] = "Aerial-1-1",
+            ["DictKey_UnitName_281"] = "Ground-1-4",
+            ["DictKey_UnitName_293"] = "PRIMARY DESTROYED SR",
+            ["DictKey_GroupName_305"] = "Ground-1",
+            ["DictKey_UnitName_282"] = "Ground-1-3",
+            ["DictKey_UnitName_265"] = "Ground-1-9",
+            ["DictKey_UnitName_213"] = "Ground-1-7",
+            ["DictKey_UnitName_359"] = "Ground-2-4",
+            ["DictKey_UnitName_237"] = "Ground-1-2",
+            ["DictKey_UnitName_275"] = "PRIMARY DESTROYED TR",
+            ["DictKey_UnitName_13"] = "",
+            ["DictKey_GroupName_144"] = "Ground-1",
+            ["DictKey_GroupName_429"] = "Ground-2",
+            ["DictKey_UnitName_269"] = "Ground-1-7",
+            ["DictKey_UnitName_164"] = "Ground-2-9",
+            ["DictKey_UnitName_376"] = "Ground-1-7",
+            ["DictKey_WptName_285"] = "",
+            ["DictKey_UnitName_427"] = "PRIMARY DESTROYED SR",
+            ["DictKey_WptName_276"] = "",
+            ["DictKey_GroupName_57"] = "Static Cow-1",
+            ["DictKey_UnitName_29"] = "",
+            ["DictKey_WptName_36"] = "",
+            ["DictKey_UnitName_279"] = "Ground-1-6",
+            ["DictKey_UnitName_167"] = "Ground-2-6",
+            ["DictKey_UnitName_141"] = "Ground-2-1",
+            ["DictKey_WptName_334"] = "",
+            ["DictKey_GroupName_60"] = "Ground-1",
+            ["DictKey_UnitName_440"] = "Ground-1-6",
+            ["DictKey_UnitName_257"] = "Ground-1-6",
+            ["DictKey_UnitName_302"] = "PRIMARY DESTROYED SR",
+            ["DictKey_GroupName_266"] = "Ground-1",
+            ["DictKey_GroupName_375"] = "Ground-1",
+            ["DictKey_WptName_255"] = "",
+            ["DictKey_UnitName_425"] = "Ground-2-3",
+            ["DictKey_UnitName_45"] = "Ground-2-5",
+            ["DictKey_UnitName_369"] = "Ground-1-5",
+            ["DictKey_UnitName_357"] = "Ground-2-6",
+            ["DictKey_UnitName_154"] = "Aerial-1-1",
+            ["DictKey_UnitName_9"] = "",
+            ["DictKey_UnitName_42"] = "Ground-2-2",
+            ["DictKey_UnitName_239"] = "Ground-1-7",
+            ["DictKey_UnitName_347"] = "Ground-1-7",
+            ["DictKey_GroupName_153"] = "Aerial-1",
+            ["DictKey_UnitName_243"] = "Ground-1-1",
+            ["DictKey_UnitName_366"] = "Ground-1-8",
+            ["DictKey_GroupName_174"] = "Ground-2",
+            ["DictKey_UnitName_83"] = "Ground-1-1",
+            ["DictKey_UnitName_338"] = "Ground-1-7",
+            ["DictKey_UnitName_251"] = "Ground-1-8",
+            ["DictKey_UnitName_310"] = "Ground-1-3",
+            ["DictKey_UnitName_268"] = "Ground-1-8",
+            ["DictKey_WptName_37"] = "",
+            ["DictKey_UnitName_161"] = "Ground-1-8",
+            ["DictKey_UnitName_88"] = "Ground-2-4",
+            ["DictKey_UnitName_176"] = "Ground-2-6",
+            ["DictKey_UnitName_195"] = "Ground-1-3",
+            ["DictKey_UnitName_71"] = "Ground-2-7",
+            ["DictKey_UnitName_109"] = "Ground-2-6",
+            ["DictKey_WptName_256"] = "",
+            ["DictKey_WptName_345"] = "",
+            ["DictKey_UnitName_166"] = "Ground-2-7",
+            ["DictKey_UnitName_100"] = "Ground-2-2",
+            ["DictKey_WptName_363"] = "",
+            ["DictKey_UnitName_271"] = "Ground-1-5",
+            ["DictKey_GroupName_6"] = "",
+            ["DictKey_UnitName_401"] = "PRIMARY DESTROYED TR",
+            ["DictKey_WptName_143"] = "",
+            ["DictKey_UnitName_223"] = "Ground-2-8",
+            ["DictKey_UnitName_353"] = "PRIMARY DESTROYED TR",
+            ["DictKey_UnitName_329"] = "Ground-1-5",
+            ["DictKey_UnitName_312"] = "PRIMARY DESTROYED TR",
+            ["DictKey_UnitName_273"] = "Ground-1-3",
+            ["DictKey_UnitName_381"] = "Ground-1-2",
+            ["DictKey_UnitName_349"] = "Ground-1-5",
+            ["DictKey_UnitName_339"] = "Ground-1-6",
+            ["DictKey_UnitName_352"] = "PRIMARY DESTROYED SR",
+            ["DictKey_UnitName_136"] = "Ground-2-8",
+            ["DictKey_UnitName_112"] = "Ground-2-3",
+            ["DictKey_UnitName_391"] = "PRIMARY DESTROYED TR",
+            ["DictKey_UnitName_192"] = "Ground-1-6",
+            ["DictKey_UnitName_388"] = "Ground-1-4",
+            ["DictKey_UnitName_184"] = "Ground-1-6",
+            ["DictKey_WptName_249"] = "",
+            ["DictKey_WptName_323"] = "",
+            ["DictKey_UnitName_168"] = "Ground-2-5",
+            ["DictKey_UnitName_217"] = "Ground-1-3",
+            ["DictKey_UnitName_82"] = "Ground-1-2",
+            ["DictKey_GroupName_403"] = "Ground-1",
+            ["DictKey_WptName_304"] = "",
+            ["DictKey_WptName_103"] = "",
+            ["DictKey_UnitName_399"] = "Ground-2-3",
+            ["DictKey_UnitName_442"] = "Ground-1-4",
+            ["DictKey_UnitName_408"] = "Ground-1-5",
+            ["DictKey_UnitName_181"] = "Ground-2-1",
+            ["DictKey_UnitName_421"] = "Ground-2-7",
+            ["DictKey_UnitName_53"] = "Ground-1-4",
+            ["DictKey_WptName_418"] = "",
+            ["DictKey_UnitName_377"] = "Ground-1-6",
+            ["DictKey_WptName_419"] = "",
+            ["DictKey_UnitName_18"] = "",
+            ["DictKey_UnitName_328"] = "Ground-1-6",
+            ["DictKey_UnitName_186"] = "Ground-1-4",
+            ["DictKey_UnitName_41"] = "Ground-2-1",
+            ["DictKey_UnitName_284"] = "PRIMARY DESTROYED TR",
+            ["DictKey_UnitName_330"] = "Ground-1-4",
+            ["DictKey_UnitName_152"] = "Ground-1-7",
+            ["DictKey_WptName_392"] = "",
+            ["DictKey_UnitName_344"] = "PRIMARY DESTROYED TR",
+            ["DictKey_UnitName_291"] = "Ground-2-4",
+            ["DictKey_WptName_93"] = "",
+            ["DictKey_GroupName_355"] = "Ground-2",
+            ["DictKey_UnitName_325"] = "Ground-1-9",
+            ["DictKey_UnitName_55"] = "Ground-1-6",
+            ["DictKey_UnitName_17"] = "",
+            ["DictKey_GroupName_221"] = "Ground-2",
+            ["DictKey_UnitName_372"] = "Ground-1-2",
+            ["DictKey_UnitName_65"] = "Ground-2-2",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_UnitName_64"] = "Ground-2-1",
+            ["DictKey_UnitName_441"] = "Ground-1-5",
+            ["DictKey_UnitName_389"] = "Ground-1-3",
+            ["DictKey_GroupName_438"] = "Ground-1",
+            ["DictKey_UnitName_300"] = "Ground-1-4",
+            ["DictKey_UnitName_307"] = "Ground-1-6",
+            ["DictKey_UnitName_303"] = "PRIMARY DESTROYED TR",
+            ["DictKey_UnitName_229"] = "Ground-2-7",
+            ["DictKey_GroupName_211"] = "Ground-1",
+            ["DictKey_UnitName_119"] = "Ground-1-5",
+            ["DictKey_UnitName_8"] = "",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "",
+} -- end of staticTemplate

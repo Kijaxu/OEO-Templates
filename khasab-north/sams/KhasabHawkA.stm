@@ -1,0 +1,1384 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 25,
+                    ["name"] = "Bulgaria",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 73,
+                    ["name"] = "Oman",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 39,
+                    ["name"] = "Pakistan",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 72,
+                    ["name"] = "Qatar",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [22]
+                [23] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [23]
+                [24] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [24]
+                [25] = 
+                {
+                    ["id"] = 74,
+                    ["name"] = "United Arab Emirates",
+                }, -- end of [25]
+                [26] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [26]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 34,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 2,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 11731.472119554,
+                                            ["x"] = 21872.561023808,
+                                            ["name"] = "DictKey_WptName_720",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                        [1] = 
+                                                        {
+                                                            ["number"] = 1,
+                                                            ["auto"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["enabled"] = true,
+                                                            ["params"] = 
+                                                            {
+                                                                ["action"] = 
+                                                                {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] = 
+                                                                    {
+                                                                        ["value"] = true,
+                                                                        ["groupId"] = 11,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 105750972,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "Hawk cwar",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 348830425,
+                                        ["skill"] = "Average",
+                                        ["y"] = 11731.472119554,
+                                        ["x"] = 21872.561023808,
+                                        ["name"] = "DictKey_UnitName_719",
+                                        ["heading"] = 4.0666171571468,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "Hawk ln",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 348830426,
+                                        ["skill"] = "Average",
+                                        ["y"] = 11748.193088786,
+                                        ["x"] = 21577.853941095,
+                                        ["name"] = "DictKey_UnitName_718",
+                                        ["heading"] = 4.0666171571468,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "Hawk ln",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 348830427,
+                                        ["skill"] = "Average",
+                                        ["y"] = 11654.137636856,
+                                        ["x"] = 21682.359998795,
+                                        ["name"] = "DictKey_UnitName_717",
+                                        ["heading"] = 4.0666171571468,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "Hawk ln",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 348830428,
+                                        ["skill"] = "Average",
+                                        ["y"] = 11625.921001277,
+                                        ["x"] = 21838.074024768,
+                                        ["name"] = "DictKey_UnitName_716",
+                                        ["heading"] = 4.0666171571468,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["type"] = "Hawk pcp",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 348830429,
+                                        ["skill"] = "Average",
+                                        ["y"] = 11844.396133658,
+                                        ["x"] = 21827.989000956,
+                                        ["name"] = "DictKey_UnitName_715",
+                                        ["heading"] = 4.0666171571468,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["type"] = "Hawk sr",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 348830430,
+                                        ["skill"] = "Average",
+                                        ["y"] = 11812.98684456,
+                                        ["x"] = 21961.391172853,
+                                        ["name"] = "DictKey_UnitName_714",
+                                        ["heading"] = 4.0666171571468,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["type"] = "Hawk tr",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 348830431,
+                                        ["skill"] = "Average",
+                                        ["y"] = 11876.669200184,
+                                        ["x"] = 21731.879863936,
+                                        ["name"] = "DictKey_UnitName_713",
+                                        ["heading"] = 4.0666171571468,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [7]
+                                    [8] = 
+                                    {
+                                        ["type"] = "Hawk ln",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 348830432,
+                                        ["skill"] = "Average",
+                                        ["y"] = 11660.408000318,
+                                        ["x"] = 21967.661536315,
+                                        ["name"] = "DictKey_UnitName_712",
+                                        ["heading"] = 1.553343034275,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [8]
+                                }, -- end of ["units"]
+                                ["y"] = 11731.472119554,
+                                ["x"] = 21872.561023808,
+                                ["name"] = "DictKey_GroupName_711",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 47,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 11270.313731422,
+                                            ["x"] = 22116.696979022,
+                                            ["name"] = "DictKey_WptName_728",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 105750973,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 348830438,
+                                        ["skill"] = "Average",
+                                        ["y"] = 11270.313731422,
+                                        ["x"] = 22116.696979022,
+                                        ["name"] = "DictKey_UnitName_727",
+                                        ["heading"] = 4.6774823953448,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 348830859,
+                                        ["skill"] = "Average",
+                                        ["y"] = 11380.82353747,
+                                        ["x"] = 22494.792164305,
+                                        ["name"] = "DictKey_UnitName_726",
+                                        ["heading"] = 6.1261056745001,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 348830860,
+                                        ["skill"] = "Average",
+                                        ["y"] = 11130.216951025,
+                                        ["x"] = 21432.314117497,
+                                        ["name"] = "DictKey_UnitName_725",
+                                        ["heading"] = 5.8119464091411,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 348830861,
+                                        ["skill"] = "Average",
+                                        ["y"] = 11439.417270951,
+                                        ["x"] = 21247.974785865,
+                                        ["name"] = "DictKey_UnitName_724",
+                                        ["heading"] = 2.0594885173533,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 348830862,
+                                        ["skill"] = "Average",
+                                        ["y"] = 11850.288793976,
+                                        ["x"] = 21998.009144055,
+                                        ["name"] = "DictKey_UnitName_723",
+                                        ["heading"] = 0.66322511575785,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["type"] = "Igla manpad INS",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 348830863,
+                                        ["skill"] = "Average",
+                                        ["y"] = 11352.554789014,
+                                        ["x"] = 21694.357851022,
+                                        ["name"] = "DictKey_UnitName_722",
+                                        ["heading"] = 2.7401669256311,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [6]
+                                }, -- end of ["units"]
+                                ["y"] = 11270.313731422,
+                                ["x"] = 22116.696979022,
+                                ["name"] = "DictKey_GroupName_721",
+                                ["start_time"] = 0,
+                            }, -- end of [2]
+                            [3] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 28,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 11709.498057816,
+                                            ["x"] = 21639.063023832,
+                                            ["name"] = "DictKey_WptName_734",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 105750974,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "Ural-375",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 348830864,
+                                        ["skill"] = "Average",
+                                        ["y"] = 11709.498057816,
+                                        ["x"] = 21639.063023832,
+                                        ["name"] = "DictKey_UnitName_730",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "Ural-375",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 348830865,
+                                        ["skill"] = "Average",
+                                        ["y"] = 11754.020465522,
+                                        ["x"] = 21970.697881232,
+                                        ["name"] = "DictKey_UnitName_731",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [2]
+                                }, -- end of ["units"]
+                                ["y"] = 11709.498057816,
+                                ["x"] = 21639.063023832,
+                                ["name"] = "DictKey_GroupName_729",
+                                ["start_time"] = 0,
+                            }, -- end of [3]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "Iran",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 35,
+                    ["name"] = "Iraq",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 0,
+                    ["name"] = "Russia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [12]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "KhasabHawkA",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_UnitName_72"] = "Secondary Destroyed Hawk #001",
+            ["DictKey_UnitName_52"] = "Unit #011",
+            ["DictKey_WptName_464"] = "",
+            ["DictKey_UnitName_156"] = "Unit #028",
+            ["DictKey_UnitName_656"] = "Primary Destroyed SA-6",
+            ["DictKey_UnitName_463"] = "Unit #001",
+            ["DictKey_UnitName_283"] = "Primary Destroyed SA6 #001",
+            ["DictKey_UnitName_62"] = "Unit #008",
+            ["DictKey_UnitName_226"] = "Primary Destroyed Hawk #003",
+            ["DictKey_UnitName_594"] = "Unit #006",
+            ["DictKey_UnitName_331"] = "Unit #008",
+            ["DictKey_UnitName_469"] = "Primary Destroyed HAWK #004",
+            ["DictKey_WptName_647"] = "",
+            ["DictKey_WptName_247"] = "",
+            ["DictKey_UnitName_192"] = "Unit #014",
+            ["DictKey_GroupName_380"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_218"] = "Unit #008",
+            ["DictKey_UnitName_388"] = "Unit #009",
+            ["DictKey_WptName_30"] = "",
+            ["DictKey_UnitName_90"] = "Unit #016",
+            ["DictKey_UnitName_238"] = "Unit #003",
+            ["DictKey_UnitName_158"] = "Unit #025",
+            ["DictKey_UnitName_568"] = "Iran SA-2 Bn bldngs #011",
+            ["DictKey_UnitName_336"] = "Secondary Destroyed SA-2 #002",
+            ["DictKey_GroupName_398"] = "HAWK Abu Musa #001",
+            ["DictKey_UnitName_707"] = "Unit #003",
+            ["DictKey_UnitName_590"] = "Secondary Destroyed SA-2",
+            ["DictKey_UnitName_69"] = "Primary Destroyed Hawk #004",
+            ["DictKey_UnitName_650"] = "Primary Destroyed SA-6 #003",
+            ["DictKey_UnitName_333"] = "Secondary Destroyed SA-2 #003",
+            ["DictKey_UnitName_130"] = "Secondary Destroyed SA-3 #006",
+            ["DictKey_UnitName_249"] = "Unit #007",
+            ["DictKey_UnitName_428"] = "Unit #001",
+            ["DictKey_GroupName_351"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_584"] = "Unit #015",
+            ["DictKey_WptName_635"] = "",
+            ["DictKey_UnitName_79"] = "Unit #009",
+            ["DictKey_UnitName_382"] = "Unit #014",
+            ["DictKey_UnitName_713"] = "Primary Destroyed Hawk #002",
+            ["DictKey_WptName_268"] = "",
+            ["DictKey_UnitName_556"] = "Iran SA-2 Bn bldngs #012",
+            ["DictKey_GroupName_639"] = "Iran SA-2 Bn bldngs #011",
+            ["DictKey_UnitName_355"] = "Unit #014",
+            ["DictKey_UnitName_358"] = "Unit #010",
+            ["DictKey_UnitName_227"] = "Primary Destroyed Hawk #002",
+            ["DictKey_UnitName_691"] = "Secondary Destroyed SA-6 #004",
+            ["DictKey_WptName_566"] = "",
+            ["DictKey_UnitName_499"] = "Primary Destroyed HAWK #003",
+            ["DictKey_UnitName_631"] = "Iran SA-2 Bn bldngs #017",
+            ["DictKey_UnitName_270"] = "Unit #011",
+            ["DictKey_GroupName_386"] = "Abu-Musa SA-2",
+            ["DictKey_UnitName_628"] = "Iran SA-2 Bn bldngs #009",
+            ["DictKey_UnitName_726"] = "Unit #002",
+            ["DictKey_UnitName_175"] = "Secondary Destroyed SA10 #003",
+            ["DictKey_GroupName_170"] = "S-300 Bandar Abbas",
+            ["DictKey_UnitName_579"] = "Unit #019",
+            ["DictKey_GroupName_515"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_395"] = "Secondary Destroyed SA-2",
+            ["DictKey_GroupName_670"] = "SA-6 Khasab",
+            ["DictKey_UnitName_95"] = "Primary Destroyed SA-3 #002",
+            ["DictKey_UnitName_644"] = "Unit #018",
+            ["DictKey_UnitName_541"] = "Secondary Destroyed SA-2 #005",
+            ["DictKey_UnitName_114"] = "Unit #007",
+            ["DictKey_UnitName_186"] = "Unit #026",
+            ["DictKey_UnitName_301"] = "Secondary Destroyed Hawk #003",
+            ["DictKey_UnitName_719"] = "Primary Destroyed Hawk #003",
+            ["DictKey_WptName_720"] = "",
+            ["DictKey_UnitName_201"] = "Secondary Destroyed SA10 #001",
+            ["DictKey_UnitName_667"] = "Unit #002",
+            ["DictKey_UnitName_22"] = "Unit #011",
+            ["DictKey_GroupName_83"] = "Bandar Abbas SA-3",
+            ["DictKey_WptName_135"] = "",
+            ["DictKey_GroupName_328"] = "Abu-Musa SA-2",
+            ["DictKey_UnitName_309"] = "Primary Destroyed Hawk",
+            ["DictKey_UnitName_476"] = "Secondary Destroyed HAWK",
+            ["DictKey_UnitName_56"] = "Unit #004",
+            ["DictKey_UnitName_537"] = "Unit #003",
+            ["DictKey_UnitName_495"] = "Secondary Destroyed HAWK #001",
+            ["DictKey_UnitName_362"] = "Secondary Destroyed SA-2 #003",
+            ["DictKey_WptName_19"] = "",
+            ["DictKey_UnitName_128"] = "Unit #003",
+            ["DictKey_UnitName_607"] = "Unit #096",
+            ["DictKey_UnitName_267"] = "Primary Destroyed SA-2",
+            ["DictKey_UnitName_106"] = "Primary Destroyed Hawk #003",
+            ["DictKey_UnitName_704"] = "Unit #006",
+            ["DictKey_GroupName_248"] = "HAWK Tunb AFB Adds",
+            ["DictKey_UnitName_58"] = "Unit #002",
+            ["DictKey_UnitName_308"] = "Primary Destroyed Hawk #001",
+            ["DictKey_GroupName_683"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_690"] = "Secondary Destroyed SA-6 #001",
+            ["DictKey_UnitName_410"] = "Unit #014",
+            ["DictKey_UnitName_318"] = "Unit #003",
+            ["DictKey_UnitName_718"] = "Secondary Destroyed Hawk #003",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_UnitName_724"] = "Unit #012",
+            ["DictKey_GroupName_729"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_178"] = "Secondary Destroyed SA10",
+            ["DictKey_WptName_478"] = "",
+            ["DictKey_UnitName_278"] = "Unit #321",
+            ["DictKey_UnitName_343"] = "Unit #007",
+            ["DictKey_UnitName_165"] = "Unit #008",
+            ["DictKey_WptName_626"] = "",
+            ["DictKey_UnitName_455"] = "Unit #013",
+            ["DictKey_UnitName_578"] = "Unit #018",
+            ["DictKey_UnitName_244"] = "Unit #009",
+            ["DictKey_UnitName_202"] = "Secondary Destroyed SA10",
+            ["DictKey_UnitName_215"] = "Unit #026",
+            ["DictKey_GroupName_7"] = "Abu-Musa SA-2",
+            ["DictKey_UnitName_225"] = "Primary Destroyed Hawk #004",
+            ["DictKey_UnitName_68"] = "Secondary Destroyed Hawk",
+            ["DictKey_WptName_449"] = "",
+            ["DictKey_WptName_682"] = "",
+            ["DictKey_UnitName_203"] = "Primary Destroyed SA10",
+            ["DictKey_UnitName_305"] = "Secondary Destroyed Hawk",
+            ["DictKey_UnitName_510"] = "Unit #014",
+            ["DictKey_UnitName_86"] = "Unit #020",
+            ["DictKey_GroupName_61"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_708"] = "Unit #002",
+            ["DictKey_UnitName_228"] = "Secondary Destroyed Hawk #001",
+            ["DictKey_UnitName_119"] = "Unit #002",
+            ["DictKey_GroupName_658"] = "SA-6 Khasab TOR",
+            ["DictKey_UnitName_142"] = "Secondary Destroyed SA10 #002",
+            ["DictKey_UnitName_361"] = "Secondary Destroyed SA-2 #001",
+            ["DictKey_UnitName_303"] = "Secondary Destroyed Hawk #002",
+            ["DictKey_UnitName_545"] = "Secondary Destroyed SA-2 #003",
+            ["DictKey_UnitName_107"] = "Primary Destroyed Hawk #002",
+            ["DictKey_UnitName_384"] = "Unit #014",
+            ["DictKey_WptName_669"] = "",
+            ["DictKey_UnitName_306"] = "Primary Destroyed Hawk #003",
+            ["DictKey_UnitName_196"] = "Primary Destroyed SA10 #001",
+            ["DictKey_GroupName_286"] = "SA-6 Tunb Kochak #001",
+            ["DictKey_UnitName_129"] = "Unit #002",
+            ["DictKey_UnitName_652"] = "Secondary Destroyed SA-6 #001",
+            ["DictKey_UnitName_439"] = "Primary Destroyed Hawk #006",
+            ["DictKey_UnitName_281"] = "Primary Destroyed SA6 #003",
+            ["DictKey_UnitName_252"] = "Unit #004",
+            ["DictKey_UnitName_51"] = "Unit #012",
+            ["DictKey_UnitName_672"] = "Secondary Destroyed SA-6 #004",
+            ["DictKey_GroupName_721"] = "HAWK Khasab Adds",
+            ["DictKey_UnitName_715"] = "Primary Destroyed Hawk",
+            ["DictKey_UnitName_387"] = "Unit #010",
+            ["DictKey_UnitName_498"] = "Secondary Destroyed HAWK #002",
+            ["DictKey_UnitName_434"] = "Unit #014",
+            ["DictKey_GroupName_67"] = "HAWK Tunb AFB",
+            ["DictKey_UnitName_415"] = "Unit #322",
+            ["DictKey_UnitName_396"] = "Primary Destroyed SA-2",
+            ["DictKey_UnitName_668"] = "Unit #001",
+            ["DictKey_UnitName_150"] = "Unit #034",
+            ["DictKey_WptName_76"] = "",
+            ["DictKey_UnitName_313"] = "Unit #008",
+            ["DictKey_UnitName_152"] = "Unit #032",
+            ["DictKey_UnitName_503"] = "Secondary Destroyed HAWK #004",
+            ["DictKey_GroupName_436"] = "HAWK Jask A",
+            ["DictKey_WptName_112"] = "",
+            ["DictKey_WptName_241"] = "",
+            ["DictKey_GroupName_677"] = "SA-6 Khasab Adds",
+            ["DictKey_UnitName_732"] = "Unit #010",
+            ["DictKey_UnitName_640"] = "Iran SA-2 Bn bldngs #011",
+            ["DictKey_UnitName_731"] = "Unit #009",
+            ["DictKey_UnitName_87"] = "Unit #019",
+            ["DictKey_UnitName_419"] = "Primary Destroyed SA6 #003",
+            ["DictKey_WptName_339"] = "",
+            ["DictKey_GroupName_612"] = "Iran SA-2 Bn bldngs #012",
+            ["DictKey_UnitName_431"] = "Unit #008",
+            ["DictKey_UnitName_571"] = "Iran SA-2 Bn bldngs #016",
+            ["DictKey_UnitName_674"] = "Secondary Destroyed SA-6 #005",
+            ["DictKey_UnitName_420"] = "Primary Destroyed SA6 #002",
+            ["DictKey_UnitName_168"] = "Unit #014",
+            ["DictKey_WptName_169"] = "",
+            ["DictKey_UnitName_604"] = "Secondary Destroyed SA-2 #006",
+            ["DictKey_UnitName_684"] = "Unit #008",
+            ["DictKey_UnitName_324"] = "Unit #011",
+            ["DictKey_GroupName_552"] = "Iran SA-2 Bn bldngs #017",
+            ["DictKey_UnitName_288"] = "Unit #003",
+            ["DictKey_UnitName_14"] = "Secondary Destroyed SA-2 #004",
+            ["DictKey_UnitName_314"] = "Unit #007",
+            ["DictKey_UnitName_709"] = "Unit #001",
+            ["DictKey_WptName_66"] = "",
+            ["DictKey_WptName_379"] = "",
+            ["DictKey_UnitName_92"] = "Secondary Destroyed SA-3 #009",
+            ["DictKey_UnitName_405"] = "Unit #003",
+            ["DictKey_GroupName_205"] = "SA-15 Bandar Abbas",
+            ["DictKey_UnitName_613"] = "Iran SA-2 Bn bldngs #012",
+            ["DictKey_UnitName_111"] = "Primary Destroyed Hawk",
+            ["DictKey_UnitName_211"] = "Unit #025",
+            ["DictKey_UnitName_137"] = "Primary Destroyed SA10 #002",
+            ["DictKey_UnitName_687"] = "Unit #014",
+            ["DictKey_UnitName_597"] = "Unit #003",
+            ["DictKey_UnitName_245"] = "Unit #010",
+            ["DictKey_UnitName_240"] = "Unit #001",
+            ["DictKey_UnitName_191"] = "Unit #010",
+            ["DictKey_UnitName_23"] = "Unit #007",
+            ["DictKey_UnitName_550"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_UnitName_189"] = "Unit #008",
+            ["DictKey_UnitName_133"] = "Secondary Destroyed SA-3 #004",
+            ["DictKey_WptName_575"] = "",
+            ["DictKey_UnitName_140"] = "Secondary Destroyed SA10 #004",
+            ["DictKey_UnitName_394"] = "Secondary Destroyed SA-2 #002",
+            ["DictKey_WptName_121"] = "",
+            ["DictKey_UnitName_432"] = "Unit #009",
+            ["DictKey_GroupName_322"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_504"] = "Secondary Destroyed HAWK #005",
+            ["DictKey_UnitName_516"] = "Unit #008",
+            ["DictKey_UnitName_185"] = "Unit #022",
+            ["DictKey_UnitName_601"] = "Secondary Destroyed SA-2 #005",
+            ["DictKey_UnitName_494"] = "Secondary Destroyed HAWK",
+            ["DictKey_UnitName_84"] = "Secondary Destroyed SA-3 #011",
+            ["DictKey_UnitName_59"] = "Unit #001",
+            ["DictKey_UnitName_293"] = "Unit #008",
+            ["DictKey_UnitName_254"] = "Unit #002",
+            ["DictKey_WptName_710"] = "",
+            ["DictKey_UnitName_675"] = "Primary Destroyed SA-6",
+            ["DictKey_WptName_728"] = "",
+            ["DictKey_UnitName_522"] = "Primary Destroyed SA-2 #001",
+            ["DictKey_UnitName_29"] = "Unit #001",
+            ["DictKey_UnitName_198"] = "Secondary Destroyed SA10 #004",
+            ["DictKey_UnitName_167"] = "Unit #010",
+            ["DictKey_UnitName_513"] = "Unit #011",
+            ["DictKey_UnitName_481"] = "Unit #015",
+            ["DictKey_UnitName_354"] = "Unit #010",
+            ["DictKey_GroupName_627"] = "Iran SA-2 Bn bldngs #009",
+            ["DictKey_UnitName_425"] = "Unit #004",
+            ["DictKey_UnitName_588"] = "Unit #011",
+            ["DictKey_GroupName_582"] = "BandarEJaskSA-2",
+            ["DictKey_UnitName_154"] = "Unit #030",
+            ["DictKey_UnitName_347"] = "Unit #003",
+            ["DictKey_UnitName_28"] = "Unit #002",
+            ["DictKey_UnitName_221"] = "Unit #014",
+            ["DictKey_WptName_180"] = "",
+            ["DictKey_UnitName_338"] = "Primary Destroyed SA-2",
+            ["DictKey_GroupName_188"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_524"] = "Unit #015",
+            ["DictKey_UnitName_255"] = "Unit #001",
+            ["DictKey_GroupName_493"] = "HAWK Jask A",
+            ["DictKey_UnitName_296"] = "Unit #014",
+            ["DictKey_UnitName_71"] = "Primary Destroyed Hawk #002",
+            ["DictKey_UnitName_13"] = "Secondary Destroyed SA-2 #003",
+            ["DictKey_UnitName_616"] = "Iran SA-2 Bn bldngs #013",
+            ["DictKey_UnitName_250"] = "Unit #006",
+            ["DictKey_GroupName_521"] = "BandarEJaskSA-2",
+            ["DictKey_UnitName_529"] = "Unit #010",
+            ["DictKey_UnitName_273"] = "Unit #014",
+            ["DictKey_UnitName_381"] = "Unit #013",
+            ["DictKey_UnitName_475"] = "Secondary Destroyed HAWK #001",
+            ["DictKey_UnitName_484"] = "Unit #012",
+            ["DictKey_UnitName_559"] = "Iran SA-2 Bn bldngs #010",
+            ["DictKey_UnitName_110"] = "Secondary Destroyed Hawk #003",
+            ["DictKey_UnitName_391"] = "Secondary Destroyed SA-2 #003",
+            ["DictKey_UnitName_184"] = "Unit #023",
+            ["DictKey_UnitName_200"] = "Secondary Destroyed SA10 #002",
+            ["DictKey_UnitName_375"] = "Unit #004",
+            ["DictKey_UnitName_625"] = "Iran SA-2 Bn bldngs #016",
+            ["DictKey_WptName_33"] = "",
+            ["DictKey_UnitName_442"] = "Primary Destroyed Hawk #003",
+            ["DictKey_UnitName_706"] = "Unit #004",
+            ["DictKey_UnitName_16"] = "Secondary Destroyed SA-2 #002",
+            ["DictKey_UnitName_53"] = "Unit #007",
+            ["DictKey_UnitName_209"] = "Unit #002",
+            ["DictKey_UnitName_41"] = "Secondary Destroyed SA-2 #006",
+            ["DictKey_UnitName_317"] = "Unit #004",
+            ["DictKey_WptName_368"] = "",
+            ["DictKey_WptName_492"] = "",
+            ["DictKey_UnitName_174"] = "Secondary Destroyed SA10 #004",
+            ["DictKey_UnitName_177"] = "Secondary Destroyed SA10 #001",
+            ["DictKey_GroupName_357"] = "Abu-Musa SA-2",
+            ["DictKey_UnitName_65"] = "Unit #014",
+            ["DictKey_UnitName_10"] = "Secondary Destroyed SA-2 #007",
+            ["DictKey_UnitName_261"] = "Secondary Destroyed SA-2 #001",
+            ["DictKey_UnitName_389"] = "Unit #008",
+            ["DictKey_UnitName_490"] = "Unit #010",
+            ["DictKey_UnitName_253"] = "Unit #003",
+            ["DictKey_UnitName_403"] = "Unit #005",
+            ["DictKey_UnitName_454"] = "Unit #014",
+            ["DictKey_UnitName_603"] = "Secondary Destroyed SA-2 #001",
+            ["DictKey_UnitName_8"] = "Unit #013",
+            ["DictKey_UnitName_89"] = "Unit #017",
+            ["DictKey_GroupName_507"] = "HAWK Jask C Adds",
+            ["DictKey_UnitName_497"] = "Primary Destroyed HAWK #005",
+            ["DictKey_WptName_310"] = "",
+            ["DictKey_UnitName_702"] = "Unit #008",
+            ["DictKey_UnitName_26"] = "Unit #004",
+            ["DictKey_UnitName_374"] = "Unit #005",
+            ["DictKey_UnitName_456"] = "Unit #012",
+            ["DictKey_UnitName_251"] = "Unit #005",
+            ["DictKey_UnitName_360"] = "Unit #008",
+            ["DictKey_UnitName_662"] = "Unit #009",
+            ["DictKey_UnitName_433"] = "Unit #010",
+            ["DictKey_UnitName_329"] = "Unit #010",
+            ["DictKey_UnitName_145"] = "Primary Destroyed SA10",
+            ["DictKey_UnitName_25"] = "Unit #005",
+            ["DictKey_GroupName_113"] = "HAWK Tunb AFB Adds",
+            ["DictKey_UnitName_378"] = "Unit #001",
+            ["DictKey_UnitName_320"] = "Unit #001",
+            ["DictKey_UnitName_342"] = "Unit #011",
+            ["DictKey_UnitName_660"] = "Unit #011",
+            ["DictKey_UnitName_312"] = "Unit #009",
+            ["DictKey_UnitName_345"] = "Unit #005",
+            ["DictKey_UnitName_716"] = "Secondary Destroyed Hawk #001",
+            ["DictKey_UnitName_406"] = "Unit #002",
+            ["DictKey_GroupName_621"] = "Iran SA-2 Bn bldngs #015",
+            ["DictKey_UnitName_258"] = "Unit #010",
+            ["DictKey_UnitName_543"] = "Secondary Destroyed SA-2 #001",
+            ["DictKey_GroupName_311"] = "HAWK Abu Musa #001",
+            ["DictKey_UnitName_680"] = "Unit #002",
+            ["DictKey_UnitName_653"] = "Secondary Destroyed SA-6 #004",
+            ["DictKey_GroupName_242"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_453"] = "Unit #015",
+            ["DictKey_UnitName_74"] = "Secondary Destroyed Hawk #003",
+            ["DictKey_UnitName_315"] = "Unit #006",
+            ["DictKey_UnitName_43"] = "Secondary Destroyed SA-2 #003",
+            ["DictKey_WptName_187"] = "",
+            ["DictKey_UnitName_290"] = "Unit #001",
+            ["DictKey_UnitName_171"] = "Primary Destroyed SA10 #002",
+            ["DictKey_UnitName_654"] = "Secondary Destroyed SA-6 #002",
+            ["DictKey_UnitName_583"] = "Unit #016",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_UnitName_38"] = "Unit #013",
+            ["DictKey_GroupName_50"] = "HAWK Abu Musa #001",
+            ["DictKey_UnitName_485"] = "Unit #011",
+            ["DictKey_UnitName_262"] = "Secondary Destroyed SA-2 #003",
+            ["DictKey_GroupName_20"] = "HAWK Abu Musa #001",
+            ["DictKey_UnitName_655"] = "Secondary Destroyed SA-6 #005",
+            ["DictKey_UnitName_299"] = "Secondary Destroyed Hawk #005",
+            ["DictKey_UnitName_686"] = "Unit #010",
+            ["DictKey_UnitName_78"] = "Unit #008",
+            ["DictKey_UnitName_105"] = "Primary Destroyed Hawk #004",
+            ["DictKey_UnitName_316"] = "Unit #005",
+            ["DictKey_UnitName_467"] = "Secondary Destroyed HAWK #004",
+            ["DictKey_UnitName_404"] = "Unit #004",
+            ["DictKey_UnitName_93"] = "Unit #015",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_UnitName_332"] = "Secondary Destroyed SA-2 #001",
+            ["DictKey_GroupName_31"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_701"] = "Unit #009",
+            ["DictKey_UnitName_326"] = "Unit #014",
+            ["DictKey_UnitName_426"] = "Unit #003",
+            ["DictKey_UnitName_266"] = "Secondary Destroyed SA-2",
+            ["DictKey_GroupName_136"] = "S-300 Bandar Abbas",
+            ["DictKey_UnitName_377"] = "Unit #002",
+            ["DictKey_UnitName_376"] = "Unit #003",
+            ["DictKey_UnitName_307"] = "Primary Destroyed Hawk #002",
+            ["DictKey_UnitName_11"] = "Secondary Destroyed SA-2 #006",
+            ["DictKey_WptName_581"] = "",
+            ["DictKey_UnitName_263"] = "Secondary Destroyed SA-2 #004",
+            ["DictKey_UnitName_265"] = "Secondary Destroyed SA-2 #002",
+            ["DictKey_UnitName_276"] = "Unit #323",
+            ["DictKey_UnitName_134"] = "Primary Destroyed SA-3 #001",
+            ["DictKey_UnitName_143"] = "Secondary Destroyed SA10 #001",
+            ["DictKey_UnitName_127"] = "Unit #005",
+            ["DictKey_UnitName_727"] = "Unit #001",
+            ["DictKey_UnitName_402"] = "Unit #006",
+            ["DictKey_GroupName_233"] = "HAWK Tunb AFB Adds",
+            ["DictKey_WptName_638"] = "",
+            ["DictKey_UnitName_208"] = "Unit #003",
+            ["DictKey_WptName_688"] = "",
+            ["DictKey_GroupName_369"] = "HAWK Abu Musa #001",
+            ["DictKey_UnitName_372"] = "Unit #007",
+            ["DictKey_WptName_423"] = "",
+            ["DictKey_UnitName_445"] = "Secondary Destroyed Hawk #003",
+            ["DictKey_UnitName_681"] = "Unit #001",
+            ["DictKey_UnitName_664"] = "Unit #007",
+            ["DictKey_UnitName_173"] = "Secondary Destroyed SA10 #005",
+            ["DictKey_UnitName_595"] = "Unit #005",
+            ["DictKey_UnitName_679"] = "Unit #003",
+            ["DictKey_WptName_350"] = "",
+            ["DictKey_UnitName_80"] = "Unit #010",
+            ["DictKey_UnitName_243"] = "Unit #008",
+            ["DictKey_UnitName_673"] = "Secondary Destroyed SA-6 #002",
+            ["DictKey_UnitName_373"] = "Unit #006",
+            ["DictKey_UnitName_287"] = "Unit #004",
+            ["DictKey_UnitName_132"] = "Unit #001",
+            ["DictKey_UnitName_206"] = "Unit #005",
+            ["DictKey_UnitName_523"] = "Unit #016",
+            ["DictKey_UnitName_155"] = "Unit #029",
+            ["DictKey_UnitName_334"] = "Secondary Destroyed SA-2 #004",
+            ["DictKey_UnitName_416"] = "Unit #321",
+            ["DictKey_UnitName_344"] = "Unit #006",
+            ["DictKey_WptName_60"] = "",
+            ["DictKey_UnitName_446"] = "Secondary Destroyed Hawk #004",
+            ["DictKey_UnitName_131"] = "Secondary Destroyed SA-3 #005",
+            ["DictKey_UnitName_259"] = "Unit #009",
+            ["DictKey_WptName_641"] = "",
+            ["DictKey_GroupName_97"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_148"] = "Unit #036",
+            ["DictKey_UnitName_519"] = "Unit #001",
+            ["DictKey_WptName_560"] = "",
+            ["DictKey_WptName_96"] = "",
+            ["DictKey_UnitName_371"] = "Unit #011",
+            ["DictKey_UnitName_393"] = "Secondary Destroyed SA-2 #005",
+            ["DictKey_GroupName_642"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_246"] = "Unit #014",
+            ["DictKey_UnitName_392"] = "Secondary Destroyed SA-2 #004",
+            ["DictKey_UnitName_264"] = "Secondary Destroyed SA-2 #005",
+            ["DictKey_UnitName_533"] = "Unit #007",
+            ["DictKey_UnitName_678"] = "Unit #006",
+            ["DictKey_UnitName_480"] = "Unit #016",
+            ["DictKey_UnitName_643"] = "Unit #017",
+            ["DictKey_UnitName_54"] = "Unit #006",
+            ["DictKey_WptName_408"] = "",
+            ["DictKey_GroupName_636"] = "Iran SA-2 Bn bldngs #018",
+            ["DictKey_UnitName_447"] = "Secondary Destroyed Hawk #005",
+            ["DictKey_UnitName_55"] = "Unit #005",
+            ["DictKey_UnitName_411"] = "Unit #013",
+            ["DictKey_GroupName_633"] = "Iran SA-2 Bn bldngs #010",
+            ["DictKey_UnitName_414"] = "Unit #323",
+            ["DictKey_UnitName_462"] = "Unit #010",
+            ["DictKey_UnitName_353"] = "Unit #014",
+            ["DictKey_WptName_82"] = "",
+            ["DictKey_UnitName_289"] = "Unit #002",
+            ["DictKey_UnitName_234"] = "Unit #007",
+            ["DictKey_UnitName_441"] = "Secondary Destroyed Hawk #002",
+            ["DictKey_UnitName_544"] = "Secondary Destroyed SA-2 #006",
+            ["DictKey_GroupName_564"] = "Iran SA-2 Bn bldngs #018",
+            ["DictKey_UnitName_101"] = "Unit #014",
+            ["DictKey_UnitName_417"] = "Unit #320",
+            ["DictKey_UnitName_260"] = "Unit #008",
+            ["DictKey_UnitName_335"] = "Secondary Destroyed SA-2 #005",
+            ["DictKey_UnitName_366"] = "Secondary Destroyed SA-2",
+            ["DictKey_UnitName_649"] = "Primary Destroyed SA-6 #001",
+            ["DictKey_UnitName_421"] = "Primary Destroyed SA6 #001",
+            ["DictKey_UnitName_692"] = "Secondary Destroyed SA-6 #002",
+            ["DictKey_UnitName_70"] = "Primary Destroyed Hawk #003",
+            ["DictKey_GroupName_217"] = "SAM Rearm Assets",
+            ["DictKey_GroupName_340"] = "HAWK Abu Musa #001",
+            ["DictKey_WptName_146"] = "",
+            ["DictKey_UnitName_116"] = "Unit #005",
+            ["DictKey_WptName_297"] = "",
+            ["DictKey_WptName_49"] = "",
+            ["DictKey_UnitName_21"] = "Unit #012",
+            ["DictKey_WptName_193"] = "",
+            ["DictKey_UnitName_219"] = "Unit #009",
+            ["DictKey_WptName_222"] = "",
+            ["DictKey_GroupName_430"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_139"] = "Secondary Destroyed SA10 #005",
+            ["DictKey_GroupName_122"] = "Havadarya SA-3",
+            ["DictKey_UnitName_295"] = "Unit #010",
+            ["DictKey_WptName_429"] = "",
+            ["DictKey_UnitName_91"] = "Secondary Destroyed SA-3 #010",
+            ["DictKey_UnitName_319"] = "Unit #002",
+            ["DictKey_UnitName_323"] = "Unit #010",
+            ["DictKey_WptName_274"] = "",
+            ["DictKey_UnitName_349"] = "Unit #001",
+            ["DictKey_UnitName_645"] = "Unit #019",
+            ["DictKey_UnitName_705"] = "Unit #005",
+            ["DictKey_UnitName_24"] = "Unit #006",
+            ["DictKey_WptName_412"] = "",
+            ["DictKey_UnitName_671"] = "Secondary Destroyed SA-6 #001",
+            ["DictKey_GroupName_275"] = "SA-6 Tunb Kochak",
+            ["DictKey_UnitName_685"] = "Unit #009",
+            ["DictKey_UnitName_284"] = "Primary Destroyed SA6",
+            ["DictKey_WptName_695"] = "",
+            ["DictKey_UnitName_98"] = "Unit #008",
+            ["DictKey_UnitName_359"] = "Unit #009",
+            ["DictKey_UnitName_337"] = "Secondary Destroyed SA-2",
+            ["DictKey_UnitName_622"] = "Iran SA-2 Bn bldngs #015",
+            ["DictKey_UnitName_367"] = "Primary Destroyed SA-2",
+            ["DictKey_UnitName_665"] = "Unit #006",
+            ["DictKey_UnitName_422"] = "Primary Destroyed SA6",
+            ["DictKey_GroupName_37"] = "Abu-Musa SA-2",
+            ["DictKey_UnitName_144"] = "Secondary Destroyed SA10",
+            ["DictKey_UnitName_712"] = "Secondary Destroyed Hawk",
+            ["DictKey_UnitName_64"] = "Unit #010",
+            ["DictKey_UnitName_34"] = "Unit #009",
+            ["DictKey_UnitName_124"] = "Unit #014",
+            ["DictKey_UnitName_40"] = "Secondary Destroyed SA-2 #007",
+            ["DictKey_UnitName_63"] = "Unit #009",
+            ["DictKey_UnitName_15"] = "Secondary Destroyed SA-2 #005",
+            ["DictKey_UnitName_75"] = "Primary Destroyed Hawk",
+            ["DictKey_WptName_102"] = "",
+            ["DictKey_GroupName_164"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_183"] = "Unit #024",
+            ["DictKey_WptName_632"] = "",
+            ["DictKey_UnitName_48"] = "Primary Destroyed SA-2",
+            ["DictKey_UnitName_444"] = "Primary Destroyed Hawk #001",
+            ["DictKey_UnitName_651"] = "Primary Destroyed SA-6 #002",
+            ["DictKey_UnitName_591"] = "Unit #009",
+            ["DictKey_UnitName_118"] = "Unit #003",
+            ["DictKey_WptName_163"] = "",
+            ["DictKey_UnitName_195"] = "Primary Destroyed SA10 #002",
+            ["DictKey_WptName_232"] = "",
+            ["DictKey_UnitName_85"] = "Unit #021",
+            ["DictKey_UnitName_88"] = "Unit #018",
+            ["DictKey_UnitName_589"] = "Unit #010",
+            ["DictKey_GroupName_292"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_213"] = "Unit #023",
+            ["DictKey_GroupName_409"] = "SAM Rearm Assets",
+            ["DictKey_WptName_551"] = "",
+            ["DictKey_UnitName_717"] = "Secondary Destroyed Hawk #002",
+            ["DictKey_GroupName_257"] = "Abu-Musa SA-2",
+            ["DictKey_UnitName_370"] = "Unit #012",
+            ["DictKey_UnitName_598"] = "Unit #002",
+            ["DictKey_UnitName_452"] = "Unit #016",
+            ["DictKey_UnitName_577"] = "Unit #017",
+            ["DictKey_GroupName_77"] = "SAM Rearm Assets",
+            ["DictKey_WptName_385"] = "",
+            ["DictKey_GroupName_615"] = "Iran SA-2 Bn bldngs #013",
+            ["DictKey_UnitName_32"] = "Unit #008",
+            ["DictKey_UnitName_471"] = "Primary Destroyed HAWK #003",
+            ["DictKey_UnitName_457"] = "Unit #011",
+            ["DictKey_UnitName_730"] = "Unit #008",
+            ["DictKey_UnitName_443"] = "Primary Destroyed Hawk #002",
+            ["DictKey_WptName_458"] = "",
+            ["DictKey_GroupName_573"] = "Iran SA-2 Bn bldngs #009",
+            ["DictKey_GroupName_711"] = "HAWK Khasab",
+            ["DictKey_UnitName_496"] = "Primary Destroyed HAWK #006",
+            ["DictKey_WptName_321"] = "",
+            ["DictKey_UnitName_460"] = "Unit #008",
+            ["DictKey_GroupName_549"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_UnitName_197"] = "Secondary Destroyed SA10 #005",
+            ["DictKey_UnitName_723"] = "Unit #013",
+            ["DictKey_GroupName_103"] = "HAWK Tunb AFB",
+            ["DictKey_UnitName_700"] = "Unit #010",
+            ["DictKey_UnitName_123"] = "Secondary Destroyed SA-3 #007",
+            ["DictKey_UnitName_461"] = "Unit #009",
+            ["DictKey_WptName_657"] = "",
+            ["DictKey_UnitName_115"] = "Unit #006",
+            ["DictKey_UnitName_586"] = "Unit #013",
+            ["DictKey_UnitName_108"] = "Secondary Destroyed Hawk #001",
+            ["DictKey_WptName_435"] = "",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_GroupName_465"] = "HAWK Jask A",
+            ["DictKey_UnitName_207"] = "Unit #004",
+            ["DictKey_UnitName_466"] = "Secondary Destroyed HAWK #005",
+            ["DictKey_UnitName_418"] = "Primary Destroyed SA6 #004",
+            ["DictKey_UnitName_606"] = "Primary Destroyed SA-2",
+            ["DictKey_UnitName_562"] = "Iran SA-2 Bn bldngs #013",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_UnitName_468"] = "Primary Destroyed HAWK #005",
+            ["DictKey_GroupName_413"] = "SA-6 Tunb Kochak",
+            ["DictKey_UnitName_703"] = "Unit #007",
+            ["DictKey_UnitName_231"] = "Primary Destroyed Hawk",
+            ["DictKey_UnitName_190"] = "Unit #009",
+            ["DictKey_UnitName_302"] = "Primary Destroyed Hawk #004",
+            ["DictKey_UnitName_138"] = "Primary Destroyed SA10 #001",
+            ["DictKey_UnitName_477"] = "Primary Destroyed HAWK",
+            ["DictKey_UnitName_637"] = "Iran SA-2 Bn bldngs #018",
+            ["DictKey_UnitName_472"] = "Primary Destroyed HAWK #002",
+            ["DictKey_UnitName_532"] = "Unit #008",
+            ["DictKey_UnitName_542"] = "Secondary Destroyed SA-2 #004",
+            ["DictKey_UnitName_438"] = "Secondary Destroyed Hawk #001",
+            ["DictKey_UnitName_451"] = "Unit #017",
+            ["DictKey_UnitName_693"] = "Secondary Destroyed SA-6 #005",
+            ["DictKey_UnitName_125"] = "Unit #013",
+            ["DictKey_UnitName_182"] = "Unit #025",
+            ["DictKey_WptName_569"] = "",
+            ["DictKey_UnitName_104"] = "Secondary Destroyed Hawk",
+            ["DictKey_UnitName_540"] = "Secondary Destroyed SA-2 #002",
+            ["DictKey_UnitName_172"] = "Primary Destroyed SA10 #001",
+            ["DictKey_UnitName_46"] = "Secondary Destroyed SA-2 #002",
+            ["DictKey_UnitName_473"] = "Primary Destroyed HAWK #001",
+            ["DictKey_UnitName_535"] = "Unit #005",
+            ["DictKey_WptName_676"] = "",
+            ["DictKey_UnitName_714"] = "Primary Destroyed Hawk #001",
+            ["DictKey_UnitName_363"] = "Secondary Destroyed SA-2 #004",
+            ["DictKey_UnitName_179"] = "Primary Destroyed SA10",
+            ["DictKey_UnitName_280"] = "Primary Destroyed SA6 #004",
+            ["DictKey_UnitName_528"] = "Unit #011",
+            ["DictKey_UnitName_35"] = "Unit #010",
+            ["DictKey_UnitName_666"] = "Unit #003",
+            ["DictKey_UnitName_153"] = "Unit #031",
+            ["DictKey_UnitName_57"] = "Unit #003",
+            ["DictKey_UnitName_547"] = "Unit #096",
+            ["DictKey_WptName_520"] = "",
+            ["DictKey_UnitName_346"] = "Unit #004",
+            ["DictKey_UnitName_230"] = "Secondary Destroyed Hawk #003",
+            ["DictKey_UnitName_236"] = "Unit #005",
+            ["DictKey_UnitName_159"] = "Unit #024",
+            ["DictKey_UnitName_304"] = "Secondary Destroyed Hawk #001",
+            ["DictKey_UnitName_500"] = "Primary Destroyed HAWK #002",
+            ["DictKey_UnitName_162"] = "Unit #026",
+            ["DictKey_GroupName_479"] = "HAWK Jask A #001",
+            ["DictKey_UnitName_199"] = "Secondary Destroyed SA10 #003",
+            ["DictKey_UnitName_646"] = "Unit #020",
+            ["DictKey_WptName_734"] = "",
+            ["DictKey_UnitName_27"] = "Unit #003",
+            ["DictKey_UnitName_279"] = "Unit #320",
+            ["DictKey_UnitName_99"] = "Unit #009",
+            ["DictKey_UnitName_697"] = "Unit #013",
+            ["DictKey_UnitName_149"] = "Unit #035",
+            ["DictKey_UnitName_511"] = "Unit #013",
+            ["DictKey_UnitName_509"] = "Unit #015",
+            ["DictKey_UnitName_482"] = "Unit #014",
+            ["DictKey_GroupName_487"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_151"] = "Unit #033",
+            ["DictKey_UnitName_488"] = "Unit #008",
+            ["DictKey_UnitName_565"] = "Iran SA-2 Bn bldngs #018",
+            ["DictKey_UnitName_117"] = "Unit #004",
+            ["DictKey_WptName_327"] = "",
+            ["DictKey_UnitName_489"] = "Unit #009",
+            ["DictKey_UnitName_161"] = "Unit #022",
+            ["DictKey_UnitName_538"] = "Unit #002",
+            ["DictKey_UnitName_619"] = "Iran SA-2 Bn bldngs #014",
+            ["DictKey_WptName_397"] = "",
+            ["DictKey_WptName_486"] = "",
+            ["DictKey_GroupName_181"] = "SA-15 Bandar Abbas",
+            ["DictKey_UnitName_157"] = "Unit #027",
+            ["DictKey_UnitName_610"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_UnitName_36"] = "Unit #014",
+            ["DictKey_GroupName_147"] = "SA-15 Bandar Abbas",
+            ["DictKey_UnitName_47"] = "Secondary Destroyed SA-2",
+            ["DictKey_UnitName_176"] = "Secondary Destroyed SA10 #002",
+            ["DictKey_GroupName_298"] = "HAWK Abu Musa",
+            ["DictKey_UnitName_12"] = "Secondary Destroyed SA-2 #001",
+            ["DictKey_UnitName_239"] = "Unit #002",
+            ["DictKey_UnitName_585"] = "Unit #014",
+            ["DictKey_UnitName_502"] = "Secondary Destroyed HAWK #003",
+            ["DictKey_UnitName_271"] = "Unit #012",
+            ["DictKey_UnitName_531"] = "Unit #009",
+            ["DictKey_UnitName_39"] = "Primary Destroyed SA-2 #001",
+            ["DictKey_UnitName_505"] = "Primary Destroyed HAWK",
+            ["DictKey_UnitName_508"] = "Unit #016",
+            ["DictKey_UnitName_282"] = "Primary Destroyed SA6 #002",
+            ["DictKey_UnitName_237"] = "Unit #004",
+            ["DictKey_UnitName_364"] = "Secondary Destroyed SA-2 #005",
+            ["DictKey_UnitName_212"] = "Unit #024",
+            ["DictKey_GroupName_648"] = "SA-6 Khasab",
+            ["DictKey_UnitName_518"] = "Unit #010",
+            ["DictKey_GroupName_567"] = "Iran SA-2 Bn bldngs #011",
+            ["DictKey_WptName_216"] = "",
+            ["DictKey_UnitName_527"] = "Unit #012",
+            ["DictKey_WptName_285"] = "",
+            ["DictKey_UnitName_427"] = "Unit #002",
+            ["DictKey_UnitName_530"] = "Secondary Destroyed SA-2",
+            ["DictKey_UnitName_534"] = "Unit #006",
+            ["DictKey_UnitName_94"] = "Secondary Destroyed SA-3 #008",
+            ["DictKey_GroupName_223"] = "HAWK Tunb AFB",
+            ["DictKey_UnitName_539"] = "Unit #001",
+            ["DictKey_UnitName_491"] = "Unit #014",
+            ["DictKey_UnitName_141"] = "Secondary Destroyed SA10 #003",
+            ["DictKey_UnitName_512"] = "Unit #012",
+            ["DictKey_UnitName_546"] = "Primary Destroyed SA-2",
+            ["DictKey_UnitName_440"] = "Primary Destroyed Hawk #005",
+            ["DictKey_WptName_548"] = "",
+            ["DictKey_UnitName_553"] = "Iran SA-2 Bn bldngs #017",
+            ["DictKey_UnitName_126"] = "Unit #006",
+            ["DictKey_WptName_204"] = "",
+            ["DictKey_GroupName_555"] = "Iran SA-2 Bn bldngs #012",
+            ["DictKey_UnitName_229"] = "Secondary Destroyed Hawk #002",
+            ["DictKey_GroupName_561"] = "Iran SA-2 Bn bldngs #013",
+            ["DictKey_UnitName_390"] = "Secondary Destroyed SA-2 #001",
+            ["DictKey_WptName_506"] = "",
+            ["DictKey_GroupName_424"] = "SA-6 Tunb Kochak #001",
+            ["DictKey_UnitName_9"] = "Primary Destroyed SA-2 #001",
+            ["DictKey_UnitName_42"] = "Secondary Destroyed SA-2 #001",
+            ["DictKey_GroupName_570"] = "Iran SA-2 Bn bldngs #016",
+            ["DictKey_UnitName_44"] = "Secondary Destroyed SA-2 #004",
+            ["DictKey_UnitName_574"] = "Iran SA-2 Bn bldngs #009",
+            ["DictKey_GroupName_576"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_407"] = "Unit #001",
+            ["DictKey_UnitName_277"] = "Unit #322",
+            ["DictKey_GroupName_689"] = "SA-6 Khasab",
+            ["DictKey_UnitName_73"] = "Secondary Destroyed Hawk #002",
+            ["DictKey_UnitName_517"] = "Unit #009",
+            ["DictKey_UnitName_663"] = "Unit #008",
+            ["DictKey_WptName_356"] = "",
+            ["DictKey_WptName_572"] = "",
+            ["DictKey_WptName_291"] = "",
+            ["DictKey_UnitName_220"] = "Unit #010",
+            ["DictKey_WptName_563"] = "",
+            ["DictKey_UnitName_587"] = "Unit #012",
+            ["DictKey_UnitName_348"] = "Unit #002",
+            ["DictKey_UnitName_109"] = "Secondary Destroyed Hawk #002",
+            ["DictKey_WptName_256"] = "",
+            ["DictKey_UnitName_596"] = "Unit #004",
+            ["DictKey_UnitName_166"] = "Unit #009",
+            ["DictKey_UnitName_100"] = "Unit #010",
+            ["DictKey_GroupName_450"] = "HAWK Jask A #001",
+            ["DictKey_UnitName_272"] = "Unit #013",
+            ["DictKey_GroupName_618"] = "Iran SA-2 Bn bldngs #014",
+            ["DictKey_UnitName_401"] = "Unit #007",
+            ["DictKey_UnitName_605"] = "Secondary Destroyed SA-2 #003",
+            ["DictKey_WptName_608"] = "",
+            ["DictKey_UnitName_536"] = "Unit #004",
+            ["DictKey_GroupName_194"] = "S-300 Bandar Abbas",
+            ["DictKey_GroupName_459"] = "SAM Rearm Assets",
+            ["DictKey_UnitName_81"] = "Unit #014",
+            ["DictKey_UnitName_214"] = "Unit #022",
+            ["DictKey_UnitName_599"] = "Unit #001",
+            ["DictKey_UnitName_634"] = "Iran SA-2 Bn bldngs #010",
+            ["DictKey_UnitName_352"] = "Unit #013",
+            ["DictKey_UnitName_210"] = "Unit #001",
+            ["DictKey_UnitName_593"] = "Unit #007",
+            ["DictKey_WptName_617"] = "",
+            ["DictKey_UnitName_224"] = "Secondary Destroyed Hawk",
+            ["DictKey_UnitName_600"] = "Secondary Destroyed SA-2 #002",
+            ["DictKey_UnitName_501"] = "Primary Destroyed HAWK #001",
+            ["DictKey_WptName_614"] = "",
+            ["DictKey_UnitName_365"] = "Secondary Destroyed SA-2 #002",
+            ["DictKey_WptName_623"] = "",
+            ["DictKey_UnitName_294"] = "Unit #009",
+            ["DictKey_UnitName_383"] = "Unit #010",
+            ["DictKey_UnitName_160"] = "Unit #023",
+            ["DictKey_WptName_629"] = "",
+            ["DictKey_GroupName_630"] = "Iran SA-2 Bn bldngs #017",
+            ["DictKey_UnitName_399"] = "Unit #012",
+            ["DictKey_UnitName_474"] = "Secondary Destroyed HAWK #002",
+            ["DictKey_GroupName_624"] = "Iran SA-2 Bn bldngs #016",
+            ["DictKey_UnitName_470"] = "Secondary Destroyed HAWK #003",
+            ["DictKey_UnitName_341"] = "Unit #012",
+            ["DictKey_WptName_611"] = "",
+            ["DictKey_UnitName_525"] = "Unit #014",
+            ["DictKey_UnitName_699"] = "Unit #011",
+            ["DictKey_UnitName_694"] = "Primary Destroyed SA-6",
+            ["DictKey_UnitName_18"] = "Primary Destroyed SA-2",
+            ["DictKey_UnitName_659"] = "Unit #012",
+            ["DictKey_UnitName_120"] = "Unit #001",
+            ["DictKey_GroupName_269"] = "SAM Rearm Assets",
+            ["DictKey_WptName_620"] = "",
+            ["DictKey_UnitName_330"] = "Unit #009",
+            ["DictKey_UnitName_592"] = "Unit #008",
+            ["DictKey_UnitName_235"] = "Unit #006",
+            ["DictKey_UnitName_448"] = "Primary Destroyed Hawk",
+            ["DictKey_UnitName_602"] = "Secondary Destroyed SA-2 #004",
+            ["DictKey_UnitName_400"] = "Unit #011",
+            ["DictKey_UnitName_526"] = "Unit #013",
+            ["DictKey_UnitName_325"] = "Unit #012",
+            ["DictKey_UnitName_483"] = "Unit #013",
+            ["DictKey_UnitName_17"] = "Secondary Destroyed SA-2",
+            ["DictKey_UnitName_580"] = "Unit #020",
+            ["DictKey_UnitName_437"] = "Secondary Destroyed Hawk",
+            ["DictKey_UnitName_725"] = "Unit #003",
+            ["DictKey_UnitName_661"] = "Unit #010",
+            ["DictKey_GroupName_696"] = "SA-6 Khasab Adds",
+            ["DictKey_WptName_514"] = "",
+            ["DictKey_UnitName_698"] = "Unit #012",
+            ["DictKey_UnitName_722"] = "Unit #014",
+            ["DictKey_UnitName_300"] = "Secondary Destroyed Hawk #004",
+            ["DictKey_GroupName_609"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_WptName_554"] = "",
+            ["DictKey_GroupName_558"] = "Iran SA-2 Bn bldngs #010",
+            ["DictKey_UnitName_45"] = "Secondary Destroyed SA-2 #005",
+            ["DictKey_WptName_557"] = "",
+            ["DictKey_UnitName_733"] = "Unit #014",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "%LOCATIONMETHOD% an active HAWK SAM site at %LOCATION%, near Khasab.\
+\
+Primary Objectives: Destroy the AN/MPQ-46 Fire Control RADAR and command post.\
+\
+Secondary Objectives: Destroy any other related equipment, including launchers.\
+\
+Recommended Pilots: 2-4\
+\
+Recommended Ordnance: Anti-radiation missiles (AGM-88C etc.), long range standoff weaponry (JSOW etc.).",
+} -- end of staticTemplate

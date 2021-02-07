@@ -1,0 +1,10 @@
+region = {
+    ["name"] = "bandar-s300",
+    ["priority"] = 48,
+    ["limits"] = {
+        ["sam"] = {
+            ["min"] = 1,
+            ["max"] = 1,
+        },
+    },
+}

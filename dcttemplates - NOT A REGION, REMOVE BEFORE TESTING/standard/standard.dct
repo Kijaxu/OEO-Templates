@@ -1,0 +1,18 @@
+-- DCT File Template --
+
+objtype  = "ammodump",			--determines target type
+--intel	 = 4,					--dictates accuracy of provided coordinates
+--primary = nil,				--defines if this is a primary target or not	
+--priority = nil,				--lower number is higher priority
+--spawnalways = false,			--true means this template will always be spawned
+
+
+--name = nil,					--overrides name of template
+--coalition = "red",			--overrides ownership of asset
+--desc = nil,					--overrides target briefing
+--tpldata = nil,				--overrides tempalte contents (format as STM)
+--buildings = nil,				--includes map buildings in template
+--uniquenames = nil,			--ensures unique object names
+--exclusion = nil,				--templates in same group cannot both spawn
+--airbase   = nil,				--links this template to an airbase
+

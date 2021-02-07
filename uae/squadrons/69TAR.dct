@@ -1,0 +1,4 @@
+objtype = "squadronplayer"
+name = "69TAR"
+coalition = 2
+ato = {"OCA", "STRIKE", "ARMEDRECON", "SEAD"}

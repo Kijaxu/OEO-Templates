@@ -1,0 +1,1181 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [21]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 34,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 34,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -32159.950546159,
+                                            ["x"] = 76224.39574369,
+                                            ["name"] = "DictKey_WptName_401",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1169,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "outpost_road",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 3465,
+                                        ["skill"] = "Average",
+                                        ["y"] = -32159.950546159,
+                                        ["x"] = 76224.39574369,
+                                        ["name"] = "DictKey_UnitName_400",
+                                        ["heading"] = 2.775073510671,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "BTR-80",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 3466,
+                                        ["skill"] = "Average",
+                                        ["y"] = -32147.903751735,
+                                        ["x"] = 76220.526423474,
+                                        ["name"] = "DictKey_UnitName_399",
+                                        ["heading"] = 3.0019663134302,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "Land_Rover_109_S3",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 3467,
+                                        ["skill"] = "Average",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["TentedRoof"] = true,
+                                            ["Variant"] = 4,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["y"] = -32168.720508583,
+                                        ["x"] = 76204.508544002,
+                                        ["name"] = "DictKey_UnitName_398",
+                                        ["heading"] = 1.7802358370342,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 3468,
+                                        ["skill"] = "Average",
+                                        ["y"] = -32163.910902579,
+                                        ["x"] = 76208.687061409,
+                                        ["name"] = "DictKey_UnitName_397",
+                                        ["heading"] = 1.6231562043547,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 3469,
+                                        ["skill"] = "Average",
+                                        ["y"] = -32147.694105725,
+                                        ["x"] = 76214.997389716,
+                                        ["name"] = "DictKey_UnitName_396",
+                                        ["heading"] = 3.2463124087095,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["type"] = "Ural-375 ZU-23 Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 3470,
+                                        ["skill"] = "Average",
+                                        ["y"] = -32209.281891998,
+                                        ["x"] = 76230.086904817,
+                                        ["name"] = "DictKey_UnitName_395",
+                                        ["heading"] = 6.14355896702,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["type"] = "Ural-375 ZU-23 Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 3471,
+                                        ["skill"] = "Average",
+                                        ["y"] = -32122.776415776,
+                                        ["x"] = 76266.076651817,
+                                        ["name"] = "DictKey_UnitName_394",
+                                        ["heading"] = 6.14355896702,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [7]
+                                    [8] = 
+                                    {
+                                        ["type"] = "Ural-375 ZU-23 Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 3472,
+                                        ["skill"] = "Average",
+                                        ["y"] = -32276.925271902,
+                                        ["x"] = 76328.516694805,
+                                        ["name"] = "DictKey_UnitName_393",
+                                        ["heading"] = 6.14355896702,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [8]
+                                    [9] = 
+                                    {
+                                        ["type"] = "Ural-375 ZU-23 Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 3473,
+                                        ["skill"] = "Average",
+                                        ["y"] = -32143.589763438,
+                                        ["x"] = 76370.360195835,
+                                        ["name"] = "DictKey_UnitName_392",
+                                        ["heading"] = 6.14355896702,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [9]
+                                    [10] = 
+                                    {
+                                        ["type"] = "Igla manpad INS",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 3474,
+                                        ["skill"] = "Average",
+                                        ["y"] = -32132.532672492,
+                                        ["x"] = 76298.59750754,
+                                        ["name"] = "DictKey_UnitName_391",
+                                        ["heading"] = 6.14355896702,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [10]
+                                    [11] = 
+                                    {
+                                        ["type"] = "Igla manpad INS",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 3475,
+                                        ["skill"] = "Average",
+                                        ["y"] = -32252.426227257,
+                                        ["x"] = 76268.46151457,
+                                        ["name"] = "DictKey_UnitName_390",
+                                        ["heading"] = 6.14355896702,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [11]
+                                    [12] = 
+                                    {
+                                        ["type"] = "Igla manpad INS",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 3476,
+                                        ["skill"] = "Average",
+                                        ["y"] = -32223.374262812,
+                                        ["x"] = 76379.466035438,
+                                        ["name"] = "DictKey_UnitName_389",
+                                        ["heading"] = 6.14355896702,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [12]
+                                    [13] = 
+                                    {
+                                        ["type"] = "rapier_fsa_blindfire_radar",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 3483,
+                                        ["skill"] = "Average",
+                                        ["y"] = -32476.071359756,
+                                        ["x"] = 76440.380234707,
+                                        ["name"] = "DictKey_UnitName_388",
+                                        ["heading"] = 2.775073510671,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [13]
+                                    [14] = 
+                                    {
+                                        ["type"] = "rapier_fsa_optical_tracker_unit",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 3484,
+                                        ["skill"] = "Average",
+                                        ["y"] = -32474.591030227,
+                                        ["x"] = 76458.44025495,
+                                        ["name"] = "DictKey_UnitName_387",
+                                        ["heading"] = 2.775073510671,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [14]
+                                    [15] = 
+                                    {
+                                        ["type"] = "rapier_fsa_launcher",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 3485,
+                                        ["skill"] = "Average",
+                                        ["y"] = -32449.129362344,
+                                        ["x"] = 76449.558277782,
+                                        ["name"] = "DictKey_UnitName_386",
+                                        ["heading"] = 2.775073510671,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [15]
+                                    [16] = 
+                                    {
+                                        ["type"] = "rapier_fsa_launcher",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 3486,
+                                        ["skill"] = "Average",
+                                        ["y"] = -32454.754614551,
+                                        ["x"] = 76438.307773368,
+                                        ["name"] = "DictKey_UnitName_385",
+                                        ["heading"] = 2.775073510671,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [16]
+                                }, -- end of ["units"]
+                                ["y"] = -32159.950546159,
+                                ["x"] = 76224.39574369,
+                                ["name"] = "DictKey_GroupName_384",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "Iran",
+                    ["static"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["heading"] = 2.7401669256311,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -32220.911600858,
+                                            ["speed"] = 0,
+                                            ["x"] = 76312.546874921,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1170,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "angar_a",
+                                        ["type"] = "Hangar A",
+                                        ["unitId"] = 3477,
+                                        ["rate"] = 100,
+                                        ["y"] = -32220.911600858,
+                                        ["x"] = 76312.546874921,
+                                        ["name"] = "DictKey_GroupName_402",
+                                        ["heading"] = 2.7401669256311,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -32220.911600858,
+                                ["x"] = 76312.546874921,
+                                ["name"] = "DictKey_GroupName_402",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["heading"] = 1.1519173063163,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -32246.277868322,
+                                            ["speed"] = 0,
+                                            ["x"] = 76337.479530976,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1171,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "ceh_ang_a",
+                                        ["type"] = "Tech hangar A",
+                                        ["unitId"] = 3478,
+                                        ["rate"] = 100,
+                                        ["y"] = -32246.277868322,
+                                        ["x"] = 76337.479530976,
+                                        ["name"] = "DictKey_GroupName_405",
+                                        ["heading"] = 1.1519173063163,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -32246.277868322,
+                                ["x"] = 76337.479530976,
+                                ["name"] = "DictKey_GroupName_405",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [2]
+                            [3] = 
+                            {
+                                ["heading"] = 1.1519173063163,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -32210.071315617,
+                                            ["speed"] = 0,
+                                            ["x"] = 76350.70467897,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1172,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "ceh_ang_a",
+                                        ["type"] = "Tech hangar A",
+                                        ["unitId"] = 3479,
+                                        ["rate"] = 100,
+                                        ["y"] = -32210.071315617,
+                                        ["x"] = 76350.70467897,
+                                        ["name"] = "DictKey_GroupName_408",
+                                        ["heading"] = 1.1519173063163,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -32210.071315617,
+                                ["x"] = 76350.70467897,
+                                ["name"] = "DictKey_GroupName_408",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [3]
+                            [4] = 
+                            {
+                                ["heading"] = 1.1519173063163,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -32169.962260226,
+                                            ["speed"] = 0,
+                                            ["x"] = 76365.881078307,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1173,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "ceh_ang_a",
+                                        ["type"] = "Tech hangar A",
+                                        ["unitId"] = 3480,
+                                        ["rate"] = 100,
+                                        ["y"] = -32169.962260226,
+                                        ["x"] = 76365.881078307,
+                                        ["name"] = "DictKey_GroupName_411",
+                                        ["heading"] = 1.1519173063163,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -32169.962260226,
+                                ["x"] = 76365.881078307,
+                                ["name"] = "DictKey_GroupName_411",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [4]
+                            [5] = 
+                            {
+                                ["heading"] = 5.9166661642608,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -32178.350809237,
+                                            ["speed"] = 0,
+                                            ["x"] = 76278.020066655,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1174,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "tech",
+                                        ["type"] = "Repair workshop",
+                                        ["unitId"] = 3481,
+                                        ["rate"] = 100,
+                                        ["y"] = -32178.350809237,
+                                        ["x"] = 76278.020066655,
+                                        ["name"] = "DictKey_GroupName_414",
+                                        ["heading"] = 5.9166661642608,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -32178.350809237,
+                                ["x"] = 76278.020066655,
+                                ["name"] = "DictKey_GroupName_414",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [5]
+                            [6] = 
+                            {
+                                ["heading"] = 2.7401669256311,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -32178.634488418,
+                                            ["speed"] = 0,
+                                            ["x"] = 76329.891331307,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1175,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "angar_a",
+                                        ["type"] = "Hangar A",
+                                        ["unitId"] = 3482,
+                                        ["rate"] = 100,
+                                        ["y"] = -32178.634488418,
+                                        ["x"] = 76329.891331307,
+                                        ["name"] = "DictKey_GroupName_417",
+                                        ["heading"] = 2.7401669256311,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -32178.634488418,
+                                ["x"] = 76329.891331307,
+                                ["name"] = "DictKey_GroupName_417",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [6]
+                        }, -- end of ["group"]
+                    }, -- end of ["static"]
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 0,
+                    ["name"] = "Russia",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [11]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "Qeshm Warehouses C",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_WptName_377"] = "",
+            ["DictKey_UnitName_326"] = "Secondary Damaged Warehouses #001",
+            ["DictKey_UnitName_52"] = "Unit #008",
+            ["DictKey_UnitName_67"] = "Unit #019",
+            ["DictKey_WptName_401"] = "",
+            ["DictKey_UnitName_364"] = "Primary Destroyed Warehouses",
+            ["DictKey_UnitName_156"] = "New Static Object #003",
+            ["DictKey_GroupName_29"] = "New Static Object #003",
+            ["DictKey_GroupName_23"] = "New Static Object #001",
+            ["DictKey_WptName_113"] = "",
+            ["DictKey_UnitName_135"] = "Unit #010",
+            ["DictKey_UnitName_310"] = "Unit #002",
+            ["DictKey_UnitName_62"] = "Unit #024",
+            ["DictKey_UnitName_226"] = "New Static Object #008",
+            ["DictKey_UnitName_73"] = "Unit #013",
+            ["DictKey_GroupName_402"] = "Secondary Damaged Warehouses",
+            ["DictKey_GroupName_47"] = "Weapons Warehouses",
+            ["DictKey_WptName_31"] = "",
+            ["DictKey_UnitName_39"] = "New Static Object #006",
+            ["DictKey_UnitName_398"] = "Unit #015",
+            ["DictKey_UnitName_329"] = "New Static Object #005",
+            ["DictKey_WptName_295"] = "",
+            ["DictKey_WptName_410"] = "",
+            ["DictKey_UnitName_12"] = "Unit #007",
+            ["DictKey_UnitName_192"] = "Unit #020",
+            ["DictKey_UnitName_320"] = "Secondary Damaged Warehouses",
+            ["DictKey_UnitName_388"] = "Unit #001",
+            ["DictKey_GroupName_255"] = "Secondary Damaged Warehouses #002",
+            ["DictKey_WptName_43"] = "",
+            ["DictKey_WptName_416"] = "",
+            ["DictKey_UnitName_345"] = "Unit #020",
+            ["DictKey_UnitName_406"] = "New Static Object #010",
+            ["DictKey_UnitName_76"] = "New Static Object",
+            ["DictKey_UnitName_238"] = "New Static Object #013",
+            ["DictKey_UnitName_136"] = "Unit #009",
+            ["DictKey_UnitName_36"] = "New Static Object #005",
+            ["DictKey_GroupName_354"] = "Primary Damaged Warehouses",
+            ["DictKey_GroupName_129"] = "New Static Object #018",
+            ["DictKey_UnitName_348"] = "Unit #017",
+            ["DictKey_UnitName_69"] = "Unit #017",
+            ["DictKey_GroupName_360"] = "Secondary Damaged Warehouses",
+            ["DictKey_WptName_25"] = "",
+            ["DictKey_WptName_374"] = "",
+            ["DictKey_UnitName_130"] = "New Static Object #018",
+            ["DictKey_WptName_218"] = "",
+            ["DictKey_GroupName_331"] = "Secondary Damaged Warehouses #002",
+            ["DictKey_WptName_157"] = "",
+            ["DictKey_UnitName_171"] = "New Static Object #008",
+            ["DictKey_WptName_289"] = "",
+            ["DictKey_GroupName_146"] = "New Static Object",
+            ["DictKey_UnitName_48"] = "Unit #012",
+            ["DictKey_GroupName_90"] = "New Static Object #005",
+            ["DictKey_UnitName_382"] = "Secondary Damaged Warehouses #002",
+            ["DictKey_UnitName_183"] = "Unit #003",
+            ["DictKey_UnitName_262"] = "Unit #009",
+            ["DictKey_GroupName_20"] = "New Static Object",
+            ["DictKey_GroupName_411"] = "Primary Destroyed Warehouses #004",
+            ["DictKey_UnitName_355"] = "Primary Damaged Warehouses",
+            ["DictKey_UnitName_358"] = "Primary Damaged Warehouses #001",
+            ["DictKey_GroupName_120"] = "New Static Object #017",
+            ["DictKey_UnitName_153"] = "New Static Object #002",
+            ["DictKey_GroupName_38"] = "New Static Object #006",
+            ["DictKey_WptName_200"] = "",
+            ["DictKey_UnitName_270"] = "Unit #001",
+            ["DictKey_UnitName_175"] = "Unit #011",
+            ["DictKey_GroupName_170"] = "New Static Object #008",
+            ["DictKey_UnitName_15"] = "Unit #004",
+            ["DictKey_WptName_92"] = "",
+            ["DictKey_UnitName_395"] = "Unit #018",
+            ["DictKey_GroupName_201"] = "New Static Object",
+            ["DictKey_GroupName_296"] = "Secondary Damaged Warehouses #004",
+            ["DictKey_GroupName_372"] = "Primary Damaged Warehouses #003",
+            ["DictKey_WptName_116"] = "",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_UnitName_263"] = "Unit #008",
+            ["DictKey_UnitName_351"] = "Unit #014",
+            ["DictKey_GroupName_93"] = "New Static Object #006",
+            ["DictKey_GroupName_378"] = "Secondary Damaged Warehouses #004",
+            ["DictKey_GroupName_219"] = "New Static Object #006",
+            ["DictKey_UnitName_323"] = "New Static Object #003",
+            ["DictKey_UnitName_208"] = "New Static Object #002",
+            ["DictKey_GroupName_369"] = "Secondary Damaged Warehouses #001",
+            ["DictKey_UnitName_309"] = "Unit #003",
+            ["DictKey_GroupName_152"] = "New Static Object #002",
+            ["DictKey_GroupName_414"] = "Primary Destroyed Warehouses",
+            ["DictKey_UnitName_373"] = "Primary Damaged Warehouses #003",
+            ["DictKey_WptName_407"] = "",
+            ["DictKey_UnitName_267"] = "Unit #004",
+            ["DictKey_WptName_251"] = "",
+            ["DictKey_UnitName_106"] = "New Static Object #011",
+            ["DictKey_WptName_60"] = "",
+            ["DictKey_UnitName_259"] = "Unit #012",
+            ["DictKey_WptName_404"] = "",
+            ["DictKey_WptName_89"] = "",
+            ["DictKey_UnitName_58"] = "Unit #002",
+            ["DictKey_UnitName_393"] = "Unit #020",
+            ["DictKey_UnitName_308"] = "Unit #004",
+            ["DictKey_GroupName_384"] = "Weapons Warehouses #001",
+            ["DictKey_WptName_98"] = "",
+            ["DictKey_GroupName_340"] = "Weapons Warehouses #001",
+            ["DictKey_WptName_254"] = "",
+            ["DictKey_UnitName_54"] = "Unit #006",
+            ["DictKey_GroupName_158"] = "New Static Object #004",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_UnitName_55"] = "Unit #005",
+            ["DictKey_UnitName_294"] = "New Static Object #007",
+            ["DictKey_UnitName_178"] = "Unit #008",
+            ["DictKey_GroupName_258"] = "Weapons Warehouses",
+            ["DictKey_UnitName_343"] = "Unit #022",
+            ["DictKey_UnitName_134"] = "Unit #011",
+            ["DictKey_UnitName_247"] = "New Static Object #017",
+            ["DictKey_GroupName_293"] = "Secondary Damaged Warehouses #003",
+            ["DictKey_UnitName_244"] = "New Static Object #015",
+            ["DictKey_UnitName_202"] = "New Static Object",
+            ["DictKey_GroupName_408"] = "Primary Destroyed Warehouses #003",
+            ["DictKey_WptName_413"] = "",
+            ["DictKey_GroupName_325"] = "Secondary Damaged Warehouses #001",
+            ["DictKey_UnitName_68"] = "Unit #018",
+            ["DictKey_GroupName_234"] = "Secondary Damaged Warehouses",
+            ["DictKey_UnitName_21"] = "New Static Object",
+            ["DictKey_WptName_107"] = "",
+            ["DictKey_UnitName_147"] = "New Static Object",
+            ["DictKey_UnitName_305"] = "Unit #007",
+            ["DictKey_UnitName_139"] = "Unit #006",
+            ["DictKey_GroupName_61"] = "Weapons Warehouses #001",
+            ["DictKey_UnitName_341"] = "Unit #024",
+            ["DictKey_WptName_274"] = "",
+            ["DictKey_GroupName_299"] = "Weapons Warehouses",
+            ["DictKey_WptName_34"] = "",
+            ["DictKey_UnitName_142"] = "Unit #003",
+            ["DictKey_UnitName_361"] = "Secondary Damaged Warehouses",
+            ["DictKey_UnitName_91"] = "New Static Object #005",
+            ["DictKey_GroupName_149"] = "New Static Object #001",
+            ["DictKey_GroupName_275"] = "Primary Destroyed Warehouses #001",
+            ["DictKey_UnitName_70"] = "Unit #016",
+            ["DictKey_GroupName_99"] = "New Static Object #008",
+            ["DictKey_UnitName_241"] = "New Static Object #014",
+            ["DictKey_UnitName_269"] = "Unit #002",
+            ["DictKey_UnitName_253"] = "New Static Object #016",
+            ["DictKey_UnitName_42"] = "New Static Object #007",
+            ["DictKey_WptName_383"] = "",
+            ["DictKey_GroupName_225"] = "New Static Object #008",
+            ["DictKey_UnitName_392"] = "Unit #021",
+            ["DictKey_UnitName_24"] = "New Static Object #001",
+            ["DictKey_WptName_280"] = "",
+            ["DictKey_GroupName_26"] = "New Static Object #002",
+            ["DictKey_UnitName_306"] = "Unit #006",
+            ["DictKey_UnitName_196"] = "Unit #016",
+            ["DictKey_WptName_160"] = "",
+            ["DictKey_UnitName_10"] = "Unit #009",
+            ["DictKey_UnitName_367"] = "Primary Damaged Warehouses #002",
+            ["DictKey_UnitName_63"] = "Unit #023",
+            ["DictKey_UnitName_409"] = "New Static Object #011",
+            ["DictKey_GroupName_366"] = "Primary Damaged Warehouses #002",
+            ["DictKey_UnitName_144"] = "Unit #001",
+            ["DictKey_GroupName_164"] = "New Static Object #006",
+            ["DictKey_WptName_19"] = "",
+            ["DictKey_UnitName_51"] = "Unit #009",
+            ["DictKey_GroupName_78"] = "New Static Object #001",
+            ["DictKey_UnitName_56"] = "Unit #004",
+            ["DictKey_UnitName_174"] = "Unit #012",
+            ["DictKey_UnitName_165"] = "New Static Object #006",
+            ["DictKey_UnitName_118"] = "New Static Object #015",
+            ["DictKey_WptName_80"] = "",
+            ["DictKey_UnitName_387"] = "Unit #002",
+            ["DictKey_UnitName_350"] = "Unit #015",
+            ["DictKey_UnitName_85"] = "New Static Object #003",
+            ["DictKey_WptName_227"] = "",
+            ["DictKey_UnitName_342"] = "Unit #023",
+            ["DictKey_WptName_86"] = "",
+            ["DictKey_UnitName_285"] = "New Static Object #004",
+            ["DictKey_WptName_339"] = "",
+            ["DictKey_GroupName_96"] = "New Static Object #007",
+            ["DictKey_UnitName_415"] = "New Static Object #013",
+            ["DictKey_GroupName_213"] = "New Static Object #004",
+            ["DictKey_UnitName_396"] = "Unit #017",
+            ["DictKey_GroupName_132"] = "Weapons Warehouses",
+            ["DictKey_UnitName_150"] = "New Static Object #001",
+            ["DictKey_WptName_163"] = "",
+            ["DictKey_UnitName_291"] = "New Static Object #006",
+            ["DictKey_UnitName_193"] = "Unit #019",
+            ["DictKey_WptName_286"] = "",
+            ["DictKey_UnitName_138"] = "Unit #007",
+            ["DictKey_UnitName_11"] = "Unit #008",
+            ["DictKey_WptName_22"] = "",
+            ["DictKey_GroupName_222"] = "New Static Object #007",
+            ["DictKey_GroupName_204"] = "New Static Object #001",
+            ["DictKey_UnitName_18"] = "Unit #001",
+            ["DictKey_UnitName_232"] = "New Static Object #011",
+            ["DictKey_WptName_356"] = "",
+            ["DictKey_UnitName_332"] = "Secondary Damaged Warehouses #002",
+            ["DictKey_GroupName_102"] = "New Static Object #009",
+            ["DictKey_WptName_145"] = "",
+            ["DictKey_GroupName_117"] = "New Static Object #015",
+            ["DictKey_UnitName_197"] = "Unit #015",
+            ["DictKey_GroupName_81"] = "New Static Object #002",
+            ["DictKey_UnitName_53"] = "Unit #007",
+            ["DictKey_UnitName_400"] = "Unit #013",
+            ["DictKey_WptName_215"] = "",
+            ["DictKey_WptName_148"] = "",
+            ["DictKey_GroupName_123"] = "New Static Object #010",
+            ["DictKey_UnitName_115"] = "New Static Object #014",
+            ["DictKey_GroupName_216"] = "New Static Object #005",
+            ["DictKey_WptName_221"] = "",
+            ["DictKey_WptName_212"] = "",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_UnitName_385"] = "Unit #004",
+            ["DictKey_GroupName_237"] = "Primary Destroyed Warehouses",
+            ["DictKey_WptName_298"] = "",
+            ["DictKey_UnitName_418"] = "New Static Object #014",
+            ["DictKey_UnitName_220"] = "New Static Object #006",
+            ["DictKey_GroupName_35"] = "New Static Object #005",
+            ["DictKey_GroupName_322"] = "New Static Object #003",
+            ["DictKey_UnitName_7"] = "Unit #012",
+            ["DictKey_UnitName_235"] = "New Static Object #012",
+            ["DictKey_UnitName_66"] = "Unit #020",
+            ["DictKey_UnitName_397"] = "Unit #016",
+            ["DictKey_UnitName_190"] = "Unit #022",
+            ["DictKey_WptName_248"] = "",
+            ["DictKey_UnitName_168"] = "New Static Object #007",
+            ["DictKey_UnitName_162"] = "New Static Object #005",
+            ["DictKey_WptName_203"] = "",
+            ["DictKey_UnitName_72"] = "Unit #014",
+            ["DictKey_UnitName_159"] = "New Static Object #004",
+            ["DictKey_UnitName_184"] = "Unit #002",
+            ["DictKey_UnitName_379"] = "Secondary Damaged Warehouses #004",
+            ["DictKey_UnitName_288"] = "New Static Object #005",
+            ["DictKey_GroupName_155"] = "New Static Object #003",
+            ["DictKey_UnitName_314"] = "Primary Destroyed Warehouses",
+            ["DictKey_UnitName_182"] = "Unit #004",
+            ["DictKey_WptName_333"] = "",
+            ["DictKey_WptName_40"] = "",
+            ["DictKey_GroupName_228"] = "Primary Damaged Warehouses",
+            ["DictKey_UnitName_191"] = "Unit #021",
+            ["DictKey_UnitName_49"] = "Unit #011",
+            ["DictKey_WptName_28"] = "",
+            ["DictKey_UnitName_223"] = "New Static Object #007",
+            ["DictKey_WptName_125"] = "",
+            ["DictKey_WptName_172"] = "",
+            ["DictKey_UnitName_112"] = "New Static Object #013",
+            ["DictKey_UnitName_179"] = "Unit #007",
+            ["DictKey_WptName_151"] = "",
+            ["DictKey_WptName_236"] = "",
+            ["DictKey_WptName_312"] = "",
+            ["DictKey_UnitName_50"] = "Unit #010",
+            ["DictKey_WptName_186"] = "",
+            ["DictKey_UnitName_57"] = "Unit #003",
+            ["DictKey_WptName_119"] = "",
+            ["DictKey_UnitName_256"] = "New Static Object #018",
+            ["DictKey_UnitName_346"] = "Unit #019",
+            ["DictKey_GroupName_231"] = "Primary Damaged Warehouses #001",
+            ["DictKey_WptName_233"] = "",
+            ["DictKey_UnitName_211"] = "New Static Object #003",
+            ["DictKey_UnitName_137"] = "Unit #008",
+            ["DictKey_UnitName_14"] = "Unit #005",
+            ["DictKey_WptName_330"] = "",
+            ["DictKey_UnitName_303"] = "Unit #009",
+            ["DictKey_UnitName_199"] = "Unit #013",
+            ["DictKey_GroupName_41"] = "New Static Object #007",
+            ["DictKey_UnitName_188"] = "Unit #024",
+            ["DictKey_UnitName_301"] = "Unit #011",
+            ["DictKey_UnitName_27"] = "New Static Object #002",
+            ["DictKey_WptName_74"] = "",
+            ["DictKey_GroupName_167"] = "New Static Object #007",
+            ["DictKey_GroupName_319"] = "Secondary Damaged Warehouses",
+            ["DictKey_GroupName_108"] = "New Static Object #012",
+            ["DictKey_UnitName_176"] = "Unit #010",
+            ["DictKey_UnitName_297"] = "New Static Object #008",
+            ["DictKey_UnitName_133"] = "Unit #012",
+            ["DictKey_UnitName_30"] = "New Static Object #003",
+            ["DictKey_WptName_324"] = "",
+            ["DictKey_UnitName_180"] = "Unit #006",
+            ["DictKey_UnitName_140"] = "Unit #005",
+            ["DictKey_UnitName_394"] = "Unit #019",
+            ["DictKey_WptName_292"] = "",
+            ["DictKey_WptName_37"] = "",
+            ["DictKey_GroupName_240"] = "Primary Damaged Warehouses #002",
+            ["DictKey_UnitName_268"] = "Unit #003",
+            ["DictKey_GroupName_84"] = "New Static Object #003",
+            ["DictKey_GroupName_75"] = "New Static Object",
+            ["DictKey_GroupName_337"] = "Secondary Damaged Warehouses #004",
+            ["DictKey_UnitName_13"] = "Unit #006",
+            ["DictKey_GroupName_284"] = "Secondary Damaged Warehouses #001",
+            ["DictKey_UnitName_185"] = "Unit #001",
+            ["DictKey_WptName_95"] = "",
+            ["DictKey_WptName_169"] = "",
+            ["DictKey_GroupName_417"] = "Secondary Damaged Warehouses #001",
+            ["DictKey_GroupName_278"] = "Secondary Damaged Warehouses",
+            ["DictKey_WptName_101"] = "",
+            ["DictKey_WptName_166"] = "",
+            ["DictKey_WptName_154"] = "",
+            ["DictKey_UnitName_59"] = "Unit #001",
+            ["DictKey_GroupName_32"] = "New Static Object #004",
+            ["DictKey_WptName_327"] = "",
+            ["DictKey_WptName_206"] = "",
+            ["DictKey_UnitName_265"] = "Unit #006",
+            ["DictKey_WptName_122"] = "",
+            ["DictKey_UnitName_282"] = "New Static Object #003",
+            ["DictKey_WptName_283"] = "",
+            ["DictKey_GroupName_161"] = "New Static Object #005",
+            ["DictKey_WptName_277"] = "",
+            ["DictKey_GroupName_243"] = "Secondary Damaged Warehouses #001",
+            ["DictKey_GroupName_6"] = "Weapons Warehouses",
+            ["DictKey_UnitName_266"] = "Unit #005",
+            ["DictKey_GroupName_246"] = "Primary Damaged Warehouses #003",
+            ["DictKey_UnitName_376"] = "Secondary Damaged Warehouses #003",
+            ["DictKey_UnitName_143"] = "Unit #002",
+            ["DictKey_GroupName_249"] = "Secondary Damaged Warehouses #003",
+            ["DictKey_WptName_380"] = "",
+            ["DictKey_GroupName_111"] = "New Static Object #013",
+            ["DictKey_UnitName_94"] = "New Static Object #006",
+            ["DictKey_GroupName_405"] = "Primary Destroyed Warehouses #002",
+            ["DictKey_UnitName_279"] = "New Static Object #002",
+            ["DictKey_UnitName_121"] = "New Static Object #017",
+            ["DictKey_WptName_365"] = "",
+            ["DictKey_WptName_83"] = "",
+            ["DictKey_WptName_239"] = "",
+            ["DictKey_UnitName_302"] = "Unit #010",
+            ["DictKey_WptName_128"] = "",
+            ["DictKey_GroupName_114"] = "New Static Object #014",
+            ["DictKey_WptName_371"] = "",
+            ["DictKey_GroupName_375"] = "Secondary Damaged Warehouses #003",
+            ["DictKey_UnitName_370"] = "Secondary Damaged Warehouses #001",
+            ["DictKey_UnitName_79"] = "New Static Object #001",
+            ["DictKey_UnitName_45"] = "New Static Object #008",
+            ["DictKey_UnitName_390"] = "Unit #023",
+            ["DictKey_UnitName_260"] = "Unit #011",
+            ["DictKey_GroupName_313"] = "Primary Destroyed Warehouses",
+            ["DictKey_UnitName_9"] = "Unit #010",
+            ["DictKey_GroupName_87"] = "New Static Object #004",
+            ["DictKey_WptName_77"] = "",
+            ["DictKey_UnitName_347"] = "Unit #018",
+            ["DictKey_GroupName_173"] = "Weapons Warehouses",
+            ["DictKey_GroupName_105"] = "New Static Object #011",
+            ["DictKey_GroupName_187"] = "Weapons Warehouses #001",
+            ["DictKey_UnitName_264"] = "Unit #007",
+            ["DictKey_UnitName_141"] = "Unit #004",
+            ["DictKey_UnitName_338"] = "Secondary Damaged Warehouses #004",
+            ["DictKey_UnitName_198"] = "Unit #014",
+            ["DictKey_WptName_353"] = "",
+            ["DictKey_WptName_271"] = "",
+            ["DictKey_WptName_104"] = "",
+            ["DictKey_UnitName_276"] = "New Static Object #001",
+            ["DictKey_UnitName_88"] = "New Static Object #004",
+            ["DictKey_GroupName_281"] = "New Static Object #003",
+            ["DictKey_UnitName_195"] = "Unit #017",
+            ["DictKey_UnitName_71"] = "Unit #015",
+            ["DictKey_UnitName_109"] = "New Static Object #012",
+            ["DictKey_UnitName_189"] = "Unit #023",
+            ["DictKey_GroupName_287"] = "New Static Object #005",
+            ["DictKey_GroupName_126"] = "New Static Object #016",
+            ["DictKey_UnitName_100"] = "New Static Object #008",
+            ["DictKey_UnitName_205"] = "New Static Object #001",
+            ["DictKey_UnitName_250"] = "New Static Object #010",
+            ["DictKey_WptName_242"] = "",
+            ["DictKey_UnitName_124"] = "New Static Object #010",
+            ["DictKey_UnitName_16"] = "Unit #003",
+            ["DictKey_UnitName_33"] = "New Static Object #004",
+            ["DictKey_GroupName_316"] = "Primary Destroyed Warehouses #001",
+            ["DictKey_UnitName_127"] = "New Static Object #016",
+            ["DictKey_UnitName_304"] = "Unit #008",
+            ["DictKey_UnitName_273"] = "New Static Object",
+            ["DictKey_UnitName_214"] = "New Static Object #004",
+            ["DictKey_UnitName_349"] = "Unit #016",
+            ["DictKey_UnitName_311"] = "Unit #001",
+            ["DictKey_UnitName_352"] = "Unit #013",
+            ["DictKey_WptName_315"] = "",
+            ["DictKey_WptName_230"] = "",
+            ["DictKey_UnitName_391"] = "Unit #022",
+            ["DictKey_UnitName_194"] = "Unit #018",
+            ["DictKey_WptName_318"] = "",
+            ["DictKey_WptName_245"] = "",
+            ["DictKey_WptName_321"] = "",
+            ["DictKey_GroupName_272"] = "Primary Destroyed Warehouses",
+            ["DictKey_GroupName_207"] = "New Static Object #002",
+            ["DictKey_UnitName_217"] = "New Static Object #005",
+            ["DictKey_UnitName_82"] = "New Static Object #002",
+            ["DictKey_GroupName_210"] = "New Static Object #003",
+            ["DictKey_WptName_336"] = "",
+            ["DictKey_WptName_46"] = "",
+            ["DictKey_UnitName_399"] = "Unit #014",
+            ["DictKey_UnitName_386"] = "Unit #003",
+            ["DictKey_GroupName_44"] = "New Static Object #008",
+            ["DictKey_UnitName_412"] = "New Static Object #012",
+            ["DictKey_WptName_257"] = "",
+            ["DictKey_WptName_131"] = "",
+            ["DictKey_GroupName_290"] = "Secondary Damaged Warehouses #002",
+            ["DictKey_UnitName_335"] = "Secondary Damaged Warehouses #003",
+            ["DictKey_WptName_419"] = "",
+            ["DictKey_WptName_224"] = "",
+            ["DictKey_GroupName_334"] = "Secondary Damaged Warehouses #003",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_GroupName_252"] = "Secondary Damaged Warehouses #004",
+            ["DictKey_UnitName_103"] = "New Static Object #009",
+            ["DictKey_UnitName_317"] = "Primary Destroyed Warehouses #001",
+            ["DictKey_WptName_359"] = "",
+            ["DictKey_WptName_368"] = "",
+            ["DictKey_UnitName_344"] = "Unit #021",
+            ["DictKey_WptName_362"] = "",
+            ["DictKey_GroupName_328"] = "New Static Object #005",
+            ["DictKey_GroupName_381"] = "Secondary Damaged Warehouses #002",
+            ["DictKey_UnitName_177"] = "Unit #009",
+            ["DictKey_WptName_110"] = "",
+            ["DictKey_UnitName_17"] = "Unit #002",
+            ["DictKey_UnitName_181"] = "Unit #005",
+            ["DictKey_GroupName_357"] = "Primary Damaged Warehouses #001",
+            ["DictKey_UnitName_65"] = "Unit #021",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_UnitName_261"] = "Unit #010",
+            ["DictKey_UnitName_97"] = "New Static Object #007",
+            ["DictKey_UnitName_389"] = "Unit #024",
+            ["DictKey_UnitName_64"] = "Unit #022",
+            ["DictKey_UnitName_300"] = "Unit #012",
+            ["DictKey_UnitName_307"] = "Unit #005",
+            ["DictKey_UnitName_403"] = "New Static Object #009",
+            ["DictKey_UnitName_229"] = "New Static Object #009",
+            ["DictKey_WptName_209"] = "",
+            ["DictKey_GroupName_363"] = "Primary Destroyed Warehouses",
+            ["DictKey_UnitName_8"] = "Unit #011",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "%LOCATIONMETHOD% an Iranian warehouse on Qeshm Island, south west of Paiposht, %LOCATION%.\
+\
+Primary Objectives: Destroy the brown bunker and three white warehouses.\
+\
+Secondary Objectives: Maximise damage to the remaining bunkers.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion.",
+} -- end of staticTemplate

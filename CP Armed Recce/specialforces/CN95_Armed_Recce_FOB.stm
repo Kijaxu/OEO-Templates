@@ -1,0 +1,3120 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["neutrals"] = 
+        {
+            ["name"] = "neutrals",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 70,
+                    ["name"] = "Algeria",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 83,
+                    ["name"] = "Argentina",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 23,
+                    ["name"] = "Austria",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 65,
+                    ["name"] = "Bahrain",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 64,
+                    ["name"] = "Brazil",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 25,
+                    ["name"] = "Bulgaria",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 63,
+                    ["name"] = "Chile",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 76,
+                    ["name"] = "Cuba",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 29,
+                    ["name"] = "Egypt",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 62,
+                    ["name"] = "Ethiopia",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 30,
+                    ["name"] = "Finland",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 78,
+                    ["name"] = "GDR",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 31,
+                    ["name"] = "Greece",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 61,
+                    ["name"] = "Honduras",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 32,
+                    ["name"] = "Hungary",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 33,
+                    ["name"] = "India",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 60,
+                    ["name"] = "Indonesia",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 35,
+                    ["name"] = "Iraq",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 69,
+                    ["name"] = "Italian Social Republic",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 36,
+                    ["name"] = "Japan",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 59,
+                    ["name"] = "Jordan",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 71,
+                    ["name"] = "Kuwait",
+                }, -- end of [22]
+                [23] = 
+                {
+                    ["id"] = 79,
+                    ["name"] = "Lebanon",
+                }, -- end of [23]
+                [24] = 
+                {
+                    ["id"] = 58,
+                    ["name"] = "Libya",
+                }, -- end of [24]
+                [25] = 
+                {
+                    ["id"] = 57,
+                    ["name"] = "Malaysia",
+                }, -- end of [25]
+                [26] = 
+                {
+                    ["id"] = 56,
+                    ["name"] = "Mexico",
+                }, -- end of [26]
+                [27] = 
+                {
+                    ["id"] = 55,
+                    ["name"] = "Morocco",
+                }, -- end of [27]
+                [28] = 
+                {
+                    ["id"] = 73,
+                    ["name"] = "Oman",
+                }, -- end of [28]
+                [29] = 
+                {
+                    ["id"] = 39,
+                    ["name"] = "Pakistan",
+                }, -- end of [29]
+                [30] = 
+                {
+                    ["id"] = 54,
+                    ["name"] = "Philippines",
+                }, -- end of [30]
+                [31] = 
+                {
+                    ["id"] = 77,
+                    ["name"] = "Portugal",
+                }, -- end of [31]
+                [32] = 
+                {
+                    ["id"] = 72,
+                    ["name"] = "Qatar",
+                }, -- end of [32]
+                [33] = 
+                {
+                    ["id"] = 41,
+                    ["name"] = "Romania",
+                }, -- end of [33]
+                [34] = 
+                {
+                    ["id"] = 42,
+                    ["name"] = "Saudi Arabia",
+                }, -- end of [34]
+                [35] = 
+                {
+                    ["id"] = 44,
+                    ["name"] = "Slovakia",
+                }, -- end of [35]
+                [36] = 
+                {
+                    ["id"] = 75,
+                    ["name"] = "South Africa",
+                }, -- end of [36]
+                [37] = 
+                {
+                    ["id"] = 53,
+                    ["name"] = "Sudan",
+                }, -- end of [37]
+                [38] = 
+                {
+                    ["id"] = 22,
+                    ["name"] = "Switzerland",
+                }, -- end of [38]
+                [39] = 
+                {
+                    ["id"] = 52,
+                    ["name"] = "Thailand",
+                }, -- end of [39]
+                [40] = 
+                {
+                    ["id"] = 66,
+                    ["name"] = "Third Reich",
+                }, -- end of [40]
+                [41] = 
+                {
+                    ["id"] = 51,
+                    ["name"] = "Tunisia",
+                }, -- end of [41]
+                [42] = 
+                {
+                    ["id"] = 74,
+                    ["name"] = "United Arab Emirates",
+                }, -- end of [42]
+                [43] = 
+                {
+                    ["id"] = 82,
+                    ["name"] = "UN",
+                }, -- end of [43]
+                [44] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [44]
+                [45] = 
+                {
+                    ["id"] = 68,
+                    ["name"] = "USSR",
+                }, -- end of [45]
+                [46] = 
+                {
+                    ["id"] = 50,
+                    ["name"] = "Venezuela",
+                }, -- end of [46]
+                [47] = 
+                {
+                    ["id"] = 49,
+                    ["name"] = "Vietnam",
+                }, -- end of [47]
+                [48] = 
+                {
+                    ["id"] = 48,
+                    ["name"] = "Yemen",
+                }, -- end of [48]
+                [49] = 
+                {
+                    ["id"] = 67,
+                    ["name"] = "Yugoslavia",
+                }, -- end of [49]
+            }, -- end of ["country"]
+        }, -- end of ["neutrals"]
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 80,
+                    ["name"] = "CJTF Blue",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [22]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["name"] = "Insurgents",
+                    ["id"] = 17,
+                    ["static"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["heading"] = 0.36651914291881,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33873.471632272,
+                                            ["speed"] = 0,
+                                            ["x"] = -141675.86926154,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 5,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 1500,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "ammo_box_cargo",
+                                        ["type"] = "ammo_cargo",
+                                        ["unitId"] = 5,
+                                        ["y"] = -33873.471632272,
+                                        ["x"] = -141675.86926154,
+                                        ["name"] = "DictKey_GroupName_21",
+                                        ["heading"] = 0.36651914291881,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33873.471632272,
+                                ["x"] = -141675.86926154,
+                                ["name"] = "DictKey_GroupName_21",
+                                ["dead"] = false,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["heading"] = 0.36651914291881,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33872.345169156,
+                                            ["speed"] = 0,
+                                            ["x"] = -141676.36208916,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 6,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 1500,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "ammo_box_cargo",
+                                        ["type"] = "ammo_cargo",
+                                        ["unitId"] = 6,
+                                        ["y"] = -33872.345169156,
+                                        ["x"] = -141676.36208916,
+                                        ["name"] = "DictKey_GroupName_24",
+                                        ["heading"] = 0.36651914291881,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33872.345169156,
+                                ["x"] = -141676.36208916,
+                                ["name"] = "DictKey_GroupName_24",
+                                ["dead"] = false,
+                            }, -- end of [2]
+                            [3] = 
+                            {
+                                ["heading"] = 0.36651914291881,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33873.999661858,
+                                            ["speed"] = 0,
+                                            ["x"] = -141677.41814833,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 7,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 1500,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "ammo_box_cargo",
+                                        ["type"] = "ammo_cargo",
+                                        ["unitId"] = 7,
+                                        ["y"] = -33873.999661858,
+                                        ["x"] = -141677.41814833,
+                                        ["name"] = "DictKey_GroupName_27",
+                                        ["heading"] = 0.36651914291881,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33873.999661858,
+                                ["x"] = -141677.41814833,
+                                ["name"] = "DictKey_GroupName_27",
+                                ["dead"] = false,
+                            }, -- end of [3]
+                            [4] = 
+                            {
+                                ["heading"] = 0.36651914291881,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33872.943602686,
+                                            ["speed"] = 0,
+                                            ["x"] = -141677.840572,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 8,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 1500,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "ammo_box_cargo",
+                                        ["type"] = "ammo_cargo",
+                                        ["unitId"] = 8,
+                                        ["y"] = -33872.943602686,
+                                        ["x"] = -141677.840572,
+                                        ["name"] = "DictKey_GroupName_30",
+                                        ["heading"] = 0.36651914291881,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33872.943602686,
+                                ["x"] = -141677.840572,
+                                ["name"] = "DictKey_GroupName_30",
+                                ["dead"] = false,
+                            }, -- end of [4]
+                            [5] = 
+                            {
+                                ["heading"] = 0.47123889803847,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33897.162559684,
+                                            ["speed"] = 0,
+                                            ["x"] = -141673.01790178,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 9,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 2300,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "oiltank_cargo",
+                                        ["type"] = "oiltank_cargo",
+                                        ["unitId"] = 9,
+                                        ["rate"] = 100,
+                                        ["y"] = -33897.162559684,
+                                        ["x"] = -141673.01790178,
+                                        ["name"] = "DictKey_GroupName_33",
+                                        ["heading"] = 0.47123889803847,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33897.162559684,
+                                ["x"] = -141673.01790178,
+                                ["name"] = "DictKey_GroupName_33",
+                                ["dead"] = false,
+                            }, -- end of [5]
+                            [6] = 
+                            {
+                                ["heading"] = 5.1661745859032,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33905.980649813,
+                                            ["speed"] = 0,
+                                            ["x"] = -141668.42867895,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 10,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 2400,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "fueltank_cargo",
+                                        ["type"] = "fueltank_cargo",
+                                        ["unitId"] = 10,
+                                        ["rate"] = 100,
+                                        ["y"] = -33905.980649813,
+                                        ["x"] = -141668.42867895,
+                                        ["name"] = "DictKey_GroupName_36",
+                                        ["heading"] = 5.1661745859032,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33905.980649813,
+                                ["x"] = -141668.42867895,
+                                ["name"] = "DictKey_GroupName_36",
+                                ["dead"] = false,
+                            }, -- end of [6]
+                            [7] = 
+                            {
+                                ["heading"] = 2.0071286397935,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33904.330175969,
+                                            ["speed"] = 0,
+                                            ["x"] = -141675.58166247,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 11,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["type"] = "ATZ-10",
+                                        ["unitId"] = 11,
+                                        ["rate"] = 3,
+                                        ["y"] = -33904.330175969,
+                                        ["x"] = -141675.58166247,
+                                        ["name"] = "DictKey_GroupName_39",
+                                        ["heading"] = 2.0071286397935,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33904.330175969,
+                                ["x"] = -141675.58166247,
+                                ["name"] = "DictKey_GroupName_39",
+                                ["dead"] = false,
+                            }, -- end of [7]
+                            [8] = 
+                            {
+                                ["heading"] = 0.36651914291881,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33871.179607346,
+                                            ["speed"] = 0,
+                                            ["x"] = -141657.37056378,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 12,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Infantry",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 12,
+                                        ["rate"] = 1,
+                                        ["y"] = -33871.179607346,
+                                        ["x"] = -141657.37056378,
+                                        ["name"] = "DictKey_GroupName_42",
+                                        ["heading"] = 0.36651914291881,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33871.179607346,
+                                ["x"] = -141657.37056378,
+                                ["name"] = "DictKey_GroupName_42",
+                                ["dead"] = false,
+                            }, -- end of [8]
+                            [9] = 
+                            {
+                                ["heading"] = 3.6651914291881,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33875.779321632,
+                                            ["speed"] = 0,
+                                            ["x"] = -141658.77799235,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 14,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Infantry",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 14,
+                                        ["rate"] = 1,
+                                        ["y"] = -33875.779321632,
+                                        ["x"] = -141658.77799235,
+                                        ["name"] = "DictKey_GroupName_48",
+                                        ["heading"] = 3.6651914291881,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33875.779321632,
+                                ["x"] = -141658.77799235,
+                                ["name"] = "DictKey_GroupName_48",
+                                ["dead"] = false,
+                            }, -- end of [9]
+                            [10] = 
+                            {
+                                ["heading"] = 0.26179938779915,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33888.88189306,
+                                            ["speed"] = 0,
+                                            ["x"] = -141654.45656378,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 15,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Infantry",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 15,
+                                        ["rate"] = 1,
+                                        ["y"] = -33888.88189306,
+                                        ["x"] = -141654.45656378,
+                                        ["name"] = "DictKey_GroupName_51",
+                                        ["heading"] = 0.26179938779915,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33888.88189306,
+                                ["x"] = -141654.45656378,
+                                ["name"] = "DictKey_GroupName_51",
+                                ["dead"] = false,
+                            }, -- end of [10]
+                            [11] = 
+                            {
+                                ["heading"] = 0.36651914291881,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33892.51189306,
+                                            ["speed"] = 0,
+                                            ["x"] = -141649.16713521,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 16,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Infantry",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 16,
+                                        ["rate"] = 1,
+                                        ["y"] = -33892.51189306,
+                                        ["x"] = -141649.16713521,
+                                        ["name"] = "DictKey_GroupName_54",
+                                        ["heading"] = 0.36651914291881,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33892.51189306,
+                                ["x"] = -141649.16713521,
+                                ["name"] = "DictKey_GroupName_54",
+                                ["dead"] = false,
+                            }, -- end of [11]
+                            [12] = 
+                            {
+                                ["heading"] = 1.7976891295542,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33901.327607345,
+                                            ["speed"] = 0,
+                                            ["x"] = -141675.02656378,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 17,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Infantry",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 17,
+                                        ["rate"] = 1,
+                                        ["y"] = -33901.327607345,
+                                        ["x"] = -141675.02656378,
+                                        ["name"] = "DictKey_GroupName_57",
+                                        ["heading"] = 1.7976891295542,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33901.327607345,
+                                ["x"] = -141675.02656378,
+                                ["name"] = "DictKey_GroupName_57",
+                                ["dead"] = false,
+                            }, -- end of [12]
+                            [13] = 
+                            {
+                                ["heading"] = 0.36651914291881,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33911.87189306,
+                                            ["speed"] = 0,
+                                            ["x"] = -141678.72570664,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 18,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Infantry",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 18,
+                                        ["rate"] = 1,
+                                        ["y"] = -33911.87189306,
+                                        ["x"] = -141678.72570664,
+                                        ["name"] = "DictKey_GroupName_60",
+                                        ["heading"] = 0.36651914291881,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33911.87189306,
+                                ["x"] = -141678.72570664,
+                                ["name"] = "DictKey_GroupName_60",
+                                ["dead"] = false,
+                            }, -- end of [13]
+                            [14] = 
+                            {
+                                ["heading"] = 0.66322511575785,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33871.907321631,
+                                            ["speed"] = 0,
+                                            ["x"] = -141678.82942092,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 19,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Infantry",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 19,
+                                        ["rate"] = 1,
+                                        ["y"] = -33871.907321631,
+                                        ["x"] = -141678.82942092,
+                                        ["name"] = "DictKey_GroupName_63",
+                                        ["heading"] = 0.66322511575785,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33871.907321631,
+                                ["x"] = -141678.82942092,
+                                ["name"] = "DictKey_GroupName_63",
+                                ["dead"] = false,
+                            }, -- end of [14]
+                            [15] = 
+                            {
+                                ["heading"] = 3.5779249665884,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33871.354178774,
+                                            ["speed"] = 0,
+                                            ["x"] = -141677.65399235,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 20,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Infantry",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 20,
+                                        ["rate"] = 1,
+                                        ["y"] = -33871.354178774,
+                                        ["x"] = -141677.65399235,
+                                        ["name"] = "DictKey_GroupName_66",
+                                        ["heading"] = 3.5779249665884,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33871.354178774,
+                                ["x"] = -141677.65399235,
+                                ["name"] = "DictKey_GroupName_66",
+                                ["dead"] = false,
+                            }, -- end of [15]
+                            [16] = 
+                            {
+                                ["heading"] = 2.3212879051525,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33875.606464488,
+                                            ["speed"] = 0,
+                                            ["x"] = -141676.1328495,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 21,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Infantry",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 21,
+                                        ["rate"] = 1,
+                                        ["y"] = -33875.606464488,
+                                        ["x"] = -141676.1328495,
+                                        ["name"] = "DictKey_GroupName_69",
+                                        ["heading"] = 2.3212879051525,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33875.606464488,
+                                ["x"] = -141676.1328495,
+                                ["name"] = "DictKey_GroupName_69",
+                                ["dead"] = false,
+                            }, -- end of [16]
+                            [17] = 
+                            {
+                                ["heading"] = 4.1364303272266,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33868.968750202,
+                                            ["speed"] = 0,
+                                            ["x"] = -141689.58113521,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 22,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Infantry",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 22,
+                                        ["rate"] = 1,
+                                        ["y"] = -33868.968750202,
+                                        ["x"] = -141689.58113521,
+                                        ["name"] = "DictKey_GroupName_72",
+                                        ["heading"] = 4.1364303272266,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33868.968750202,
+                                ["x"] = -141689.58113521,
+                                ["name"] = "DictKey_GroupName_72",
+                                ["dead"] = false,
+                            }, -- end of [17]
+                            [18] = 
+                            {
+                                ["heading"] = 0.36651914291881,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33869.660178774,
+                                            ["speed"] = 0,
+                                            ["x"] = -141689.85770664,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 23,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Infantry",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 23,
+                                        ["rate"] = 1,
+                                        ["y"] = -33869.660178774,
+                                        ["x"] = -141689.85770664,
+                                        ["name"] = "DictKey_GroupName_75",
+                                        ["heading"] = 0.36651914291881,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33869.660178774,
+                                ["x"] = -141689.85770664,
+                                ["name"] = "DictKey_GroupName_75",
+                                ["dead"] = false,
+                            }, -- end of [18]
+                            [19] = 
+                            {
+                                ["heading"] = 0.36651914291881,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33887.049607345,
+                                            ["speed"] = 0,
+                                            ["x"] = -141649.82399235,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 24,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Infantry",
+                                        ["type"] = "Soldier AK",
+                                        ["unitId"] = 24,
+                                        ["rate"] = 1,
+                                        ["y"] = -33887.049607345,
+                                        ["x"] = -141649.82399235,
+                                        ["name"] = "DictKey_GroupName_78",
+                                        ["heading"] = 0.36651914291881,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33887.049607345,
+                                ["x"] = -141649.82399235,
+                                ["name"] = "DictKey_GroupName_78",
+                                ["dead"] = false,
+                            }, -- end of [19]
+                            [20] = 
+                            {
+                                ["heading"] = 0.36651914291881,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33874.361893059,
+                                            ["speed"] = 0,
+                                            ["x"] = -141650.2388495,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 25,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Infantry",
+                                        ["type"] = "Soldier AK",
+                                        ["unitId"] = 25,
+                                        ["rate"] = 1,
+                                        ["y"] = -33874.361893059,
+                                        ["x"] = -141650.2388495,
+                                        ["name"] = "DictKey_GroupName_81",
+                                        ["heading"] = 0.36651914291881,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33874.361893059,
+                                ["x"] = -141650.2388495,
+                                ["name"] = "DictKey_GroupName_81",
+                                ["dead"] = false,
+                            }, -- end of [20]
+                            [21] = 
+                            {
+                                ["heading"] = 0.26179938779915,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33888.052178773,
+                                            ["speed"] = 0,
+                                            ["x"] = -141649.65113521,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 26,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Infantry",
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 26,
+                                        ["rate"] = 1,
+                                        ["y"] = -33888.052178773,
+                                        ["x"] = -141649.65113521,
+                                        ["name"] = "DictKey_GroupName_84",
+                                        ["heading"] = 0.26179938779915,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33888.052178773,
+                                ["x"] = -141649.65113521,
+                                ["name"] = "DictKey_GroupName_84",
+                                ["dead"] = false,
+                            }, -- end of [21]
+                            [22] = 
+                            {
+                                ["heading"] = 0.34906585039887,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33897.07532163,
+                                            ["speed"] = 0,
+                                            ["x"] = -141684.87942093,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 27,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["type"] = "UAZ-469",
+                                        ["unitId"] = 27,
+                                        ["rate"] = 3,
+                                        ["y"] = -33897.07532163,
+                                        ["x"] = -141684.87942093,
+                                        ["name"] = "DictKey_GroupName_87",
+                                        ["heading"] = 0.34906585039887,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33897.07532163,
+                                ["x"] = -141684.87942093,
+                                ["name"] = "DictKey_GroupName_87",
+                                ["dead"] = false,
+                            }, -- end of [22]
+                            [23] = 
+                            {
+                                ["heading"] = 5.1312680008633,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33870.904750201,
+                                            ["speed"] = 0,
+                                            ["x"] = -141672.71027807,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 28,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 28,
+                                        ["rate"] = 5,
+                                        ["y"] = -33870.904750201,
+                                        ["x"] = -141672.71027807,
+                                        ["name"] = "DictKey_GroupName_90",
+                                        ["heading"] = 5.1312680008633,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33870.904750201,
+                                ["x"] = -141672.71027807,
+                                ["name"] = "DictKey_GroupName_90",
+                                ["dead"] = false,
+                            }, -- end of [23]
+                            [24] = 
+                            {
+                                ["heading"] = 0.4014257279587,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33909.088643902,
+                                            ["speed"] = 0,
+                                            ["x"] = -141653.2458388,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 30,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 4500,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "iso_container_cargo",
+                                        ["type"] = "iso_container",
+                                        ["unitId"] = 30,
+                                        ["rate"] = 100,
+                                        ["y"] = -33909.088643902,
+                                        ["x"] = -141653.2458388,
+                                        ["name"] = "DictKey_GroupName_96",
+                                        ["heading"] = 0.4014257279587,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33909.088643902,
+                                ["x"] = -141653.2458388,
+                                ["name"] = "DictKey_GroupName_96",
+                                ["dead"] = false,
+                            }, -- end of [24]
+                            [25] = 
+                            {
+                                ["heading"] = 0.4014257279587,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33912.860091902,
+                                            ["speed"] = 0,
+                                            ["x"] = -141653.30386108,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 31,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 4500,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "iso_container_cargo",
+                                        ["type"] = "iso_container",
+                                        ["unitId"] = 31,
+                                        ["rate"] = 100,
+                                        ["y"] = -33912.860091902,
+                                        ["x"] = -141653.30386108,
+                                        ["name"] = "DictKey_GroupName_99",
+                                        ["heading"] = 0.4014257279587,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33912.860091902,
+                                ["x"] = -141653.30386108,
+                                ["name"] = "DictKey_GroupName_99",
+                                ["dead"] = false,
+                            }, -- end of [25]
+                            [26] = 
+                            {
+                                ["heading"] = 5.9166661642608,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33861.102655069,
+                                            ["speed"] = 0,
+                                            ["x"] = -141704.76400547,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 36,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "GSM Rus",
+                                        ["type"] = "FARP Fuel Depot",
+                                        ["unitId"] = 40,
+                                        ["rate"] = 20,
+                                        ["y"] = -33861.102655069,
+                                        ["x"] = -141704.76400547,
+                                        ["name"] = "DictKey_GroupName_125",
+                                        ["heading"] = 5.9166661642608,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33861.102655069,
+                                ["x"] = -141704.76400547,
+                                ["name"] = "DictKey_GroupName_125",
+                                ["dead"] = false,
+                            }, -- end of [26]
+                            [27] = 
+                            {
+                                ["heading"] = 1.3613568165556,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33896.576196905,
+                                            ["speed"] = 0,
+                                            ["x"] = -141647.88906265,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 37,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 823,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "f_bar_cargo",
+                                        ["type"] = "f_bar_cargo",
+                                        ["unitId"] = 41,
+                                        ["rate"] = 100,
+                                        ["y"] = -33896.576196905,
+                                        ["x"] = -141647.88906265,
+                                        ["name"] = "DictKey_GroupName_128",
+                                        ["heading"] = 1.3613568165556,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33896.576196905,
+                                ["x"] = -141647.88906265,
+                                ["name"] = "DictKey_GroupName_128",
+                                ["dead"] = false,
+                            }, -- end of [27]
+                            [28] = 
+                            {
+                                ["heading"] = 1.0646508437165,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33900.247708849,
+                                            ["speed"] = 0,
+                                            ["x"] = -141649.31867792,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 38,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 823,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "f_bar_cargo",
+                                        ["type"] = "f_bar_cargo",
+                                        ["unitId"] = 42,
+                                        ["rate"] = 100,
+                                        ["y"] = -33900.247708849,
+                                        ["x"] = -141649.31867792,
+                                        ["name"] = "DictKey_GroupName_131",
+                                        ["heading"] = 1.0646508437165,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33900.247708849,
+                                ["x"] = -141649.31867792,
+                                ["name"] = "DictKey_GroupName_131",
+                                ["dead"] = false,
+                            }, -- end of [28]
+                            [29] = 
+                            {
+                                ["heading"] = 0.75049157835756,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33903.171921902,
+                                            ["speed"] = 0,
+                                            ["x"] = -141651.75552213,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 39,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 823,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "f_bar_cargo",
+                                        ["type"] = "f_bar_cargo",
+                                        ["unitId"] = 43,
+                                        ["rate"] = 100,
+                                        ["y"] = -33903.171921902,
+                                        ["x"] = -141651.75552213,
+                                        ["name"] = "DictKey_GroupName_134",
+                                        ["heading"] = 0.75049157835756,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33903.171921902,
+                                ["x"] = -141651.75552213,
+                                ["name"] = "DictKey_GroupName_134",
+                                ["dead"] = false,
+                            }, -- end of [29]
+                            [30] = 
+                            {
+                                ["heading"] = 0.48869219055841,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33905.251362295,
+                                            ["speed"] = 0,
+                                            ["x"] = -141654.71222644,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 40,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 823,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "f_bar_cargo",
+                                        ["type"] = "f_bar_cargo",
+                                        ["unitId"] = 44,
+                                        ["rate"] = 100,
+                                        ["y"] = -33905.251362295,
+                                        ["x"] = -141654.71222644,
+                                        ["name"] = "DictKey_GroupName_137",
+                                        ["heading"] = 0.48869219055841,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33905.251362295,
+                                ["x"] = -141654.71222644,
+                                ["name"] = "DictKey_GroupName_137",
+                                ["dead"] = false,
+                            }, -- end of [30]
+                            [31] = 
+                            {
+                                ["heading"] = 1.9547687622336,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33868.884912296,
+                                            ["speed"] = 0,
+                                            ["x"] = -141658.10019327,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 41,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 823,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "f_bar_cargo",
+                                        ["type"] = "f_bar_cargo",
+                                        ["unitId"] = 45,
+                                        ["rate"] = 100,
+                                        ["y"] = -33868.884912296,
+                                        ["x"] = -141658.10019327,
+                                        ["name"] = "DictKey_GroupName_140",
+                                        ["heading"] = 1.9547687622336,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33868.884912296,
+                                ["x"] = -141658.10019327,
+                                ["name"] = "DictKey_GroupName_140",
+                                ["dead"] = false,
+                            }, -- end of [31]
+                            [32] = 
+                            {
+                                ["heading"] = 1.3613568165556,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33840.532301659,
+                                            ["speed"] = 0,
+                                            ["x"] = -141655.12735676,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 42,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 823,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "f_bar_cargo",
+                                        ["type"] = "f_bar_cargo",
+                                        ["unitId"] = 46,
+                                        ["rate"] = 100,
+                                        ["y"] = -33840.532301659,
+                                        ["x"] = -141655.12735676,
+                                        ["name"] = "DictKey_GroupName_143",
+                                        ["heading"] = 1.3613568165556,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33840.532301659,
+                                ["x"] = -141655.12735676,
+                                ["name"] = "DictKey_GroupName_143",
+                                ["dead"] = false,
+                            }, -- end of [32]
+                            [33] = 
+                            {
+                                ["heading"] = 2.0245819323134,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -33953.445337827,
+                                            ["speed"] = 0,
+                                            ["x"] = -141631.69257238,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 43,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 823,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "f_bar_cargo",
+                                        ["type"] = "f_bar_cargo",
+                                        ["unitId"] = 47,
+                                        ["rate"] = 100,
+                                        ["y"] = -33953.445337827,
+                                        ["x"] = -141631.69257238,
+                                        ["name"] = "DictKey_GroupName_146",
+                                        ["heading"] = 2.0245819323134,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33953.445337827,
+                                ["x"] = -141631.69257238,
+                                ["name"] = "DictKey_GroupName_146",
+                                ["dead"] = false,
+                            }, -- end of [33]
+                            [34] = 
+                            {
+                                ["heading"] = 1.3613568165556,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -34204.510022658,
+                                            ["speed"] = 0,
+                                            ["x"] = -141928.51769002,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 47,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 823,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "f_bar_cargo",
+                                        ["type"] = "f_bar_cargo",
+                                        ["unitId"] = 52,
+                                        ["y"] = -34204.510022658,
+                                        ["x"] = -141928.51769002,
+                                        ["name"] = "DictKey_GroupName_162",
+                                        ["heading"] = 1.3613568165556,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -34204.510022658,
+                                ["x"] = -141928.51769002,
+                                ["name"] = "DictKey_GroupName_162",
+                                ["dead"] = false,
+                            }, -- end of [34]
+                            [35] = 
+                            {
+                                ["heading"] = 2.3911010752322,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -34198.247729954,
+                                            ["speed"] = 0,
+                                            ["x"] = -141928.63154989,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 48,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 823,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "f_bar_cargo",
+                                        ["type"] = "f_bar_cargo",
+                                        ["unitId"] = 53,
+                                        ["y"] = -34198.247729954,
+                                        ["x"] = -141928.63154989,
+                                        ["name"] = "DictKey_GroupName_165",
+                                        ["heading"] = 2.3911010752322,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -34198.247729954,
+                                ["x"] = -141928.63154989,
+                                ["name"] = "DictKey_GroupName_165",
+                                ["dead"] = false,
+                            }, -- end of [35]
+                            [36] = 
+                            {
+                                ["heading"] = 1.0821041362365,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -34198.247729954,
+                                            ["speed"] = 0,
+                                            ["x"] = -141933.86910379,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 49,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 823,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "f_bar_cargo",
+                                        ["type"] = "f_bar_cargo",
+                                        ["unitId"] = 54,
+                                        ["y"] = -34198.247729954,
+                                        ["x"] = -141933.86910379,
+                                        ["name"] = "DictKey_GroupName_168",
+                                        ["heading"] = 1.0821041362365,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -34198.247729954,
+                                ["x"] = -141933.86910379,
+                                ["name"] = "DictKey_GroupName_168",
+                                ["dead"] = false,
+                            }, -- end of [36]
+                            [37] = 
+                            {
+                                ["heading"] = 2.6005405854716,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -34203.940723321,
+                                            ["speed"] = 0,
+                                            ["x"] = -141934.21068339,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 50,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 823,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "f_bar_cargo",
+                                        ["type"] = "f_bar_cargo",
+                                        ["unitId"] = 55,
+                                        ["y"] = -34203.940723321,
+                                        ["x"] = -141934.21068339,
+                                        ["name"] = "DictKey_GroupName_171",
+                                        ["heading"] = 2.6005405854716,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -34203.940723321,
+                                ["x"] = -141934.21068339,
+                                ["name"] = "DictKey_GroupName_171",
+                                ["dead"] = false,
+                            }, -- end of [37]
+                            [38] = 
+                            {
+                                ["heading"] = 1.4835298641952,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -34192.099297117,
+                                            ["speed"] = 0,
+                                            ["x"] = -141933.41366432,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 51,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["type"] = "ZIL-4331",
+                                        ["unitId"] = 56,
+                                        ["rate"] = 5,
+                                        ["y"] = -34192.099297117,
+                                        ["x"] = -141933.41366432,
+                                        ["name"] = "DictKey_GroupName_174",
+                                        ["heading"] = 1.4835298641952,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -34192.099297117,
+                                ["x"] = -141933.41366432,
+                                ["name"] = "DictKey_GroupName_174",
+                                ["dead"] = false,
+                            }, -- end of [38]
+                            [39] = 
+                            {
+                                ["heading"] = 2.7925268031909,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -34196.084392474,
+                                            ["speed"] = 0,
+                                            ["x"] = -141938.76507808,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 52,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["type"] = "UAZ-469",
+                                        ["unitId"] = 57,
+                                        ["rate"] = 3,
+                                        ["y"] = -34196.084392474,
+                                        ["x"] = -141938.76507808,
+                                        ["name"] = "DictKey_GroupName_177",
+                                        ["heading"] = 2.7925268031909,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -34196.084392474,
+                                ["x"] = -141938.76507808,
+                                ["name"] = "DictKey_GroupName_177",
+                                ["dead"] = false,
+                            }, -- end of [39]
+                        }, -- end of ["group"]
+                    }, -- end of ["static"]
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 298,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -33887.98244818,
+                                            ["x"] = -141665.90557496,
+                                            ["name"] = "DictKey_WptName_8",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "outpost_road",
+                                        ["unitId"] = 1,
+                                        ["y"] = -33887.98244818,
+                                        ["x"] = -141665.90557496,
+                                        ["name"] = "DictKey_UnitName_7",
+                                        ["heading"] = 0.4014257279587,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33887.98244818,
+                                ["x"] = -141665.90557496,
+                                ["name"] = "DictKey_GroupName_6",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = -33930.177455455,
+                                                ["x"] = -141659.37655537,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = -33930.372351563,
+                                                ["x"] = -141659.37655537,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 298,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -33887.397759857,
+                                            ["x"] = -141661.71530865,
+                                            ["name"] = "DictKey_WptName_11",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 2,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "outpost",
+                                        ["unitId"] = 2,
+                                        ["y"] = -33887.397759857,
+                                        ["x"] = -141661.71530865,
+                                        ["name"] = "DictKey_UnitName_10",
+                                        ["heading"] = 2.0071286397935,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33887.397759857,
+                                ["x"] = -141661.71530865,
+                                ["name"] = "DictKey_GroupName_9",
+                                ["start_time"] = 0,
+                            }, -- end of [2]
+                            [3] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = -33920.627546188,
+                                                ["x"] = -141653.43222408,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = -33886.813071535,
+                                                ["x"] = -141661.91020476,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 297,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -33893.521977218,
+                                            ["x"] = -141651.0715524,
+                                            ["name"] = "DictKey_WptName_16",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 3,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "BMP-1",
+                                        ["unitId"] = 3,
+                                        ["y"] = -33893.521977218,
+                                        ["x"] = -141651.0715524,
+                                        ["name"] = "DictKey_UnitName_15",
+                                        ["heading"] = 1.8164529559202,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33893.521977218,
+                                ["x"] = -141651.0715524,
+                                ["name"] = "DictKey_GroupName_14",
+                                ["start_time"] = 0,
+                            }, -- end of [3]
+                            [4] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = -33920.627546188,
+                                                ["x"] = -141653.43222408,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = -33886.813071535,
+                                                ["x"] = -141661.91020476,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 297,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -33871.967172633,
+                                            ["x"] = -141659.33056838,
+                                            ["name"] = "DictKey_WptName_20",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 4,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "BMP-1",
+                                        ["unitId"] = 4,
+                                        ["y"] = -33871.967172633,
+                                        ["x"] = -141659.33056838,
+                                        ["name"] = "DictKey_UnitName_19",
+                                        ["heading"] = 5.1138147083434,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33871.967172633,
+                                ["x"] = -141659.33056838,
+                                ["name"] = "DictKey_GroupName_18",
+                                ["start_time"] = 0,
+                            }, -- end of [4]
+                            [5] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = -33879.842735363,
+                                                ["x"] = -141695.62563991,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = -33877.930287161,
+                                                ["x"] = -141694.54469092,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 300,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -33880.258484972,
+                                            ["x"] = -141697.70438796,
+                                            ["name"] = "DictKey_WptName_107",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 33,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Ural-375 ZU-23 Insurgent",
+                                        ["unitId"] = 33,
+                                        ["y"] = -33880.258484972,
+                                        ["x"] = -141697.70438796,
+                                        ["name"] = "DictKey_UnitName_106",
+                                        ["heading"] = 1.3439035240356,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33880.258484972,
+                                ["x"] = -141697.70438796,
+                                ["name"] = "DictKey_GroupName_105",
+                                ["start_time"] = 0,
+                            }, -- end of [5]
+                            [6] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = -33879.842735363,
+                                                ["x"] = -141695.62563991,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = -33877.930287161,
+                                                ["x"] = -141694.54469092,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 301,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -33916.073360028,
+                                            ["x"] = -141667.74518416,
+                                            ["name"] = "DictKey_WptName_112",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 34,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Ural-375 ZU-23 Insurgent",
+                                        ["unitId"] = 34,
+                                        ["y"] = -33916.073360028,
+                                        ["x"] = -141667.74518416,
+                                        ["name"] = "DictKey_UnitName_111",
+                                        ["heading"] = 5.7421332390613,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33916.073360028,
+                                ["x"] = -141667.74518416,
+                                ["name"] = "DictKey_GroupName_110",
+                                ["start_time"] = 0,
+                            }, -- end of [6]
+                            [7] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = -33902.228339031,
+                                                ["x"] = -141658.72252303,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = -33902.726191553,
+                                                ["x"] = -141658.39952938,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 297,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -33875.448427557,
+                                            ["x"] = -141687.83106836,
+                                            ["name"] = "DictKey_WptName_115",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 4,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 35,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "SA-18 Igla comm",
+                                        ["unitId"] = 35,
+                                        ["y"] = -33875.448427557,
+                                        ["x"] = -141687.83106836,
+                                        ["name"] = "DictKey_UnitName_114",
+                                        ["heading"] = 5.2879016871843,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Igla manpad INS",
+                                        ["unitId"] = 37,
+                                        ["y"] = -33897.547481837,
+                                        ["x"] = -141667.35465423,
+                                        ["name"] = "DictKey_UnitName_122",
+                                        ["heading"] = 5.2879016871843,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Igla manpad INS",
+                                        ["unitId"] = 38,
+                                        ["y"] = -33839.970000096,
+                                        ["x"] = -141655.94169061,
+                                        ["name"] = "DictKey_UnitName_123",
+                                        ["heading"] = 5.2879016871843,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Igla manpad INS",
+                                        ["unitId"] = 39,
+                                        ["y"] = -33954.051875393,
+                                        ["x"] = -141632.64147232,
+                                        ["name"] = "DictKey_UnitName_124",
+                                        ["heading"] = 5.2879016871843,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                }, -- end of ["units"]
+                                ["y"] = -33875.448427557,
+                                ["x"] = -141687.83106836,
+                                ["name"] = "DictKey_GroupName_113",
+                                ["start_time"] = 0,
+                            }, -- end of [7]
+                            [8] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = -33898.570800777,
+                                                ["x"] = -141660.62098468,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = -33898.785727447,
+                                                ["x"] = -141660.65168849,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 298,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -33898.233058866,
+                                            ["x"] = -141660.09901991,
+                                            ["name"] = "DictKey_WptName_151",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 44,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "ZU-23 Insurgent",
+                                        ["unitId"] = 48,
+                                        ["y"] = -33898.233058866,
+                                        ["x"] = -141660.09901991,
+                                        ["name"] = "DictKey_UnitName_150",
+                                        ["heading"] = 0.36651914291881,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -33898.233058866,
+                                ["x"] = -141660.09901991,
+                                ["name"] = "DictKey_GroupName_149",
+                                ["start_time"] = 0,
+                            }, -- end of [8]
+                            [9] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = -34237.291378447,
+                                                ["x"] = -141962.07894934,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = -34223.707023791,
+                                                ["x"] = -141960.45202217,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 403,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -34203.029844383,
+                                            ["x"] = -141930.90874724,
+                                            ["name"] = "DictKey_WptName_156",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 45,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Soldier RPG",
+                                        ["unitId"] = 49,
+                                        ["y"] = -34203.029844383,
+                                        ["x"] = -141930.90874724,
+                                        ["name"] = "DictKey_UnitName_155",
+                                        ["heading"] = 0.34906585039887,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -34203.029844383,
+                                ["x"] = -141930.90874724,
+                                ["name"] = "DictKey_GroupName_154",
+                                ["start_time"] = 0,
+                            }, -- end of [9]
+                            [10] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = -34237.291378447,
+                                                ["x"] = -141962.07894934,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = -34223.707023791,
+                                                ["x"] = -141960.45202217,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 403,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -34201.777385842,
+                                            ["x"] = -141932.73050511,
+                                            ["name"] = "DictKey_WptName_160",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 46,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "SA-18 Igla comm",
+                                        ["unitId"] = 50,
+                                        ["y"] = -34201.777385842,
+                                        ["x"] = -141932.73050511,
+                                        ["name"] = "DictKey_UnitName_159",
+                                        ["heading"] = 0.34906585039887,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Average",
+                                        ["type"] = "Igla manpad INS",
+                                        ["unitId"] = 51,
+                                        ["y"] = -34200.297207566,
+                                        ["x"] = -141930.45330777,
+                                        ["name"] = "DictKey_UnitName_161",
+                                        ["heading"] = 0.34906585039887,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                }, -- end of ["units"]
+                                ["y"] = -34201.777385842,
+                                ["x"] = -141932.73050511,
+                                ["name"] = "DictKey_GroupName_158",
+                                ["start_time"] = 0,
+                            }, -- end of [10]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 81,
+                    ["name"] = "CJTF Red",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 34,
+                    ["name"] = "Iran",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 0,
+                    ["name"] = "Russia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [12]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "CN95 Armed Recce (FOB)",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_GroupName_63"] = "Static Infantry Soldier Insurgents-7",
+            ["DictKey_WptName_11"] = "",
+            ["DictKey_UnitName_67"] = "Static Infantry Soldier Insurgents-1",
+            ["DictKey_WptName_86"] = "",
+            ["DictKey_GroupName_96"] = "Static ISO container-1",
+            ["DictKey_GroupName_125"] = "Secondary Destroyed-4",
+            ["DictKey_UnitName_135"] = "Static F-shape barrier-1",
+            ["DictKey_GroupName_177"] = "Static Transport UAZ-469-2",
+            ["DictKey_WptName_41"] = "",
+            ["DictKey_UnitName_73"] = "Static Infantry Soldier Insurgents-1",
+            ["DictKey_GroupName_21"] = "Secondary Destroyed",
+            ["DictKey_UnitName_7"] = "Ground-1-1",
+            ["DictKey_WptName_112"] = "",
+            ["DictKey_GroupName_102"] = "Static ISO container-1",
+            ["DictKey_WptName_83"] = "",
+            ["DictKey_UnitName_25"] = "Secondary Destroyed",
+            ["DictKey_GroupName_113"] = "Primary Destroyed-6",
+            ["DictKey_GroupName_51"] = "Static Infantry Soldier Insurgents-3",
+            ["DictKey_WptName_59"] = "",
+            ["DictKey_WptName_13"] = "",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_UnitName_76"] = "Static Infantry Soldier Insurgents-1",
+            ["DictKey_UnitName_123"] = "Primary Destroyed-6-3",
+            ["DictKey_GroupName_6"] = "Primary Destroyed",
+            ["DictKey_WptName_109"] = "",
+            ["DictKey_UnitName_163"] = "",
+            ["DictKey_WptName_77"] = "",
+            ["DictKey_UnitName_138"] = "Static F-shape barrier-1",
+            ["DictKey_UnitName_122"] = "Primary Destroyed-6-2",
+            ["DictKey_GroupName_84"] = "Static Infantry Soldier Insurgents-12",
+            ["DictKey_UnitName_155"] = "Primary Destroyed-8-1",
+            ["DictKey_GroupName_143"] = "Static F-shape barrier-6",
+            ["DictKey_UnitName_43"] = "Secondary Destroyed-1-1",
+            ["DictKey_UnitName_61"] = "Static Infantry Soldier Insurgents-1",
+            ["DictKey_WptName_157"] = "",
+            ["DictKey_GroupName_30"] = "Secondary Destroyed-3",
+            ["DictKey_WptName_153"] = "",
+            ["DictKey_WptName_53"] = "",
+            ["DictKey_WptName_23"] = "",
+            ["DictKey_GroupName_119"] = "Primary Destroyed-6",
+            ["DictKey_WptName_151"] = "",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_WptName_38"] = "",
+            ["DictKey_WptName_71"] = "",
+            ["DictKey_UnitName_31"] = "Secondary Destroyed-1-1",
+            ["DictKey_UnitName_111"] = "Primary Destroyed-5-1",
+            ["DictKey_WptName_176"] = "",
+            ["DictKey_WptName_17"] = "",
+            ["DictKey_UnitName_159"] = "RPG Dude-1-1",
+            ["DictKey_WptName_104"] = "",
+            ["DictKey_UnitName_103"] = "Static ISO container-1",
+            ["DictKey_GroupName_165"] = "Static F-shape barrier-9",
+            ["DictKey_GroupName_18"] = "Primary Destroyed-3",
+            ["DictKey_WptName_47"] = "",
+            ["DictKey_UnitName_175"] = "Static F-shape barrier-8",
+            ["DictKey_GroupName_81"] = "Static Soldier AK-2",
+            ["DictKey_WptName_130"] = "",
+            ["DictKey_UnitName_15"] = "Primary Destroyed-2-1",
+            ["DictKey_WptName_92"] = "",
+            ["DictKey_GroupName_36"] = "Secondary Destroyed-5",
+            ["DictKey_UnitName_40"] = "Secondary Destroyed-1-1",
+            ["DictKey_WptName_121"] = "",
+            ["DictKey_GroupName_72"] = "Static Infantry Soldier Insurgents-10",
+            ["DictKey_GroupName_75"] = "Static Infantry Soldier Insurgents-11",
+            ["DictKey_GroupName_66"] = "Static Infantry Soldier Insurgents-8",
+            ["DictKey_WptName_167"] = "",
+            ["DictKey_WptName_116"] = "",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_GroupName_93"] = "Static Infantry Soldier Insurgents-3",
+            ["DictKey_GroupName_27"] = "Secondary Destroyed-2",
+            ["DictKey_UnitName_22"] = "",
+            ["DictKey_WptName_152"] = "",
+            ["DictKey_WptName_95"] = "",
+            ["DictKey_GroupName_42"] = "Static Infantry Soldier Insurgents-1",
+            ["DictKey_UnitName_169"] = "Static F-shape barrier-8",
+            ["DictKey_UnitName_19"] = "Primary Destroyed-3-1",
+            ["DictKey_WptName_65"] = "",
+            ["DictKey_GroupName_57"] = "Static Infantry Soldier Insurgents-5",
+            ["DictKey_UnitName_94"] = "Static Infantry Soldier Insurgents-3-1",
+            ["DictKey_WptName_32"] = "",
+            ["DictKey_UnitName_141"] = "Static F-shape barrier-1",
+            ["DictKey_GroupName_60"] = "Static Infantry Soldier Insurgents-6",
+            ["DictKey_GroupName_105"] = "Primary Destroyed-4",
+            ["DictKey_GroupName_48"] = "Static Infantry Soldier Insurgents-2",
+            ["DictKey_WptName_50"] = "",
+            ["DictKey_GroupName_54"] = "Static Infantry Soldier Insurgents-4",
+            ["DictKey_UnitName_46"] = "Secondary Destroyed-1-1",
+            ["DictKey_WptName_89"] = "",
+            ["DictKey_WptName_173"] = "",
+            ["DictKey_GroupName_87"] = "Static Transport UAZ-469-1",
+            ["DictKey_WptName_156"] = "",
+            ["DictKey_WptName_160"] = "",
+            ["DictKey_UnitName_172"] = "Static F-shape barrier-8",
+            ["DictKey_UnitName_97"] = "",
+            ["DictKey_WptName_98"] = "",
+            ["DictKey_WptName_164"] = "",
+            ["DictKey_WptName_142"] = "",
+            ["DictKey_UnitName_79"] = "Static Infantry Soldier Insurgents-1",
+            ["DictKey_GroupName_146"] = "Static F-shape barrier-7",
+            ["DictKey_GroupName_162"] = "Static F-shape barrier-8",
+            ["DictKey_GroupName_158"] = "RPG Dude-1",
+            ["DictKey_WptName_136"] = "",
+            ["DictKey_UnitName_34"] = "Secondary Destroyed-1-1",
+            ["DictKey_UnitName_55"] = "Static Infantry Soldier Insurgents-1",
+            ["DictKey_WptName_101"] = "",
+            ["DictKey_UnitName_178"] = "Static Transport ZIL-4331-2",
+            ["DictKey_WptName_16"] = "",
+            ["DictKey_UnitName_64"] = "Static Infantry Soldier Insurgents-1",
+            ["DictKey_UnitName_10"] = "Primary Destroyed-1-1",
+            ["DictKey_GroupName_45"] = "Secondary Destroyed-1",
+            ["DictKey_UnitName_166"] = "Static F-shape barrier-8",
+            ["DictKey_UnitName_100"] = "Static ISO container-1",
+            ["DictKey_UnitName_28"] = "Secondary Destroyed-1-1",
+            ["DictKey_WptName_8"] = "",
+            ["DictKey_WptName_74"] = "",
+            ["DictKey_UnitName_124"] = "Primary Destroyed-6-4",
+            ["DictKey_WptName_145"] = "",
+            ["DictKey_GroupName_171"] = "Static F-shape barrier-11",
+            ["DictKey_GroupName_14"] = "Primary Destroyed-2",
+            ["DictKey_UnitName_37"] = "Secondary Destroyed-1-1",
+            ["DictKey_UnitName_132"] = "Static F-shape barrier-1",
+            ["DictKey_GroupName_137"] = "Static F-shape barrier-4",
+            ["DictKey_GroupName_24"] = "Secondary Destroyed-1",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_GroupName_134"] = "Static F-shape barrier-3",
+            ["DictKey_UnitName_106"] = "Primary Destroyed-4-1",
+            ["DictKey_WptName_127"] = "",
+            ["DictKey_WptName_170"] = "",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_WptName_108"] = "",
+            ["DictKey_UnitName_161"] = "RPG Dude-1-2",
+            ["DictKey_WptName_107"] = "",
+            ["DictKey_UnitName_147"] = "Static F-shape barrier-1",
+            ["DictKey_GroupName_9"] = "Primary Destroyed-1",
+            ["DictKey_GroupName_131"] = "Static F-shape barrier-2",
+            ["DictKey_UnitName_49"] = "Static Infantry Soldier Insurgents-1",
+            ["DictKey_UnitName_82"] = "Static Soldier AK-1",
+            ["DictKey_UnitName_52"] = "Static Infantry Soldier Insurgents-1",
+            ["DictKey_GroupName_140"] = "Static F-shape barrier-5",
+            ["DictKey_GroupName_39"] = "Static Fuel Truck ATZ-10-1",
+            ["DictKey_WptName_12"] = "",
+            ["DictKey_WptName_26"] = "",
+            ["DictKey_GroupName_99"] = "Static ISO container-2",
+            ["DictKey_UnitName_114"] = "Primary Destroyed-6-1",
+            ["DictKey_UnitName_88"] = "Static Infantry Soldier Insurgents-3-1",
+            ["DictKey_WptName_115"] = "",
+            ["DictKey_UnitName_126"] = "",
+            ["DictKey_UnitName_91"] = "Static Infantry Soldier Insurgents-3-1",
+            ["DictKey_WptName_133"] = "",
+            ["DictKey_UnitName_58"] = "Static Infantry Soldier Insurgents-1",
+            ["DictKey_UnitName_85"] = "Static Infantry Soldier Insurgents-3-1",
+            ["DictKey_UnitName_70"] = "Static Infantry Soldier Insurgents-1",
+            ["DictKey_GroupName_110"] = "Primary Destroyed-5",
+            ["DictKey_WptName_20"] = "",
+            ["DictKey_WptName_80"] = "",
+            ["DictKey_WptName_68"] = "",
+            ["DictKey_GroupName_154"] = "RPG Dude",
+            ["DictKey_WptName_29"] = "",
+            ["DictKey_UnitName_120"] = "Primary Destroyed-6-1",
+            ["DictKey_UnitName_150"] = "Primary Destroyed-7-1",
+            ["DictKey_WptName_148"] = "",
+            ["DictKey_UnitName_144"] = "Static F-shape barrier-1",
+            ["DictKey_GroupName_168"] = "Static F-shape barrier-10",
+            ["DictKey_WptName_118"] = "",
+            ["DictKey_GroupName_69"] = "Static Infantry Soldier Insurgents-9",
+            ["DictKey_WptName_35"] = "",
+            ["DictKey_UnitName_129"] = "",
+            ["DictKey_WptName_139"] = "",
+            ["DictKey_GroupName_128"] = "Static F-shape barrier-1",
+            ["DictKey_WptName_117"] = "",
+            ["DictKey_WptName_62"] = "",
+            ["DictKey_WptName_44"] = "",
+            ["DictKey_GroupName_90"] = "Static Transport Ural-375-1",
+            ["DictKey_GroupName_78"] = "Static Soldier AK-1",
+            ["DictKey_GroupName_33"] = "Secondary Destroyed-6",
+            ["DictKey_WptName_56"] = "",
+            ["DictKey_GroupName_149"] = "Primary Destroyed-7",
+            ["DictKey_GroupName_174"] = "Static Transport ZIL-4331-2",
+            ["DictKey_WptName_179"] = "",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "%LOCATIONMETHOD% an insurgent forward operating base at %LOCATION%, in the hills southeast of Al Madam. Intel suggests this could also be a depot for fuel and ammunition for recon forces in the area.\\\
+\\\
+Primary Objectives: Destroy the outpost buildings and vehicles.\\\
+\\\
+Secondary Objectives: If present, destroy any fuel and/or ammo.\\\
+\\\
+Recommended Pilots: 2\\\
+\\\
+Recommended Ordnance: Pilot discretion.\\",
+} -- end of staticTemplate

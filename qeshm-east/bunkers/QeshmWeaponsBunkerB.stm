@@ -1,0 +1,528 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [21]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 34,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = -23332.661501067,
+                                                ["x"] = 73174.357269713,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = -23332.655796055,
+                                                ["x"] = 73174.406340035,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 30,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -38678.05973962,
+                                            ["x"] = 74643.267419402,
+                                            ["name"] = "DictKey_WptName_37",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 5,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "Sandbox",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 35,
+                                        ["skill"] = "Average",
+                                        ["y"] = -38678.05973962,
+                                        ["x"] = 74643.267419402,
+                                        ["name"] = "DictKey_UnitName_36",
+                                        ["heading"] = 1.850049007114,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "Bunker",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 36,
+                                        ["skill"] = "Average",
+                                        ["y"] = -38697.305301728,
+                                        ["x"] = 74641.497542648,
+                                        ["name"] = "DictKey_UnitName_35",
+                                        ["heading"] = 3.5953782591083,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "outpost_road",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 37,
+                                        ["skill"] = "Average",
+                                        ["y"] = -38701.399138937,
+                                        ["x"] = 74655.431766379,
+                                        ["name"] = "DictKey_UnitName_34",
+                                        ["heading"] = 5.0265482457437,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "Ural-375",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 38,
+                                        ["skill"] = "Average",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["Variant"] = 4,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["y"] = -38688.587149318,
+                                        ["x"] = 74657.27974905,
+                                        ["name"] = "DictKey_UnitName_33",
+                                        ["heading"] = 5.7944931166212,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["type"] = "M-113",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 39,
+                                        ["skill"] = "Average",
+                                        ["y"] = -38708.520979285,
+                                        ["x"] = 74645.095131756,
+                                        ["name"] = "DictKey_UnitName_32",
+                                        ["heading"] = 5.4977871437821,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["type"] = "Land_Rover_109_S3",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 40,
+                                        ["skill"] = "Average",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["TentedRoof"] = true,
+                                            ["Variant"] = 4,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["y"] = -38711.681842349,
+                                        ["x"] = 74675.582165823,
+                                        ["name"] = "DictKey_UnitName_31",
+                                        ["heading"] = 4.1713369122664,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["type"] = "Ural-375 ZU-23 Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 41,
+                                        ["skill"] = "Average",
+                                        ["y"] = -38732.540968306,
+                                        ["x"] = 74619.037358241,
+                                        ["name"] = "DictKey_UnitName_30",
+                                        ["heading"] = 3.9269908169872,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [7]
+                                    [8] = 
+                                    {
+                                        ["type"] = "Ural-375 ZU-23 Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 42,
+                                        ["skill"] = "Average",
+                                        ["y"] = -38721.317245565,
+                                        ["x"] = 74700.8520793,
+                                        ["name"] = "DictKey_UnitName_29",
+                                        ["heading"] = 5.5676003138619,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [8]
+                                    [9] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 43,
+                                        ["skill"] = "Average",
+                                        ["y"] = -38691.396247936,
+                                        ["x"] = 74656.697641793,
+                                        ["name"] = "DictKey_UnitName_28",
+                                        ["heading"] = 5.7944931166212,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [9]
+                                    [10] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 44,
+                                        ["skill"] = "Average",
+                                        ["y"] = -38692.251329205,
+                                        ["x"] = 74658.339458827,
+                                        ["name"] = "DictKey_UnitName_27",
+                                        ["heading"] = 2.8623399732707,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [10]
+                                    [11] = 
+                                    {
+                                        ["type"] = "Igla manpad INS",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 45,
+                                        ["skill"] = "Average",
+                                        ["y"] = -38688.168882806,
+                                        ["x"] = 74624.937296399,
+                                        ["name"] = "DictKey_UnitName_26",
+                                        ["heading"] = 2.3387411976724,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [11]
+                                    [12] = 
+                                    {
+                                        ["type"] = "Igla manpad INS",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 46,
+                                        ["skill"] = "Average",
+                                        ["y"] = -38665.329502364,
+                                        ["x"] = 74670.807908335,
+                                        ["name"] = "DictKey_UnitName_25",
+                                        ["heading"] = 2.3387411976724,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [12]
+                                    [13] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 47,
+                                        ["skill"] = "Average",
+                                        ["y"] = -38710.262035308,
+                                        ["x"] = 74668.575345637,
+                                        ["name"] = "DictKey_UnitName_24",
+                                        ["heading"] = 4.3458698374659,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [13]
+                                    [14] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 48,
+                                        ["skill"] = "Average",
+                                        ["y"] = -38715.851979424,
+                                        ["x"] = 74651.294845604,
+                                        ["name"] = "DictKey_UnitName_23",
+                                        ["heading"] = 5.4803338512622,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [14]
+                                }, -- end of ["units"]
+                                ["y"] = -38678.05973962,
+                                ["x"] = 74643.267419402,
+                                ["name"] = "DictKey_GroupName_22",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "Iran",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 0,
+                    ["name"] = "Russia",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [11]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "Qeshm Weapons Bunker B",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_UnitName_14"] = "Unit #007",
+            ["DictKey_UnitName_33"] = "Unit #004",
+            ["DictKey_UnitName_19"] = "Secondary Destroyed Bunker",
+            ["DictKey_GroupName_22"] = "Weapons Bunker",
+            ["DictKey_UnitName_26"] = "Unit #011",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_UnitName_32"] = "Unit #005",
+            ["DictKey_WptName_21"] = "",
+            ["DictKey_UnitName_31"] = "Unit #006",
+            ["DictKey_UnitName_35"] = "Secondary Destroyed Bunker",
+            ["DictKey_UnitName_7"] = "Unit #014",
+            ["DictKey_UnitName_16"] = "Unit #005",
+            ["DictKey_UnitName_12"] = "Unit #009",
+            ["DictKey_UnitName_24"] = "Unit #013",
+            ["DictKey_UnitName_18"] = "Unit #003",
+            ["DictKey_UnitName_20"] = "Primary Destroyed Bunker",
+            ["DictKey_UnitName_9"] = "Unit #012",
+            ["DictKey_UnitName_28"] = "Unit #009",
+            ["DictKey_UnitName_15"] = "Unit #006",
+            ["DictKey_WptName_37"] = "",
+            ["DictKey_UnitName_11"] = "Unit #010",
+            ["DictKey_UnitName_17"] = "Unit #004",
+            ["DictKey_UnitName_36"] = "Primary Destroyed Bunker",
+            ["DictKey_UnitName_25"] = "Unit #012",
+            ["DictKey_UnitName_34"] = "Unit #003",
+            ["DictKey_UnitName_10"] = "Unit #011",
+            ["DictKey_GroupName_6"] = "Weapons Bunker",
+            ["DictKey_UnitName_23"] = "Unit #014",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_UnitName_13"] = "Unit #008",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_UnitName_27"] = "Unit #010",
+            ["DictKey_UnitName_30"] = "Unit #007",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_UnitName_29"] = "Unit #008",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_UnitName_8"] = "Unit #013",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "%LOCATIONMETHOD% Iranian bunker on Qeshm Island, %LOCATION%.\
+\
+Primary Objectives: Destroy the large, green armoured bunker, approximately 6NM North of the airport.\
+\
+Secondary Objectives: N/A.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Heavy ordnance required for bunker targets, e.g. Mk-84s or PGM Variants.",
+} -- end of staticTemplate

@@ -1,0 +1,2074 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [21]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["neutrals"] = 
+        {
+            ["name"] = "neutrals",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 70,
+                    ["name"] = "Algeria",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 23,
+                    ["name"] = "Austria",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 65,
+                    ["name"] = "Bahrain",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 64,
+                    ["name"] = "Brazil",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 25,
+                    ["name"] = "Bulgaria",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 63,
+                    ["name"] = "Chile",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 76,
+                    ["name"] = "Cuba",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 29,
+                    ["name"] = "Egypt",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 62,
+                    ["name"] = "Ethiopia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 30,
+                    ["name"] = "Finland",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 31,
+                    ["name"] = "Greece",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 61,
+                    ["name"] = "Honduras",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 32,
+                    ["name"] = "Hungary",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 33,
+                    ["name"] = "India",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 60,
+                    ["name"] = "Indonesia",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 17,
+                    ["name"] = "Insurgents",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 35,
+                    ["name"] = "Iraq",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 69,
+                    ["name"] = "Italian Social Republic",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 36,
+                    ["name"] = "Japan",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 59,
+                    ["name"] = "Jordan",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 71,
+                    ["name"] = "Kuwait",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 58,
+                    ["name"] = "Libya",
+                }, -- end of [22]
+                [23] = 
+                {
+                    ["id"] = 57,
+                    ["name"] = "Malaysia",
+                }, -- end of [23]
+                [24] = 
+                {
+                    ["id"] = 56,
+                    ["name"] = "Mexico",
+                }, -- end of [24]
+                [25] = 
+                {
+                    ["id"] = 55,
+                    ["name"] = "Morocco",
+                }, -- end of [25]
+                [26] = 
+                {
+                    ["id"] = 73,
+                    ["name"] = "Oman",
+                }, -- end of [26]
+                [27] = 
+                {
+                    ["id"] = 39,
+                    ["name"] = "Pakistan",
+                }, -- end of [27]
+                [28] = 
+                {
+                    ["id"] = 54,
+                    ["name"] = "Philippines",
+                }, -- end of [28]
+                [29] = 
+                {
+                    ["id"] = 72,
+                    ["name"] = "Qatar",
+                }, -- end of [29]
+                [30] = 
+                {
+                    ["id"] = 41,
+                    ["name"] = "Romania",
+                }, -- end of [30]
+                [31] = 
+                {
+                    ["id"] = 42,
+                    ["name"] = "Saudi Arabia",
+                }, -- end of [31]
+                [32] = 
+                {
+                    ["id"] = 44,
+                    ["name"] = "Slovakia",
+                }, -- end of [32]
+                [33] = 
+                {
+                    ["id"] = 75,
+                    ["name"] = "South Africa",
+                }, -- end of [33]
+                [34] = 
+                {
+                    ["id"] = 53,
+                    ["name"] = "Sudan",
+                }, -- end of [34]
+                [35] = 
+                {
+                    ["id"] = 22,
+                    ["name"] = "Switzerland",
+                }, -- end of [35]
+                [36] = 
+                {
+                    ["id"] = 52,
+                    ["name"] = "Thailand",
+                }, -- end of [36]
+                [37] = 
+                {
+                    ["id"] = 66,
+                    ["name"] = "Third Reich",
+                }, -- end of [37]
+                [38] = 
+                {
+                    ["id"] = 51,
+                    ["name"] = "Tunisia",
+                }, -- end of [38]
+                [39] = 
+                {
+                    ["id"] = 74,
+                    ["name"] = "United Arab Emirates",
+                }, -- end of [39]
+                [40] = 
+                {
+                    ["id"] = 68,
+                    ["name"] = "USSR",
+                }, -- end of [40]
+                [41] = 
+                {
+                    ["id"] = 50,
+                    ["name"] = "Venezuela",
+                }, -- end of [41]
+                [42] = 
+                {
+                    ["id"] = 49,
+                    ["name"] = "Vietnam",
+                }, -- end of [42]
+                [43] = 
+                {
+                    ["id"] = 48,
+                    ["name"] = "Yemen",
+                }, -- end of [43]
+                [44] = 
+                {
+                    ["id"] = 67,
+                    ["name"] = "Yugoslavia",
+                }, -- end of [44]
+            }, -- end of ["country"]
+        }, -- end of ["neutrals"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 34,
+                    ["static"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["heading"] = 5.2534410485029,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -40843.12475424,
+                                            ["speed"] = 0,
+                                            ["x"] = -70641.223717482,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 3,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["type"] = "Land_Rover_101_FC",
+                                        ["unitId"] = 5,
+                                        ["y"] = -40843.12475424,
+                                        ["x"] = -70641.223717482,
+                                        ["name"] = "DictKey_GroupName_1203",
+                                        ["heading"] = 5.2534410485029,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -40843.12475424,
+                                ["x"] = -70641.223717482,
+                                ["name"] = "DictKey_GroupName_1203",
+                                ["dead"] = false,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["heading"] = 5.7421332390613,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -40833.815500506,
+                                            ["speed"] = 0,
+                                            ["x"] = -70647.97389518,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 5,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["type"] = "Land_Rover_101_FC",
+                                        ["unitId"] = 7,
+                                        ["y"] = -40833.815500506,
+                                        ["x"] = -70647.97389518,
+                                        ["name"] = "DictKey_GroupName_1206",
+                                        ["heading"] = 5.7421332390613,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -40833.815500506,
+                                ["x"] = -70647.97389518,
+                                ["name"] = "DictKey_GroupName_1206",
+                                ["dead"] = false,
+                            }, -- end of [2]
+                        }, -- end of ["group"]
+                    }, -- end of ["static"]
+                    ["name"] = "Iran",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 0,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = -40822.34624016,
+                                                ["x"] = -70614.562651275,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = -40820.095598306,
+                                                ["x"] = -70652.699513906,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 50,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -40835.017575916,
+                                            ["x"] = -70632.55041534,
+                                            ["name"] = "DictKey_WptName_1198",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "SA-18 Igla manpad",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 1,
+                                        ["skill"] = "Average",
+                                        ["y"] = -40835.017575916,
+                                        ["x"] = -70632.55041534,
+                                        ["name"] = "DictKey_UnitName_1197",
+                                        ["heading"] = 3.0826461557981,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "SA-18 Igla-S comm",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 2,
+                                        ["skill"] = "Average",
+                                        ["y"] = -40830.660667227,
+                                        ["x"] = -70640.898647013,
+                                        ["name"] = "DictKey_UnitName_1196",
+                                        ["heading"] = 3.0826461557981,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                }, -- end of ["units"]
+                                ["y"] = -40835.017575916,
+                                ["x"] = -70632.55041534,
+                                ["name"] = "DictKey_GroupName_1195",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = -40822.34624016,
+                                                ["x"] = -70614.562651275,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = -40820.095598306,
+                                                ["x"] = -70652.699513906,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 50,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -40843.667983866,
+                                            ["x"] = -70651.832163075,
+                                            ["name"] = "DictKey_WptName_1202",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 2,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "SA-18 Igla manpad",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 3,
+                                        ["skill"] = "Average",
+                                        ["y"] = -40843.667983866,
+                                        ["x"] = -70651.832163075,
+                                        ["name"] = "DictKey_UnitName_1201",
+                                        ["heading"] = 3.0826461557981,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "SA-18 Igla-S comm",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4,
+                                        ["skill"] = "Average",
+                                        ["y"] = -40839.311075177,
+                                        ["x"] = -70660.180394748,
+                                        ["name"] = "DictKey_UnitName_1200",
+                                        ["heading"] = 3.0826461557981,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                }, -- end of ["units"]
+                                ["y"] = -40843.667983866,
+                                ["x"] = -70651.832163075,
+                                ["name"] = "DictKey_GroupName_1199",
+                                ["start_time"] = 0,
+                            }, -- end of [2]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "Russia",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 7,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 49,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -40817.426893587,
+                                            ["x"] = -70638.101020851,
+                                            ["name"] = "DictKey_WptName_1216",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 7,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "Soldier AK",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 9,
+                                        ["skill"] = "Average",
+                                        ["y"] = -40817.426893587,
+                                        ["x"] = -70638.101020851,
+                                        ["name"] = "DictKey_UnitName_1215",
+                                        ["heading"] = 0.78539816339745,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "Soldier AK",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 10,
+                                        ["skill"] = "Average",
+                                        ["y"] = -40808.692979745,
+                                        ["x"] = -70661.461568946,
+                                        ["name"] = "DictKey_UnitName_1214",
+                                        ["heading"] = 1.9373154697137,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "Soldier AK",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 11,
+                                        ["skill"] = "Average",
+                                        ["y"] = -40838.493359295,
+                                        ["x"] = -70679.060218287,
+                                        ["name"] = "DictKey_UnitName_1213",
+                                        ["heading"] = 3.2463124087095,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "Soldier AK",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 12,
+                                        ["skill"] = "Average",
+                                        ["y"] = -40862.896819715,
+                                        ["x"] = -70649.729136052,
+                                        ["name"] = "DictKey_UnitName_1212",
+                                        ["heading"] = 5.0265482457437,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["type"] = "Soldier AK",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 13,
+                                        ["skill"] = "Average",
+                                        ["y"] = -40855.259890393,
+                                        ["x"] = -70623.503216614,
+                                        ["name"] = "DictKey_UnitName_1211",
+                                        ["heading"] = 5.1836278784232,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["type"] = "Soldier AK",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 14,
+                                        ["skill"] = "Average",
+                                        ["y"] = -40824.342490295,
+                                        ["x"] = -70617.795388904,
+                                        ["name"] = "DictKey_UnitName_1210",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [6]
+                                }, -- end of ["units"]
+                                ["y"] = -40817.426893587,
+                                ["x"] = -70638.101020851,
+                                ["name"] = "DictKey_GroupName_1209",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [11]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "Mainland Recce A",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_WptName_615"] = "",
+            ["DictKey_UnitName_52"] = "Unit #009",
+            ["DictKey_UnitName_923"] = "Unit #002",
+            ["DictKey_UnitName_808"] = "Fuel Dump #030",
+            ["DictKey_GroupName_497"] = "Barrels #002",
+            ["DictKey_WptName_272"] = "",
+            ["DictKey_GroupName_586"] = "New Static Object #017",
+            ["DictKey_UnitName_642"] = "Unit #040",
+            ["DictKey_GroupName_616"] = "Primary Destroyed C2",
+            ["DictKey_WptName_269"] = "",
+            ["DictKey_UnitName_980"] = "Primary Damaged Warehouses #002",
+            ["DictKey_WptName_247"] = "",
+            ["DictKey_UnitName_192"] = "Unit #009",
+            ["DictKey_GroupName_215"] = "Secondary Destroyed Fuel Dump #001",
+            ["DictKey_UnitName_1175"] = "Ammo #002",
+            ["DictKey_UnitName_1169"] = "Ammo #004",
+            ["DictKey_UnitName_1049"] = "Unit #013",
+            ["DictKey_GroupName_398"] = "New Static Object #013",
+            ["DictKey_UnitName_348"] = "Unit #001",
+            ["DictKey_UnitName_590"] = "New Static Object #004",
+            ["DictKey_UnitName_828"] = "Unit #002",
+            ["DictKey_UnitName_611"] = "New Static Object #006",
+            ["DictKey_UnitName_333"] = "Unit #016",
+            ["DictKey_WptName_940"] = "",
+            ["DictKey_WptName_534"] = "",
+            ["DictKey_UnitName_249"] = "Secondary Destroyed Fuel Dump",
+            ["DictKey_WptName_1208"] = "",
+            ["DictKey_UnitName_584"] = "New Static Object #010",
+            ["DictKey_GroupName_622"] = "New Static Object #015",
+            ["DictKey_GroupName_589"] = "New Static Object #004",
+            ["DictKey_WptName_639"] = "",
+            ["DictKey_WptName_1023"] = "",
+            ["DictKey_UnitName_1039"] = "Unit #023",
+            ["DictKey_WptName_824"] = "",
+            ["DictKey_GroupName_1078"] = "ISO container small #005",
+            ["DictKey_WptName_621"] = "",
+            ["DictKey_UnitName_663"] = "Unit #012",
+            ["DictKey_UnitName_355"] = "Unit #028",
+            ["DictKey_UnitName_939"] = "Secondary Damaged Warehouses #001",
+            ["DictKey_UnitName_153"] = "Unit #006",
+            ["DictKey_WptName_75"] = "",
+            ["DictKey_WptName_869"] = "",
+            ["DictKey_GroupName_386"] = "New Static Object #009",
+            ["DictKey_GroupName_1030"] = "Secondary Damaged Warehouses #001",
+            ["DictKey_WptName_1092"] = "",
+            ["DictKey_UnitName_1166"] = "Oiltank #001",
+            ["DictKey_UnitName_920"] = "Unit #005",
+            ["DictKey_UnitName_46"] = "Primary Destroyed Outpost",
+            ["DictKey_UnitName_40"] = "Unit #007",
+            ["DictKey_UnitName_95"] = "Unit #008",
+            ["DictKey_WptName_670"] = "",
+            ["DictKey_UnitName_114"] = "Primary Destroyed Outpost #002",
+            ["DictKey_WptName_800"] = "",
+            ["DictKey_UnitName_50"] = "Unit #011",
+            ["DictKey_UnitName_301"] = "Unit #005",
+            ["DictKey_WptName_457"] = "",
+            ["DictKey_GroupName_837"] = "Factory Strike #023",
+            ["DictKey_UnitName_536"] = "New Static Object #015",
+            ["DictKey_GroupName_912"] = "Weapons Warehouses",
+            ["DictKey_GroupName_452"] = "Fueltank #001",
+            ["DictKey_GroupName_640"] = "SILKWORM - East Coast",
+            ["DictKey_WptName_890"] = "",
+            ["DictKey_UnitName_509"] = "Primary Destroyed Outpost #003",
+            ["DictKey_UnitName_56"] = "Unit #005",
+            ["DictKey_UnitName_507"] = "Unit #006",
+            ["DictKey_UnitName_495"] = "Barrels #001",
+            ["DictKey_WptName_978"] = "",
+            ["DictKey_WptName_19"] = "",
+            ["DictKey_GroupName_458"] = "Fueltank #003",
+            ["DictKey_UnitName_128"] = "Primary Destroyed Outpost #002",
+            ["DictKey_UnitName_106"] = "Unit #011",
+            ["DictKey_UnitName_210"] = "Unit #015",
+            ["DictKey_UnitName_435"] = "ISO container",
+            ["DictKey_WptName_737"] = "",
+            ["DictKey_GroupName_894"] = "Factory Strike #011",
+            ["DictKey_UnitName_859"] = "Factory Strike #033",
+            ["DictKey_UnitName_58"] = "Primary Destroyed Outpost #002",
+            ["DictKey_UnitName_853"] = "Factory Strike #031",
+            ["DictKey_WptName_716"] = "",
+            ["DictKey_GroupName_680"] = "Primary Destroyed Fuel Dump #002",
+            ["DictKey_UnitName_718"] = "Primary Destroyed Fuel Dump #003",
+            ["DictKey_UnitName_724"] = "Fuel Dump #010",
+            ["DictKey_UnitName_294"] = "Unit #012",
+            ["DictKey_GroupName_485"] = "Oiltank",
+            ["DictKey_UnitName_165"] = "Unit #008",
+            ["DictKey_GroupName_595"] = "New Static Object #018",
+            ["DictKey_UnitName_578"] = "New Static Object #009",
+            ["DictKey_WptName_1134"] = "",
+            ["DictKey_GroupName_717"] = "Primary Destroyed Fuel Dump #003",
+            ["DictKey_UnitName_635"] = "Secondary Destroyed Silkworm #001",
+            ["DictKey_GroupName_431"] = "New Static Object #024",
+            ["DictKey_WptName_1152"] = "",
+            ["DictKey_WptName_664"] = "",
+            ["DictKey_GroupName_404"] = "New Static Object #015",
+            ["DictKey_GroupName_291"] = "Weapons Bunker",
+            ["DictKey_GroupName_834"] = "Primary Destroyed Factory",
+            ["DictKey_UnitName_203"] = "Unit #022",
+            ["DictKey_UnitName_305"] = "Primary Destroyed Bunker",
+            ["DictKey_WptName_896"] = "",
+            ["DictKey_GroupName_1123"] = "Primary Destroyed OCA #002",
+            ["DictKey_WptName_618"] = "",
+            ["DictKey_UnitName_877"] = "Secondary Destroyed Factory",
+            ["DictKey_GroupName_1171"] = "Oiltank #002",
+            ["DictKey_UnitName_561"] = "Unit #006",
+            ["DictKey_UnitName_303"] = "Unit #003",
+            ["DictKey_UnitName_545"] = "New Static Object #008",
+            ["DictKey_GroupName_461"] = "Ammo #001",
+            ["DictKey_UnitName_107"] = "Unit #010",
+            ["DictKey_WptName_472"] = "",
+            ["DictKey_WptName_415"] = "",
+            ["DictKey_WptName_984"] = "",
+            ["DictKey_GroupName_1180"] = "ISO container small #001",
+            ["DictKey_UnitName_129"] = "Primary Destroyed Outpost #001",
+            ["DictKey_GroupName_801"] = "Primary Destroyed Fuel Dump #001",
+            ["DictKey_GroupName_610"] = "New Static Object #006",
+            ["DictKey_UnitName_672"] = "Primary Destroyed Fuel Dump #003",
+            ["DictKey_UnitName_1145"] = "M117 bombs #002",
+            ["DictKey_UnitName_715"] = "Secondary Destroyed Fuel Dump",
+            ["DictKey_WptName_201"] = "",
+            ["DictKey_WptName_996"] = "",
+            ["DictKey_GroupName_789"] = "Primary Destroyed Fuel Dump #004",
+            ["DictKey_GroupName_994"] = "Secondary Damaged Warehouses #002",
+            ["DictKey_WptName_1125"] = "",
+            ["DictKey_UnitName_396"] = "New Static Object #012",
+            ["DictKey_GroupName_132"] = "New Vehicle Group",
+            ["DictKey_UnitName_150"] = "Unit #009",
+            ["DictKey_UnitName_152"] = "Unit #007",
+            ["DictKey_GroupName_792"] = "Secondary Destroyed Fuel Dump #004",
+            ["DictKey_UnitName_778"] = "Fuel Dump #005",
+            ["DictKey_GroupName_230"] = "Primary Destroyed Fuel Dump #003",
+            ["DictKey_WptName_899"] = "",
+            ["DictKey_GroupName_864"] = "Factory Strike #037",
+            ["DictKey_WptName_466"] = "",
+            ["DictKey_GroupName_852"] = "Factory Strike #031",
+            ["DictKey_UnitName_1184"] = "Oiltank #003",
+            ["DictKey_UnitName_1002"] = "Unit #024",
+            ["DictKey_UnitName_865"] = "Factory Strike #037",
+            ["DictKey_UnitName_542"] = "Secondary Destroyed C2",
+            ["DictKey_WptName_1017"] = "",
+            ["DictKey_UnitName_420"] = "Primary Destroyed Depot",
+            ["DictKey_UnitName_168"] = "Unit #005",
+            ["DictKey_GroupName_1168"] = "Ammo #004",
+            ["DictKey_UnitName_122"] = "Unit #009",
+            ["DictKey_UnitName_957"] = "Unit #021",
+            ["DictKey_GroupName_410"] = "New Static Object #017",
+            ["DictKey_UnitName_314"] = "Unit #008",
+            ["DictKey_UnitName_832"] = "Factory Strike #007",
+            ["DictKey_WptName_1056"] = "",
+            ["DictKey_GroupName_695"] = "Fuel Dump Defence #001",
+            ["DictKey_WptName_685"] = "",
+            ["DictKey_UnitName_593"] = "New Static Object #011",
+            ["DictKey_GroupName_756"] = "Primary Destroyed Fuel Dump #002",
+            ["DictKey_GroupName_753"] = "Primary Destroyed Fuel Dump #005",
+            ["DictKey_WptName_496"] = "",
+            ["DictKey_UnitName_31"] = "Primary Destroyed Outpost #001",
+            ["DictKey_UnitName_111"] = "Unit #006",
+            ["DictKey_UnitName_468"] = "Ammo #003",
+            ["DictKey_GroupName_422"] = "Primary Destroyed Depot #001",
+            ["DictKey_GroupName_544"] = "New Static Object #008",
+            ["DictKey_WptName_743"] = "",
+            ["DictKey_UnitName_27"] = "Unit #006",
+            ["DictKey_UnitName_189"] = "Unit #012",
+            ["DictKey_GroupName_870"] = "Secondary Destroyed Factory #003",
+            ["DictKey_UnitName_1154"] = "Primary Destroyed OCA #001",
+            ["DictKey_WptName_223"] = "",
+            ["DictKey_UnitName_1007"] = "Unit #019",
+            ["DictKey_UnitName_634"] = "Unit #160",
+            ["DictKey_UnitName_856"] = "Factory Strike #032",
+            ["DictKey_UnitName_820"] = "Unit #008",
+            ["DictKey_UnitName_516"] = "Unit #011",
+            ["DictKey_UnitName_1055"] = "Primary Destroyed Warehouses #002",
+            ["DictKey_GroupName_174"] = "New Vehicle Group",
+            ["DictKey_UnitName_847"] = "Factory Strike #029",
+            ["DictKey_GroupName_267"] = "Primary Destroyed Ammo Dump",
+            ["DictKey_WptName_367"] = "",
+            ["DictKey_UnitName_293"] = "Unit #013",
+            ["DictKey_WptName_537"] = "",
+            ["DictKey_UnitName_761"] = "Unit #015",
+            ["DictKey_GroupName_541"] = "Secondary Destroyed C2",
+            ["DictKey_UnitName_1091"] = "M117 bombs #009",
+            ["DictKey_WptName_854"] = "",
+            ["DictKey_WptName_253"] = "",
+            ["DictKey_WptName_993"] = "",
+            ["DictKey_UnitName_198"] = "Primary Destroyed Outpost #002",
+            ["DictKey_WptName_1059"] = "",
+            ["DictKey_GroupName_598"] = "Secondary Destroyed C2",
+            ["DictKey_UnitName_354"] = "Unit #029",
+            ["DictKey_WptName_391"] = "",
+            ["DictKey_UnitName_369"] = "New Static Object #003",
+            ["DictKey_UnitName_154"] = "Unit #005",
+            ["DictKey_UnitName_763"] = "Unit #013",
+            ["DictKey_GroupName_1129"] = "Ammo #002",
+            ["DictKey_UnitName_429"] = "New Static Object #023",
+            ["DictKey_UnitName_338"] = "Unit #011",
+            ["DictKey_GroupName_973"] = "Secondary Damaged Warehouses",
+            ["DictKey_UnitName_530"] = "Unit #004",
+            ["DictKey_UnitName_255"] = "Unit #104",
+            ["DictKey_UnitName_71"] = "Primary Destroyed Outpost #003",
+            ["DictKey_UnitName_13"] = "Unit #018",
+            ["DictKey_UnitName_721"] = "Secondary Destroyed Fuel Dump #006",
+            ["DictKey_UnitName_995"] = "Secondary Damaged Warehouses #002",
+            ["DictKey_GroupName_1174"] = "Ammo #002",
+            ["DictKey_WptName_591"] = "",
+            ["DictKey_GroupName_528"] = "C2 Defence",
+            ["DictKey_UnitName_886"] = "Factory Strike #006",
+            ["DictKey_WptName_688"] = "",
+            ["DictKey_UnitName_760"] = "Unit #016",
+            ["DictKey_UnitName_339"] = "Unit #010",
+            ["DictKey_UnitName_184"] = "Primary Destroyed Outpost #002",
+            ["DictKey_GroupName_1206"] = "PRIMARY DESTROYED LandRover2",
+            ["DictKey_UnitName_200"] = "Primary Destroyed Outpost #001",
+            ["DictKey_UnitName_82"] = "Unit #007",
+            ["DictKey_UnitName_375"] = "New Static Object #005",
+            ["DictKey_UnitName_645"] = "Unit #040",
+            ["DictKey_WptName_612"] = "",
+            ["DictKey_UnitName_706"] = "Unit #012",
+            ["DictKey_UnitName_16"] = "Primary Destroyed Outpost #003",
+            ["DictKey_WptName_131"] = "",
+            ["DictKey_UnitName_1070"] = "Primary Destroyed OCA #001",
+            ["DictKey_UnitName_209"] = "Unit #016",
+            ["DictKey_UnitName_977"] = "Primary Destroyed Warehouses",
+            ["DictKey_UnitName_638"] = "Primary Destroyed Silkworm",
+            ["DictKey_UnitName_1207"] = "New Static Object #001",
+            ["DictKey_GroupName_938"] = "Secondary Damaged Warehouses #001",
+            ["DictKey_GroupName_389"] = "New Static Object #010",
+            ["DictKey_UnitName_1038"] = "Unit #024",
+            ["DictKey_UnitName_657"] = "Unit #018",
+            ["DictKey_GroupName_413"] = "New Static Object #018",
+            ["DictKey_WptName_1014"] = "",
+            ["DictKey_GroupName_282"] = "Ammo Dump #068",
+            ["DictKey_WptName_594"] = "",
+            ["DictKey_GroupName_1090"] = "M117 bombs #009",
+            ["DictKey_UnitName_1009"] = "Unit #017",
+            ["DictKey_UnitName_326"] = "Unit #023",
+            ["DictKey_UnitName_914"] = "Unit #011",
+            ["DictKey_UnitName_67"] = "Unit #008",
+            ["DictKey_GroupName_1162"] = "ISO container small #006",
+            ["DictKey_WptName_878"] = "",
+            ["DictKey_GroupName_897"] = "Primary Destroyed Factory #001",
+            ["DictKey_UnitName_774"] = "Unit #002",
+            ["DictKey_UnitName_963"] = "Unit #015",
+            ["DictKey_UnitName_702"] = "Unit #016",
+            ["DictKey_UnitName_1005"] = "Unit #021",
+            ["DictKey_WptName_1188"] = "",
+            ["DictKey_UnitName_360"] = "New Static Object",
+            ["DictKey_UnitName_662"] = "Unit #013",
+            ["DictKey_UnitName_329"] = "Unit #020",
+            ["DictKey_UnitName_1124"] = "Primary Destroyed OCA #002",
+            ["DictKey_WptName_779"] = "",
+            ["DictKey_UnitName_320"] = "Secondary Destroyed Bunker",
+            ["DictKey_UnitName_889"] = "Factory Strike #009",
+            ["DictKey_UnitName_312"] = "Unit #010",
+            ["DictKey_WptName_1071"] = "",
+            ["DictKey_WptName_217"] = "",
+            ["DictKey_WptName_797"] = "",
+            ["DictKey_UnitName_136"] = "Unit #009",
+            ["DictKey_GroupName_479"] = "Ammo #007",
+            ["DictKey_UnitName_942"] = "New Static Object #005",
+            ["DictKey_UnitName_1001"] = "Unit #001",
+            ["DictKey_GroupName_392"] = "New Static Object #011",
+            ["DictKey_WptName_934"] = "",
+            ["DictKey_UnitName_315"] = "Unit #007",
+            ["DictKey_UnitName_43"] = "Primary Destroyed Outpost #003",
+            ["DictKey_UnitName_1106"] = "M117 bombs #006",
+            ["DictKey_UnitName_171"] = "Primary Destroyed Outpost #001",
+            ["DictKey_UnitName_903"] = "Unit #008",
+            ["DictKey_UnitName_895"] = "Factory Strike #011",
+            ["DictKey_UnitName_917"] = "Unit #008",
+            ["DictKey_UnitName_450"] = "Fueltank",
+            ["DictKey_UnitName_38"] = "Unit #009",
+            ["DictKey_GroupName_1141"] = "Ammo #001",
+            ["DictKey_UnitName_262"] = "Unit #097",
+            ["DictKey_WptName_1149"] = "",
+            ["DictKey_GroupName_443"] = "ISO container small #001",
+            ["DictKey_GroupName_783"] = "Primary Destroyed Fuel Dump",
+            ["DictKey_GroupName_556"] = "New Static Object #005",
+            ["DictKey_GroupName_607"] = "Secondary Destroyed C2 #001",
+            ["DictKey_GroupName_1138"] = "Oiltank #003",
+            ["DictKey_UnitName_316"] = "Unit #006",
+            ["DictKey_WptName_848"] = "",
+            ["DictKey_WptName_651"] = "",
+            ["DictKey_GroupName_1102"] = "Ammo #001",
+            ["DictKey_UnitName_1006"] = "Unit #020",
+            ["DictKey_UnitName_93"] = "Unit #010",
+            ["DictKey_UnitName_332"] = "Unit #017",
+            ["DictKey_WptName_794"] = "",
+            ["DictKey_UnitName_426"] = "New Static Object #022",
+            ["DictKey_UnitName_835"] = "Primary Destroyed Factory",
+            ["DictKey_GroupName_476"] = "Ammo #006",
+            ["DictKey_UnitName_351"] = "Unit #032",
+            ["DictKey_WptName_1155"] = "",
+            ["DictKey_UnitName_208"] = "Unit #017",
+            ["DictKey_WptName_588"] = "",
+            ["DictKey_UnitName_505"] = "Unit #008",
+            ["DictKey_GroupName_395"] = "New Static Object #012",
+            ["DictKey_WptName_235"] = "",
+            ["DictKey_UnitName_80"] = "Unit #009",
+            ["DictKey_UnitName_32"] = "Primary Destroyed Outpost",
+            ["DictKey_UnitName_927"] = "Primary Destroyed Warehouses",
+            ["DictKey_UnitName_921"] = "Unit #004",
+            ["DictKey_UnitName_1181"] = "ISO container small #001",
+            ["DictKey_UnitName_259"] = "Unit #100",
+            ["DictKey_UnitName_1019"] = "Primary Destroyed Warehouses #002",
+            ["DictKey_UnitName_148"] = "Unit #011",
+            ["DictKey_WptName_89"] = "",
+            ["DictKey_UnitName_1193"] = "ISO container small #002",
+            ["DictKey_UnitName_97"] = "Unit #006",
+            ["DictKey_WptName_448"] = "",
+            ["DictKey_GroupName_279"] = "Secondary Damaged Ammo Dump",
+            ["DictKey_UnitName_1157"] = "Primary Destroyed OCA #002",
+            ["DictKey_WptName_238"] = "",
+            ["DictKey_UnitName_134"] = "Unit #011",
+            ["DictKey_UnitName_234"] = "Fuel Dump #026",
+            ["DictKey_GroupName_104"] = "New Vehicle Group",
+            ["DictKey_WptName_1086"] = "",
+            ["DictKey_UnitName_844"] = "Factory Strike #028",
+            ["DictKey_UnitName_101"] = "Primary Destroyed Outpost #001",
+            ["DictKey_UnitName_658"] = "Unit #017",
+            ["DictKey_WptName_1098"] = "",
+            ["DictKey_UnitName_1187"] = "Ammo #001",
+            ["DictKey_UnitName_649"] = "Primary Destroyed Silkworm #001",
+            ["DictKey_GroupName_1093"] = "ISO container small #006",
+            ["DictKey_GroupName_625"] = "New Static Object #001",
+            ["DictKey_UnitName_1028"] = "Primary Destroyed Warehouses",
+            ["DictKey_UnitName_161"] = "Unit #012",
+            ["DictKey_UnitName_219"] = "Fuel Dump #021",
+            ["DictKey_GroupName_1054"] = "Primary Destroyed Warehouses #002",
+            ["DictKey_UnitName_1061"] = "Primary Destroyed Warehouses #004",
+            ["DictKey_UnitName_1067"] = "Secondary Damaged Warehouses #001",
+            ["DictKey_UnitName_520"] = "Unit #007",
+            ["DictKey_UnitName_204"] = "Unit #021",
+            ["DictKey_GroupName_514"] = "New Vehicle Group",
+            ["DictKey_UnitName_705"] = "Unit #013",
+            ["DictKey_WptName_412"] = "",
+            ["DictKey_UnitName_519"] = "Unit #008",
+            ["DictKey_GroupName_377"] = "New Static Object #006",
+            ["DictKey_UnitName_222"] = "Primary Destroyed Fuel Dump",
+            ["DictKey_GroupName_777"] = "Fuel Dump #005",
+            ["DictKey_UnitName_98"] = "Unit #005",
+            ["DictKey_UnitName_643"] = "Unit #040",
+            ["DictKey_UnitName_335"] = "Unit #014",
+            ["DictKey_UnitName_120"] = "Unit #011",
+            ["DictKey_WptName_421"] = "",
+            ["DictKey_GroupName_1195"] = "New Vehicle Group",
+            ["DictKey_GroupName_991"] = "Secondary Damaged Warehouses #004",
+            ["DictKey_GroupName_807"] = "Fuel Dump #030",
+            ["DictKey_UnitName_1013"] = "Unit #013",
+            ["DictKey_WptName_1020"] = "",
+            ["DictKey_WptName_1191"] = "",
+            ["DictKey_WptName_117"] = "",
+            ["DictKey_UnitName_96"] = "Unit #007",
+            ["DictKey_GroupName_1177"] = "M117 bombs #001",
+            ["DictKey_WptName_61"] = "",
+            ["DictKey_WptName_839"] = "",
+            ["DictKey_GroupName_686"] = "Fuel Dump #027",
+            ["DictKey_WptName_445"] = "",
+            ["DictKey_GroupName_1081"] = "M117 bombs #007",
+            ["DictKey_WptName_436"] = "",
+            ["DictKey_WptName_364"] = "",
+            ["DictKey_UnitName_298"] = "Unit #008",
+            ["DictKey_WptName_1128"] = "",
+            ["DictKey_WptName_385"] = "",
+            ["DictKey_UnitName_623"] = "New Static Object #015",
+            ["DictKey_UnitName_471"] = "Ammo #004",
+            ["DictKey_WptName_499"] = "",
+            ["DictKey_GroupName_538"] = "Primary Destroyed C2",
+            ["DictKey_WptName_145"] = "",
+            ["DictKey_GroupName_665"] = "Secondary Destroyed Fuel Dump",
+            ["DictKey_UnitName_700"] = "Unit #018",
+            ["DictKey_GroupName_876"] = "Secondary Destroyed Factory",
+            ["DictKey_UnitName_1139"] = "Oiltank #003",
+            ["DictKey_UnitName_1115"] = "Oiltank #001",
+            ["DictKey_GroupName_473"] = "Ammo #005",
+            ["DictKey_WptName_558"] = "",
+            ["DictKey_UnitName_968"] = "Primary Damaged Warehouses",
+            ["DictKey_UnitName_930"] = "Primary Destroyed Warehouses #001",
+            ["DictKey_UnitName_123"] = "Unit #008",
+            ["DictKey_UnitName_562"] = "Unit #005",
+            ["DictKey_WptName_1140"] = "",
+            ["DictKey_GroupName_227"] = "Primary Destroyed Fuel Dump #002",
+            ["DictKey_UnitName_703"] = "Unit #015",
+            ["DictKey_UnitName_190"] = "Unit #011",
+            ["DictKey_UnitName_138"] = "Unit #007",
+            ["DictKey_WptName_546"] = "",
+            ["DictKey_GroupName_580"] = "New Static Object #003",
+            ["DictKey_WptName_454"] = "",
+            ["DictKey_GroupName_440"] = "ISO container small",
+            ["DictKey_UnitName_125"] = "Unit #006",
+            ["DictKey_UnitName_206"] = "Unit #019",
+            ["DictKey_GroupName_434"] = "ISO container",
+            ["DictKey_UnitName_49"] = "Unit #012",
+            ["DictKey_UnitName_172"] = "Primary Destroyed Outpost",
+            ["DictKey_GroupName_1156"] = "Primary Destroyed OCA #002",
+            ["DictKey_WptName_214"] = "",
+            ["DictKey_WptName_433"] = "",
+            ["DictKey_UnitName_666"] = "Secondary Destroyed Fuel Dump",
+            ["DictKey_UnitName_57"] = "Primary Destroyed Outpost #003",
+            ["DictKey_WptName_306"] = "",
+            ["DictKey_UnitName_256"] = "Unit #103",
+            ["DictKey_UnitName_35"] = "Unit #012",
+            ["DictKey_UnitName_502"] = "Unit #011",
+            ["DictKey_WptName_250"] = "",
+            ["DictKey_UnitName_892"] = "Factory Strike #010",
+            ["DictKey_UnitName_162"] = "Unit #011",
+            ["DictKey_UnitName_199"] = "Primary Destroyed Outpost",
+            ["DictKey_UnitName_646"] = "Unit #040",
+            ["DictKey_WptName_734"] = "",
+            ["DictKey_UnitName_465"] = "Ammo #002",
+            ["DictKey_GroupName_619"] = "New Static Object #007",
+            ["DictKey_WptName_1194"] = "",
+            ["DictKey_UnitName_151"] = "Unit #008",
+            ["DictKey_UnitName_565"] = "Unit #002",
+            ["DictKey_WptName_484"] = "",
+            ["DictKey_UnitName_292"] = "Unit #014",
+            ["DictKey_GroupName_723"] = "Fuel Dump #010",
+            ["DictKey_GroupName_535"] = "New Static Object #015",
+            ["DictKey_WptName_388"] = "",
+            ["DictKey_UnitName_531"] = "Unit #003",
+            ["DictKey_UnitName_237"] = "Fuel Dump #027",
+            ["DictKey_GroupName_1099"] = "Ammo #004",
+            ["DictKey_UnitName_164"] = "Unit #009",
+            ["DictKey_GroupName_491"] = "Barrels",
+            ["DictKey_UnitName_909"] = "Unit #002",
+            ["DictKey_GroupName_1060"] = "Primary Destroyed Warehouses #004",
+            ["DictKey_UnitName_459"] = "Fueltank #003",
+            ["DictKey_UnitName_302"] = "Unit #004",
+            ["DictKey_UnitName_257"] = "Unit #102",
+            ["DictKey_UnitName_999"] = "Unit #003",
+            ["DictKey_WptName_463"] = "",
+            ["DictKey_UnitName_9"] = "Unit #022",
+            ["DictKey_UnitName_42"] = "Unit #005",
+            ["DictKey_UnitName_796"] = "Fuel Dump #024",
+            ["DictKey_UnitName_958"] = "Unit #020",
+            ["DictKey_UnitName_277"] = "Secondary Damaged Ammo Dump #002",
+            ["DictKey_GroupName_428"] = "New Static Object #023",
+            ["DictKey_UnitName_517"] = "Unit #010",
+            ["DictKey_UnitName_88"] = "Primary Destroyed Outpost #001",
+            ["DictKey_WptName_281"] = "",
+            ["DictKey_UnitName_109"] = "Unit #008",
+            ["DictKey_WptName_409"] = "",
+            ["DictKey_WptName_952"] = "",
+            ["DictKey_UnitName_166"] = "Unit #007",
+            ["DictKey_WptName_857"] = "",
+            ["DictKey_WptName_1164"] = "",
+            ["DictKey_UnitName_124"] = "Unit #007",
+            ["DictKey_GroupName_1183"] = "Oiltank #003",
+            ["DictKey_UnitName_599"] = "Secondary Destroyed C2",
+            ["DictKey_UnitName_1121"] = "Primary Destroyed OCA #001",
+            ["DictKey_UnitName_827"] = "Unit #003",
+            ["DictKey_UnitName_907"] = "Unit #004",
+            ["DictKey_GroupName_488"] = "Oiltank #001",
+            ["DictKey_UnitName_462"] = "Ammo #001",
+            ["DictKey_WptName_579"] = "",
+            ["DictKey_GroupName_744"] = "Primary Destroyed Fuel Dump",
+            ["DictKey_UnitName_838"] = "Factory Strike #023",
+            ["DictKey_UnitName_480"] = "Ammo #007",
+            ["DictKey_UnitName_18"] = "Primary Destroyed Outpost #001",
+            ["DictKey_UnitName_659"] = "Unit #016",
+            ["DictKey_WptName_1074"] = "",
+            ["DictKey_UnitName_630"] = "Unit #164",
+            ["DictKey_UnitName_330"] = "Unit #019",
+            ["DictKey_WptName_1116"] = "",
+            ["DictKey_GroupName_795"] = "Fuel Dump #024",
+            ["DictKey_UnitName_37"] = "Unit #010",
+            ["DictKey_UnitName_372"] = "New Static Object #004",
+            ["DictKey_GroupName_233"] = "Fuel Dump #026",
+            ["DictKey_UnitName_300"] = "Unit #006",
+            ["DictKey_GroupName_419"] = "Primary Destroyed Depot",
+            ["DictKey_WptName_159"] = "",
+            ["DictKey_UnitName_72"] = "Primary Destroyed Outpost #002",
+            ["DictKey_UnitName_212"] = "Unit #013",
+            ["DictKey_WptName_740"] = "",
+            ["DictKey_UnitName_1085"] = "M117 bombs #008",
+            ["DictKey_UnitName_156"] = "Primary Destroyed Outpost #002",
+            ["DictKey_UnitName_656"] = "Unit #019",
+            ["DictKey_UnitName_283"] = "Ammo Dump #068",
+            ["DictKey_UnitName_1215"] = "Unit #005",
+            ["DictKey_UnitName_913"] = "Unit #012",
+            ["DictKey_UnitName_539"] = "Primary Destroyed C2",
+            ["DictKey_GroupName_1057"] = "Primary Destroyed Warehouses #003",
+            ["DictKey_UnitName_331"] = "Unit #018",
+            ["DictKey_GroupName_976"] = "Primary Destroyed Warehouses",
+            ["DictKey_GroupName_592"] = "New Static Object #011",
+            ["DictKey_UnitName_998"] = "Unit #004",
+            ["DictKey_UnitName_121"] = "Unit #010",
+            ["DictKey_UnitName_521"] = "Unit #006",
+            ["DictKey_GroupName_1199"] = "New Vehicle Group #001",
+            ["DictKey_UnitName_327"] = "Unit #022",
+            ["DictKey_WptName_937"] = "",
+            ["DictKey_WptName_1110"] = "",
+            ["DictKey_UnitName_274"] = "Ammo Dump #065",
+            ["DictKey_UnitName_417"] = "New Static Object #019",
+            ["DictKey_UnitName_163"] = "Unit #010",
+            ["DictKey_UnitName_336"] = "Unit #013",
+            ["DictKey_UnitName_69"] = "Unit #006",
+            ["DictKey_WptName_966"] = "",
+            ["DictKey_UnitName_1210"] = "Unit #010",
+            ["DictKey_UnitName_130"] = "Primary Destroyed Outpost",
+            ["DictKey_UnitName_787"] = "Secondary Destroyed Fuel Dump #003",
+            ["DictKey_WptName_1146"] = "",
+            ["DictKey_GroupName_1120"] = "Primary Destroyed OCA #001",
+            ["DictKey_GroupName_146"] = "New Vehicle Group",
+            ["DictKey_UnitName_548"] = "New Static Object #017",
+            ["DictKey_UnitName_1064"] = "Primary Destroyed Warehouses",
+            ["DictKey_UnitName_936"] = "New Static Object #003",
+            ["DictKey_UnitName_183"] = "Primary Destroyed Outpost #003",
+            ["DictKey_GroupName_464"] = "Ammo #002",
+            ["DictKey_UnitName_841"] = "Factory Strike #027",
+            ["DictKey_GroupName_455"] = "Fueltank #002",
+            ["DictKey_WptName_427"] = "",
+            ["DictKey_UnitName_631"] = "Unit #163",
+            ["DictKey_UnitName_648"] = "Secondary Destroyed Silkworm",
+            ["DictKey_UnitName_1112"] = "ISO container small #006",
+            ["DictKey_WptName_103"] = "",
+            ["DictKey_UnitName_175"] = "Unit #012",
+            ["DictKey_GroupName_383"] = "New Static Object #008",
+            ["DictKey_UnitName_15"] = "Primary Destroyed Outpost",
+            ["DictKey_WptName_881"] = "",
+            ["DictKey_WptName_244"] = "",
+            ["DictKey_WptName_439"] = "",
+            ["DictKey_UnitName_186"] = "Primary Destroyed Outpost",
+            ["DictKey_UnitName_901"] = "Unit #010",
+            ["DictKey_GroupName_1147"] = "ISO container small #002",
+            ["DictKey_UnitName_572"] = "New Static Object #016",
+            ["DictKey_UnitName_1011"] = "Unit #015",
+            ["DictKey_UnitName_169"] = "Primary Destroyed Outpost #003",
+            ["DictKey_WptName_624"] = "",
+            ["DictKey_UnitName_309"] = "Unit #013",
+            ["DictKey_UnitName_1118"] = "Ammo #004",
+            ["DictKey_GroupName_1015"] = "Secondary Damaged Warehouses",
+            ["DictKey_UnitName_511"] = "Primary Destroyed Outpost #001",
+            ["DictKey_WptName_570"] = "",
+            ["DictKey_UnitName_742"] = "Secondary Destroyed Fuel Dump #005",
+            ["DictKey_UnitName_629"] = "Unit #165",
+            ["DictKey_UnitName_340"] = "Unit #009",
+            ["DictKey_UnitName_704"] = "Unit #014",
+            ["DictKey_UnitName_1190"] = "M117 bombs #002",
+            ["DictKey_GroupName_1105"] = "M117 bombs #006",
+            ["DictKey_GroupName_248"] = "Secondary Destroyed Fuel Dump",
+            ["DictKey_WptName_487"] = "",
+            ["DictKey_UnitName_1034"] = "Unit #004",
+            ["DictKey_UnitName_308"] = "Unit #014",
+            ["DictKey_GroupName_683"] = "Fuel Dump #026",
+            ["DictKey_UnitName_486"] = "Oiltank",
+            ["DictKey_UnitName_1046"] = "Unit #016",
+            ["DictKey_GroupName_559"] = "C2 Defence",
+            ["DictKey_UnitName_318"] = "Unit #004",
+            ["DictKey_GroupName_470"] = "Ammo #004",
+            ["DictKey_UnitName_954"] = "Unit #024",
+            ["DictKey_WptName_830"] = "",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_UnitName_564"] = "Unit #003",
+            ["DictKey_UnitName_1040"] = "Unit #022",
+            ["DictKey_UnitName_178"] = "Unit #009",
+            ["DictKey_WptName_478"] = "",
+            ["DictKey_UnitName_1127"] = "Oiltank #002",
+            ["DictKey_UnitName_566"] = "Unit #001",
+            ["DictKey_WptName_911"] = "",
+            ["DictKey_GroupName_671"] = "Primary Destroyed Fuel Dump #003",
+            ["DictKey_WptName_875"] = "",
+            ["DictKey_UnitName_286"] = "Ammo Dump #069",
+            ["DictKey_WptName_969"] = "",
+            ["DictKey_WptName_370"] = "",
+            ["DictKey_WptName_785"] = "",
+            ["DictKey_UnitName_225"] = "Primary Destroyed Fuel Dump #001",
+            ["DictKey_UnitName_68"] = "Unit #007",
+            ["DictKey_WptName_682"] = "",
+            ["DictKey_GroupName_218"] = "Fuel Dump #021",
+            ["DictKey_WptName_567"] = "",
+            ["DictKey_UnitName_147"] = "Unit #012",
+            ["DictKey_WptName_290"] = "",
+            ["DictKey_UnitName_510"] = "Primary Destroyed Outpost #002",
+            ["DictKey_UnitName_1214"] = "Unit #006",
+            ["DictKey_UnitName_228"] = "Primary Destroyed Fuel Dump #002",
+            ["DictKey_UnitName_119"] = "Unit #012",
+            ["DictKey_WptName_1080"] = "",
+            ["DictKey_UnitName_142"] = "Primary Destroyed Outpost #002",
+            ["DictKey_UnitName_24"] = "Unit #009",
+            ["DictKey_UnitName_321"] = "Primary Destroyed Bunker",
+            ["DictKey_GroupName_270"] = "Ammo Dump #063",
+            ["DictKey_GroupName_891"] = "Factory Strike #010",
+            ["DictKey_UnitName_328"] = "Unit #021",
+            ["DictKey_GroupName_674"] = "Primary Destroyed Fuel Dump #001",
+            ["DictKey_UnitName_1197"] = "Unit #001",
+            ["DictKey_UnitName_264"] = "Unit #095",
+            ["DictKey_WptName_863"] = "",
+            ["DictKey_UnitName_196"] = "Unit #005",
+            ["DictKey_WptName_872"] = "",
+            ["DictKey_UnitName_608"] = "Secondary Destroyed C2 #001",
+            ["DictKey_UnitName_252"] = "Secondary Destroyed Fuel Dump #002",
+            ["DictKey_UnitName_51"] = "Unit #010",
+            ["DictKey_UnitName_821"] = "Unit #007",
+            ["DictKey_UnitName_387"] = "New Static Object #009",
+            ["DictKey_UnitName_1133"] = "M117 bombs #001",
+            ["DictKey_GroupName_276"] = "Secondary Damaged Ammo Dump #002",
+            ["DictKey_WptName_791"] = "",
+            ["DictKey_WptName_803"] = "",
+            ["DictKey_WptName_1122"] = "",
+            ["DictKey_UnitName_905"] = "Unit #006",
+            ["DictKey_WptName_1101"] = "",
+            ["DictKey_UnitName_313"] = "Unit #009",
+            ["DictKey_UnitName_193"] = "Unit #008",
+            ["DictKey_UnitName_503"] = "Unit #010",
+            ["DictKey_WptName_475"] = "",
+            ["DictKey_UnitName_1044"] = "Unit #018",
+            ["DictKey_WptName_241"] = "",
+            ["DictKey_GroupName_76"] = "New Vehicle Group",
+            ["DictKey_WptName_549"] = "",
+            ["DictKey_GroupName_224"] = "Primary Destroyed Fuel Dump #001",
+            ["DictKey_UnitName_526"] = "Primary Destroyed Outpost",
+            ["DictKey_UnitName_87"] = "Primary Destroyed Outpost",
+            ["DictKey_GroupName_947"] = "Secondary Damaged Warehouses #003",
+            ["DictKey_WptName_424"] = "",
+            ["DictKey_WptName_1131"] = "",
+            ["DictKey_UnitName_560"] = "Unit #007",
+            ["DictKey_WptName_469"] = "",
+            ["DictKey_UnitName_868"] = "Factory Strike #038",
+            ["DictKey_UnitName_762"] = "Unit #014",
+            ["DictKey_UnitName_483"] = "Ammo #008",
+            ["DictKey_UnitName_155"] = "Primary Destroyed Outpost #003",
+            ["DictKey_WptName_278"] = "",
+            ["DictKey_UnitName_14"] = "Unit #017",
+            ["DictKey_GroupName_735"] = "Secondary Destroyed Fuel Dump #003",
+            ["DictKey_GroupName_254"] = "Ammo Dump Defence #007",
+            ["DictKey_UnitName_444"] = "ISO container small #001",
+            ["DictKey_WptName_379"] = "",
+            ["DictKey_GroupName_449"] = "Fueltank",
+            ["DictKey_GroupName_840"] = "Factory Strike #027",
+            ["DictKey_UnitName_113"] = "Primary Destroyed Outpost #003",
+            ["DictKey_GroupName_359"] = "New Static Object",
+            ["DictKey_UnitName_211"] = "Unit #014",
+            ["DictKey_UnitName_137"] = "Unit #008",
+            ["DictKey_UnitName_687"] = "Fuel Dump #027",
+            ["DictKey_UnitName_883"] = "Factory Strike #005",
+            ["DictKey_GroupName_1126"] = "Oiltank #002",
+            ["DictKey_UnitName_240"] = "Fuel Dump #028",
+            ["DictKey_UnitName_766"] = "Unit #010",
+            ["DictKey_GroupName_692"] = "Secondary Destroyed Fuel Dump #002",
+            ["DictKey_UnitName_23"] = "Unit #010",
+            ["DictKey_UnitName_176"] = "Unit #011",
+            ["DictKey_UnitName_563"] = "Unit #004",
+            ["DictKey_UnitName_515"] = "Unit #012",
+            ["DictKey_UnitName_140"] = "Unit #005",
+            ["DictKey_UnitName_81"] = "Unit #008",
+            ["DictKey_UnitName_955"] = "Unit #023",
+            ["DictKey_UnitName_268"] = "Primary Destroyed Ammo Dump",
+            ["DictKey_WptName_1170"] = "",
+            ["DictKey_GroupName_1186"] = "Ammo #001",
+            ["DictKey_UnitName_1012"] = "Unit #014",
+            ["DictKey_GroupName_885"] = "Factory Strike #006",
+            ["DictKey_UnitName_185"] = "Primary Destroyed Outpost #001",
+            ["DictKey_GroupName_1135"] = "ISO container small #001",
+            ["DictKey_WptName_394"] = "",
+            ["DictKey_UnitName_1200"] = "Unit #004",
+            ["DictKey_WptName_710"] = "",
+            ["DictKey_UnitName_675"] = "Primary Destroyed Fuel Dump #001",
+            ["DictKey_WptName_322"] = "",
+            ["DictKey_WptName_442"] = "",
+            ["DictKey_WptName_728"] = "",
+            ["DictKey_UnitName_522"] = "Unit #005",
+            ["DictKey_WptName_972"] = "",
+            ["DictKey_GroupName_1051"] = "Secondary Damaged Warehouses",
+            ["DictKey_GroupName_747"] = "Primary Destroyed Fuel Dump #004",
+            ["DictKey_UnitName_167"] = "Unit #006",
+            ["DictKey_UnitName_1042"] = "Unit #020",
+            ["DictKey_GroupName_160"] = "New Vehicle Group",
+            ["DictKey_WptName_540"] = "",
+            ["DictKey_WptName_226"] = "",
+            ["DictKey_UnitName_260"] = "Unit #099",
+            ["DictKey_GroupName_371"] = "New Static Object #004",
+            ["DictKey_WptName_679"] = "",
+            ["DictKey_GroupName_825"] = "Factory Strike Guards #002",
+            ["DictKey_UnitName_28"] = "Unit #005",
+            ["DictKey_UnitName_366"] = "New Static Object #002",
+            ["DictKey_UnitName_1025"] = "Primary Destroyed Warehouses #004",
+            ["DictKey_GroupName_882"] = "Factory Strike #005",
+            ["DictKey_GroupName_1111"] = "ISO container small #006",
+            ["DictKey_WptName_1104"] = "",
+            ["DictKey_UnitName_554"] = "New Static Object #016",
+            ["DictKey_UnitName_296"] = "Unit #010",
+            ["DictKey_UnitName_271"] = "Ammo Dump #063",
+            ["DictKey_GroupName_482"] = "Ammo #008",
+            ["DictKey_WptName_1089"] = "",
+            ["DictKey_GroupName_251"] = "Secondary Destroyed Fuel Dump #002",
+            ["DictKey_UnitName_772"] = "Unit #004",
+            ["DictKey_WptName_818"] = "",
+            ["DictKey_UnitName_381"] = "New Static Object #007",
+            ["DictKey_UnitName_110"] = "Unit #007",
+            ["DictKey_WptName_603"] = "",
+            ["DictKey_UnitName_1212"] = "Unit #008",
+            ["DictKey_GroupName_929"] = "Primary Destroyed Warehouses #001",
+            ["DictKey_WptName_1026"] = "",
+            ["DictKey_UnitName_1204"] = "New Static Object",
+            ["DictKey_GroupName_780"] = "Primary Destroyed Fuel Dump #003",
+            ["DictKey_GroupName_944"] = "Secondary Damaged Warehouses #002",
+            ["DictKey_WptName_719"] = "",
+            ["DictKey_UnitName_41"] = "Unit #006",
+            ["DictKey_UnitName_1109"] = "Primary Destroyed OCA",
+            ["DictKey_UnitName_317"] = "Unit #005",
+            ["DictKey_UnitName_1211"] = "Unit #009",
+            ["DictKey_UnitName_1160"] = "M117 bombs #006",
+            ["DictKey_GroupName_720"] = "Secondary Destroyed Fuel Dump #006",
+            ["DictKey_WptName_925"] = "",
+            ["DictKey_WptName_1050"] = "",
+            ["DictKey_GroupName_437"] = "ISO container #001",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_WptName_1119"] = "",
+            ["DictKey_UnitName_1088"] = "Primary Destroyed OCA",
+            ["DictKey_GroupName_810"] = "Fuel Dump #031",
+            ["DictKey_UnitName_811"] = "Fuel Dump #031",
+            ["DictKey_UnitName_799"] = "Secondary Destroyed Fuel Dump #002",
+            ["DictKey_WptName_758"] = "",
+            ["DictKey_GroupName_941"] = "New Static Object #005",
+            ["DictKey_WptName_361"] = "",
+            ["DictKey_WptName_812"] = "",
+            ["DictKey_WptName_694"] = "",
+            ["DictKey_UnitName_297"] = "Unit #009",
+            ["DictKey_UnitName_902"] = "Unit #009",
+            ["DictKey_UnitName_26"] = "Unit #007",
+            ["DictKey_GroupName_950"] = "Secondary Damaged Warehouses #004",
+            ["DictKey_UnitName_456"] = "Fueltank #002",
+            ["DictKey_UnitName_141"] = "Primary Destroyed Outpost #003",
+            ["DictKey_GroupName_1072"] = "Primary Destroyed OCA #002",
+            ["DictKey_UnitName_1196"] = "Unit #002",
+            ["DictKey_UnitName_551"] = "New Static Object #006",
+            ["DictKey_UnitName_1082"] = "M117 bombs #007",
+            ["DictKey_UnitName_39"] = "Unit #008",
+            ["DictKey_UnitName_158"] = "Primary Destroyed Outpost",
+            ["DictKey_WptName_606"] = "",
+            ["DictKey_WptName_931"] = "",
+            ["DictKey_GroupName_118"] = "New Vehicle Group",
+            ["DictKey_GroupName_926"] = "Primary Destroyed Warehouses",
+            ["DictKey_GroupName_547"] = "New Static Object #017",
+            ["DictKey_WptName_430"] = "",
+            ["DictKey_UnitName_12"] = "Unit #019",
+            ["DictKey_GroupName_553"] = "New Static Object #016",
+            ["DictKey_UnitName_378"] = "New Static Object #006",
+            ["DictKey_GroupName_979"] = "Primary Damaged Warehouses #002",
+            ["DictKey_GroupName_1024"] = "Primary Destroyed Warehouses #004",
+            ["DictKey_UnitName_660"] = "Unit #015",
+            ["DictKey_UnitName_965"] = "Unit #013",
+            ["DictKey_UnitName_1036"] = "Unit #002",
+            ["DictKey_UnitName_1073"] = "Primary Destroyed OCA #002",
+            ["DictKey_UnitName_345"] = "Unit #004",
+            ["DictKey_GroupName_368"] = "New Static Object #003",
+            ["DictKey_UnitName_971"] = "Primary Damaged Warehouses #001",
+            ["DictKey_UnitName_441"] = "ISO container small",
+            ["DictKey_WptName_707"] = "",
+            ["DictKey_UnitName_1130"] = "Ammo #002",
+            ["DictKey_WptName_1032"] = "",
+            ["DictKey_UnitName_681"] = "Primary Destroyed Fuel Dump #002",
+            ["DictKey_UnitName_915"] = "Unit #010",
+            ["DictKey_UnitName_617"] = "Primary Destroyed C2",
+            ["DictKey_WptName_1062"] = "",
+            ["DictKey_UnitName_1045"] = "Unit #017",
+            ["DictKey_WptName_229"] = "",
+            ["DictKey_UnitName_157"] = "Primary Destroyed Outpost #001",
+            ["DictKey_UnitName_79"] = "Unit #010",
+            ["DictKey_UnitName_653"] = "Unit #022",
+            ["DictKey_GroupName_242"] = "Fuel Dump #029",
+            ["DictKey_GroupName_1144"] = "M117 bombs #002",
+            ["DictKey_WptName_397"] = "",
+            ["DictKey_UnitName_74"] = "Primary Destroyed Outpost #001",
+            ["DictKey_GroupName_668"] = "Fuel Dump #021",
+            ["DictKey_WptName_749"] = "",
+            ["DictKey_UnitName_334"] = "Unit #015",
+            ["DictKey_WptName_373"] = "",
+            ["DictKey_WptName_788"] = "",
+            ["DictKey_GroupName_604"] = "New Static Object #013",
+            ["DictKey_UnitName_829"] = "Unit #001",
+            ["DictKey_GroupName_1018"] = "Primary Destroyed Warehouses #002",
+            ["DictKey_WptName_187"] = "",
+            ["DictKey_UnitName_21"] = "Unit #012",
+            ["DictKey_UnitName_99"] = "Primary Destroyed Outpost #003",
+            ["DictKey_WptName_884"] = "",
+            ["DictKey_GroupName_1096"] = "Oiltank #001",
+            ["DictKey_WptName_806"] = "",
+            ["DictKey_GroupName_285"] = "Ammo Dump #069",
+            ["DictKey_UnitName_654"] = "Unit #021",
+            ["DictKey_UnitName_636"] = "Secondary Destroyed Silkworm",
+            ["DictKey_UnitName_1016"] = "Secondary Damaged Warehouses",
+            ["DictKey_WptName_527"] = "",
+            ["DictKey_UnitName_1043"] = "Unit #019",
+            ["DictKey_GroupName_90"] = "New Vehicle Group",
+            ["DictKey_UnitName_405"] = "New Static Object #015",
+            ["DictKey_UnitName_773"] = "Unit #003",
+            ["DictKey_UnitName_342"] = "Unit #007",
+            ["DictKey_GroupName_239"] = "Fuel Dump #028",
+            ["DictKey_WptName_928"] = "",
+            ["DictKey_GroupName_1069"] = "Primary Destroyed OCA #001",
+            ["DictKey_UnitName_1076"] = "M117 bombs #006",
+            ["DictKey_WptName_1137"] = "",
+            ["DictKey_UnitName_170"] = "Primary Destroyed Outpost #002",
+            ["DictKey_UnitName_216"] = "Secondary Destroyed Fuel Dump #001",
+            ["DictKey_UnitName_655"] = "Unit #020",
+            ["DictKey_UnitName_299"] = "Unit #007",
+            ["DictKey_GroupName_738"] = "Secondary Destroyed Fuel Dump #004",
+            ["DictKey_UnitName_784"] = "Primary Destroyed Fuel Dump",
+            ["DictKey_WptName_451"] = "",
+            ["DictKey_UnitName_310"] = "Unit #012",
+            ["DictKey_UnitName_78"] = "Unit #011",
+            ["DictKey_UnitName_105"] = "Unit #012",
+            ["DictKey_UnitName_748"] = "Primary Destroyed Fuel Dump #004",
+            ["DictKey_UnitName_699"] = "Unit #019",
+            ["DictKey_UnitName_116"] = "Primary Destroyed Outpost",
+            ["DictKey_UnitName_964"] = "Unit #014",
+            ["DictKey_WptName_1185"] = "",
+            ["DictKey_WptName_47"] = "",
+            ["DictKey_UnitName_36"] = "Unit #011",
+            ["DictKey_WptName_552"] = "",
+            ["DictKey_WptName_1029"] = "",
+            ["DictKey_UnitName_764"] = "Unit #012",
+            ["DictKey_GroupName_1150"] = "Primary Destroyed OCA",
+            ["DictKey_GroupName_714"] = "Secondary Destroyed Fuel Dump",
+            ["DictKey_UnitName_641"] = "Unit #040",
+            ["DictKey_UnitName_261"] = "Unit #098",
+            ["DictKey_UnitName_701"] = "Unit #017",
+            ["DictKey_UnitName_177"] = "Unit #010",
+            ["DictKey_GroupName_729"] = "Secondary Destroyed Fuel Dump #002",
+            ["DictKey_WptName_418"] = "",
+            ["DictKey_WptName_1065"] = "",
+            ["DictKey_GroupName_416"] = "New Static Object #019",
+            ["DictKey_UnitName_754"] = "Primary Destroyed Fuel Dump #005",
+            ["DictKey_WptName_1068"] = "",
+            ["DictKey_UnitName_11"] = "Unit #020",
+            ["DictKey_UnitName_1148"] = "ISO container small #002",
+            ["DictKey_UnitName_263"] = "Unit #096",
+            ["DictKey_UnitName_194"] = "Unit #007",
+            ["DictKey_UnitName_258"] = "Unit #101",
+            ["DictKey_GroupName_1165"] = "Oiltank #001",
+            ["DictKey_UnitName_919"] = "Unit #006",
+            ["DictKey_UnitName_1172"] = "Oiltank #002",
+            ["DictKey_UnitName_727"] = "Fuel Dump #013",
+            ["DictKey_UnitName_402"] = "New Static Object #014",
+            ["DictKey_WptName_597"] = "",
+            ["DictKey_UnitName_581"] = "New Static Object #003",
+            ["DictKey_WptName_358"] = "",
+            ["DictKey_UnitName_1079"] = "ISO container small #005",
+            ["DictKey_WptName_1167"] = "",
+            ["DictKey_GroupName_900"] = "East Coast Bunker",
+            ["DictKey_UnitName_506"] = "Unit #007",
+            ["DictKey_GroupName_1063"] = "Primary Destroyed Warehouses",
+            ["DictKey_GroupName_401"] = "New Static Object #014",
+            ["DictKey_UnitName_751"] = "Primary Destroyed Fuel Dump #001",
+            ["DictKey_UnitName_765"] = "Unit #011",
+            ["DictKey_UnitName_205"] = "Unit #020",
+            ["DictKey_WptName_349"] = "",
+            ["DictKey_UnitName_133"] = "Unit #012",
+            ["DictKey_WptName_173"] = "",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_UnitName_951"] = "Secondary Damaged Warehouses #004",
+            ["DictKey_WptName_1083"] = "",
+            ["DictKey_UnitName_587"] = "New Static Object #017",
+            ["DictKey_WptName_232"] = "",
+            ["DictKey_UnitName_30"] = "Primary Destroyed Outpost #002",
+            ["DictKey_GroupName_1189"] = "M117 bombs #002",
+            ["DictKey_UnitName_992"] = "Secondary Damaged Warehouses #004",
+            ["DictKey_WptName_842"] = "",
+            ["DictKey_UnitName_492"] = "Barrels",
+            ["DictKey_GroupName_804"] = "Primary Destroyed Fuel Dump #005",
+            ["DictKey_UnitName_29"] = "Primary Destroyed Outpost #003",
+            ["DictKey_GroupName_20"] = "New Vehicle Group",
+            ["DictKey_UnitName_910"] = "Primary Destroyed Bunker",
+            ["DictKey_WptName_943"] = "",
+            ["DictKey_UnitName_83"] = "Unit #006",
+            ["DictKey_UnitName_904"] = "Unit #007",
+            ["DictKey_WptName_866"] = "",
+            ["DictKey_UnitName_8"] = "Unit #023",
+            ["DictKey_UnitName_343"] = "Unit #006",
+            ["DictKey_GroupName_568"] = "New Static Object #008",
+            ["DictKey_WptName_815"] = "",
+            ["DictKey_UnitName_393"] = "New Static Object #011",
+            ["DictKey_UnitName_906"] = "Unit #005",
+            ["DictKey_UnitName_246"] = "Secondary Destroyed Fuel Dump #003",
+            ["DictKey_UnitName_962"] = "Unit #016",
+            ["DictKey_UnitName_65"] = "Unit #010",
+            ["DictKey_UnitName_533"] = "Unit #001",
+            ["DictKey_UnitName_1037"] = "Unit #001",
+            ["DictKey_GroupName_221"] = "Primary Destroyed Fuel Dump",
+            ["DictKey_WptName_887"] = "",
+            ["DictKey_UnitName_54"] = "Unit #007",
+            ["DictKey_UnitName_633"] = "Unit #161",
+            ["DictKey_GroupName_500"] = "New Vehicle Group",
+            ["DictKey_WptName_752"] = "",
+            ["DictKey_UnitName_55"] = "Unit #006",
+            ["DictKey_UnitName_918"] = "Unit #007",
+            ["DictKey_UnitName_10"] = "Unit #021",
+            ["DictKey_GroupName_1108"] = "Primary Destroyed OCA",
+            ["DictKey_GroupName_48"] = "New Vehicle Group",
+            ["DictKey_UnitName_353"] = "Unit #030",
+            ["DictKey_UnitName_504"] = "Unit #009",
+            ["DictKey_UnitName_289"] = "Secondary Damaged Ammo Dump #001",
+            ["DictKey_GroupName_362"] = "New Static Object #001",
+            ["DictKey_UnitName_690"] = "Secondary Destroyed Fuel Dump #001",
+            ["DictKey_UnitName_64"] = "Unit #011",
+            ["DictKey_UnitName_86"] = "Primary Destroyed Outpost #002",
+            ["DictKey_UnitName_945"] = "Secondary Damaged Warehouses #002",
+            ["DictKey_WptName_833"] = "",
+            ["DictKey_WptName_585"] = "",
+            ["DictKey_GroupName_583"] = "New Static Object #010",
+            ["DictKey_GroupName_202"] = "Fuel Dump Defence #001",
+            ["DictKey_UnitName_802"] = "Primary Destroyed Fuel Dump #001",
+            ["DictKey_GroupName_708"] = "Fuel Dump #002",
+            ["DictKey_UnitName_989"] = "Secondary Damaged Warehouses #003",
+            ["DictKey_WptName_382"] = "",
+            ["DictKey_UnitName_790"] = "Primary Destroyed Fuel Dump #004",
+            ["DictKey_UnitName_411"] = "New Static Object #017",
+            ["DictKey_UnitName_127"] = "Primary Destroyed Outpost #003",
+            ["DictKey_UnitName_745"] = "Primary Destroyed Fuel Dump",
+            ["DictKey_UnitName_91"] = "Unit #012",
+            ["DictKey_GroupName_819"] = "Factory Strike Guards #001",
+            ["DictKey_UnitName_356"] = "Unit #027",
+            ["DictKey_UnitName_632"] = "Unit #162",
+            ["DictKey_WptName_493"] = "",
+            ["DictKey_GroupName_741"] = "Secondary Destroyed Fuel Dump #005",
+            ["DictKey_WptName_1202"] = "",
+            ["DictKey_UnitName_139"] = "Unit #006",
+            ["DictKey_GroupName_759"] = "Fuel Dump Defence #002",
+            ["DictKey_UnitName_1041"] = "Unit #021",
+            ["DictKey_UnitName_384"] = "New Static Object #008",
+            ["DictKey_WptName_1143"] = "",
+            ["DictKey_UnitName_1136"] = "ISO container small #001",
+            ["DictKey_WptName_851"] = "",
+            ["DictKey_UnitName_347"] = "Unit #002",
+            ["DictKey_UnitName_432"] = "New Static Object #024",
+            ["DictKey_GroupName_188"] = "New Vehicle Group",
+            ["DictKey_GroupName_1021"] = "Primary Destroyed Warehouses #003",
+            ["DictKey_WptName_860"] = "",
+            ["DictKey_UnitName_243"] = "Fuel Dump #029",
+            ["DictKey_UnitName_7"] = "Unit #024",
+            ["DictKey_GroupName_374"] = "New Static Object #005",
+            ["DictKey_UnitName_696"] = "Unit #022",
+            ["DictKey_UnitName_70"] = "Unit #005",
+            ["DictKey_GroupName_407"] = "New Static Object #016",
+            ["DictKey_GroupName_786"] = "Secondary Destroyed Fuel Dump #003",
+            ["DictKey_WptName_609"] = "",
+            ["DictKey_UnitName_489"] = "Oiltank #001",
+            ["DictKey_GroupName_34"] = "New Vehicle Group",
+            ["DictKey_UnitName_423"] = "Primary Destroyed Depot #001",
+            ["DictKey_UnitName_22"] = "Unit #011",
+            ["DictKey_UnitName_524"] = "Primary Destroyed Outpost #002",
+            ["DictKey_WptName_1179"] = "",
+            ["DictKey_UnitName_144"] = "Primary Destroyed Outpost #001",
+            ["DictKey_UnitName_678"] = "Primary Destroyed Fuel Dump",
+            ["DictKey_WptName_836"] = "",
+            ["DictKey_UnitName_850"] = "Factory Strike #030",
+            ["DictKey_UnitName_77"] = "Unit #012",
+            ["DictKey_WptName_481"] = "",
+            ["DictKey_UnitName_63"] = "Unit #012",
+            ["DictKey_UnitName_1035"] = "Unit #003",
+            ["DictKey_UnitName_1004"] = "Unit #022",
+            ["DictKey_UnitName_880"] = "Secondary Destroyed Factory #001",
+            ["DictKey_UnitName_817"] = "Primary Destroyed Fuel Dump #002",
+            ["DictKey_WptName_731"] = "",
+            ["DictKey_WptName_400"] = "",
+            ["DictKey_WptName_845"] = "",
+            ["DictKey_GroupName_571"] = "New Static Object #016",
+            ["DictKey_UnitName_181"] = "Unit #006",
+            ["DictKey_UnitName_1008"] = "Unit #018",
+            ["DictKey_UnitName_1178"] = "M117 bombs #001",
+            ["DictKey_WptName_987"] = "",
+            ["DictKey_GroupName_855"] = "Factory Strike #032",
+            ["DictKey_UnitName_498"] = "Barrels #002",
+            ["DictKey_UnitName_85"] = "Primary Destroyed Outpost #003",
+            ["DictKey_UnitName_1142"] = "Ammo #001",
+            ["DictKey_WptName_1205"] = "",
+            ["DictKey_UnitName_295"] = "Unit #011",
+            ["DictKey_GroupName_550"] = "New Static Object #006",
+            ["DictKey_UnitName_775"] = "Unit #001",
+            ["DictKey_GroupName_985"] = "Primary Damaged Warehouses #003",
+            ["DictKey_GroupName_843"] = "Factory Strike #028",
+            ["DictKey_UnitName_126"] = "Unit #005",
+            ["DictKey_WptName_1053"] = "",
+            ["DictKey_UnitName_1213"] = "Unit #007",
+            ["DictKey_GroupName_888"] = "Factory Strike #009",
+            ["DictKey_UnitName_1100"] = "Ammo #004",
+            ["DictKey_UnitName_1047"] = "Unit #015",
+            ["DictKey_WptName_1113"] = "",
+            ["DictKey_UnitName_684"] = "Fuel Dump #026",
+            ["DictKey_GroupName_831"] = "Factory Strike #007",
+            ["DictKey_GroupName_1027"] = "Primary Destroyed Warehouses",
+            ["DictKey_UnitName_650"] = "Primary Destroyed Silkworm",
+            ["DictKey_WptName_1176"] = "",
+            ["DictKey_GroupName_982"] = "Secondary Damaged Warehouses #001",
+            ["DictKey_GroupName_1033"] = "Weapons Warehouses #001",
+            ["DictKey_UnitName_149"] = "Unit #010",
+            ["DictKey_GroupName_711"] = "Fuel Dump #003",
+            ["DictKey_WptName_722"] = "",
+            ["DictKey_WptName_573"] = "",
+            ["DictKey_GroupName_858"] = "Factory Strike #033",
+            ["DictKey_WptName_713"] = "",
+            ["DictKey_UnitName_197"] = "Primary Destroyed Outpost #003",
+            ["DictKey_UnitName_1003"] = "Unit #023",
+            ["DictKey_WptName_513"] = "",
+            ["DictKey_UnitName_826"] = "Unit #004",
+            ["DictKey_UnitName_102"] = "Primary Destroyed Outpost",
+            ["DictKey_WptName_275"] = "",
+            ["DictKey_UnitName_1103"] = "Ammo #001",
+            ["DictKey_UnitName_115"] = "Primary Destroyed Outpost #001",
+            ["DictKey_GroupName_1159"] = "M117 bombs #006",
+            ["DictKey_UnitName_108"] = "Unit #009",
+            ["DictKey_UnitName_771"] = "Unit #005",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_UnitName_959"] = "Unit #019",
+            ["DictKey_UnitName_207"] = "Unit #018",
+            ["DictKey_UnitName_596"] = "New Static Object #018",
+            ["DictKey_WptName_287"] = "",
+            ["DictKey_UnitName_112"] = "Unit #005",
+            ["DictKey_UnitName_304"] = "Secondary Destroyed Bunker",
+            ["DictKey_UnitName_311"] = "Unit #011",
+            ["DictKey_GroupName_873"] = "Secondary Destroyed Factory #002",
+            ["DictKey_UnitName_569"] = "New Static Object #008",
+            ["DictKey_UnitName_66"] = "Unit #009",
+            ["DictKey_GroupName_846"] = "Factory Strike #029",
+            ["DictKey_UnitName_1031"] = "Secondary Damaged Warehouses #001",
+            ["DictKey_UnitName_346"] = "Unit #003",
+            ["DictKey_UnitName_508"] = "Unit #005",
+            ["DictKey_UnitName_477"] = "Ammo #006",
+            ["DictKey_UnitName_874"] = "Secondary Destroyed Factory #002",
+            ["DictKey_UnitName_614"] = "New Static Object #014",
+            ["DictKey_UnitName_532"] = "Unit #002",
+            ["DictKey_GroupName_677"] = "Primary Destroyed Fuel Dump",
+            ["DictKey_UnitName_438"] = "ISO container #001",
+            ["DictKey_GroupName_467"] = "Ammo #003",
+            ["DictKey_UnitName_693"] = "Secondary Destroyed Fuel Dump #002",
+            ["DictKey_UnitName_733"] = "Secondary Destroyed Fuel Dump #001",
+            ["DictKey_UnitName_182"] = "Unit #005",
+            ["DictKey_UnitName_265"] = "Unit #094",
+            ["DictKey_GroupName_798"] = "Secondary Destroyed Fuel Dump #002",
+            ["DictKey_UnitName_898"] = "Primary Destroyed Factory #001",
+            ["DictKey_WptName_266"] = "",
+            ["DictKey_WptName_776"] = "",
+            ["DictKey_UnitName_739"] = "Secondary Destroyed Fuel Dump #004",
+            ["DictKey_UnitName_53"] = "Unit #008",
+            ["DictKey_WptName_676"] = "",
+            ["DictKey_UnitName_871"] = "Secondary Destroyed Factory #003",
+            ["DictKey_UnitName_60"] = "Primary Destroyed Outpost #001",
+            ["DictKey_UnitName_179"] = "Unit #008",
+            ["DictKey_UnitName_280"] = "Secondary Damaged Ammo Dump",
+            ["DictKey_UnitName_84"] = "Unit #005",
+            ["DictKey_WptName_220"] = "",
+            ["DictKey_UnitName_231"] = "Primary Destroyed Fuel Dump #003",
+            ["DictKey_GroupName_577"] = "New Static Object #009",
+            ["DictKey_UnitName_59"] = "Primary Destroyed Outpost",
+            ["DictKey_UnitName_626"] = "New Static Object #001",
+            ["DictKey_GroupName_935"] = "New Static Object #003",
+            ["DictKey_GroupName_574"] = "New Static Object #002",
+            ["DictKey_UnitName_408"] = "New Static Object #016",
+            ["DictKey_GroupName_380"] = "New Static Object #007",
+            ["DictKey_WptName_600"] = "",
+            ["DictKey_WptName_582"] = "",
+            ["DictKey_UnitName_453"] = "Fueltank #001",
+            ["DictKey_WptName_949"] = "",
+            ["DictKey_UnitName_143"] = "Primary Destroyed Outpost",
+            ["DictKey_UnitName_518"] = "Unit #009",
+            ["DictKey_GroupName_1132"] = "M117 bombs #001",
+            ["DictKey_GroupName_879"] = "Secondary Destroyed Factory #001",
+            ["DictKey_WptName_1173"] = "",
+            ["DictKey_WptName_406"] = "",
+            ["DictKey_WptName_981"] = "",
+            ["DictKey_UnitName_697"] = "Unit #021",
+            ["DictKey_WptName_1158"] = "",
+            ["DictKey_UnitName_324"] = "Unit #025",
+            ["DictKey_GroupName_1192"] = "ISO container small #002",
+            ["DictKey_GroupName_494"] = "Barrels #001",
+            ["DictKey_GroupName_350"] = "Vehicle Depot AntiAir",
+            ["DictKey_GroupName_689"] = "Secondary Destroyed Fuel Dump #001",
+            ["DictKey_UnitName_916"] = "Unit #009",
+            ["DictKey_UnitName_180"] = "Unit #007",
+            ["DictKey_WptName_627"] = "",
+            ["DictKey_UnitName_45"] = "Primary Destroyed Outpost #001",
+            ["DictKey_UnitName_961"] = "Unit #017",
+            ["DictKey_GroupName_1084"] = "M117 bombs #008",
+            ["DictKey_WptName_543"] = "",
+            ["DictKey_UnitName_357"] = "Unit #026",
+            ["DictKey_GroupName_867"] = "Factory Strike #038",
+            ["DictKey_UnitName_1163"] = "ISO container small #006",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_UnitName_1094"] = "ISO container small #006",
+            ["DictKey_UnitName_730"] = "Secondary Destroyed Fuel Dump #002",
+            ["DictKey_WptName_1182"] = "",
+            ["DictKey_GroupName_750"] = "Primary Destroyed Fuel Dump #001",
+            ["DictKey_WptName_691"] = "",
+            ["DictKey_UnitName_557"] = "New Static Object #005",
+            ["DictKey_WptName_782"] = "",
+            ["DictKey_UnitName_474"] = "Ammo #005",
+            ["DictKey_WptName_755"] = "",
+            ["DictKey_UnitName_1022"] = "Primary Destroyed Warehouses #003",
+            ["DictKey_UnitName_781"] = "Primary Destroyed Fuel Dump #003",
+            ["DictKey_UnitName_1151"] = "Primary Destroyed OCA",
+            ["DictKey_GroupName_6"] = "New Vehicle Group #001",
+            ["DictKey_WptName_1216"] = "",
+            ["DictKey_UnitName_414"] = "New Static Object #018",
+            ["DictKey_GroupName_613"] = "New Static Object #014",
+            ["DictKey_UnitName_1052"] = "Secondary Damaged Warehouses",
+            ["DictKey_UnitName_814"] = "Secondary Destroyed Fuel Dump #001",
+            ["DictKey_UnitName_933"] = "Secondary Damaged Warehouses",
+            ["DictKey_UnitName_757"] = "Primary Destroyed Fuel Dump #002",
+            ["DictKey_WptName_284"] = "",
+            ["DictKey_UnitName_341"] = "Unit #008",
+            ["DictKey_GroupName_236"] = "Fuel Dump #027",
+            ["DictKey_GroupName_652"] = "Fuel Dump Defence #001",
+            ["DictKey_UnitName_644"] = "Unit #040",
+            ["DictKey_UnitName_1048"] = "Unit #014",
+            ["DictKey_UnitName_709"] = "Fuel Dump #002",
+            ["DictKey_GroupName_1209"] = "New Vehicle Group #002",
+            ["DictKey_UnitName_974"] = "Secondary Damaged Warehouses",
+            ["DictKey_UnitName_94"] = "Unit #009",
+            ["DictKey_UnitName_1097"] = "Oiltank #001",
+            ["DictKey_GroupName_988"] = "Secondary Damaged Warehouses #003",
+            ["DictKey_WptName_1107"] = "",
+            ["DictKey_UnitName_712"] = "Fuel Dump #003",
+            ["DictKey_UnitName_512"] = "Primary Destroyed Outpost",
+            ["DictKey_UnitName_337"] = "Unit #012",
+            ["DictKey_GroupName_932"] = "Secondary Damaged Warehouses",
+            ["DictKey_WptName_1198"] = "",
+            ["DictKey_GroupName_245"] = "Secondary Destroyed Fuel Dump #003",
+            ["DictKey_WptName_403"] = "",
+            ["DictKey_UnitName_647"] = "Secondary Destroyed Silkworm #001",
+            ["DictKey_UnitName_529"] = "Unit #005",
+            ["DictKey_GroupName_601"] = "New Static Object #012",
+            ["DictKey_GroupName_1075"] = "M117 bombs #006",
+            ["DictKey_UnitName_390"] = "New Static Object #010",
+            ["DictKey_GroupName_1117"] = "Ammo #004",
+            ["DictKey_UnitName_92"] = "Unit #011",
+            ["DictKey_UnitName_319"] = "Unit #003",
+            ["DictKey_UnitName_770"] = "Unit #006",
+            ["DictKey_UnitName_956"] = "Unit #022",
+            ["DictKey_UnitName_44"] = "Primary Destroyed Outpost #002",
+            ["DictKey_UnitName_525"] = "Primary Destroyed Outpost #001",
+            ["DictKey_UnitName_1010"] = "Unit #016",
+            ["DictKey_UnitName_575"] = "New Static Object #002",
+            ["DictKey_UnitName_191"] = "Unit #010",
+            ["DictKey_WptName_975"] = "",
+            ["DictKey_UnitName_793"] = "Secondary Destroyed Fuel Dump #004",
+            ["DictKey_GroupName_273"] = "Ammo Dump #065",
+            ["DictKey_GroupName_307"] = "Weapons Bunker",
+            ["DictKey_GroupName_726"] = "Fuel Dump #013",
+            ["DictKey_WptName_490"] = "",
+            ["DictKey_UnitName_805"] = "Primary Destroyed Fuel Dump #005",
+            ["DictKey_UnitName_862"] = "Factory Strike #036",
+            ["DictKey_GroupName_813"] = "Secondary Destroyed Fuel Dump #001",
+            ["DictKey_UnitName_195"] = "Unit #006",
+            ["DictKey_GroupName_1087"] = "Primary Destroyed OCA",
+            ["DictKey_WptName_1077"] = "",
+            ["DictKey_UnitName_983"] = "Secondary Damaged Warehouses #001",
+            ["DictKey_GroupName_1153"] = "Primary Destroyed OCA #001",
+            ["DictKey_UnitName_986"] = "Primary Damaged Warehouses #003",
+            ["DictKey_UnitName_100"] = "Primary Destroyed Outpost #002",
+            ["DictKey_GroupName_953"] = "Weapons Warehouses #001",
+            ["DictKey_UnitName_823"] = "Unit #005",
+            ["DictKey_UnitName_605"] = "New Static Object #013",
+            ["DictKey_WptName_893"] = "",
+            ["DictKey_UnitName_767"] = "Unit #009",
+            ["DictKey_GroupName_446"] = "ISO container small #002",
+            ["DictKey_GroupName_861"] = "Factory Strike #036",
+            ["DictKey_WptName_33"] = "",
+            ["DictKey_WptName_667"] = "",
+            ["DictKey_UnitName_25"] = "Unit #008",
+            ["DictKey_UnitName_908"] = "Unit #003",
+            ["DictKey_UnitName_822"] = "Unit #006",
+            ["DictKey_GroupName_1066"] = "Secondary Damaged Warehouses #001",
+            ["DictKey_UnitName_352"] = "Unit #031",
+            ["DictKey_GroupName_628"] = "SILKWORM - Qeshm Airbase",
+            ["DictKey_UnitName_135"] = "Unit #010",
+            ["DictKey_GroupName_425"] = "New Static Object #022",
+            ["DictKey_UnitName_363"] = "New Static Object #001",
+            ["DictKey_GroupName_1114"] = "Oiltank #001",
+            ["DictKey_UnitName_501"] = "Unit #012",
+            ["DictKey_UnitName_769"] = "Unit #007",
+            ["DictKey_WptName_809"] = "",
+            ["DictKey_UnitName_213"] = "Unit #012",
+            ["DictKey_UnitName_736"] = "Secondary Destroyed Fuel Dump #003",
+            ["DictKey_GroupName_288"] = "Secondary Damaged Ammo Dump #001",
+            ["DictKey_GroupName_62"] = "New Vehicle Group",
+            ["DictKey_GroupName_967"] = "Primary Damaged Warehouses",
+            ["DictKey_WptName_555"] = "",
+            ["DictKey_UnitName_399"] = "New Static Object #013",
+            ["DictKey_WptName_460"] = "",
+            ["DictKey_WptName_725"] = "",
+            ["DictKey_GroupName_732"] = "Secondary Destroyed Fuel Dump #001",
+            ["DictKey_WptName_576"] = "",
+            ["DictKey_UnitName_447"] = "ISO container small #002",
+            ["DictKey_UnitName_924"] = "Unit #001",
+            ["DictKey_WptName_990"] = "",
+            ["DictKey_WptName_1095"] = "",
+            ["DictKey_UnitName_1000"] = "Unit #002",
+            ["DictKey_UnitName_523"] = "Primary Destroyed Outpost #003",
+            ["DictKey_WptName_746"] = "",
+            ["DictKey_WptName_376"] = "",
+            ["DictKey_UnitName_669"] = "Fuel Dump #021",
+            ["DictKey_WptName_1161"] = "",
+            ["DictKey_UnitName_1201"] = "Unit #003",
+            ["DictKey_UnitName_768"] = "Unit #008",
+            ["DictKey_UnitName_344"] = "Unit #005",
+            ["DictKey_UnitName_602"] = "New Static Object #012",
+            ["DictKey_GroupName_816"] = "Primary Destroyed Fuel Dump #002",
+            ["DictKey_UnitName_1058"] = "Primary Destroyed Warehouses #003",
+            ["DictKey_UnitName_325"] = "Unit #024",
+            ["DictKey_UnitName_698"] = "Unit #020",
+            ["DictKey_UnitName_17"] = "Primary Destroyed Outpost #002",
+            ["DictKey_UnitName_637"] = "Primary Destroyed Silkworm #001",
+            ["DictKey_GroupName_970"] = "Primary Damaged Warehouses #001",
+            ["DictKey_UnitName_960"] = "Unit #018",
+            ["DictKey_UnitName_661"] = "Unit #014",
+            ["DictKey_GroupName_997"] = "Weapons Warehouses #001",
+            ["DictKey_WptName_673"] = "",
+            ["DictKey_WptName_946"] = "",
+            ["DictKey_UnitName_620"] = "New Static Object #007",
+            ["DictKey_GroupName_365"] = "New Static Object #002",
+            ["DictKey_UnitName_948"] = "Secondary Damaged Warehouses #003",
+            ["DictKey_UnitName_73"] = "Primary Destroyed Outpost",
+            ["DictKey_GroupName_849"] = "Factory Strike #030",
+            ["DictKey_UnitName_922"] = "Unit #003",
+            ["DictKey_GroupName_323"] = "Vehicle Depot Protection",
+            ["DictKey_GroupName_1203"] = "PRIMARY DESTROYED LandRover1",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "%LOCATIONMETHOD% Iranian reconnaissance elements on the UAE mainland at %LOCATION%.\
+\
+Primary Objectives: Destroy any tents or vehicles.\
+\
+Secondary Objectives: N/A.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion.",
+} -- end of staticTemplate
