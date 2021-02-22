@@ -1,0 +1,4 @@
+objtype = "armedrecce"
+intel = 2
+cost = 2
+exclusion = "CN23"

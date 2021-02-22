@@ -46,13 +46,13 @@ region = {
             ["min"] = 1,
             ["max"] = 1,
 				},
-				["fob"] = {
-					["min"] = 2,
-					["max"] = 3,
+		["logistics"] = {
+			["min"] = 3,
+			["max"] = 5,
 				},
-				["shorad"] = {
-					["min"] = 3,
-					["max"] = 4,
-				},
+		["shorad"] = {
+			["min"] = 3,
+			["max"] = 4,
 		},
+	},
 }

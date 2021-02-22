@@ -1,0 +1,1705 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 80,
+                    ["name"] = "CJTF Blue",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [22]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["neutrals"] = 
+        {
+            ["name"] = "neutrals",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 70,
+                    ["name"] = "Algeria",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 83,
+                    ["name"] = "Argentina",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 23,
+                    ["name"] = "Austria",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 65,
+                    ["name"] = "Bahrain",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 64,
+                    ["name"] = "Brazil",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 25,
+                    ["name"] = "Bulgaria",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 63,
+                    ["name"] = "Chile",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 76,
+                    ["name"] = "Cuba",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 29,
+                    ["name"] = "Egypt",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 62,
+                    ["name"] = "Ethiopia",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 30,
+                    ["name"] = "Finland",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 78,
+                    ["name"] = "GDR",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 31,
+                    ["name"] = "Greece",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 61,
+                    ["name"] = "Honduras",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 32,
+                    ["name"] = "Hungary",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 33,
+                    ["name"] = "India",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 60,
+                    ["name"] = "Indonesia",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 69,
+                    ["name"] = "Italian Social Republic",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 36,
+                    ["name"] = "Japan",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 59,
+                    ["name"] = "Jordan",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 71,
+                    ["name"] = "Kuwait",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 79,
+                    ["name"] = "Lebanon",
+                }, -- end of [22]
+                [23] = 
+                {
+                    ["id"] = 58,
+                    ["name"] = "Libya",
+                }, -- end of [23]
+                [24] = 
+                {
+                    ["id"] = 57,
+                    ["name"] = "Malaysia",
+                }, -- end of [24]
+                [25] = 
+                {
+                    ["id"] = 56,
+                    ["name"] = "Mexico",
+                }, -- end of [25]
+                [26] = 
+                {
+                    ["id"] = 55,
+                    ["name"] = "Morocco",
+                }, -- end of [26]
+                [27] = 
+                {
+                    ["id"] = 73,
+                    ["name"] = "Oman",
+                }, -- end of [27]
+                [28] = 
+                {
+                    ["id"] = 39,
+                    ["name"] = "Pakistan",
+                }, -- end of [28]
+                [29] = 
+                {
+                    ["id"] = 54,
+                    ["name"] = "Philippines",
+                }, -- end of [29]
+                [30] = 
+                {
+                    ["id"] = 77,
+                    ["name"] = "Portugal",
+                }, -- end of [30]
+                [31] = 
+                {
+                    ["id"] = 72,
+                    ["name"] = "Qatar",
+                }, -- end of [31]
+                [32] = 
+                {
+                    ["id"] = 41,
+                    ["name"] = "Romania",
+                }, -- end of [32]
+                [33] = 
+                {
+                    ["id"] = 42,
+                    ["name"] = "Saudi Arabia",
+                }, -- end of [33]
+                [34] = 
+                {
+                    ["id"] = 44,
+                    ["name"] = "Slovakia",
+                }, -- end of [34]
+                [35] = 
+                {
+                    ["id"] = 75,
+                    ["name"] = "South Africa",
+                }, -- end of [35]
+                [36] = 
+                {
+                    ["id"] = 53,
+                    ["name"] = "Sudan",
+                }, -- end of [36]
+                [37] = 
+                {
+                    ["id"] = 22,
+                    ["name"] = "Switzerland",
+                }, -- end of [37]
+                [38] = 
+                {
+                    ["id"] = 52,
+                    ["name"] = "Thailand",
+                }, -- end of [38]
+                [39] = 
+                {
+                    ["id"] = 66,
+                    ["name"] = "Third Reich",
+                }, -- end of [39]
+                [40] = 
+                {
+                    ["id"] = 51,
+                    ["name"] = "Tunisia",
+                }, -- end of [40]
+                [41] = 
+                {
+                    ["id"] = 74,
+                    ["name"] = "United Arab Emirates",
+                }, -- end of [41]
+                [42] = 
+                {
+                    ["id"] = 82,
+                    ["name"] = "UN",
+                }, -- end of [42]
+                [43] = 
+                {
+                    ["id"] = 68,
+                    ["name"] = "USSR",
+                }, -- end of [43]
+                [44] = 
+                {
+                    ["id"] = 50,
+                    ["name"] = "Venezuela",
+                }, -- end of [44]
+                [45] = 
+                {
+                    ["id"] = 49,
+                    ["name"] = "Vietnam",
+                }, -- end of [45]
+                [46] = 
+                {
+                    ["id"] = 48,
+                    ["name"] = "Yemen",
+                }, -- end of [46]
+                [47] = 
+                {
+                    ["id"] = 67,
+                    ["name"] = "Yugoslavia",
+                }, -- end of [47]
+            }, -- end of ["country"]
+        }, -- end of ["neutrals"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 81,
+                    ["name"] = "CJTF Red",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 17,
+                    ["name"] = "Insurgents",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 34,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["hiddenOnPlanner"] = true,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["hiddenOnMFD"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 560,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 1614.776317274,
+                                            ["x"] = -44661.27473233,
+                                            ["name"] = "DictKey_WptName_54",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 15,
+                                ["hidden"] = true,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "rapier_fsa_blindfire_radar",
+                                        ["unitId"] = 17,
+                                        ["y"] = 1614.776317274,
+                                        ["x"] = -44661.27473233,
+                                        ["name"] = "DictKey_UnitName_53",
+                                        ["heading"] = 0.013157135472537,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "rapier_fsa_optical_tracker_unit",
+                                        ["unitId"] = 15,
+                                        ["y"] = 1624.977949446,
+                                        ["x"] = -44675.453271958,
+                                        ["name"] = "DictKey_UnitName_52",
+                                        ["heading"] = 3.1590459461097,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "rapier_fsa_launcher",
+                                        ["unitId"] = 16,
+                                        ["y"] = 1615.986680413,
+                                        ["x"] = -44727.498886937,
+                                        ["name"] = "DictKey_UnitName_51",
+                                        ["heading"] = 0.017453292519943,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "rapier_fsa_launcher",
+                                        ["unitId"] = 18,
+                                        ["y"] = 1673.738293047,
+                                        ["x"] = -44711.93707515,
+                                        ["name"] = "DictKey_UnitName_50",
+                                        ["heading"] = 5.7595865315813,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "rapier_fsa_launcher",
+                                        ["unitId"] = 19,
+                                        ["y"] = 1558.407976799,
+                                        ["x"] = -44716.086891626,
+                                        ["name"] = "DictKey_UnitName_49",
+                                        ["heading"] = 0.80285145591739,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                }, -- end of ["units"]
+                                ["y"] = 1614.776317274,
+                                ["x"] = -44661.27473233,
+                                ["name"] = "DictKey_GroupName_48",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["visible"] = false,
+                                ["hiddenOnPlanner"] = true,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["hiddenOnMFD"] = true,
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 578,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 1359.1005559907,
+                                            ["x"] = -44712.815662547,
+                                            ["name"] = "DictKey_WptName_58",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 4,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 16,
+                                ["hidden"] = true,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "SA-18 Igla comm",
+                                        ["unitId"] = 20,
+                                        ["y"] = 1359.1005559907,
+                                        ["x"] = -44712.815662547,
+                                        ["name"] = "DictKey_UnitName_57",
+                                        ["heading"] = 2.3736477827123,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Igla manpad INS",
+                                        ["unitId"] = 21,
+                                        ["y"] = 1361.4915947229,
+                                        ["x"] = -44721.261536609,
+                                        ["name"] = "DictKey_UnitName_56",
+                                        ["heading"] = 2.6878070480713,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                }, -- end of ["units"]
+                                ["y"] = 1359.1005559907,
+                                ["x"] = -44712.815662547,
+                                ["name"] = "DictKey_GroupName_55",
+                                ["start_time"] = 0,
+                            }, -- end of [2]
+                            [3] = 
+                            {
+                                ["visible"] = false,
+                                ["hiddenOnPlanner"] = true,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["hiddenOnMFD"] = true,
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 578,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 2069.562484583,
+                                            ["x"] = -44271.644630415,
+                                            ["name"] = "DictKey_WptName_62",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 4,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 17,
+                                ["hidden"] = true,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "SA-18 Igla comm",
+                                        ["unitId"] = 22,
+                                        ["y"] = 2069.562484583,
+                                        ["x"] = -44271.644630415,
+                                        ["name"] = "DictKey_UnitName_61",
+                                        ["heading"] = 1.7976891295542,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Igla manpad INS",
+                                        ["unitId"] = 23,
+                                        ["y"] = 2081.8521846839,
+                                        ["x"] = -44271.644630415,
+                                        ["name"] = "DictKey_UnitName_60",
+                                        ["heading"] = 2.0420352248334,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                }, -- end of ["units"]
+                                ["y"] = 2069.562484583,
+                                ["x"] = -44271.644630415,
+                                ["name"] = "DictKey_GroupName_59",
+                                ["start_time"] = 0,
+                            }, -- end of [3]
+                            [4] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 1521.0515679795,
+                                                ["x"] = -44456.874329031,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 1487.6082309581,
+                                                ["x"] = -44434.959411949,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 567,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 1516.8178429278,
+                                            ["x"] = -44455.709676822,
+                                            ["name"] = "DictKey_WptName_70",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 4,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 18,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["Variant"] = 4,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["type"] = "Land_Rover_101_FC",
+                                        ["unitId"] = 27,
+                                        ["y"] = 1516.8178429278,
+                                        ["x"] = -44455.709676822,
+                                        ["name"] = "DictKey_UnitName_69",
+                                        ["heading"] = 2.0943951023932,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["Variant"] = 4,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["type"] = "Land_Rover_101_FC",
+                                        ["unitId"] = 25,
+                                        ["y"] = 1520.8178837218,
+                                        ["x"] = -44448.647876408,
+                                        ["name"] = "DictKey_UnitName_68",
+                                        ["heading"] = 2.0071286397935,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["TentedRoof"] = true,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["type"] = "Land_Rover_109_S3",
+                                        ["unitId"] = 26,
+                                        ["y"] = 1526.3124578514,
+                                        ["x"] = -44440.922799193,
+                                        ["name"] = "DictKey_UnitName_67",
+                                        ["heading"] = 2.0594885173533,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "KrAZ6322",
+                                        ["unitId"] = 28,
+                                        ["y"] = 1539.2332814061,
+                                        ["x"] = -44412.482391528,
+                                        ["name"] = "DictKey_UnitName_66",
+                                        ["heading"] = 2.0594885173533,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "KrAZ6322",
+                                        ["unitId"] = 29,
+                                        ["y"] = 1542.5049748967,
+                                        ["x"] = -44407.15575721,
+                                        ["name"] = "DictKey_UnitName_65",
+                                        ["heading"] = 1.9896753472735,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["TentedRoof"] = true,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["type"] = "Land_Rover_109_S3",
+                                        ["unitId"] = 24,
+                                        ["y"] = 1492.1888481484,
+                                        ["x"] = -44422.445931821,
+                                        ["name"] = "DictKey_UnitName_64",
+                                        ["heading"] = 0.61086523819802,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Ural-375 ZU-23 Insurgent",
+                                        ["unitId"] = 30,
+                                        ["y"] = 1352.5068600479,
+                                        ["x"] = -44455.380081776,
+                                        ["name"] = "DictKey_UnitName_71",
+                                        ["heading"] = 3.8571776469075,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [7]
+                                    [8] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Ural-375 ZU-23 Insurgent",
+                                        ["unitId"] = 31,
+                                        ["y"] = 1440.0833816893,
+                                        ["x"] = -44305.94881408,
+                                        ["name"] = "DictKey_UnitName_72",
+                                        ["heading"] = 0.069813170079773,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [8]
+                                    [9] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Ural-375 ZU-23 Insurgent",
+                                        ["unitId"] = 32,
+                                        ["y"] = 1612.0812021274,
+                                        ["x"] = -44474.853364407,
+                                        ["name"] = "DictKey_UnitName_73",
+                                        ["heading"] = 2.0943951023932,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [9]
+                                    [10] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Igla manpad INS",
+                                        ["unitId"] = 34,
+                                        ["y"] = 1466.1360564261,
+                                        ["x"] = -44402.098048691,
+                                        ["name"] = "DictKey_UnitName_75",
+                                        ["heading"] = 2.0943951023932,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [10]
+                                }, -- end of ["units"]
+                                ["y"] = 1516.8178429278,
+                                ["x"] = -44455.709676822,
+                                ["name"] = "DictKey_GroupName_63",
+                                ["start_time"] = 0,
+                            }, -- end of [4]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "Iran",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 35,
+                    ["name"] = "Iraq",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 0,
+                    ["name"] = "Russia",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["name"] = "USAF Aggressors",
+                    ["id"] = 7,
+                    ["static"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["heading"] = 0.45378560551853,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = 1501.0860950511,
+                                            ["speed"] = 0,
+                                            ["x"] = -44444.481090385,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 3,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 3,
+                                        ["y"] = 1501.0860950511,
+                                        ["x"] = -44444.481090385,
+                                        ["name"] = "DictKey_GroupName_12",
+                                        ["heading"] = 0.45378560551853,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 1501.0860950511,
+                                ["x"] = -44444.481090385,
+                                ["name"] = "DictKey_GroupName_12",
+                                ["dead"] = false,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["heading"] = 0.45378560551853,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = 1486.2712172514,
+                                            ["speed"] = 0,
+                                            ["x"] = -44436.604826239,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 4,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 4,
+                                        ["y"] = 1486.2712172514,
+                                        ["x"] = -44436.604826239,
+                                        ["name"] = "DictKey_GroupName_15",
+                                        ["heading"] = 0.45378560551853,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 1486.2712172514,
+                                ["x"] = -44436.604826239,
+                                ["name"] = "DictKey_GroupName_15",
+                                ["dead"] = false,
+                            }, -- end of [2]
+                            [3] = 
+                            {
+                                ["heading"] = 0.45378560551853,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = 1470.518688958,
+                                            ["speed"] = 0,
+                                            ["x"] = -44429.10362229,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 5,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 5,
+                                        ["y"] = 1470.518688958,
+                                        ["x"] = -44429.10362229,
+                                        ["name"] = "DictKey_GroupName_18",
+                                        ["heading"] = 0.45378560551853,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 1470.518688958,
+                                ["x"] = -44429.10362229,
+                                ["name"] = "DictKey_GroupName_18",
+                                ["dead"] = false,
+                            }, -- end of [3]
+                            [4] = 
+                            {
+                                ["heading"] = 0.45378560551853,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = 1455.3287509608,
+                                            ["speed"] = 0,
+                                            ["x"] = -44421.414888242,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 6,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 6,
+                                        ["y"] = 1455.3287509608,
+                                        ["x"] = -44421.414888242,
+                                        ["name"] = "DictKey_GroupName_21",
+                                        ["heading"] = 0.45378560551853,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 1455.3287509608,
+                                ["x"] = -44421.414888242,
+                                ["name"] = "DictKey_GroupName_21",
+                                ["dead"] = false,
+                            }, -- end of [4]
+                            [5] = 
+                            {
+                                ["heading"] = 0.45378560551853,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = 1439.3886925687,
+                                            ["speed"] = 0,
+                                            ["x"] = -44413.538624095,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 7,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 7,
+                                        ["y"] = 1439.3886925687,
+                                        ["x"] = -44413.538624095,
+                                        ["name"] = "DictKey_GroupName_24",
+                                        ["heading"] = 0.45378560551853,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 1439.3886925687,
+                                ["x"] = -44413.538624095,
+                                ["name"] = "DictKey_GroupName_24",
+                                ["dead"] = false,
+                            }, -- end of [5]
+                            [6] = 
+                            {
+                                ["heading"] = 0.45378560551853,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = 1424.9488749665,
+                                            ["speed"] = 0,
+                                            ["x"] = -44406.224950244,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 8,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 8,
+                                        ["y"] = 1424.9488749665,
+                                        ["x"] = -44406.224950244,
+                                        ["name"] = "DictKey_GroupName_27",
+                                        ["heading"] = 0.45378560551853,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 1424.9488749665,
+                                ["x"] = -44406.224950244,
+                                ["name"] = "DictKey_GroupName_27",
+                                ["dead"] = false,
+                            }, -- end of [6]
+                            [7] = 
+                            {
+                                ["heading"] = 0.45378560551853,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = 1521.1518156153,
+                                            ["speed"] = 0,
+                                            ["x"] = -44399.661396789,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 9,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 9,
+                                        ["y"] = 1521.1518156153,
+                                        ["x"] = -44399.661396789,
+                                        ["name"] = "DictKey_GroupName_30",
+                                        ["heading"] = 0.45378560551853,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 1521.1518156153,
+                                ["x"] = -44399.661396789,
+                                ["name"] = "DictKey_GroupName_30",
+                                ["dead"] = false,
+                            }, -- end of [7]
+                            [8] = 
+                            {
+                                ["heading"] = 0.45378560551853,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = 1505.7743475194,
+                                            ["speed"] = 0,
+                                            ["x"] = -44391.972662741,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 10,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 10,
+                                        ["y"] = 1505.7743475194,
+                                        ["x"] = -44391.972662741,
+                                        ["name"] = "DictKey_GroupName_33",
+                                        ["heading"] = 0.45378560551853,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 1505.7743475194,
+                                ["x"] = -44391.972662741,
+                                ["name"] = "DictKey_GroupName_33",
+                                ["dead"] = false,
+                            }, -- end of [8]
+                            [9] = 
+                            {
+                                ["heading"] = 0.45378560551853,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = 1492.084650312,
+                                            ["speed"] = 0,
+                                            ["x"] = -44384.471458792,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 11,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 11,
+                                        ["y"] = 1492.084650312,
+                                        ["x"] = -44384.471458792,
+                                        ["name"] = "DictKey_GroupName_36",
+                                        ["heading"] = 0.45378560551853,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 1492.084650312,
+                                ["x"] = -44384.471458792,
+                                ["name"] = "DictKey_GroupName_36",
+                                ["dead"] = false,
+                            }, -- end of [9]
+                            [10] = 
+                            {
+                                ["heading"] = 0.45378560551853,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = 1446.3273062218,
+                                            ["speed"] = 0,
+                                            ["x"] = -44361.780316845,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 12,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 12,
+                                        ["y"] = 1446.3273062218,
+                                        ["x"] = -44361.780316845,
+                                        ["name"] = "DictKey_GroupName_39",
+                                        ["heading"] = 0.45378560551853,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 1446.3273062218,
+                                ["x"] = -44361.780316845,
+                                ["name"] = "DictKey_GroupName_39",
+                                ["dead"] = false,
+                            }, -- end of [10]
+                            [11] = 
+                            {
+                                ["heading"] = 0.45378560551853,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = 1461.3297141202,
+                                            ["speed"] = 0,
+                                            ["x"] = -44368.5314004,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 13,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 13,
+                                        ["y"] = 1461.3297141202,
+                                        ["x"] = -44368.5314004,
+                                        ["name"] = "DictKey_GroupName_42",
+                                        ["heading"] = 0.45378560551853,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 1461.3297141202,
+                                ["x"] = -44368.5314004,
+                                ["name"] = "DictKey_GroupName_42",
+                                ["dead"] = false,
+                            }, -- end of [11]
+                            [12] = 
+                            {
+                                ["heading"] = 0.45378560551853,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = 1476.7071822161,
+                                            ["speed"] = 0,
+                                            ["x"] = -44376.595194645,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 14,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 14,
+                                        ["y"] = 1476.7071822161,
+                                        ["x"] = -44376.595194645,
+                                        ["name"] = "DictKey_GroupName_45",
+                                        ["heading"] = 0.45378560551853,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 1476.7071822161,
+                                ["x"] = -44376.595194645,
+                                ["name"] = "DictKey_GroupName_45",
+                                ["dead"] = false,
+                            }, -- end of [12]
+                        }, -- end of ["group"]
+                    }, -- end of ["static"]
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["hiddenOnPlanner"] = true,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["hiddenOnMFD"] = true,
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 563,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 1510.4922102708,
+                                            ["x"] = -44342.946152006,
+                                            ["name"] = "DictKey_WptName_8",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1,
+                                ["hidden"] = true,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "ZU-23 Emplacement",
+                                        ["unitId"] = 1,
+                                        ["y"] = 1510.4922102708,
+                                        ["x"] = -44342.946152006,
+                                        ["name"] = "DictKey_UnitName_7",
+                                        ["heading"] = 0.4014257279587,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 1510.4922102708,
+                                ["x"] = -44342.946152006,
+                                ["name"] = "DictKey_GroupName_6",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["visible"] = false,
+                                ["hiddenOnPlanner"] = true,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["hiddenOnMFD"] = true,
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 563,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 1440.1157978001,
+                                            ["x"] = -44467.477463435,
+                                            ["name"] = "DictKey_WptName_11",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 2,
+                                ["hidden"] = true,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "ZU-23 Emplacement",
+                                        ["unitId"] = 2,
+                                        ["y"] = 1440.1157978001,
+                                        ["x"] = -44467.477463435,
+                                        ["name"] = "DictKey_UnitName_10",
+                                        ["heading"] = 3.682644721708,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 1440.1157978001,
+                                ["x"] = -44467.477463435,
+                                ["name"] = "DictKey_GroupName_9",
+                                ["start_time"] = 0,
+                            }, -- end of [2]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                }, -- end of [14]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "DP25ArmedRecceA",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_GroupName_63"] = "PRIMARY DESTROYED Veh",
+            ["DictKey_UnitName_72"] = "PRIMARY DESTROYED Veh-8",
+            ["DictKey_WptName_11"] = "",
+            ["DictKey_UnitName_67"] = "PRIMARY DESTROYED Veh-3",
+            ["DictKey_WptName_58"] = "",
+            ["DictKey_UnitName_19"] = "PRIMARY DESTROYED Tent 9",
+            ["DictKey_UnitName_56"] = "Ground-4-2",
+            ["DictKey_WptName_41"] = "",
+            ["DictKey_UnitName_73"] = "PRIMARY DESTROYED Veh-9",
+            ["DictKey_GroupName_21"] = "PRIMARY DESTROYED Tent 10",
+            ["DictKey_WptName_32"] = "",
+            ["DictKey_UnitName_7"] = "Ground-1-1",
+            ["DictKey_WptName_70"] = "",
+            ["DictKey_GroupName_48"] = "Ground-2",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_UnitName_75"] = "PRIMARY DESTROYED Veh-10",
+            ["DictKey_GroupName_6"] = "Ground-1",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_UnitName_66"] = "PRIMARY DESTROYED Veh-4",
+            ["DictKey_UnitName_71"] = "PRIMARY DESTROYED Veh-7",
+            ["DictKey_UnitName_13"] = "PRIMARY DESTROYED Tent 7",
+            ["DictKey_UnitName_74"] = "",
+            ["DictKey_UnitName_43"] = "PRIMARY DESTROYED Tent 2",
+            ["DictKey_UnitName_61"] = "Ground-5-1",
+            ["DictKey_GroupName_30"] = "PRIMARY DESTROYED Tent 6",
+            ["DictKey_GroupName_24"] = "PRIMARY DESTROYED Tent 11",
+            ["DictKey_WptName_23"] = "",
+            ["DictKey_UnitName_68"] = "PRIMARY DESTROYED Veh-2",
+            ["DictKey_WptName_8"] = "",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_WptName_38"] = "",
+            ["DictKey_GroupName_33"] = "PRIMARY DESTROYED Tent 5",
+            ["DictKey_GroupName_9"] = "Ground-3",
+            ["DictKey_UnitName_57"] = "Ground-4-1",
+            ["DictKey_UnitName_31"] = "PRIMARY DESTROYED Tent 6",
+            ["DictKey_WptName_17"] = "",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_WptName_26"] = "",
+            ["DictKey_UnitName_64"] = "PRIMARY DESTROYED Veh-6",
+            ["DictKey_UnitName_16"] = "PRIMARY DESTROYED Tent 8",
+            ["DictKey_GroupName_55"] = "Ground-4",
+            ["DictKey_WptName_14"] = "",
+            ["DictKey_GroupName_12"] = "PRIMARY DESTROYED Tent 7",
+            ["DictKey_UnitName_34"] = "PRIMARY DESTROYED Tent 5",
+            ["DictKey_WptName_35"] = "",
+            ["DictKey_UnitName_40"] = "PRIMARY DESTROYED Tent 1",
+            ["DictKey_UnitName_25"] = "PRIMARY DESTROYED Tent 11",
+            ["DictKey_WptName_54"] = "",
+            ["DictKey_WptName_44"] = "",
+            ["DictKey_GroupName_18"] = "PRIMARY DESTROYED Tent 9",
+            ["DictKey_WptName_47"] = "",
+            ["DictKey_UnitName_53"] = "Ground-2-1",
+            ["DictKey_WptName_20"] = "",
+            ["DictKey_WptName_29"] = "",
+            ["DictKey_UnitName_46"] = "PRIMARY DESTROYED Tent 3",
+            ["DictKey_GroupName_45"] = "PRIMARY DESTROYED Tent 3",
+            ["DictKey_GroupName_36"] = "PRIMARY DESTROYED Tent 4",
+            ["DictKey_UnitName_52"] = "Ground-2-2",
+            ["DictKey_UnitName_37"] = "PRIMARY DESTROYED Tent 4",
+            ["DictKey_UnitName_60"] = "Ground-5-2",
+            ["DictKey_GroupName_15"] = "PRIMARY DESTROYED Tent 8",
+            ["DictKey_UnitName_49"] = "Ground-2-5",
+            ["DictKey_UnitName_65"] = "PRIMARY DESTROYED Veh-5",
+            ["DictKey_UnitName_10"] = "Ground-3-1",
+            ["DictKey_GroupName_39"] = "PRIMARY DESTROYED Tent 1",
+            ["DictKey_UnitName_28"] = "PRIMARY DESTROYED Tent 12",
+            ["DictKey_GroupName_59"] = "Ground-5",
+            ["DictKey_UnitName_50"] = "Ground-2-4",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_UnitName_51"] = "Ground-2-3",
+            ["DictKey_UnitName_22"] = "PRIMARY DESTROYED Tent 10",
+            ["DictKey_GroupName_42"] = "PRIMARY DESTROYED Tent 2",
+            ["DictKey_WptName_62"] = "",
+            ["DictKey_GroupName_27"] = "PRIMARY DESTROYED Tent 12",
+            ["DictKey_UnitName_69"] = "PRIMARY DESTROYED Veh-1",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "%LOCATIONMETHOD% Iranian infantry bivouac near the UAE / Omani border near Khasab, %LOCATION%. ELINT has indicated that Rapier SAMS may be active near these sites.\
+\
+Primary Objectives: Destroy any tents or vehicles.\
+\
+Secondary Objectives: N/A.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion.",
+} -- end of staticTemplate

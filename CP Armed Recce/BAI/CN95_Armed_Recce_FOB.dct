@@ -1,0 +1,4 @@
+objtype = "logistics"
+intel = 2
+cost = 2
+exclusion = "CN95"

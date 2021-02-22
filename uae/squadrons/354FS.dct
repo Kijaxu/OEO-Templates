@@ -5,4 +5,4 @@ payloadlimits  = {
 		["ag"] = 80,
 		["aa"] = 20,
 	}
-ato = {"OCA", "STRIKE", "ARMEDRECON"}
+ato = {"OCA", "STRIKE", "BAI"}
