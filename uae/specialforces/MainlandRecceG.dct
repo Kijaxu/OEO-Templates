@@ -1,8 +1,3 @@
-metadata = {
-	["rank"]     = 2,
-	["objtype"]  = "specialforces",
-	["exclusion"] = nil,
-	["base"]     = nil,
-	["intel"]	 = 1,
-	["alwaysSpawn"] = false,
-}
+objtype = "armedrecce"
+intel = 2
+cost = 2

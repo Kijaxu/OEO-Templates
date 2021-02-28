@@ -1,8 +1,3 @@
-metadata = {
-	["rank"]     = 2,
-	["objtype"]  = "logistics",
-	["exclusion"] = nil,
-	["base"]     = nil,
-	["intel"]	 = 2,
-	["alwaysSpawn"] = false,
-}
+objtype = "column"
+intel = 2
+cost = 2
