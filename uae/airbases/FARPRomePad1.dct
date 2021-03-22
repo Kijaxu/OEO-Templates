@@ -3,6 +3,7 @@ name = "FARP Rome Pad 1"
 coalition = 2
 subordinates = {
 	"3BN10AR",
+	"FujAirbaseDefence",
 }
 desc = "FARP Rome Pad 1"
 recoverytype = "land"

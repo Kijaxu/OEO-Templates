@@ -1,7 +1,10 @@
 objtype = "airbase"
 name = "FARP London Pad 1"
 coalition = 2
-subordinates = {"2BN4AR"}
+subordinates = {
+	"2BN4AR",
+	"FARPLondonDefence",
+}
 desc = "Farp London Pad 1"
 recoverytype = "land"
 takeofftype = "runway"
