@@ -1,0 +1,11 @@
+objtype = "airbase"
+name = "FARP Rome Pad 1"
+coalition = 2
+subordinates = {
+	"3BN10AR",
+}
+desc = "FARP Rome Pad 1"
+recoverytype = "land"
+takeofftype = "runway"
+cost = 20
+spawnalways = true
