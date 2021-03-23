@@ -1,0 +1,8 @@
+objtype = "armedrecce"
+intel = 1
+cost = 2
+exclusion = "CM89"
+desc   = "An informant has observed multiple vehicles and enemy insurgents\
+ entering a compound in a small town northeast of Al Ain. Destroy any and all\
+ ammo/supplies, and eliminate any vehicles and soldiers within the compound.\
+ Do not fire on anything outside the compound, civilian casualties will not be tolerated."

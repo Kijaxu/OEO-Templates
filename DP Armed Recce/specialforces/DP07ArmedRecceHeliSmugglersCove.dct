@@ -1,0 +1,7 @@
+objtype = "armedrecce"
+intel = 1
+cost = 2
+exclusion = "DP07"
+desc   = "A reliable informant has observed multiple insurgent smuggling boats\
+\ moving goods in and out of a port north of Ras al Khaimah. Destroy any and all\
+\ boats and any ammo/supplies in the area."
