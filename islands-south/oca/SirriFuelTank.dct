@@ -1,0 +1,53 @@
+objtype = "oca"
+intel = 5
+cost = 3
+tpldata = {}
+buildings = {
+	{
+		["name"] = "building 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 111216785,
+	},
+	{
+		["name"] = "building 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 111216782,
+	},
+	{
+		["name"] = "building 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 111216783,
+	},
+	{
+		["name"] = "building 4",
+		["goal"] = "primary destroyed",
+		["id"]   = 111216784,
+	},
+	{
+		["name"] = "building 5",
+		["goal"] = "primary destroyed",
+		["id"]   = 1112167851,
+	},
+	{
+		["name"] = "building 6",
+		["goal"] = "primary destroyed",
+		["id"]   = 111216786,
+	},
+	{
+		["name"] = "building 7",
+		["goal"] = "primary destroyed",
+		["id"]   = 1112167857,
+	},
+	{
+		["name"] = "building 8",
+		["goal"] = "primary destroyed",
+		["id"]   = 111216788,
+	},
+
+}
+desc = "Sirri Island's fuel stores are being used as to enable Iranian aircraft and ships to operate in the area, to combat this you have been tasked with destroying the fuel tanks on the island. \
+\
+Primary Targets: 7 large fuel tanks S of the runway, 1 fuel tank on the E near the jettee. \
+\
+Recommended weapons: Pilot's discretion"
+coalition = 1
