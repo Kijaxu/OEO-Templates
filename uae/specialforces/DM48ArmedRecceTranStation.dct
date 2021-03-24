@@ -1,0 +1,7 @@
+objtype = "armedrecce"
+intel = 2
+cost = 2
+exclusion = "DN14"
+desc   = "%LOCATIONMETHOD% shows insurgent movement south of Hatta.\
+Multiple armed insurgents in small vehicles have been observed using\
+low traffic road south of the city. Destroy all personel and vehicles."
