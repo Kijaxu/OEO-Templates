@@ -1,0 +1,32 @@
+objtype = "oca"
+intel = 5
+cost = 3
+tpldata = {}
+buildings = {
+	{
+		["name"] = "building 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 112558162,
+	},
+	{
+		["name"] = "building 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 112558156,
+	},
+	{
+		["name"] = "building 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 146408141,
+	},
+	{
+		["name"] = "building 4",
+		["goal"] = "primary destroyed",
+		["id"]   = 146408142,
+	},
+}
+desc = "Bandar Lengeh's airfield is being used as a forward air base for Iranian sorties, to limit their capabilities you have been tasked with destroying the flight control infrastructure. \
+\
+Primary Targets: The main terminal with control tower, 2 other control towers and large red and white antenna.\
+\
+Recommended weapons: Pilot discretion"
+coalition = 1
