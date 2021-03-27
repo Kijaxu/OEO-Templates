@@ -1,0 +1,28 @@
+objtype = "oca"
+intel = 5
+cost = 3
+tpldata = {}
+spawnalways = true
+buildings = {
+	{
+		["name"] = "building 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 114787268,
+	},
+	{
+		["name"] = "building 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 153783591,
+	},
+	{
+		["name"] = "building 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 153782991,
+	},
+}
+desc = "Bandar Abbas Intl's airfield is being used by the Irainian Air Force, to limit their capabilities you have been tasked with destroying the aircraft control facilities on site.\
+\
+Primary Targets: Destroy the 3 control towers on site.\
+\
+Recommended weapons: Pilot's discretion"
+coalition = 1		

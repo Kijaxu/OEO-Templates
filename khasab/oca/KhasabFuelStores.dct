@@ -1,0 +1,48 @@
+objtype = "oca"
+intel = 5
+cost = 3
+tpldata = {}
+spawnalways = true
+buildings = {
+	{
+		["name"] = "building 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 111804553,
+	},
+	{
+		["name"] = "building 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 503152825,
+	},
+	{
+		["name"] = "building 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 503152824,
+	},
+	{
+		["name"] = "building 4",
+		["goal"] = "primary destroyed",
+		["id"]   = 503152823,
+	},
+	{
+		["name"] = "building 5",
+		["goal"] = "primary destroyed",
+		["id"]   = 503152822,
+	},
+	{
+		["name"] = "building 6",
+		["goal"] = "primary destroyed",
+		["id"]   = 503152821,
+	},
+	{
+		["name"] = "building 7",
+		["goal"] = "primary destroyed",
+		["id"]   = 503152820,
+	},
+}
+desc = "Khasab's airfield is being used as a forward air base for Iranian sorties, to limit their capabilities you have been tasked with destroying the fuel supplies on site. \
+\
+Primary Targets: 6 small fuel tanks located south of the airfield parking, and 2 large concrete tanks north of the parking.\
+\
+Recommended weapons: Pilot's discretion"
+coalition = 1		

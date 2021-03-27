@@ -1,0 +1,43 @@
+objtype = "oca"
+intel = 5
+cost = 3
+tpldata = {}
+spawnalways = true
+buildings = {
+	{
+		["name"] = "building 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 253363543,
+	},
+	{
+		["name"] = "building 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 253363544,
+	},
+	{
+		["name"] = "building 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 253363545,
+	},
+	{
+		["name"] = "building 4",
+		["goal"] = "primary destroyed",
+		["id"]   = 253330323,
+	},
+	{
+		["name"] = "building 5",
+		["goal"] = "primary destroyed",
+		["id"]   = 253330322,
+	},
+	{
+		["name"] = "building 6",
+		["goal"] = "primary destroyed",
+		["id"]   = 253330321,
+	},
+}
+desc = "Kish's airfield is being used by the Irainian air force, to limit their capabilities you have been tasked with destroying the fuel storage facilities on site.\
+\
+Primary Targets: 3 fuel tanks east of the parking, and 3 near the middle of the parking area.\
+\
+Recommended weapons: Pilot's discretion"
+coalition = 1		

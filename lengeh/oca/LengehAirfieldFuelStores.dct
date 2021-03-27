@@ -1,0 +1,53 @@
+objtype = "oca"
+intel = 5
+cost = 3
+tpldata = {}
+spawnalways = true
+buildings = {
+	{
+		["name"] = "building 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 97202732,
+	},
+	{
+		["name"] = "building 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 97202733,
+	},
+	{
+		["name"] = "building 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 97202734,
+	},
+	{
+		["name"] = "building 4",
+		["goal"] = "primary destroyed",
+		["id"]   = 97202735,
+	},
+	{
+		["name"] = "building 5",
+		["goal"] = "primary destroyed",
+		["id"]   = 97202736,
+	},
+	{
+		["name"] = "building 6",
+		["goal"] = "primary destroyed",
+		["id"]   = 253460573,
+	},
+	{
+		["name"] = "building 7",
+		["goal"] = "primary destroyed",
+		["id"]   = 253460572,
+	},
+	{
+		["name"] = "building 8",
+		["goal"] = "primary destroyed",
+		["id"]   = 253460574,
+	},
+}
+desc = "Lengeh's airfield is being used by the Irainian air force, to limit their capabilities you have been tasked with destroying the fuel storage facilities on site.\
+\
+Primary Targets: 8 fuel tanks either side of the parking ramp.\
+\
+Recommended weapons: Pilot's discretion"
+coalition = 1		

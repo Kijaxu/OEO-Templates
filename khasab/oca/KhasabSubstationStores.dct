@@ -1,0 +1,29 @@
+objtype = "oca"
+intel = 5
+cost = 3
+tpldata = {}
+spawnalways = true
+buildings = {
+	{
+		["name"] = "building 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 251563829,
+	},
+	{
+		["name"] = "building 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 251563830,
+	},
+	{
+		["name"] = "building 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 251563831,
+	},
+
+}
+desc = "Khasab's airfield is being used as a forward air base for Iranian sorties, to limit their capabilities you have been tasked with destroying the substation on site.\
+\
+Primary Targets: 3 substation facilities behind the main hangar.\
+\
+Recommended weapons: Pilot's discretion"
+coalition = 1		
