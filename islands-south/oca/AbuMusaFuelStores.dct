@@ -1,0 +1,33 @@
+objtype = "oca"
+intel = 5
+cost = 3
+tpldata = {}
+spawnalways = true
+buildings = {
+	{
+		["name"] = "building 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 250183985,
+	},
+	{
+		["name"] = "building 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 250183984,
+	},
+	{
+		["name"] = "building 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 250183983,
+	},
+	{
+		["name"] = "building 4",
+		["goal"] = "primary destroyed",
+		["id"]   = 145000293,
+	},
+}
+desc = "Abu Musa's airfield is being used as a forward air base for Iranian sorties, to limit their capabilities you have been tasked with destroying the fuel storage facilities on site.\
+\
+Primary Targets: 3 large silver and blue fuel tanks W of the parking, and one larger concrete tank.\
+\
+Recommended weapons: Pilot's discretion"
+coalition = 1		
