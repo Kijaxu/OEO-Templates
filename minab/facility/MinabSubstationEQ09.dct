@@ -1,0 +1,74 @@
+objtype = "facility"
+intel = 5
+cost = 3
+tpldata = {}
+spawnalways = false
+buildings = {
+	{
+		["name"] = "building 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 261521518,
+	},
+	{
+		["name"] = "building 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 261521517,
+	},
+	{
+		["name"] = "building 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 261521516,
+	},
+	{
+		["name"] = "building 4",
+		["goal"] = "primary destroyed",
+		["id"]   = 261521515,
+	},
+	{
+		["name"] = "building 5",
+		["goal"] = "primary destroyed",
+		["id"]   = 261521514,
+	},
+	{
+		["name"] = "building 6",
+		["goal"] = "primary destroyed",
+		["id"]   = 261521513,
+	},
+	{
+		["name"] = "building 7",
+		["goal"] = "primary destroyed",
+		["id"]   = 261521512,
+	},
+	{
+		["name"] = "building 8",
+		["goal"] = "primary destroyed",
+		["id"]   = 261521511,
+	},
+	{
+		["name"] = "building 9",
+		["goal"] = "primary destroyed",
+		["id"]   = 261521510,
+	},
+	{
+		["name"] = "building 10",
+		["goal"] = "primary destroyed",
+		["id"]   = 261521508,
+	},
+	{
+		["name"] = "building 11",
+		["goal"] = "primary destroyed",
+		["id"]   = 261521509,
+	},
+	{
+		["name"] = "building 12",
+		["goal"] = "primary destroyed",
+		["id"]   = 261521507,
+	},
+}
+desc = "A power disribution site S of Minab has been seen to be redirecting power to accomodate for damage done to other infrastructre targets in the region to the degree of depriving the local population of power.\
+ Due to this it has been designated a military target, and you are being tasked with destroying it's routing ability.\
+\
+Primary Targets: 12 larger power routing units in the substation complex to the S of Minab.\
+\
+Recommended weapons: Pilot's discretion"
+coalition = 1

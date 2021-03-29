@@ -1,0 +1,32 @@
+objtype = "facility"
+intel = 5
+cost = 3
+spawnalways = false
+buildings = {
+	{
+		["name"] = "building 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 114458629,
+	},
+	{
+		["name"] = "building 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 114458630,
+	},
+	{
+		["name"] = "building 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 151260682,
+	},
+	{
+		["name"] = "building 4",
+		["goal"] = "primary destroyed",
+		["id"]   = 151260683,
+	},
+}
+desc = "You are being tasked with effective destruction of an oil refinery W of the city of Minhab, it consists of 4 upright fuel storage tanks and a number of outlying buildings, and lies in the desert W of Minab city.\
+\
+Primary Targets: 4 upright fuel tanks on site.\
+\
+Recommended weapons: Pilot's discretion"
+coalition = 1

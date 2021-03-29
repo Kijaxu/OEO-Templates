@@ -1,0 +1,10 @@
+objtype = "sea"
+intel = 3
+cost = 2
+desc = "%locationmethod% an Iranian cargo ship docked in a small, deep water harbour SW of Minab city, at %location%.\
+It is believed to be unloading munitions and fuel to resupply silkworm missile sites in the area.\
+You are being tasked with the sinking of this ship.\
+\
+Primary Targets: Single large cargo vessel.\
+\
+Recommended weapons: Pilot's discretion"

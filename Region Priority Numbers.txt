@@ -3,6 +3,7 @@ Khasab North 	- 15
 Islands South	- 20
 Islands North	- 20
 Jask		- 30
+Minab		- 35
 Qeshm East	- 40
 Qeshm West	- 40
 Lengeh S300	- 45
