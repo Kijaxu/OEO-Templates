@@ -1,6 +1,7 @@
 objtype = "FACILITY"
 intel = 5
 cost = 4
+name = "HavadaryaELINTSite"
 buildings = {
 	{
 		["name"] = "building 1",
