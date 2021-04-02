@@ -1,6 +1,7 @@
 objtype = "FACILITY"
 intel = 5
 cost = 3
+name = "HavadaryaPowerStationStrike"
 tpldata = {}
 buildings = {
 	{
