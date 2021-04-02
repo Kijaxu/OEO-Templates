@@ -1,0 +1,10 @@
+region = {
+    ["name"] = "jirofts300",
+    ["priority"] = 45,
+    ["limits"] = {
+        ["sam"] = {
+            ["min"] = 1,
+            ["max"] = 2,
+        },
+    },
+}
