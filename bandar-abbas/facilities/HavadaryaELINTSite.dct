@@ -1,0 +1,47 @@
+objtype = "FACILITY"
+intel = 5
+cost = 4
+buildings = {
+	{
+		["name"] = "building 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 261503572,
+	},
+	{
+		["name"] = "building 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 114361055,
+	},
+	{
+		["name"] = "building 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 152114485,
+	},
+	{
+		["name"] = "building 4",
+		["goal"] = "primary destroyed",
+		["id"]   = 152114235,
+	},
+	{
+		["name"] = "building 5",
+		["goal"] = "primary destroyed",
+		["id"]   = 152114124,
+	},
+	{
+		["name"] = "building 6",
+		["goal"] = "primary destroyed",
+		["id"]   = 253360242,
+	},
+	{
+		["name"] = "building 7",
+		["goal"] = "primary destroyed",
+		["id"]   = 253360241,
+	},
+}
+desc = "An Iranian ELINT site located at %location% has been supplying information to the local forces about our movements in the Strait.\
+You are being tasked with the destruction of the intellingence gathering and processing capabilities of this site.\
+\
+Primary Targets: 2 main buildings on site, as well as the 5 antenna.\
+\
+Recommended weapons: A mix of large and small weapons for the buildings and antenna respectively."
+coalition = 1

@@ -1,6 +1,7 @@
 objtype = "facility"
 intel = 5
 cost = 3
+name = "MinabOilFacilityEQ09B"
 spawnalways = false
 buildings = {
 	{
