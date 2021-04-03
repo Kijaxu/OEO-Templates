@@ -48,12 +48,12 @@ buildings = {
 	{
 		["name"] = "building 9",
 		["goal"] = "primary destroyed",
-		["id"]   = 1153783665,
+		["id"]   = 153783665,
 	},
 	{
 		["name"] = "building 10",
 		["goal"] = "primary destroyed",
-		["id"]   = 1153783681,
+		["id"]   = 153783681,
 	},
 }
 desc = "Bandar Abbas Intl's airfield is being used by the Irainian Air Force, to limit their capabilities you have been tasked with destroying the military hangar facilities on site.\
