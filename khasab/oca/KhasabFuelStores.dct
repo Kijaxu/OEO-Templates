@@ -46,4 +46,4 @@ desc = "Khasab's airfield is being used as a forward air base for Iranian sortie
 Primary Targets: 6 small fuel tanks located south of the airfield parking, and 2 large concrete tanks north of the parking.\
 \
 Recommended weapons: Pilot's discretion"
-coalition = 0
+coalition = 1

@@ -51,4 +51,4 @@ desc = "Lengeh's airfield is being used by the Irainian air force, to limit thei
 Primary Targets: 8 fuel tanks either side of the parking ramp.\
 \
 Recommended weapons: Pilot's discretion"
-coalition = 0
+coalition = 1
