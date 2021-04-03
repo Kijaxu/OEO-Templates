@@ -648,7 +648,7 @@ staticTemplate =
             }, -- end of ["country"]
         }, -- end of ["red"]
     }, -- end of ["coalition"]
-    ["name"] = "FujAirbaseLondonDefence",
+    ["name"] = "FujAirbaseDefence",
     ["requiredModules"] = 
     {
     }, -- end of ["requiredModules"]

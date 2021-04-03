@@ -7,12 +7,11 @@ buildings = {
 		["name"] = "building 1",
 		["goal"] = "primary destroyed",
 		["id"]   = 144769024,
-	}
+	},
 }
-desc = "You have been tasked with the elimination of a high value target. Your target is local militia leader Falah Al Amin.\
-His yacht is docked somewhere on the coast east of Ar Rawdah. Eliminate the Yacht and any forces guarding the premises.
+desc = "Local informants have made us aware of the presence of a local milita leaders yacht in the region of %location%.\
+The leader in question is Falah Al Amin, and he is considered a High Value Target and must be eliminted.\
 \
-Primary Targets: Falah Al Amin's yacht and any other personnel.\
+Primary Targets: Falah Al Amins yacht and any other personnel.\
 \
-Recommended weapons: Pilot's discretion"
-coalition = 1
+Recommended Weapons: Pilot discretion."
