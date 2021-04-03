@@ -36,4 +36,4 @@ desc = "Queshm Island's airfield is being used as a staging post for Iranian sor
 Primary Targets: 2 fuel tanks, 2 ammo bunkers, and 1 warehouse south of the runway.\
 \
 Recommended weapons: Pilot's discretion"
-coalition = 1
+coalition = 0

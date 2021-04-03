@@ -2,6 +2,7 @@ objtype = "FACILITY"
 intel = 5
 cost = 4
 name = "HavadaryaELINTSite"
+tpldata = {}
 buildings = {
 	{
 		["name"] = "building 1",
@@ -45,4 +46,4 @@ You are being tasked with the destruction of the intellingence gathering and pro
 Primary Targets: 2 main buildings on site, as well as the 5 antenna.\
 \
 Recommended weapons: A mix of large and small weapons for the buildings and antenna respectively."
-coalition = 1
+coalition = 0
