@@ -1,0 +1,7 @@
+objtype = "armedrecce"
+intel = 2
+cost = 1
+exclusion = "DN07"
+desc   = "Based on insurgent troop movements and vehicle numbers, we predict there\
+is a fuel checkpoint somewhere in grid square DN07. Patrol the area, find and destroy\
+the fuel checkpoint, and any supplies.

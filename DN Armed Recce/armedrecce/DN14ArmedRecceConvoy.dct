@@ -1,0 +1,6 @@
+objtype = "armedrecce"
+intel = 2
+cost = 3
+exclusion = "DN14"
+desc   = "%LOCATIONMETHOD% shows an insurgent convoy active southeast of Hatta.\
+Find and destroy all convoy assetts. Intel suggests AAA may be active in the area."
