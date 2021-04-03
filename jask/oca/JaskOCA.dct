@@ -46,4 +46,4 @@ desc = "Jask's airfield is being used by the Irainian Air Force, to limit their 
 Primary Targets: Destroy the control tower, hangar and 5 fuel tanks on site.\
 \
 Recommended weapons: Pilot's discretion"
-coalition = 0
+coalition = 1

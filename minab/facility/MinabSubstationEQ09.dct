@@ -72,4 +72,4 @@ desc = "A power disribution site S of Minab has been seen to be redirecting powe
 Primary Targets: 12 larger power routing units in the substation complex to the S of Minab.\
 \
 Recommended weapons: Pilot's discretion"
-coalition = 0
+coalition = 1
