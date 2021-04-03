@@ -41,4 +41,4 @@ desc = "Havadarya airfield is an Iranian air base from which IRAF are operating 
 Primary Targets: Control tower, and 5 hangars split between the 3 parking ramps.\
 \
 Recommended weapons: Pilot's discretion"
-coalition = "blue"
+coalition = 0

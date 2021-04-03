@@ -41,4 +41,4 @@ desc = "Kish's airfield is being used by the Irainian air force, to limit their 
 Primary Targets: 3 fuel tanks east of the parking, and 3 near the middle of the parking area.\
 \
 Recommended weapons: Pilot's discretion"
-coalition = 1		
+coalition = 0	

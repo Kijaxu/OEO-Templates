@@ -31,4 +31,4 @@ desc = "Havadarya's airfield is being used by the Irainian Air Force, to limit t
 Primary Targets: 3 control towers and large red and white commuinications tower on site.\
 \
 Recommended weapons: Pilot's discretion"
-coalition = "blue"
+coalition = 0

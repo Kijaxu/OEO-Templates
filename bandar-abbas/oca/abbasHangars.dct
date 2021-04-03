@@ -61,4 +61,4 @@ desc = "Bandar Abbas Intl's airfield is being used by the Irainian Air Force, to
 Primary Targets: 10 hangar buildings on the N end of the airfield.\
 \
 Recommended weapons: Pilot's discretion"
-coalition = "blue"		
+coalition = 0		
