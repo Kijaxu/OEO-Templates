@@ -1,0 +1,83 @@
+objtype = "facility"
+name = "abbasTrainYard"
+intel = 5
+cost = 6
+tpldata = {}
+buildings = {
+	{
+		["name"] = "Bridge 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 80806197,
+	},
+	{
+		["name"] = "Bridge 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 80806198,
+	},
+	{
+		["name"] = "Warehouse 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 114786487,
+	},
+	{
+		["name"] = "Warehouse 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 153649194,
+	},
+	{
+		["name"] = "Warehouse 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 153649197,
+	},
+	{
+		["name"] = "Warehouse 4",
+		["goal"] = "primary destroyed",
+		["id"]   = 153649198,
+	},	
+	{
+		["name"] = "Warehouse 5",
+		["goal"] = "primary destroyed",
+		["id"]   = 153649195,
+	},
+		{
+		["name"] = "Warehouse 6",
+		["goal"] = "primary destroyed",
+		["id"]   = 114786799,
+	},
+		{
+		["name"] = "Warehouse 7",
+		["goal"] = "primary destroyed",
+		["id"]   = 114786800,
+	},
+		{
+		["name"] = "Warehouse 8",
+		["goal"] = "primary destroyed",
+		["id"]   = 114786335,
+	},
+		{
+		["name"] = "Warehouse 9",
+		["goal"] = "primary destroyed",
+		["id"]   = 114786336,
+	},
+		{
+		["name"] = "Warehouse 10",
+		["goal"] = "primary destroyed",
+		["id"]   = 114786681,
+	},
+		{
+		["name"] = "Warehouse 11",
+		["goal"] = "primary destroyed",
+		["id"]   = 153649196,
+	},
+		{
+		["name"] = "Warehouse 12",
+		["goal"] = "primary destroyed",
+		["id"]   = 153649193,
+	},
+}
+desc = "%LOCATIONMETHOD% an Iranian railyard, critical to their logistical supply chain.\
+\
+Primary Targets: Destroy all major warehouses within the railyard, and the bridge between , %LOCATION%.\
+\
+Recommended weapons: Pilot's discretion"
+coalition = 1

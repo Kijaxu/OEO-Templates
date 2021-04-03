@@ -1,0 +1,4 @@
+objtype = "port"
+intel = 4
+cost = 2
+exclusion = "AbbasHarbourShips"
