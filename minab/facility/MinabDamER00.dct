@@ -1,0 +1,49 @@
+objtype = "oca"
+intel = 5
+cost = 3
+name = "MinabDamER00"
+tpldata = {}
+spawnalways = false
+buildings = {
+	{
+		["name"] = "building 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 114491436,
+	},
+	{
+		["name"] = "building 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 114491442,
+	},
+	{
+		["name"] = "building 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 152602866,
+	},
+	{
+		["name"] = "building 4",
+		["goal"] = "primary destroyed",
+		["id"]   = 152602864,
+	},
+	{
+		["name"] = "building 5",
+		["goal"] = "primary destroyed",
+		["id"]   = 152602859,
+	},
+	{
+		["name"] = "building 6",
+		["goal"] = "primary destroyed",
+		["id"]   = 152602861,
+	},
+	{
+		["name"] = "building 7",
+		["goal"] = "primary destroyed",
+		["id"]   = 152602858,
+	},
+}
+desc = "It is believed that a damn in the vicinity of the city of Minab has been supplying power primarily to a weapons development and produciton facility somewhere nearby. To limit the ability of these facilities you are to destroy the power disribution buildings at the dam. \
+\
+Primary Targets: 7 large buildings adjacent to the S of the dam.\
+\
+Recommended weapons: Pilot's discretion"
+coalition = 1

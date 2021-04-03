@@ -2,6 +2,7 @@ objtype = "oca"
 intel = 5
 cost = 3
 tpldata = {}
+name = "abbasHangars"
 spawnalways = true
 buildings = {
 	{
@@ -60,4 +61,4 @@ desc = "Bandar Abbas Intl's airfield is being used by the Irainian Air Force, to
 Primary Targets: 10 hangar buildings on the N end of the airfield.\
 \
 Recommended weapons: Pilot's discretion"
-coalition = 1		
+coalition = "blue"		

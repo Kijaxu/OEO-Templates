@@ -2,6 +2,7 @@ objtype = "oca"
 intel = 5
 cost = 4
 tpldata = {}
+name = "QueshmOCAFuelStores"
 buildings = {
 	{
 		["name"] = "building 1",

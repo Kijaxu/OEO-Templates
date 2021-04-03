@@ -1,6 +1,7 @@
 objtype = "oca"
 intel = 5
 cost = 3
+name = "HavadaryHangars"
 tpldata = {}
 spawnalways = true
 buildings = {
@@ -40,4 +41,4 @@ desc = "Havadarya airfield is an Iranian air base from which IRAF are operating 
 Primary Targets: Control tower, and 5 hangars split between the 3 parking ramps.\
 \
 Recommended weapons: Pilot's discretion"
-coalition = 1		
+coalition = "blue"

@@ -1,6 +1,7 @@
 objtype = "oca"
 intel = 5
 cost = 3
+name = "KishFuelBuildings"
 tpldata = {}
 spawnalways = true
 buildings = {

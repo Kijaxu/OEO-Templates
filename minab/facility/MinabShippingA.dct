@@ -1,0 +1,33 @@
+objtype = "facility"
+intel = 5
+cost = 3
+name = "MinabShippingA"
+spawnalways = false
+buildings = {
+	{
+		["name"] = "building 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 113999872,
+	},
+	{
+		["name"] = "building 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 150110210,
+	},
+	{
+		["name"] = "building 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 150110211,
+	},
+	{
+		["name"] = "building 4",
+		["goal"] = "primary destroyed",
+		["id"]   = 150110212,
+	},
+}
+desc = "%locationmethod% a small cargo facility on the coast W of Minab that is being used by Iranian forces as a clandestine weapon storage and shipping site, you are being tasked with destruction of the warehouse buildings on site.\
+\
+Primary Targets: 4 warehouse buildings.\
+\
+Recommended weapons: Pilot's discretion"
+coalition = 1

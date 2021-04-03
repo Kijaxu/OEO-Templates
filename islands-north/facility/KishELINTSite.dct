@@ -1,0 +1,9 @@
+objtype = "FACILITY"
+intel = 4
+cost = 3
+desc = "There is an Iranian ELINT facility located directly N of the airfield at Kish.\
+It is key to the Iranian surveillance of the region and you are being tasked with destruction of the detection and analysis equipment on site.\
+\
+Primary Targets: 2 large radar arrays and 2 main buildings on site.\
+\
+Recommended weapons: Large bombs, Mk83/84 or guided equivalents"
