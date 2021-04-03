@@ -47,8 +47,8 @@ region = {
             ["max"] = 2,
         },
 		["shorad"] = {
-			["min"] = 3,
-			["max"] = 5,
+			["min"] = 2,
+			["max"] = 4,
         },
 		["facility"] = {
 			["min"]	= 1,
