@@ -1,0 +1,53 @@
+objtype = "port"
+name = "abbasHarbourWarehousesW"
+intel = 5
+cost = 6
+tpldata = {}
+buildings = {
+	{
+		["name"] = "warehouse 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 91194212,
+	},
+	{
+		["name"] = "warehouse 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 91194221,
+	},
+	{
+		["name"] = "warehouse 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 91194248,
+	},
+	{
+		["name"] = "warehouse 4",
+		["goal"] = "primary destroyed",
+		["id"]   = 91194307,
+	},
+	{
+		["name"] = "warehouse 5",
+		["goal"] = "primary destroyed",
+		["id"]   = 91194317,
+	},
+	{
+		["name"] = "warehouse 6",
+		["goal"] = "primary destroyed",
+		["id"]   = 91194329,
+	},
+	{
+		["name"] = "warehouse 7",
+		["goal"] = "primary destroyed",
+		["id"]   = 91194378,
+	},
+	{
+		["name"] = "warehouse 8",
+		["goal"] = "primary destroyed",
+		["id"]   = 91194393,
+	},
+}
+desc = "Bandar Abbas is a major Iranian Naval facility. Neutralising this base is a critical for the campaign to proceed.\
+\
+Primary Targets: Destroy the 8 warehouses in the western area of the harbour, %LOCATION%.\
+\
+Recommended weapons: Pilot's discretion"
+coalition = 1

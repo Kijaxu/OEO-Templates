@@ -3,8 +3,12 @@ region = {
     ["priority"] = 50,
     ["limits"] = {
 		["shorad"] = {
-            ["min"] = 2,
-            ["max"] = 4,
+            ["min"] = 5,
+            ["max"] = 8,
+		},
+		["facility"] = {
+            ["min"] = 1,
+            ["max"] = 3,
 		},
         ["ammodump"] = {
             ["min"] = 1,
@@ -47,8 +51,8 @@ region = {
             ["max"] = 1,
         },
         ["sam"] = {
-            ["min"] = 1,
-            ["max"] = 2,
+            ["min"] = 2,
+            ["max"] = 3,
         },
     },
 }
