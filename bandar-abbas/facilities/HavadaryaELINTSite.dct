@@ -7,7 +7,7 @@ buildings = {
 	{
 		["name"] = "building 1",
 		["goal"] = "primary destroyed",
-		["id"]   = 261503572,
+		["id"]   = 264503572,
 	},
 	{
 		["name"] = "building 2",
@@ -32,12 +32,12 @@ buildings = {
 	{
 		["name"] = "building 6",
 		["goal"] = "primary destroyed",
-		["id"]   = 253360242,
+		["id"]   = 263360242,
 	},
 	{
 		["name"] = "building 7",
 		["goal"] = "primary destroyed",
-		["id"]   = 253360241,
+		["id"]   = 263360241,
 	},
 }
 desc = "An Iranian ELINT site located at %location% has been supplying information to the local forces about our movements in the Strait.\
