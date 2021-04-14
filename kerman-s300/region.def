@@ -1,6 +1,6 @@
 region = {
-    ["name"] = "shiraz east",
-    ["priority"] = 50,
+    ["name"] = "kermans300",
+    ["priority"] = 85,
     ["limits"] = {
         ["ammodump"] = {
             ["min"] = 1,

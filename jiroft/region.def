@@ -1,6 +1,6 @@
 region = {
     ["name"] = "jiroft",
-    ["priority"] = 50,
+    ["priority"] = 65,
     ["limits"] = {
         ["ammodump"] = {
             ["min"] = 1,

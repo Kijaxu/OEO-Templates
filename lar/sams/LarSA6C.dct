@@ -1,5 +1,4 @@
 objtype = "sam"
 intel = 2
 cost = 4
-exclusion = "LarExtraSAM"
 regenerate = true

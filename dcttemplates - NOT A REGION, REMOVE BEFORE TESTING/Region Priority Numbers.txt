@@ -12,12 +12,12 @@ Lengeh		- 50
 Bandar Abbas	- 50
 Lar S300	- 55
 Lar		- 60
-Central South	- 65
-Jiroft S300	- 70
-Jiroft		- 75
-Kerman S300	- 80	
-Kerman		- 85
-Central North	- 90
+Jiroft S300	- 65
+Jiroft		- 70
+Central South	- 75
+Central North	- 80	
+KermanS300	- 85
+Kerman		- 90
 Shiraz South	- 95
 Shiraz S300	- 100
 Shiraz		- 105

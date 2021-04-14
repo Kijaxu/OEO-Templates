@@ -1,6 +1,6 @@
 region = {
     ["name"] = "jirofts300",
-    ["priority"] = 47,
+    ["priority"] = 70,
     ["limits"] = {
         ["sam"] = {
             ["min"] = 1,

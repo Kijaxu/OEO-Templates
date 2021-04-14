@@ -1,6 +1,6 @@
 region = {
-    ["name"] = "lar",
-    ["priority"] = 60,
+    ["name"] = "shiraz-s300",
+    ["priority"] = 95,
     ["limits"] = {
         ["ammodump"] = {
             ["min"] = 1,

@@ -1,6 +1,6 @@
 region = {
     ["name"] = "islands-south",
-    ["priority"] = 15,
+    ["priority"] = 20,
     ["limits"] = {
 		["shorad"] = {
             ["min"] = 1,

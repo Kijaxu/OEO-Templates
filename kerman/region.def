@@ -1,6 +1,6 @@
 region = {
     ["name"] = "kerman",
-    ["priority"] = 50,
+    ["priority"] = 90,
     ["limits"] = {
         ["ammodump"] = {
             ["min"] = 1,

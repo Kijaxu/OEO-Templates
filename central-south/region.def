@@ -1,6 +1,6 @@
 region = {
     ["name"] = "central-south",
-    ["priority"] = 50,
+    ["priority"] = 75,
     ["limits"] = {
         ["ammodump"] = {
             ["min"] = 1,
