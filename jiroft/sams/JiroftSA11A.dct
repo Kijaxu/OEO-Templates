@@ -1,5 +1,5 @@
 objtype = "sam"
 intel = 2
 cost = 4
-exclusion = "JiroftSA11"
+exclusion = "JiroftAddl"
 regenerate = true
