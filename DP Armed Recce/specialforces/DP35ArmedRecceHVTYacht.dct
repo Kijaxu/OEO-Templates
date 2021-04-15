@@ -9,7 +9,7 @@ buildings = {
 		["id"]   = 144769024,
 	},
 }
-desc = "Local informants have made us aware of the presence of a local milita leaders yacht in the region of %location%.\
+desc = "Local informants have made us aware of the presence of a local milita leaders yacht in the region of %LOCATION%.\
 The leader in question is Falah Al Amin, and he is considered a High Value Target and must be eliminted.\
 \
 Primary Targets: Falah Al Amins yacht and any other personnel.\
