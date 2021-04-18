@@ -1,0 +1,1046 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["neutrals"] = 
+        {
+            ["name"] = "neutrals",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 70,
+                    ["name"] = "Algeria",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 83,
+                    ["name"] = "Argentina",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 23,
+                    ["name"] = "Austria",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 65,
+                    ["name"] = "Bahrain",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 64,
+                    ["name"] = "Brazil",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 25,
+                    ["name"] = "Bulgaria",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 63,
+                    ["name"] = "Chile",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 76,
+                    ["name"] = "Cuba",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 29,
+                    ["name"] = "Egypt",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 62,
+                    ["name"] = "Ethiopia",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 30,
+                    ["name"] = "Finland",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 78,
+                    ["name"] = "GDR",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 31,
+                    ["name"] = "Greece",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 61,
+                    ["name"] = "Honduras",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 32,
+                    ["name"] = "Hungary",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 33,
+                    ["name"] = "India",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 60,
+                    ["name"] = "Indonesia",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 69,
+                    ["name"] = "Italian Social Republic",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 36,
+                    ["name"] = "Japan",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 59,
+                    ["name"] = "Jordan",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 71,
+                    ["name"] = "Kuwait",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 79,
+                    ["name"] = "Lebanon",
+                }, -- end of [22]
+                [23] = 
+                {
+                    ["id"] = 58,
+                    ["name"] = "Libya",
+                }, -- end of [23]
+                [24] = 
+                {
+                    ["id"] = 57,
+                    ["name"] = "Malaysia",
+                }, -- end of [24]
+                [25] = 
+                {
+                    ["id"] = 56,
+                    ["name"] = "Mexico",
+                }, -- end of [25]
+                [26] = 
+                {
+                    ["id"] = 55,
+                    ["name"] = "Morocco",
+                }, -- end of [26]
+                [27] = 
+                {
+                    ["id"] = 73,
+                    ["name"] = "Oman",
+                }, -- end of [27]
+                [28] = 
+                {
+                    ["id"] = 39,
+                    ["name"] = "Pakistan",
+                }, -- end of [28]
+                [29] = 
+                {
+                    ["id"] = 54,
+                    ["name"] = "Philippines",
+                }, -- end of [29]
+                [30] = 
+                {
+                    ["id"] = 77,
+                    ["name"] = "Portugal",
+                }, -- end of [30]
+                [31] = 
+                {
+                    ["id"] = 72,
+                    ["name"] = "Qatar",
+                }, -- end of [31]
+                [32] = 
+                {
+                    ["id"] = 41,
+                    ["name"] = "Romania",
+                }, -- end of [32]
+                [33] = 
+                {
+                    ["id"] = 42,
+                    ["name"] = "Saudi Arabia",
+                }, -- end of [33]
+                [34] = 
+                {
+                    ["id"] = 44,
+                    ["name"] = "Slovakia",
+                }, -- end of [34]
+                [35] = 
+                {
+                    ["id"] = 75,
+                    ["name"] = "South Africa",
+                }, -- end of [35]
+                [36] = 
+                {
+                    ["id"] = 53,
+                    ["name"] = "Sudan",
+                }, -- end of [36]
+                [37] = 
+                {
+                    ["id"] = 22,
+                    ["name"] = "Switzerland",
+                }, -- end of [37]
+                [38] = 
+                {
+                    ["id"] = 52,
+                    ["name"] = "Thailand",
+                }, -- end of [38]
+                [39] = 
+                {
+                    ["id"] = 66,
+                    ["name"] = "Third Reich",
+                }, -- end of [39]
+                [40] = 
+                {
+                    ["id"] = 51,
+                    ["name"] = "Tunisia",
+                }, -- end of [40]
+                [41] = 
+                {
+                    ["id"] = 74,
+                    ["name"] = "United Arab Emirates",
+                }, -- end of [41]
+                [42] = 
+                {
+                    ["id"] = 82,
+                    ["name"] = "UN",
+                }, -- end of [42]
+                [43] = 
+                {
+                    ["id"] = 68,
+                    ["name"] = "USSR",
+                }, -- end of [43]
+                [44] = 
+                {
+                    ["id"] = 50,
+                    ["name"] = "Venezuela",
+                }, -- end of [44]
+                [45] = 
+                {
+                    ["id"] = 49,
+                    ["name"] = "Vietnam",
+                }, -- end of [45]
+                [46] = 
+                {
+                    ["id"] = 48,
+                    ["name"] = "Yemen",
+                }, -- end of [46]
+                [47] = 
+                {
+                    ["id"] = 67,
+                    ["name"] = "Yugoslavia",
+                }, -- end of [47]
+                [48] = 
+                {
+                    ["id"] = 84,
+                    ["name"] = "Cyprus",
+                }, -- end of [48]
+                [49] = 
+                {
+                    ["id"] = 85,
+                    ["name"] = "Slovenia",
+                }, -- end of [49]
+            }, -- end of ["country"]
+        }, -- end of ["neutrals"]
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 80,
+                    ["name"] = "CJTF Blue",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [22]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 34,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 1368,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -252362.80526807,
+                                            ["x"] = 309386.11955317,
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "SNR_75V",
+                                        ["unitId"] = 10,
+                                        ["y"] = -252362.80526807,
+                                        ["x"] = 309386.11955317,
+                                        ["name"] = "Primary Destroyed SA2",
+                                        ["heading"] = 3.682644721708,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "p-19 s-125 sr",
+                                        ["unitId"] = 12,
+                                        ["y"] = -252265.09505931,
+                                        ["x"] = 309419.62019618,
+                                        ["name"] = "Primary Destroyed SA2-2",
+                                        ["heading"] = 1.6580627893946,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "SNR_75V",
+                                        ["unitId"] = 1,
+                                        ["y"] = -252144.27634014,
+                                        ["x"] = 309387.06287729,
+                                        ["name"] = "Primary Destroyed SA2-1",
+                                        ["heading"] = 2.7401669256311,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "S_75M_Volhov",
+                                        ["unitId"] = 2,
+                                        ["y"] = -252196.0051307,
+                                        ["x"] = 309352.09676321,
+                                        ["name"] = "Secondary Destroyed SA2-4",
+                                        ["heading"] = 3.9269908169872,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "S_75M_Volhov",
+                                        ["unitId"] = 14,
+                                        ["y"] = -252089.74924528,
+                                        ["x"] = 309352.42943677,
+                                        ["name"] = "Secondary Destroyed SA2-7",
+                                        ["heading"] = 2.4085543677522,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "S_75M_Volhov",
+                                        ["unitId"] = 3,
+                                        ["y"] = -252122.50437056,
+                                        ["x"] = 309340.65471854,
+                                        ["name"] = "Secondary Destroyed SA2-6",
+                                        ["heading"] = 2.8099800957109,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "S_75M_Volhov",
+                                        ["unitId"] = 4,
+                                        ["y"] = -252408.30137543,
+                                        ["x"] = 309354.55510817,
+                                        ["name"] = "Secondary Destroyed SA2",
+                                        ["heading"] = 4.014257279587,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [7]
+                                    [8] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "S_75M_Volhov",
+                                        ["unitId"] = 5,
+                                        ["y"] = -252388.32336781,
+                                        ["x"] = 309336.95072521,
+                                        ["name"] = "Secondary Destroyed SA2-1",
+                                        ["heading"] = 3.8048177693476,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [8]
+                                    [9] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "S_75M_Volhov",
+                                        ["unitId"] = 13,
+                                        ["y"] = -252314.54320103,
+                                        ["x"] = 309349.21445267,
+                                        ["name"] = "Secondary Destroyed SA2-3",
+                                        ["heading"] = 2.3561944901923,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [9]
+                                    [10] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "S_75M_Volhov",
+                                        ["unitId"] = 6,
+                                        ["y"] = -252341.83988471,
+                                        ["x"] = 309335.17050671,
+                                        ["name"] = "Secondary Destroyed SA2-2",
+                                        ["heading"] = 2.3561944901923,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [10]
+                                    [11] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "S_75M_Volhov",
+                                        ["unitId"] = 7,
+                                        ["y"] = -252167.67647144,
+                                        ["x"] = 309341.08289011,
+                                        ["name"] = "Secondary Destroyed SA2-5",
+                                        ["heading"] = 3.5953782591083,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [11]
+                                    [12] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 8,
+                                        ["y"] = -252370.3112748,
+                                        ["x"] = 309402.36422677,
+                                        ["name"] = "Ground-1-8",
+                                        ["heading"] = 4.1713369122664,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [12]
+                                    [13] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 9,
+                                        ["y"] = -252153.38145487,
+                                        ["x"] = 309394.63989664,
+                                        ["name"] = "Ground-1-9",
+                                        ["heading"] = 4.1713369122664,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [13]
+                                }, -- end of ["units"]
+                                ["y"] = -252362.80526807,
+                                ["x"] = 309386.11955317,
+                                ["name"] = "JahromSA2",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "Iran",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 0,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 1370,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -252382.8804161,
+                                            ["x"] = 309496.88377449,
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 3,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "S-60_Type59_Artillery",
+                                        ["unitId"] = 22,
+                                        ["y"] = -252382.8804161,
+                                        ["x"] = 309496.88377449,
+                                        ["name"] = "JahromSA2 - Defence-5",
+                                        ["heading"] = 5.7595865315813,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "S-60_Type59_Artillery",
+                                        ["unitId"] = 21,
+                                        ["y"] = -252253.15068224,
+                                        ["x"] = 309515.46485617,
+                                        ["name"] = "JahromSA2 - Defence-4",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "S-60_Type59_Artillery",
+                                        ["unitId"] = 20,
+                                        ["y"] = -252125.78581331,
+                                        ["x"] = 309504.99188286,
+                                        ["name"] = "JahromSA2 - Defence-3",
+                                        ["heading"] = 0.73303828583762,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "S-60_Type59_Artillery",
+                                        ["unitId"] = 19,
+                                        ["y"] = -252399.09663284,
+                                        ["x"] = 309291.14052469,
+                                        ["name"] = "JahromSA2 - Defence-2",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "S-60_Type59_Artillery",
+                                        ["unitId"] = 18,
+                                        ["y"] = -252255.85338503,
+                                        ["x"] = 309260.73511832,
+                                        ["name"] = "JahromSA2 - Defence-1",
+                                        ["heading"] = 3.2114058236696,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "S-60_Type59_Artillery",
+                                        ["unitId"] = 17,
+                                        ["y"] = -252109.56959658,
+                                        ["x"] = 309277.2891729,
+                                        ["name"] = "JahromSA2-1-1",
+                                        ["heading"] = 2.2689280275926,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [6]
+                                }, -- end of ["units"]
+                                ["y"] = -252382.8804161,
+                                ["x"] = 309496.88377449,
+                                ["name"] = "JahromSA2 - Defence",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = -263273.8313781,
+                                                ["x"] = 262501.04034275,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = -262823.84182204,
+                                                ["x"] = 262573.81313446,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 1366,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -252024.22612627,
+                                            ["x"] = 309316.8190708,
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 5,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "ZU-23 Emplacement",
+                                        ["unitId"] = 31,
+                                        ["y"] = -252024.22612627,
+                                        ["x"] = 309316.8190708,
+                                        ["name"] = "JahromSA2 - Defence-1-2",
+                                        ["heading"] = 2.0769418098733,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "Osa 9A33 ln",
+                                        ["unitId"] = 30,
+                                        ["y"] = -250965.04638189,
+                                        ["x"] = 308586.70040072,
+                                        ["name"] = "JahromSA2 - Defence-1-7",
+                                        ["heading"] = 2.0769418098733,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "ZU-23 Emplacement",
+                                        ["unitId"] = 29,
+                                        ["y"] = -252057.41831195,
+                                        ["x"] = 309455.91960555,
+                                        ["name"] = "JahromSA2 - Defence-1-6",
+                                        ["heading"] = 0.97738438111682,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "ZU-23 Emplacement",
+                                        ["unitId"] = 28,
+                                        ["y"] = -252271.10532743,
+                                        ["x"] = 309331.34677323,
+                                        ["name"] = "JahromSA2 - Defence-1-5",
+                                        ["heading"] = 3.1939525311496,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "ZU-23 Emplacement",
+                                        ["unitId"] = 27,
+                                        ["y"] = -252272.18861252,
+                                        ["x"] = 309472.18090252,
+                                        ["name"] = "JahromSA2 - Defence-1-4",
+                                        ["heading"] = 0.05235987755983,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "ZU-23 Emplacement",
+                                        ["unitId"] = 26,
+                                        ["y"] = -252449.17263157,
+                                        ["x"] = 309301.31132434,
+                                        ["name"] = "JahromSA2 - Defence-1-3",
+                                        ["heading"] = 4.6600291028249,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "High",
+                                        ["type"] = "ZU-23 Emplacement",
+                                        ["unitId"] = 24,
+                                        ["y"] = -252465.39554474,
+                                        ["x"] = 309449.39488442,
+                                        ["name"] = "JahromSA2 - Defence-1-1",
+                                        ["heading"] = 4.6600291028249,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [7]
+                                }, -- end of ["units"]
+                                ["y"] = -252024.22612627,
+                                ["x"] = 309316.8190708,
+                                ["name"] = "JahromSA2 - Defence-1",
+                                ["start_time"] = 0,
+                            }, -- end of [2]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "Russia",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 81,
+                    ["name"] = "CJTF Red",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 17,
+                    ["name"] = "Insurgents",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 35,
+                    ["name"] = "Iraq",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [14]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "FasaSA2",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_descriptionRedTask_2"] = "",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "LOCATIONMETHOD% an SA-2 site at %LOCATION%, in the town of Fasa. We need to clear this corridor so we can begin the assault on Shiraz.\
+\
+Primary Objectives: Destroy the SR-P19 FLAT FACE Search Radar and any FAN SONG Track Radars present at the site.\
+\
+Secondary Objectives: Destroy any and all launchers present.\
+\
+Recommended Pilots: 2+.\
+\
+Recommended Ordnance: Anti-Radiation Missiles e.g. AGM-88C HARM, and Long Range Standoff Weaponry e.g. JSOW/SLAM.",
+} -- end of staticTemplate
