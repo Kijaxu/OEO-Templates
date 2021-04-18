@@ -3,7 +3,7 @@ region = {
     ["priority"] = 5,
 		["airspace"] = false,
     ["limits"] = {
-        ["armedrecce"] = {
+        ["specialforces"] = {
             ["min"] = 0,
             ["max"] = 1,
         },
