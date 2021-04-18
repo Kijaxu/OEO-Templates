@@ -1,0 +1,4 @@
+objtype = "missile"
+intel = 2
+cost = 4
+exclusion = "NajSCUDPark"

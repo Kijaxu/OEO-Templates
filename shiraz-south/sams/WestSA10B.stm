@@ -1,0 +1,968 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 80,
+                    ["name"] = "CJTF Blue",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [22]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["neutrals"] = 
+        {
+            ["name"] = "neutrals",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 70,
+                    ["name"] = "Algeria",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 83,
+                    ["name"] = "Argentina",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 23,
+                    ["name"] = "Austria",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 65,
+                    ["name"] = "Bahrain",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 64,
+                    ["name"] = "Brazil",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 25,
+                    ["name"] = "Bulgaria",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 63,
+                    ["name"] = "Chile",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 76,
+                    ["name"] = "Cuba",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 29,
+                    ["name"] = "Egypt",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 62,
+                    ["name"] = "Ethiopia",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 30,
+                    ["name"] = "Finland",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 78,
+                    ["name"] = "GDR",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 31,
+                    ["name"] = "Greece",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 61,
+                    ["name"] = "Honduras",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 32,
+                    ["name"] = "Hungary",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 33,
+                    ["name"] = "India",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 60,
+                    ["name"] = "Indonesia",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 69,
+                    ["name"] = "Italian Social Republic",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 36,
+                    ["name"] = "Japan",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 59,
+                    ["name"] = "Jordan",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 71,
+                    ["name"] = "Kuwait",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 79,
+                    ["name"] = "Lebanon",
+                }, -- end of [22]
+                [23] = 
+                {
+                    ["id"] = 58,
+                    ["name"] = "Libya",
+                }, -- end of [23]
+                [24] = 
+                {
+                    ["id"] = 57,
+                    ["name"] = "Malaysia",
+                }, -- end of [24]
+                [25] = 
+                {
+                    ["id"] = 56,
+                    ["name"] = "Mexico",
+                }, -- end of [25]
+                [26] = 
+                {
+                    ["id"] = 55,
+                    ["name"] = "Morocco",
+                }, -- end of [26]
+                [27] = 
+                {
+                    ["id"] = 73,
+                    ["name"] = "Oman",
+                }, -- end of [27]
+                [28] = 
+                {
+                    ["id"] = 39,
+                    ["name"] = "Pakistan",
+                }, -- end of [28]
+                [29] = 
+                {
+                    ["id"] = 54,
+                    ["name"] = "Philippines",
+                }, -- end of [29]
+                [30] = 
+                {
+                    ["id"] = 77,
+                    ["name"] = "Portugal",
+                }, -- end of [30]
+                [31] = 
+                {
+                    ["id"] = 72,
+                    ["name"] = "Qatar",
+                }, -- end of [31]
+                [32] = 
+                {
+                    ["id"] = 41,
+                    ["name"] = "Romania",
+                }, -- end of [32]
+                [33] = 
+                {
+                    ["id"] = 42,
+                    ["name"] = "Saudi Arabia",
+                }, -- end of [33]
+                [34] = 
+                {
+                    ["id"] = 44,
+                    ["name"] = "Slovakia",
+                }, -- end of [34]
+                [35] = 
+                {
+                    ["id"] = 75,
+                    ["name"] = "South Africa",
+                }, -- end of [35]
+                [36] = 
+                {
+                    ["id"] = 53,
+                    ["name"] = "Sudan",
+                }, -- end of [36]
+                [37] = 
+                {
+                    ["id"] = 22,
+                    ["name"] = "Switzerland",
+                }, -- end of [37]
+                [38] = 
+                {
+                    ["id"] = 52,
+                    ["name"] = "Thailand",
+                }, -- end of [38]
+                [39] = 
+                {
+                    ["id"] = 66,
+                    ["name"] = "Third Reich",
+                }, -- end of [39]
+                [40] = 
+                {
+                    ["id"] = 51,
+                    ["name"] = "Tunisia",
+                }, -- end of [40]
+                [41] = 
+                {
+                    ["id"] = 74,
+                    ["name"] = "United Arab Emirates",
+                }, -- end of [41]
+                [42] = 
+                {
+                    ["id"] = 82,
+                    ["name"] = "UN",
+                }, -- end of [42]
+                [43] = 
+                {
+                    ["id"] = 68,
+                    ["name"] = "USSR",
+                }, -- end of [43]
+                [44] = 
+                {
+                    ["id"] = 50,
+                    ["name"] = "Venezuela",
+                }, -- end of [44]
+                [45] = 
+                {
+                    ["id"] = 49,
+                    ["name"] = "Vietnam",
+                }, -- end of [45]
+                [46] = 
+                {
+                    ["id"] = 48,
+                    ["name"] = "Yemen",
+                }, -- end of [46]
+                [47] = 
+                {
+                    ["id"] = 67,
+                    ["name"] = "Yugoslavia",
+                }, -- end of [47]
+                [48] = 
+                {
+                    ["id"] = 84,
+                    ["name"] = "Cyprus",
+                }, -- end of [48]
+                [49] = 
+                {
+                    ["id"] = 85,
+                    ["name"] = "Slovenia",
+                }, -- end of [49]
+            }, -- end of ["country"]
+        }, -- end of ["neutrals"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 81,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 2,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -515771.93739538,
+                                            ["x"] = 320490.494212,
+                                            ["name"] = "",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 2,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["livery_id"] = "desert",
+                                        ["skill"] = "High",
+                                        ["type"] = "S-300PS 40B6M tr",
+                                        ["unitId"] = 3,
+                                        ["y"] = -515771.93739538,
+                                        ["x"] = 320490.494212,
+                                        ["name"] = "Primary Destroyed SA10",
+                                        ["heading"] = 0.66322511575785,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["livery_id"] = "desert",
+                                        ["skill"] = "High",
+                                        ["type"] = "S-300PS 40B6MD sr",
+                                        ["unitId"] = 4,
+                                        ["y"] = -515422.84257087,
+                                        ["x"] = 320509.63519299,
+                                        ["name"] = "Primary Destroyed SA10-2",
+                                        ["heading"] = 5.4454272662223,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["livery_id"] = "desert",
+                                        ["skill"] = "High",
+                                        ["type"] = "S-300PS 54K6 cp",
+                                        ["unitId"] = 10,
+                                        ["y"] = -515596.22265648,
+                                        ["x"] = 320523.43387989,
+                                        ["name"] = "Primary Destroyed SA10-3",
+                                        ["heading"] = 1.4486232791553,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["livery_id"] = "desert",
+                                        ["skill"] = "High",
+                                        ["type"] = "S-300PS 64H6E sr",
+                                        ["unitId"] = 5,
+                                        ["y"] = -515598.45107348,
+                                        ["x"] = 320578.41488192,
+                                        ["name"] = "Primary Destroyed SA10-1",
+                                        ["heading"] = 1.535889741755,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["livery_id"] = "desert",
+                                        ["skill"] = "High",
+                                        ["type"] = "S-300PS 5P85C ln",
+                                        ["unitId"] = 8,
+                                        ["y"] = -515331.23704041,
+                                        ["x"] = 320414.99846939,
+                                        ["name"] = "Secondary Destroyed SA10-5",
+                                        ["heading"] = 5.532693728822,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["livery_id"] = "desert",
+                                        ["skill"] = "High",
+                                        ["type"] = "S-300PS 5P85D ln",
+                                        ["unitId"] = 11,
+                                        ["y"] = -515382.55576993,
+                                        ["x"] = 320396.61185978,
+                                        ["name"] = "Secondary Destroyed SA10-4",
+                                        ["heading"] = 5.846852994181,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["livery_id"] = "desert",
+                                        ["skill"] = "High",
+                                        ["type"] = "S-300PS 5P85D ln",
+                                        ["unitId"] = 2,
+                                        ["y"] = -515439.29433285,
+                                        ["x"] = 320391.19097797,
+                                        ["name"] = "Secondary Destroyed SA10-3",
+                                        ["heading"] = 0.087266462599716,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [7]
+                                    [8] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["livery_id"] = "desert",
+                                        ["skill"] = "High",
+                                        ["type"] = "S-300PS 5P85C ln",
+                                        ["unitId"] = 6,
+                                        ["y"] = -515797.5457586,
+                                        ["x"] = 320369.72039931,
+                                        ["name"] = "Secondary Destroyed SA10-1",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [8]
+                                    [9] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["livery_id"] = "desert",
+                                        ["skill"] = "High",
+                                        ["type"] = "S-300PS 5P85D ln",
+                                        ["unitId"] = 7,
+                                        ["y"] = -515744.54285076,
+                                        ["x"] = 320369.72039931,
+                                        ["name"] = "Secondary Destroyed SA10-2",
+                                        ["heading"] = 6.1086523819802,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [9]
+                                    [10] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["livery_id"] = "desert",
+                                        ["skill"] = "High",
+                                        ["type"] = "S-300PS 5P85D ln",
+                                        ["unitId"] = 9,
+                                        ["y"] = -515848.30886592,
+                                        ["x"] = 320371.96145245,
+                                        ["name"] = "Secondary Destroyed SA10",
+                                        ["heading"] = 0.17453292519943,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [10]
+                                    [11] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["livery_id"] = "desert",
+                                        ["skill"] = "High",
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 13,
+                                        ["y"] = -515400.220653,
+                                        ["x"] = 320444.34645193,
+                                        ["name"] = "Standard Desert SA10-11",
+                                        ["heading"] = 4.7123889803847,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [11]
+                                    [12] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["livery_id"] = "desert",
+                                        ["skill"] = "High",
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 12,
+                                        ["y"] = -515798.14510638,
+                                        ["x"] = 320401.72567706,
+                                        ["name"] = "Standard Desert SA10-12",
+                                        ["heading"] = 4.7123889803847,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [12]
+                                }, -- end of ["units"]
+                                ["y"] = -515771.93739538,
+                                ["x"] = 320490.494212,
+                                ["name"] = "Chogadak SA10A",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = -65145.230166525,
+                                                ["x"] = 368931.4215267,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = -64528.12946942,
+                                                ["x"] = 368957.95687253,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 2,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -517004.00122621,
+                                            ["x"] = 319822.81867384,
+                                            ["name"] = "",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 3,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["livery_id"] = "desert",
+                                        ["skill"] = "High",
+                                        ["type"] = "Tor 9A331",
+                                        ["unitId"] = 15,
+                                        ["y"] = -517004.00122621,
+                                        ["x"] = 319822.81867384,
+                                        ["name"] = "Standard Desert SA10-1-1",
+                                        ["heading"] = 1.5278227741248,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["livery_id"] = "desert",
+                                        ["skill"] = "High",
+                                        ["type"] = "Tor 9A331",
+                                        ["unitId"] = 16,
+                                        ["y"] = -514365.08858634,
+                                        ["x"] = 320275.93579552,
+                                        ["name"] = "Standard Desert SA10-1-2",
+                                        ["heading"] = 1.5278227741248,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["livery_id"] = "desert",
+                                        ["skill"] = "High",
+                                        ["type"] = "ZSU-23-4 Shilka",
+                                        ["unitId"] = 22,
+                                        ["y"] = -514415.38683323,
+                                        ["x"] = 319807.14484494,
+                                        ["name"] = "Standard Desert SA10-1-3",
+                                        ["heading"] = 1.5278227741248,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["livery_id"] = "desert",
+                                        ["skill"] = "High",
+                                        ["type"] = "ZSU-23-4 Shilka",
+                                        ["unitId"] = 17,
+                                        ["y"] = -515609.03193284,
+                                        ["x"] = 319724.93202096,
+                                        ["name"] = "Standard Desert SA10-1-4",
+                                        ["heading"] = 1.5278227741248,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["livery_id"] = "desert",
+                                        ["skill"] = "High",
+                                        ["type"] = "ZSU-23-4 Shilka",
+                                        ["unitId"] = 20,
+                                        ["y"] = -516356.16238362,
+                                        ["x"] = 320669.61322035,
+                                        ["name"] = "Standard Desert SA10-1-5",
+                                        ["heading"] = 1.5278227741248,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["livery_id"] = "desert",
+                                        ["skill"] = "High",
+                                        ["type"] = "ZSU-23-4 Shilka",
+                                        ["unitId"] = 23,
+                                        ["y"] = -514975.54154287,
+                                        ["x"] = 321224.77170064,
+                                        ["name"] = "Standard Desert SA10-1-6",
+                                        ["heading"] = 1.5278227741248,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["livery_id"] = "desert",
+                                        ["skill"] = "High",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["Branches"] = false,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["type"] = "ZSU_57_2",
+                                        ["unitId"] = 14,
+                                        ["y"] = -515863.58355988,
+                                        ["x"] = 320624.56875615,
+                                        ["name"] = "Standard Desert SA10-1-7",
+                                        ["heading"] = 1.5278227741248,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [7]
+                                    [8] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["livery_id"] = "desert",
+                                        ["skill"] = "High",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["Branches"] = false,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["type"] = "ZSU_57_2",
+                                        ["unitId"] = 18,
+                                        ["y"] = -515407.33143293,
+                                        ["x"] = 320628.24820878,
+                                        ["name"] = "Standard Desert SA10-1-8",
+                                        ["heading"] = 1.5278227741248,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [8]
+                                    [9] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["livery_id"] = "desert",
+                                        ["skill"] = "High",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["Branches"] = false,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["type"] = "ZSU_57_2",
+                                        ["unitId"] = 19,
+                                        ["y"] = -515867.26301252,
+                                        ["x"] = 320219.82896612,
+                                        ["name"] = "Standard Desert SA10-1-9",
+                                        ["heading"] = 1.5278227741248,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [9]
+                                    [10] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["livery_id"] = "desert",
+                                        ["skill"] = "High",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["Branches"] = false,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["type"] = "ZSU_57_2",
+                                        ["unitId"] = 21,
+                                        ["y"] = -515341.28525811,
+                                        ["x"] = 320233.81088613,
+                                        ["name"] = "Standard Desert SA10-1-10",
+                                        ["heading"] = 1.5278227741248,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [10]
+                                }, -- end of ["units"]
+                                ["y"] = -517004.00122621,
+                                ["x"] = 319822.81867384,
+                                ["name"] = "Standard Desert SA10-1",
+                                ["start_time"] = 0,
+                            }, -- end of [2]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "CJTF Red",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 17,
+                    ["name"] = "Insurgents",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 34,
+                    ["name"] = "Iran",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 35,
+                    ["name"] = "Iraq",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 0,
+                    ["name"] = "Russia",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [14]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "ChogSA10B",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_descriptionRedTask_2"] = "",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "LOCATIONMETHOD% an SA-10 site at %LOCATION% defending the Western Coast. This route northbound needs to be opened up.\
+\
+Primary Objectives: Destroy the SA-10 Radars and Control Center at the site.\
+\
+Secondary Objectives: Destroy any and all launchers present.\
+\
+Recommended Pilots: 4+.\
+\
+Recommended Ordnance: Anti-Radiation Missiles e.g. AGM-88C HARM, and Long Range Standoff Weaponry e.g. JSOW/SLAM.",
+} -- end of staticTemplate
