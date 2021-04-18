@@ -1,4 +1,4 @@
-objtype = "armedrecce"
+objtype = "specialforces"
 intel = 2
 cost = 1
 exclusion = "DN07"
