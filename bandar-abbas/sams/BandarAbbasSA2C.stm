@@ -1408,5 +1408,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% an active SA-2 GUIDELINE SAM site near Havadarya Air Base, %LOCATION%.\
+\
+Primary Objectives: Destroy any Search or Tracking Radars present.\
+\
+Secondary Objectives: Destroy any related equipment, including launchers.\
+\
+Recommended Pilots: 2-4\
+\
+Recommended Ordnance: Anti-Radiation Missiles, precision guided long range weapons (I.E. JSOW, AGM-65).",
 } -- end of staticTemplate
