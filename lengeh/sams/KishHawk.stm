@@ -1457,7 +1457,7 @@ staticTemplate =
     ["theatre"] = "PersianGulf",
     ["desc"] = "%LOCATIONMETHOD% an active HAWK SAM site at %LOCATION%, on Kish Island.\
 \
-Primary Objectives: Destroy the AN/MPQ-46 Fire Control RADAR and command post.\
+Primary Objectives: Destroy any AN/MPQ-46 Fire Control RADARs, AN/MPQ-55 CWARs, and Command Posts at the site.\
 \
 Secondary Objectives: Destroy any other related equipment, including launchers.\
 \
