@@ -11,7 +11,20 @@ subordinates = {
 	"DrakenINTL",
 	"3SQN",
 	"1DLMW",
+	"93AAB",
 }
+
+players = {
+	"93AAB - Dodge 1-1",
+	"93AAB - Dodge 1-2",
+	"93AAB - Dodge 1-3",
+	"93AAB - Dodge 1-4",
+	"93AAB - Dodge 2-1",
+	"93AAB - Dodge 2-2",
+	"93AAB - Dodge 2-3",
+	"93AAB - Dodge 2-4",
+}	
+
 desc = "Al Minhad Airbase"
 recoverytype = "land"
 takeofftype = "runway"
