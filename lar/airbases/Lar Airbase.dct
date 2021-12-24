@@ -1,7 +1,7 @@
 objtype = "airbase"
 name = "Lar"
 coalition = 1
-subordinates = {"LarAirbaseDefenses"}
+subordinates = {}
 desc = "Lar Airbase"
 recoverytype = "land"
 takeofftype = "runway"
