@@ -1,6 +1,0 @@
-objtype = "specialforces"
-intel = 1
-cost = 2
-exclusion = "CN32"
-desc = "A local informant has provided intel on a potential HVT meeting in an\
-industrial park Southwest of Fiqa. Destroy any vehicles and eliminate any HVT's in the area."

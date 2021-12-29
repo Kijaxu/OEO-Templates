@@ -1,7 +1,0 @@
-objtype = "specialforces"
-intel = 2
-cost = 2
-exclusion = "DN08"
-desc   = "%LOCATIONMETHOD% shows an insurgent convoy likely carrying\
-special forces has stopped in a small town south of Al Dhaid. Eliminate\
-the convoy, including all vehicles and personnel."

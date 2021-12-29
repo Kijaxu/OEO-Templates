@@ -1,6 +1,0 @@
-objtype = "specialforces"
-intel = 2
-cost = 2
-exclusion = "DN60"
-desc   = "A local informant has reported evidence of a ship unloading small armored vehicles\
-and supplies to the port in Sohar. Eliminate all vehicles and supplies."

@@ -1,7 +1,0 @@
-objtype = "logistics"
-intel = 1
-cost = 3
-exclusion = "DP46"
-desc   = "%LOCATIONMETHOD% shows an Iranian cargo ship moving goods and armor across\
- the straight. We presume there is a hidden enemy port used to recieve these goods at\
- %LOCATION%. Find and destroy any ships, boats, supplies, and/or armor in the AO."
