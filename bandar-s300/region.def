@@ -4,7 +4,7 @@ region = {
     ["limits"] = {
         ["sam"] = {
             ["min"] = 1,
-            ["max"] = 1,
+            ["max"] = 2,
         },
     },
 }

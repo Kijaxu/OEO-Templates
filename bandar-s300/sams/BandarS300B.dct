@@ -2,3 +2,4 @@ objtype = "sam"
 intel = 2
 cost = 4
 regenerate = true
+exclusion = "BandarS300"
