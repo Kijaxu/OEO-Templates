@@ -1,0 +1,54 @@
+region = {
+    ["name"] = "islands",
+    ["priority"] = 20,
+    ["limits"] = {
+		["shorad"] = {
+            ["min"] = 2,
+            ["max"] = 3,
+		},
+        ["ammodump"] = {
+            ["min"] = 0,
+            ["max"] = 1,
+        },
+        ["bunker"] = {
+            ["min"] = 0,
+            ["max"] = 0,
+        },
+        ["checkpoint"] = {
+            ["min"] = 2,
+            ["max"] = 3,
+        },
+        ["c2"] = {
+            ["min"] = 0,
+            ["max"] = 0,
+        },
+        ["ewr"] = {
+            ["min"] = 1,
+            ["max"] = 1,
+        },
+        ["factory"] = {
+            ["min"] = 0,
+            ["max"] = 0,
+        },
+        ["fueldump"] = {
+            ["min"] = 0,
+            ["max"] = 1,
+        },
+        ["missile"] = {
+            ["min"] = 0,
+            ["max"] = 0,
+        },
+        ["oca"] = {
+            ["min"] = 0,
+            ["max"] = 0,
+        },
+        ["port"] = {
+            ["min"] = 0,
+            ["max"] = 1,
+        },
+        ["sam"] = {
+            ["min"] = 1,
+            ["max"] = 1,
+        },
+    },
+}

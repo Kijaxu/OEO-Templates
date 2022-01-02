@@ -1,9 +1,0 @@
-objtype = "airbase"
-name = "Fujairah Airbase"
-coalition = 2
-subordinates = {
-}
-desc = "Fujairah Airbase"
-recoverytype = "land"
-takeofftype = "runway"
-cost = 20

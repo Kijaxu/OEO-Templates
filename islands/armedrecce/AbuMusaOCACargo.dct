@@ -1,0 +1,5 @@
+objtype = "specialforces"
+intel = 4
+cost = 2
+priority = 8
+exclusion = "AbuMusaAirbaseOCA"

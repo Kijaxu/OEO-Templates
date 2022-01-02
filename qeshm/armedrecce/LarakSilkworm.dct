@@ -1,0 +1,5 @@
+objtype = "specialforces"
+intel = 2
+cost = 4
+priority = 17
+exclusion = "DQ36"

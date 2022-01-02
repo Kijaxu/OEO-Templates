@@ -1,0 +1,4 @@
+objtype = "facility"
+intel = 4
+cost = 3
+spawnalways = false

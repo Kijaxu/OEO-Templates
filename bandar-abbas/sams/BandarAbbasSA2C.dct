@@ -1,5 +1,6 @@
 objtype = "sam"
 intel = 2
 cost = 4
-exclusion = "Havadarya"
+exclusion = "BandarSmallerSAM"
 regenerate = true
+priority = 3

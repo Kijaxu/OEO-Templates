@@ -1,0 +1,4 @@
+objtype = "c2"
+intel = 3
+cost = 100000000
+priority = 1000

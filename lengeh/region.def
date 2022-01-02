@@ -1,6 +1,6 @@
 region = {
     ["name"] = "lengeh",
-    ["priority"] = 50,
+    ["priority"] = 60,
     ["limits"] = {
         ["ammodump"] = {
             ["min"] = 0,
@@ -11,8 +11,8 @@ region = {
             ["max"] = 1,
         },
         ["checkpoint"] = {
-            ["min"] = 1,
-            ["max"] = 1,
+            ["min"] = 0,
+            ["max"] = 2,
         },
         ["c2"] = {
             ["min"] = 1,
@@ -24,7 +24,7 @@ region = {
         },
         ["factory"] = {
             ["min"] = 1,
-            ["max"] = 1,
+            ["max"] = 2,
         },
         ["fueldump"] = {
             ["min"] = 0,
@@ -43,12 +43,12 @@ region = {
             ["max"] = 1,
         },
         ["sam"] = {
-            ["min"] = 1,
-            ["max"] = 2,
+            ["min"] = 2,
+            ["max"] = 3,
 		},
 		["shorad"] = {
-			["min"] = 3,
-			["max"] = 5,
+			["min"] = 4,
+			["max"] = 6,
         },
     },
 }

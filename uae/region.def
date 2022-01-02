@@ -1,6 +1,6 @@
 region = {
     ["name"] = "uae",
-    ["priority"] = 5,
+    ["priority"] = 10,
 		["airspace"] = false,
     ["limits"] = {
         ["specialforces"] = {

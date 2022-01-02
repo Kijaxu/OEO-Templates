@@ -1,0 +1,674 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [21]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["neutrals"] = 
+        {
+            ["name"] = "neutrals",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 70,
+                    ["name"] = "Algeria",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 23,
+                    ["name"] = "Austria",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 65,
+                    ["name"] = "Bahrain",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 64,
+                    ["name"] = "Brazil",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 25,
+                    ["name"] = "Bulgaria",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 63,
+                    ["name"] = "Chile",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 76,
+                    ["name"] = "Cuba",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 29,
+                    ["name"] = "Egypt",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 62,
+                    ["name"] = "Ethiopia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 30,
+                    ["name"] = "Finland",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 31,
+                    ["name"] = "Greece",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 61,
+                    ["name"] = "Honduras",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 32,
+                    ["name"] = "Hungary",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 33,
+                    ["name"] = "India",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 60,
+                    ["name"] = "Indonesia",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 17,
+                    ["name"] = "Insurgents",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 35,
+                    ["name"] = "Iraq",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 69,
+                    ["name"] = "Italian Social Republic",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 36,
+                    ["name"] = "Japan",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 59,
+                    ["name"] = "Jordan",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 71,
+                    ["name"] = "Kuwait",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 58,
+                    ["name"] = "Libya",
+                }, -- end of [22]
+                [23] = 
+                {
+                    ["id"] = 57,
+                    ["name"] = "Malaysia",
+                }, -- end of [23]
+                [24] = 
+                {
+                    ["id"] = 56,
+                    ["name"] = "Mexico",
+                }, -- end of [24]
+                [25] = 
+                {
+                    ["id"] = 55,
+                    ["name"] = "Morocco",
+                }, -- end of [25]
+                [26] = 
+                {
+                    ["id"] = 73,
+                    ["name"] = "Oman",
+                }, -- end of [26]
+                [27] = 
+                {
+                    ["id"] = 39,
+                    ["name"] = "Pakistan",
+                }, -- end of [27]
+                [28] = 
+                {
+                    ["id"] = 54,
+                    ["name"] = "Philippines",
+                }, -- end of [28]
+                [29] = 
+                {
+                    ["id"] = 72,
+                    ["name"] = "Qatar",
+                }, -- end of [29]
+                [30] = 
+                {
+                    ["id"] = 41,
+                    ["name"] = "Romania",
+                }, -- end of [30]
+                [31] = 
+                {
+                    ["id"] = 42,
+                    ["name"] = "Saudi Arabia",
+                }, -- end of [31]
+                [32] = 
+                {
+                    ["id"] = 44,
+                    ["name"] = "Slovakia",
+                }, -- end of [32]
+                [33] = 
+                {
+                    ["id"] = 75,
+                    ["name"] = "South Africa",
+                }, -- end of [33]
+                [34] = 
+                {
+                    ["id"] = 53,
+                    ["name"] = "Sudan",
+                }, -- end of [34]
+                [35] = 
+                {
+                    ["id"] = 22,
+                    ["name"] = "Switzerland",
+                }, -- end of [35]
+                [36] = 
+                {
+                    ["id"] = 52,
+                    ["name"] = "Thailand",
+                }, -- end of [36]
+                [37] = 
+                {
+                    ["id"] = 66,
+                    ["name"] = "Third Reich",
+                }, -- end of [37]
+                [38] = 
+                {
+                    ["id"] = 51,
+                    ["name"] = "Tunisia",
+                }, -- end of [38]
+                [39] = 
+                {
+                    ["id"] = 74,
+                    ["name"] = "United Arab Emirates",
+                }, -- end of [39]
+                [40] = 
+                {
+                    ["id"] = 68,
+                    ["name"] = "USSR",
+                }, -- end of [40]
+                [41] = 
+                {
+                    ["id"] = 50,
+                    ["name"] = "Venezuela",
+                }, -- end of [41]
+                [42] = 
+                {
+                    ["id"] = 49,
+                    ["name"] = "Vietnam",
+                }, -- end of [42]
+                [43] = 
+                {
+                    ["id"] = 48,
+                    ["name"] = "Yemen",
+                }, -- end of [43]
+                [44] = 
+                {
+                    ["id"] = 67,
+                    ["name"] = "Yugoslavia",
+                }, -- end of [44]
+            }, -- end of ["country"]
+        }, -- end of ["neutrals"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 0,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["hiddenOnPlanner"] = true,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["hiddenOnMFD"] = true,
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 1488,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -349948.88811749,
+                                            ["x"] = 382953.29106099,
+                                            ["name"] = "DictKey_WptName_167",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 319,
+                                ["hidden"] = true,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Excellent",
+                                        ["type"] = "Osa 9A33 ln",
+                                        ["unitId"] = 400,
+                                        ["y"] = -349948.88811749,
+                                        ["x"] = 382953.29106099,
+                                        ["name"] = "DictKey_UnitName_166",
+                                        ["heading"] = 2.3911010752322,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -349948.88811749,
+                                ["x"] = 382953.29106099,
+                                ["name"] = "DictKey_GroupName_165",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "Russia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 34,
+                    ["name"] = "Iran",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [11]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "Shiraz SHORAD M",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_GroupName_138"] = "Shiraz SA8 S",
+            ["DictKey_UnitName_72"] = "New Static Object #015",
+            ["DictKey_UnitName_52"] = "Unit #003",
+            ["DictKey_GroupName_15"] = "New Static Object #003",
+            ["DictKey_GroupName_96"] = "New Static Object #012",
+            ["DictKey_WptName_113"] = "",
+            ["DictKey_GroupName_56"] = "New Static Object #002",
+            ["DictKey_GroupName_132"] = "Shiraz SA8 C",
+            ["DictKey_GroupName_65"] = "New Static Object #016",
+            ["DictKey_WptName_41"] = "",
+            ["DictKey_GroupName_77"] = "Secondary Destroyed C2",
+            ["DictKey_GroupName_21"] = "New Static Object #005",
+            ["DictKey_WptName_161"] = "",
+            ["DictKey_UnitName_7"] = "",
+            ["DictKey_WptName_70"] = "",
+            ["DictKey_GroupName_102"] = "New Static Object #016",
+            ["DictKey_UnitName_145"] = "Unit #012",
+            ["DictKey_UnitName_25"] = "",
+            ["DictKey_UnitName_121"] = "Unit #005",
+            ["DictKey_UnitName_115"] = "Unit #003",
+            ["DictKey_GroupName_153"] = "Shiraz SA8 P",
+            ["DictKey_UnitName_90"] = "Unit #001",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_WptName_137"] = "",
+            ["DictKey_WptName_134"] = "",
+            ["DictKey_GroupName_6"] = "New Static Object",
+            ["DictKey_UnitName_163"] = "Unit #018",
+            ["DictKey_UnitName_157"] = "Unit #016",
+            ["DictKey_GroupName_129"] = "Shiraz SA8 B",
+            ["DictKey_UnitName_69"] = "New Static Object #005",
+            ["DictKey_UnitName_130"] = "Unit #008",
+            ["DictKey_UnitName_43"] = "New Static Object #002",
+            ["DictKey_GroupName_30"] = "New Static Object #008",
+            ["DictKey_WptName_91"] = "",
+            ["DictKey_WptName_125"] = "",
+            ["DictKey_WptName_8"] = "",
+            ["DictKey_GroupName_86"] = "New Static Object #014",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_WptName_38"] = "",
+            ["DictKey_GroupName_33"] = "New Static Object #009",
+            ["DictKey_UnitName_57"] = "New Static Object #002",
+            ["DictKey_UnitName_31"] = "",
+            ["DictKey_WptName_176"] = "",
+            ["DictKey_WptName_17"] = "",
+            ["DictKey_WptName_104"] = "",
+            ["DictKey_UnitName_103"] = "New Static Object #012",
+            ["DictKey_GroupName_120"] = "Shiraz SA8 L",
+            ["DictKey_WptName_14"] = "",
+            ["DictKey_GroupName_12"] = "New Static Object #002",
+            ["DictKey_UnitName_78"] = "Secondary Destroyed C2",
+            ["DictKey_GroupName_165"] = "Shiraz SA8 M",
+            ["DictKey_GroupName_18"] = "New Static Object #004",
+            ["DictKey_WptName_47"] = "",
+            ["DictKey_UnitName_175"] = "Unit #022",
+            ["DictKey_UnitName_133"] = "Unit #009",
+            ["DictKey_UnitName_151"] = "Unit #014",
+            ["DictKey_UnitName_46"] = "Pilot #001",
+            ["DictKey_WptName_92"] = "",
+            ["DictKey_GroupName_36"] = "New Static Object #010",
+            ["DictKey_WptName_140"] = "",
+            ["DictKey_UnitName_40"] = "New Static Object #002",
+            ["DictKey_UnitName_81"] = "New Static Object #008",
+            ["DictKey_UnitName_95"] = "Unit #003",
+            ["DictKey_UnitName_127"] = "Unit #007",
+            ["DictKey_WptName_167"] = "",
+            ["DictKey_UnitName_50"] = "Unit #005",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_UnitName_84"] = "New Static Object #006",
+            ["DictKey_GroupName_89"] = "C2 Defence",
+            ["DictKey_GroupName_27"] = "New Static Object #007",
+            ["DictKey_UnitName_22"] = "New Static Object #001",
+            ["DictKey_GroupName_83"] = "New Static Object #013",
+            ["DictKey_GroupName_42"] = "New Static Object #012",
+            ["DictKey_WptName_67"] = "",
+            ["DictKey_WptName_122"] = "",
+            ["DictKey_UnitName_19"] = "New Static Object #001",
+            ["DictKey_GroupName_49"] = "C2 Defence",
+            ["DictKey_GroupName_68"] = "New Static Object #005",
+            ["DictKey_GroupName_111"] = "Shiraz SA8 E",
+            ["DictKey_UnitName_94"] = "Unit #002",
+            ["DictKey_WptName_32"] = "",
+            ["DictKey_WptName_110"] = "",
+            ["DictKey_UnitName_106"] = "New Static Object #012",
+            ["DictKey_GroupName_105"] = "New Static Object #017",
+            ["DictKey_GroupName_71"] = "New Static Object #015",
+            ["DictKey_UnitName_148"] = "Unit #013",
+            ["DictKey_WptName_179"] = "",
+            ["DictKey_UnitName_154"] = "Unit #015",
+            ["DictKey_WptName_55"] = "",
+            ["DictKey_WptName_11"] = "",
+            ["DictKey_GroupName_62"] = "New Static Object #006",
+            ["DictKey_WptName_128"] = "",
+            ["DictKey_UnitName_60"] = "New Static Object #017",
+            ["DictKey_UnitName_97"] = "New Static Object #011",
+            ["DictKey_WptName_98"] = "",
+            ["DictKey_WptName_64"] = "",
+            ["DictKey_GroupName_45"] = "New Airplane Group",
+            ["DictKey_UnitName_51"] = "Unit #004",
+            ["DictKey_UnitName_75"] = "Primary Destroyed C2",
+            ["DictKey_UnitName_54"] = "Unit #001",
+            ["DictKey_GroupName_147"] = "Shiraz SA8 I",
+            ["DictKey_WptName_158"] = "",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_GroupName_59"] = "New Static Object #017",
+            ["DictKey_GroupName_114"] = "Shiraz SA8 W",
+            ["DictKey_UnitName_178"] = "Unit #023",
+            ["DictKey_WptName_79"] = "",
+            ["DictKey_UnitName_13"] = "New Static Object #001",
+            ["DictKey_UnitName_166"] = "Unit #019",
+            ["DictKey_WptName_149"] = "",
+            ["DictKey_GroupName_126"] = "Shiraz SA8 A",
+            ["DictKey_UnitName_100"] = "New Static Object #011",
+            ["DictKey_WptName_35"] = "",
+            ["DictKey_UnitName_63"] = "New Static Object #006",
+            ["DictKey_WptName_48"] = "",
+            ["DictKey_UnitName_124"] = "Unit #006",
+            ["DictKey_WptName_143"] = "",
+            ["DictKey_GroupName_171"] = "Shiraz SA8 K",
+            ["DictKey_WptName_76"] = "",
+            ["DictKey_UnitName_34"] = "New Static Object #008",
+            ["DictKey_UnitName_160"] = "Unit #017",
+            ["DictKey_UnitName_37"] = "New Static Object #008",
+            ["DictKey_GroupName_74"] = "Primary Destroyed C2",
+            ["DictKey_UnitName_87"] = "New Static Object #013",
+            ["DictKey_GroupName_141"] = "Shiraz SA8 U",
+            ["DictKey_WptName_23"] = "",
+            ["DictKey_WptName_146"] = "",
+            ["DictKey_UnitName_112"] = "Unit #002",
+            ["DictKey_WptName_82"] = "",
+            ["DictKey_UnitName_10"] = "",
+            ["DictKey_GroupName_144"] = "Shiraz SA8 N",
+            ["DictKey_WptName_107"] = "",
+            ["DictKey_WptName_88"] = "",
+            ["DictKey_GroupName_9"] = "New Static Object #001",
+            ["DictKey_GroupName_108"] = "Shiraz SA8 F",
+            ["DictKey_UnitName_139"] = "Unit #011",
+            ["DictKey_GroupName_135"] = "C2 Defence #003",
+            ["DictKey_WptName_73"] = "",
+            ["DictKey_WptName_58"] = "",
+            ["DictKey_GroupName_39"] = "New Static Object #011",
+            ["DictKey_GroupName_80"] = "New Static Object #008",
+            ["DictKey_WptName_26"] = "",
+            ["DictKey_GroupName_123"] = "Shiraz SA8 D",
+            ["DictKey_UnitName_16"] = "New Static Object #001",
+            ["DictKey_WptName_131"] = "",
+            ["DictKey_UnitName_53"] = "Unit #002",
+            ["DictKey_WptName_116"] = "",
+            ["DictKey_WptName_152"] = "",
+            ["DictKey_UnitName_28"] = "New Static Object #002",
+            ["DictKey_WptName_119"] = "",
+            ["DictKey_UnitName_142"] = "Unit #010",
+            ["DictKey_GroupName_99"] = "New Static Object #015",
+            ["DictKey_WptName_101"] = "",
+            ["DictKey_WptName_20"] = "",
+            ["DictKey_GroupName_150"] = "Shiraz SA8 O",
+            ["DictKey_WptName_85"] = "",
+            ["DictKey_WptName_155"] = "",
+            ["DictKey_WptName_29"] = "",
+            ["DictKey_UnitName_136"] = "Unit #004",
+            ["DictKey_WptName_93"] = "",
+            ["DictKey_UnitName_169"] = "Unit #020",
+            ["DictKey_WptName_170"] = "",
+            ["DictKey_GroupName_168"] = "Shiraz SA8 J",
+            ["DictKey_GroupName_177"] = "Shiraz SA8 H",
+            ["DictKey_GroupName_156"] = "Shiraz SA8 Q",
+            ["DictKey_GroupName_117"] = "Shiraz SA8 T",
+            ["DictKey_GroupName_24"] = "New Static Object #006",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_UnitName_109"] = "Unit #001",
+            ["DictKey_UnitName_66"] = "New Static Object #016",
+            ["DictKey_GroupName_159"] = "Shiraz SA8 V",
+            ["DictKey_WptName_44"] = "",
+            ["DictKey_GroupName_162"] = "Shiraz SA8 R",
+            ["DictKey_WptName_61"] = "",
+            ["DictKey_UnitName_172"] = "Unit #021",
+            ["DictKey_WptName_173"] = "",
+            ["DictKey_GroupName_174"] = "Shiraz SA8 G",
+            ["DictKey_WptName_164"] = "",
+            ["DictKey_UnitName_118"] = "Unit #004",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "",
+} -- end of staticTemplate

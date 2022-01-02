@@ -1,0 +1,4 @@
+objtype  = "checkpoint"
+intel = 3
+cost = 2
+priority = 14

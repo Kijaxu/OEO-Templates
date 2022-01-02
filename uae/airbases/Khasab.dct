@@ -1,0 +1,20 @@
+objtype = "airbase"
+name = "Khasab"
+coalition = 2
+subordinates = {"2BN4AR", "1CHR"}
+
+players = {
+	"2BN4AR - Pontiac 3-1",
+	"2BN4AR - Pontiac 3-2",
+	"2BN4AR - Pontiac 3-3",
+	"2BN4AR - Pontiac 3-4",
+	"1CHR - Pontiac 1-1",
+	"1CHR - Pontiac 1-2",
+	"1CHR - Pontiac 1-3",
+	"1CHR - Pontiac 1-4",
+}	
+
+desc = "Khasab Airbase"
+recoverytype = "land"
+takeofftype = "runway"
+cost = 20

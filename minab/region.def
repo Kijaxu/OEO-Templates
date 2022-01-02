@@ -1,6 +1,6 @@
 region = {
     ["name"] = "minab",
-    ["priority"] = 35,
+    ["priority"] = 50,
     ["limits"] = {
         ["ammodump"] = {
             ["min"] = 0,
@@ -44,7 +44,7 @@ region = {
         },
         ["sam"] = {
             ["min"] = 1,
-            ["max"] = 2,
+            ["max"] = 1,
         },
 		["shorad"] = {
 			["min"] = 2,
