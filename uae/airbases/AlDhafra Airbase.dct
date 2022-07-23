@@ -14,9 +14,11 @@ subordinates = {
 	"14SQN",
 	"493FS",
 	"77FS",
+	"7FS",
 	"191FILO",
 	"101SQN",
 	"831TAB",
+	"EC3/12",
 }
 desc = "Al Dhafra Airbase"
 recoverytype = "land"
