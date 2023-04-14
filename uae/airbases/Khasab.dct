@@ -1,7 +1,7 @@
 objtype = "airbase"
 name = "Khasab"
 coalition = 2
-subordinates = {"2BN4AR", "1CHR"}
+subordinates = {"2BN4AR", "1CHR", "656SQN", "2BN101AR"}
 
 players = {
 	"2BN4AR - Pontiac 3-1",
@@ -12,7 +12,13 @@ players = {
 	"1CHR - Pontiac 1-2",
 	"1CHR - Pontiac 1-3",
 	"1CHR - Pontiac 1-4",
-}	
+	"656SQN - Saber 1",
+	"656SQN - Saber 2",
+	"2BN101AR - Chaos 1",
+	"2BN101AR - Chaos 2",
+	"2BN101AR - Chaos 3",
+	"2BN101AR - Chaos 4",
+}
 
 desc = "Khasab Airbase"
 recoverytype = "land"
